@@ -4,6 +4,9 @@ on:
   push:
     branches: ["main"]
   workflow_dispatch:
+  schedule:
+    # twice daily
+    - cron: "23 4,9 * * *"
 permissions:
   contents: read
   pages: write
