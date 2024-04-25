@@ -34,3 +34,6 @@ block_words:
 block_domains:
   - medium.com
   - substack.com
+  - twitter.com
+  - youtube.com
+  - youtu.be
