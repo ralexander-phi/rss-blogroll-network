@@ -29,6 +29,8 @@ max_posts: 250
 block_words:
   - cryptocurrency
   - bitcoin
+  - tesla
 
 block_domains:
   - medium.com
+  - substack.com

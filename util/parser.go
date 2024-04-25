@@ -47,7 +47,7 @@ func mergeFeeds(feed *gofeed.Feed, rss *rss.Feed) []MultiTypeItem {
 		converted.item = item
 		if rss != nil {
 			for _, rssItem := range rss.Items {
-				fmt.Printf("Checking: %v \n %v\n", rssItem.GUID, rssItem)
+				fmt.Printf("Checking: %v \n %v\n", rssItem.GUID, rssItem.Link)
 				if rssItem.GUID != nil {
 					if item.GUID == rssItem.GUID.Value {
 						converted.rss = rssItem
