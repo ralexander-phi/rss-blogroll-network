@@ -1,0 +1,7 @@
+{{ define "main" }}
+<h1>RSS Newsfeed</h1>
+
+{{- range .Pages -}}
+  {{ partial "post" . }}
+{{- end -}}
+{{- end -}}

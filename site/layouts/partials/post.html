@@ -1,0 +1,38 @@
+<div class="post">
+  <a href="{{ .Params.post.link }}">
+    <h2>
+      {{ .Params.post.Title | truncate 120 }}
+    </h2>
+  </a>
+
+
+  <span title="{{ .Date }}" >{{ .Params.pretty_age }}</span>
+    &mdash;
+  <a href="{{- (urls.Parse .Params.post.link).Scheme -}}
+                ://
+                {{- (urls.Parse .Params.post.link).Host -}}">
+    {{ (urls.Parse .Params.post.link).Host }}
+  </a>
+  |
+  <a title="{{ .Params.feed.description }}" href="{{ .Params.feed.link }}">
+      {{ if .Params.feed.title }}
+      {{ .Params.feed.title | truncate 30 }}
+      {{ else }}
+      {{ (urls.Parse .Params.feed.link).Host }}
+      {{ end }}
+    </a>
+    &mdash;
+    <a title="{{ .Params.feed.feedlink }}" href="{{ .Params.feed.feedlink }}">RSS
+    </a>
+    {{ if .Params.comments_link }}
+    |
+    <a title="Comments" href="{{ .Params.comments_link }}">Comments</a>
+    {{ end }}
+
+    {{- if .Params.post.description -}}
+    <div class="details">
+      {{- .Params.post.description | truncate 400 -}}
+    </div>
+    {{- end -}}
+
+</div>
