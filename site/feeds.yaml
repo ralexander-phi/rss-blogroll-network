@@ -17,8 +17,10 @@ feeds:
   - url: https://hnrss.org/frontpage
     # This feed has metadata in the description
     ignore_description: true
+    # These are HN ads
+    block_words:
+      - Is Hiring a
     block_domains:
-      # These are HN ads
       - jobs.ashbyhq.com 
       - www.ycombinator.com
 

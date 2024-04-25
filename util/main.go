@@ -34,6 +34,15 @@ func filterPost(item *MultiTypeItem, feedConfig FeedConfig, config Config) error
 	if has, which := containsAny(item.item.Content, config.BlockWords...); has {
 		return errBlockWord("Content", which)
 	}
+	if has, which := containsAny(item.item.Description, feedConfig.BlockWords...); has {
+		return errBlockWord("Description", which)
+	}
+	if has, which := containsAny(item.item.Title, feedConfig.BlockWords...); has {
+		return errBlockWord("Title", which)
+	}
+	if has, which := containsAny(item.item.Content, feedConfig.BlockWords...); has {
+		return errBlockWord("Content", which)
+	}
 
 	// Blocked domains
 	for _, blockedDomain := range config.BlockDomains {

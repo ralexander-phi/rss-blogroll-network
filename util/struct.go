@@ -9,6 +9,7 @@ type FeedConfig struct {
 	URL               string   `yaml:"url"`
 	IgnoreDescription *bool    `yaml:"ignore_description"`
 	IgnoreContent     *bool    `yaml:"ignore_content"`
+	BlockWords        []string `yaml:"block_words"`
 	BlockDomains      []string `yaml:"block_domains"`
 }
 
