@@ -1,7 +1,7 @@
 {{ define "main" }}
 <h1>RSS Newsfeed</h1>
 
-{{- range .Pages -}}
+{{- range (where .Site.Pages "Section" "posts") -}}
   {{ partial "post" . }}
 {{- end -}}
 {{- end -}}
