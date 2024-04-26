@@ -14,16 +14,6 @@ feeds:
   - url: https://www.privateoctopus.com/feed.xml
   - url: https://šime.eu/feed.xml
 
-  - url: https://hnrss.org/frontpage
-    # This feed has metadata in the description
-    ignore_description: true
-    # These are HN ads
-    block_words:
-      - Is Hiring a
-    block_domains:
-      - jobs.ashbyhq.com 
-      - www.ycombinator.com
-
 post_age_limit_days: 365
 max_posts_per_feed: 50
 max_posts: 250

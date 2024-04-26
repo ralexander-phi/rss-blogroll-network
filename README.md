@@ -6,6 +6,7 @@
 ## Use cases
 
 * A personal RSS reader you can access from all your devices
+* Share what you're reading and the RSS feeds you follow
 * Aggregate multiple feeds to create a news feed for a particular topic
 
 
@@ -24,7 +25,9 @@ You can configure a custom domain or enforce HTTPS on this page as well.
 
 Edit `site/feeds.yaml` to customize your feed.
 
+
 ## feeds.yaml settings
+
 
 ### Configure feeds
 
@@ -50,6 +53,7 @@ Optional fields:
 * `block_domains`: Articles from this domain, or subdomains of this domain, will be filtered out. (Overrides the global setting)
 * `ignore_description`: Some RSS feeds contain metadata in the description field. Setting this to `true` will cause Feed2Pages to generate an alternate description from the RSS `content` field or by scraping the linked article. (Overrides the global setting)
 
+
 ### Global settings
 
 `post_age_limit_days`: Filter out posts older than this limit
@@ -72,3 +76,12 @@ Optional fields:
 6. The discovered articles are saved as [Hugo](https://gohugo.io/) pages
 7. Hugo builds the site into static HTML
 8. GitHub Actions publishes the HTML to GitHub Pages
+
+
+## Ideas
+
+* Collect articles from popular news website and aggregator RSS feeds, using filters to create a single topic news feed.
+  * Hacker News: https://news.ycombinator.com/rss
+  * Hacker News RSS: https://hnrss.org
+  * Reddit Subreddits: https://www.reddit.com/r/programming.rss
+
