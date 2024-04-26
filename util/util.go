@@ -24,8 +24,10 @@ func anyContains(target string, searchAmong ...string) (bool, string) {
 }
 
 func containsAny(search string, targets ...string) (bool, string) {
+  // Case insensitive
+  search = strings.ToLower(search)
 	for _, target := range targets {
-		if strings.Contains(search, target) {
+		if strings.Contains(search, strings.ToLower(target)) {
 			return true, target
 		}
 	}
@@ -33,8 +35,7 @@ func containsAny(search string, targets ...string) (bool, string) {
 }
 
 func mkdirIfNotExists(path string) {
-	// TODO: correct value?
-	err := os.MkdirAll(path, 0750)
+	err := os.MkdirAll(path, 0660)
 	if err != nil {
 		panic(fmt.Sprintf("Unable to creater directory: %s: %v", path, err))
 	}
