@@ -10,7 +10,8 @@ import (
 	"time"
 )
 
-const POST_FOLDER_PATH = "content/posts"
+const POST_FOLDER_PATH = "content/post"
+const FEED_FOLDER_PATH = "content/feed"
 
 func filterPost(item *MultiTypeItem, feedConfig FeedConfig, config Config) error {
 	// Missing required fields
@@ -61,27 +62,20 @@ func filterPost(item *MultiTypeItem, feedConfig FeedConfig, config Config) error
 	return nil
 }
 
-func processPost(item *MultiTypeItem, feedConfig FeedConfig, config Config) (Frontmatter, error) {
-	out := Frontmatter{}
-	err := filterPost(item, feedConfig, config)
-	if err != nil {
-		return out, err
-	}
+func processPost(item *MultiTypeItem, feed *gofeed.Feed, feedConfig FeedConfig, config Config) (PostFrontmatter, error) {
+	out := PostFrontmatter{}
+	out.Params.Feed = *feed
+	out.Params.Feed.Items = []*gofeed.Item{} // exclude the others posts
+	out.Params.Post = *item.item
+	out.Date = item.item.PublishedParsed.Format(time.RFC3339)
 
 	// Filter out content that's too old
 	age := time.Since(*item.item.PublishedParsed)
+	out.Params.PrettyAge = pretty(age)
 	ageDays := int(age.Hours() / 24)
 	if config.PostAgeLimitDays != nil && ageDays > *config.PostAgeLimitDays {
 		return out, errors.New("Too old")
 	}
-
-	out.Params.Feed = *item.feed
-	out.Params.Feed.Items = []*gofeed.Item{} // exclude the others posts
-	out.Params.Post = *item.item
-
-	out.Title = truncateText(readable(item.item.Title), 200)
-	out.Date = item.item.PublishedParsed.Format(time.RFC3339)
-	out.Params.PrettyAge = pretty(age)
 
 	if feedConfig.IgnoreDescription != nil && *feedConfig.IgnoreDescription {
 		out.Params.Post.Description = ""
@@ -95,14 +89,30 @@ func processPost(item *MultiTypeItem, feedConfig FeedConfig, config Config) (Fro
 	//  - the content from the feed
 	//  - the contents of the linked page (HTTP GET it)
 	// Pass content through readability to remove HTML and cruft
+	isUsingContentAsDescription := false
 	if isEmpty(out.Params.Post.Description) {
+		isUsingContentAsDescription = true
 		out.Params.Post.Description = out.Params.Post.Content
 	}
 	out.Params.Post.Description = readable(out.Params.Post.Description)
 	if isEmpty(out.Params.Post.Description) {
+		isUsingContentAsDescription = true
 		out.Params.Post.Description = readablePost(out.Params.Post.Link)
 	}
 	out.Params.Post.Description = strings.TrimSpace(out.Params.Post.Description)
+
+	err := filterPost(item, feedConfig, config)
+	if err != nil {
+		return out, err
+	}
+
+	// Ensure our summary isn't too much of the content
+	if isUsingContentAsDescription {
+		out.Params.Post.Description = truncateText(
+			out.Params.Post.Description,
+			len(out.Params.Post.Description)/20,
+		)
+	}
 
 	// An RSS only field (not Atom or JSON feeds)
 	if item.rss != nil {
@@ -110,33 +120,50 @@ func processPost(item *MultiTypeItem, feedConfig FeedConfig, config Config) (Fro
 	}
 
 	// Reduce the size, we won't render it all anyway
+	out.Title = truncateText(readable(item.item.Title), 200)
 	out.Params.Post.Description = truncateText(out.Params.Post.Description, 1024)
 	out.Params.Post.Content = truncateText(out.Params.Post.Content, 1024)
 
 	return out, nil
 }
 
-func processFeed(feedConfig FeedConfig, config Config) []Frontmatter {
+func processFeed(feedId string, feedConfig FeedConfig, config Config) ([]PostFrontmatter, FeedFrontmatter) {
 	fp := NewParser()
-	mergedItems, err := fp.ParseURLExtended(feedConfig.URL)
+	parsedFeed, mergedItems, err := fp.ParseURLExtended(feedConfig.URL)
 	if err != nil {
 		fmt.Printf("Unable to parse feed: %s %v", feedConfig.URL, err)
-		return []Frontmatter{}
+		return []PostFrontmatter{}, FeedFrontmatter{}
 	}
 
-	posts := []Frontmatter{}
+	feed := FeedFrontmatter{}
+	feed.Title = parsedFeed.Title
+	feed.Description = parsedFeed.Description
+	feed.Params.Feed = *parsedFeed
+	feed.Params.Id = feedId
+
+	// Store posts elsewhere
+	feed.Params.Feed.Items = []*gofeed.Item{}
+
+	if parsedFeed.PublishedParsed != nil {
+		feed.Date = parsedFeed.PublishedParsed.Format(time.RFC3339)
+	} else if parsedFeed.UpdatedParsed != nil {
+		feed.Date = parsedFeed.UpdatedParsed.Format(time.RFC3339)
+	}
+
+	posts := []PostFrontmatter{}
 	for _, post := range mergedItems {
-		processed, err := processPost(&post, feedConfig, config)
+		processed, err := processPost(&post, parsedFeed, feedConfig, config)
+		processed.Params.FeedId = feedId
 		if err != nil {
 			fmt.Printf("  Excluding post: %v\n", err)
 			continue
 		}
 		posts = append(posts, processed)
 	}
-	return posts
+	return posts, feed
 }
 
-func writePost(post Frontmatter) {
+func writePost(post PostFrontmatter) {
 	output, err := yaml.Marshal(post)
 	if err != nil {
 		panic(fmt.Sprintf("YAML error: %v\n", err))
@@ -154,20 +181,46 @@ func writePost(post Frontmatter) {
 	}
 }
 
+func writeFeed(feed FeedFrontmatter) {
+	output, err := yaml.Marshal(feed)
+	if err != nil {
+		panic(fmt.Sprintf("YAML error: %v\n", err))
+	}
+
+	// Markdown uses `---` for YAML frontmatter
+	sep := []byte("---\n")
+	output = append(sep, output...)
+	output = append(output, sep...)
+
+	path := fmt.Sprintf("%s/%s.md", FEED_FOLDER_PATH, feed.Params.Id)
+	err = os.WriteFile(path, output, os.FileMode(int(0600)))
+	if err != nil {
+		panic(fmt.Sprintf("Unable to write file %s %v", path, err))
+	}
+}
+
 func main() {
 	rmdir(POST_FOLDER_PATH)
+	rmdir(FEED_FOLDER_PATH)
 	mkdirIfNotExists(POST_FOLDER_PATH)
+	mkdirIfNotExists(FEED_FOLDER_PATH)
 	config := parseConfig()
-	allPosts := []Frontmatter{}
-	for _, feedConfig := range config.Feeds {
+	allPosts := []PostFrontmatter{}
+	allFeeds := []FeedFrontmatter{}
+	for id, feedConfig := range config.Feeds {
 		fmt.Printf("Processing feed: %s\n", feedConfig.URL)
-		posts := processFeed(feedConfig, config)
+		feedId := fmt.Sprintf("%d", id)
+		posts, feed := processFeed(feedId, feedConfig, config)
+		allFeeds = append(allFeeds, feed)
 		posts = sortAndLimitPosts(posts, *config.MaxPostsPerFeed)
 		fmt.Printf("  got %d posts\n", len(posts))
 		allPosts = append(allPosts, posts...)
 	}
 	allPosts = sortAndLimitPosts(allPosts, *config.MaxPosts)
 	fmt.Printf("Total %d posts\n", len(allPosts))
+	for _, feed := range allFeeds {
+		writeFeed(feed)
+	}
 	for _, post := range allPosts {
 		writePost(post)
 	}

@@ -8,31 +8,16 @@
 
   <span title="{{ .Date }}" >{{ .Params.pretty_age }}</span>
     &mdash;
-  <a href="{{- (urls.Parse .Params.post.link).Scheme -}}
-                ://
-                {{- (urls.Parse .Params.post.link).Host -}}">
-    {{ (urls.Parse .Params.post.link).Host }}
-  </a>
-  |
-  <a title="{{ .Params.feed.description }}" href="{{ .Params.feed.link }}">
+  <a title="{{ .Params.feed.description }}" href="feed/{{ .Params.feed_id}}">
       {{ if .Params.feed.title }}
       {{ .Params.feed.title | truncate 30 }}
       {{ else }}
       {{ (urls.Parse .Params.feed.link).Host }}
       {{ end }}
     </a>
-    &mdash;
-    <a title="{{ .Params.feed.feedlink }}" href="{{ .Params.feed.feedlink }}">RSS
-    </a>
     {{ if .Params.comments_link }}
-    |
+    &mdash;
     <a title="Comments" href="{{ .Params.comments_link }}">Comments</a>
     {{ end }}
-
-    {{- if .Params.post.description -}}
-    <div class="details">
-      {{- .Params.post.description | truncate 400 -}}
-    </div>
-    {{- end -}}
 
 </div>

@@ -1,11 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    {{- partial "head" . -}}
-    {{- block "extrahead" . -}}
-    {{- end -}}
+    {{ partial "head" . }}
+    {{ block "extrahead" . }}
+    {{ end }}
   </head>
   <body>
+  {{ partial "topnav" . }}
+
   {{- block "main" . -}}
   {{- end -}}
 
@@ -15,7 +17,7 @@
   <footer>
     <div style="font-size: 2em">📡</div>
     <br />
-    <a href="https://github.com/ralexander-phi/Feed2Pages">Feed2Pages</a>
+    Powered by <a href="https://github.com/ralexander-phi/Feed2Pages">Feed2Pages</a>
     <br />
     <br />
     Last refreshed: {{ time.Now | time.Format "2 January 2006 at 15:04 (MST)"}}

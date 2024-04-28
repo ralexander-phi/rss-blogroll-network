@@ -1,3 +1,4 @@
 .hugo_build.lock
 public/
-content/posts/
+content/post/
+content/feed/

@@ -1,7 +1,23 @@
-{{ define "main" }}
-<h1>RSS Newsfeed</h1>
+{{ define "extrahead" }}
+<style>
+ul.pagination {
+  text-align: center;
+  margin: 3em;
+}
+li.page-item {
+  font-size: 1.2em;
+  display: inline;
+  padding: 0.4em;
+}
+</style>
+{{ end }}
 
-{{- range (where .Site.RegularPages "Section" "posts") -}}
+{{ define "main" }}
+
+{{ $paginator := .Paginate (where .Site.RegularPages "Section" "post") }}
+
+{{- range $paginator.Pages -}}
   {{ partial "post" . }}
 {{- end -}}
+{{ template "_internal/pagination.html" . }}
 {{- end -}}

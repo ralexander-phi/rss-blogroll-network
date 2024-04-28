@@ -14,9 +14,9 @@ feeds:
   - url: https://www.privateoctopus.com/feed.xml
   - url: https://šime.eu/feed.xml
 
-post_age_limit_days: 365
+post_age_limit_days:
 max_posts_per_feed: 50
-max_posts: 250
+max_posts: 2000
 
 block_words:
   - cryptocurrency

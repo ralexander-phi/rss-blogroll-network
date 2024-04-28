@@ -5,6 +5,9 @@
 <link rel="alternate" type="application/rss+xml" title="Feed" href="/index.xml">
 <style>
 
+{{ block "extrahead" . }}
+{{ end }}
+
 h1 {
   font-size: 1.5em;
   text-align: center;
@@ -22,19 +25,45 @@ body {
   font-family: system-ui, -apple-system, Helvetica;
 }
 
+div.topnav {
+  background-color: #58e;
+  padding: 0.3em;
+  font-size: 1.1em;
+  margin: 0.5em 0 1em 0;
+}
+
+div.topnav > a {
+  font-size: 0.9em;
+  color: #eee;
+  padding-right: 0.8em;
+}
+
+div.topnav > a.brand {
+  font-size: 1.2em;
+  font-weight: bold;
+}
+
+div.topnav {
+  font-size: 1.2em;
+}
+
 a {
   text-decoration: none;
   color: #22c;
 }
 
+a:hover {
+  text-decoration: underline;
+}
+
 h2 {
   font-size: 1.2em;
-  margin: 0 0 0.4em 0;
+  margin: 0 0 0.2em 0;
 }
 
 div.post {
   padding: 1em;
-  margin-bottom: 0.4em;
+  margin-bottom: 0.2em;
 }
 
 div.post div.details {
@@ -47,5 +76,4 @@ footer {
   margin: 6em;
   text-align: center;
 }
-
 </style>

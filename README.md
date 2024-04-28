@@ -1,6 +1,6 @@
-# GitHub Pages as an RSS reader
+# Feed2Pages
 
-[Git scrape](https://simonwillison.net/2020/Oct/9/git-scraping/) RSS feeds into a news feed
+Aggregate RSS feeds into your own news feed web site
 
 
 ## Use cases

@@ -43,7 +43,6 @@ func mergeFeeds(feed *gofeed.Feed, rss *rss.Feed) []MultiTypeItem {
 	out := []MultiTypeItem{}
 	for _, item := range feed.Items {
 		converted := MultiTypeItem{}
-		converted.feed = feed
 		converted.item = item
 		if rss != nil {
 			for _, rssItem := range rss.Items {
@@ -62,9 +61,9 @@ func mergeFeeds(feed *gofeed.Feed, rss *rss.Feed) []MultiTypeItem {
 	return out
 }
 
-func (f *CustomParser) Parse(feed io.Reader) ([]MultiTypeItem, error) {
+func (f *CustomParser) Parse(feed io.Reader) (*gofeed.Feed, []MultiTypeItem, error) {
 	var err error
-	var rssFeed *rss.Feed
+	var rssFeed *rss.Feed = nil
 	var parsedFeed *gofeed.Feed
 
 	feedType, r := identifyFeed(feed)
@@ -73,41 +72,42 @@ func (f *CustomParser) Parse(feed io.Reader) ([]MultiTypeItem, error) {
 	case gofeed.FeedTypeAtom:
 		parsed, err := f.ap.Parse(r)
 		if err != nil {
-			return nil, err
+			return nil, nil, err
 		}
 		parsedFeed, err = f.atomTranslator.Translate(parsed)
 
 	case gofeed.FeedTypeJSON:
 		parsed, err := f.jp.Parse(r)
 		if err != nil {
-			return nil, err
+			return nil, nil, err
 		}
 		parsedFeed, err = f.jsonTranslator.Translate(parsed)
 
 	case gofeed.FeedTypeRSS:
 		rssFeed, err = f.rp.Parse(r)
 		if err != nil {
-			return nil, err
+			return nil, nil, err
 		}
 		parsedFeed, err = f.rssTranslator.Translate(rssFeed)
 
 	default:
-		return nil, gofeed.ErrFeedTypeNotDetected
+		return nil, nil, gofeed.ErrFeedTypeNotDetected
 	}
 
-	return mergeFeeds(parsedFeed, rssFeed), nil
+	posts := mergeFeeds(parsedFeed, rssFeed)
+	return parsedFeed, posts, nil
 }
 
-func (f *CustomParser) ParseURLExtended(url string) ([]MultiTypeItem, error) {
+func (f *CustomParser) ParseURLExtended(url string) (*gofeed.Feed, []MultiTypeItem, error) {
 	req, err := http.NewRequest("GET", url, nil)
 	if err != nil {
-		return nil, err
+		return nil, nil, err
 	}
 	req.Header.Set("User-Agent", f.userAgent)
 
 	resp, err := f.client.Do(req)
 	if err != nil {
-		return nil, err
+		return nil, nil, err
 	}
 
 	if resp != nil {

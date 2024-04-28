@@ -23,9 +23,16 @@ type Config struct {
 }
 
 // https://gohugo.io/content-management/front-matter/
-type Frontmatter struct {
+type PostFrontmatter struct {
 	Date        string     `yaml:"date"`
 	Params      PostParams `yaml:"params"`
+	Title       string     `yaml:"title"`
+	Description string     `yaml:"description"`
+}
+
+type FeedFrontmatter struct {
+	Date        string     `yaml:"date"`
+	Params      FeedParams `yaml:"params"`
 	Title       string     `yaml:"title"`
 	Description string     `yaml:"description"`
 }
@@ -33,12 +40,17 @@ type Frontmatter struct {
 type PostParams struct {
 	PrettyAge    string      `yaml:"pretty_age"`
 	Post         gofeed.Item `yaml:"post"`
+	FeedId       string      `yaml:"feed_id"`
 	Feed         gofeed.Feed `yaml:"feed"`
 	CommentsLink string      `yaml:"comments_link"`
 }
 
+type FeedParams struct {
+	Id   string      `yaml:"id"`
+	Feed gofeed.Feed `yaml:"feed"`
+}
+
 type MultiTypeItem struct {
-	feed *gofeed.Feed
 	item *gofeed.Item
 	rss  *rss.Item
 }

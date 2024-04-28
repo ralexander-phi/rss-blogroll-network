@@ -24,8 +24,8 @@ func anyContains(target string, searchAmong ...string) (bool, string) {
 }
 
 func containsAny(search string, targets ...string) (bool, string) {
-  // Case insensitive
-  search = strings.ToLower(search)
+	// Case insensitive
+	search = strings.ToLower(search)
 	for _, target := range targets {
 		if strings.Contains(search, strings.ToLower(target)) {
 			return true, target
@@ -35,7 +35,7 @@ func containsAny(search string, targets ...string) (bool, string) {
 }
 
 func mkdirIfNotExists(path string) {
-	err := os.MkdirAll(path, 0660)
+	err := os.MkdirAll(path, 0770)
 	if err != nil {
 		panic(fmt.Sprintf("Unable to creater directory: %s: %v", path, err))
 	}
@@ -49,9 +49,9 @@ func rmdir(path string) {
 }
 
 func pretty(duration time.Duration) string {
-	HOURS_PER_YEAR := 24 * 30 * 365
-	HOURS_PER_MONTH := 24 * 30
 	HOURS_PER_DAY := 24
+	HOURS_PER_MONTH := HOURS_PER_DAY * 30
+	HOURS_PER_YEAR := HOURS_PER_MONTH * 12
 	hoursAgo := int(duration.Hours())
 	if hoursAgo > HOURS_PER_YEAR {
 		return fmt.Sprintf("%d years ago", (hoursAgo / HOURS_PER_YEAR))
@@ -112,7 +112,7 @@ func parseConfig() Config {
 	return config
 }
 
-func safeGUID(post Frontmatter) string {
+func safeGUID(post PostFrontmatter) string {
 	id := post.Params.Post.Link
 	if post.Params.Post.GUID != "" {
 		id = post.Params.Post.GUID
@@ -122,11 +122,11 @@ func safeGUID(post Frontmatter) string {
 	return strings.Replace(s, "=", "", -1)
 }
 
-func sortAndLimitPosts(posts []Frontmatter, limit int) []Frontmatter {
+func sortAndLimitPosts(posts []PostFrontmatter, limit int) []PostFrontmatter {
 	sort.Slice(
 		posts,
 		func(i, j int) bool {
-			return posts[i].Date < posts[j].Date
+			return posts[i].Date > posts[j].Date
 		},
 	)
 	if limit > len(posts) {
