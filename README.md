@@ -89,3 +89,6 @@ Software that supports this syntax can help readers of your blog discover what y
   * Hacker News: https://news.ycombinator.com/rss
   * Hacker News RSS: https://hnrss.org
   * Reddit Subreddits: https://www.reddit.com/r/programming.rss
+  * Lobsters: https://lobste.rs/t/programming,compsci.rss
+  * NY Times: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+  * Many more: https://github.com/plenaryapp/awesome-rss-feeds/blob/master/README.md

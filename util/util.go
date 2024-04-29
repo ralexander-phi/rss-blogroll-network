@@ -46,17 +46,28 @@ func rmdir(path string) {
 	}
 }
 
+func pluralizeAgo(s string, i int) string {
+	if i == 1 {
+		return fmt.Sprintf("one %s ago", s)
+	} else {
+		return fmt.Sprintf("%d %ss ago", i, s)
+	}
+}
+
 func pretty(duration time.Duration) string {
 	HOURS_PER_DAY := 24
 	HOURS_PER_MONTH := HOURS_PER_DAY * 30
 	HOURS_PER_YEAR := HOURS_PER_MONTH * 12
 	hoursAgo := int(duration.Hours())
 	if hoursAgo > HOURS_PER_YEAR {
-		return fmt.Sprintf("%d years ago", (hoursAgo / HOURS_PER_YEAR))
+		t := hoursAgo / HOURS_PER_YEAR
+		return pluralizeAgo("year", t)
 	} else if hoursAgo > HOURS_PER_MONTH {
-		return fmt.Sprintf("%d months ago", (hoursAgo / HOURS_PER_MONTH))
+		t := hoursAgo / HOURS_PER_MONTH
+		return pluralizeAgo("month", t)
 	} else if hoursAgo > 2*HOURS_PER_DAY {
-		return fmt.Sprintf("%d days ago", (hoursAgo / HOURS_PER_DAY))
+		t := hoursAgo / HOURS_PER_DAY
+		return pluralizeAgo("day", t)
 	} else if hoursAgo > HOURS_PER_DAY {
 		return "yesterday"
 	} else {

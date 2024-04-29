@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-  <opml version="2.0">
-    <head>
-      <title>Your Feeds</title>
-    </head>
-    <body>
-    <outline text="Ungrouped" title="Ungrouped">
-      <outline text="Tom Hazledine" type="rss" xmlUrl="https://tomhazledine.com/feed.xml" />
-      <outline text="alexsci.com blog" type="rss" xmlUrl="https://alexsci.com/blog/rss.xml" />
-      <outline text="Marisabel Munoz" type="rss" xmlUrl="https://marisabel.nl/rss.php" />
-    </outline>  </body>
-  </opml>
+<opml version="2.0">
+  <head>
+    <title>Your Feeds</title>
+  </head>
+  <body>
+    <outline text="alexsci.com blog" type="rss" xmlUrl="https://alexsci.com/blog/rss.xml" />
+    <outline text="lobste.rs" type="rss" xmlUrl="https://lobste.rs/t/programming,cryptography,linux,networking,security,browsers,compsci,devops.rss" />
+    <outline text="Hacker News" type="rss" xmlUrl="https://hnrss.org/frontpage?points=100" />
+  </body>
+</opml>
