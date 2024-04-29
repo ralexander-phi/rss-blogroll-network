@@ -1,14 +1,16 @@
 package main
 
 import (
+	"bufio"
+	"errors"
 	"fmt"
 	readability "github.com/go-shiori/go-readability"
+	"github.com/go-yaml/yaml"
 	"io"
 	"net/http"
 	"net/url"
 	"os"
 	"strings"
-	"time"
 )
 
 func httpGet(url string) (io.ReadCloser, error) {
@@ -22,46 +24,46 @@ func httpGet(url string) (io.ReadCloser, error) {
 	if err != nil {
 		return nil, err
 	}
-	if err != nil {
-		return nil, err
-	}
 	return resp.Body, nil
 }
 
-func readUrlOrPanic(url string) []byte {
+func readUrl(url string) (io.Reader, io.Closer, error) {
 	if strings.HasPrefix(url, "https://") || strings.HasPrefix(url, "http://") {
-		body, err := httpGet(url)
+		f, err := httpGet(url)
 		if err != nil {
-			panicErr(err)
+			return nil, nil, err
 		}
-		defer body.Close()
-		bodyBytes, err := io.ReadAll(body)
-		if err != nil {
-			panicErr(err)
-		}
-		return bodyBytes
+		return bufio.NewReader(f), f, nil
 	} else if strings.HasPrefix(url, "file://") {
 		url := strings.Replace(url, "file://", "", 1)
-		return readFileOrPanic(url)
+		return readFile(url)
 	}
-	panic(fmt.Sprintf("Unsupported protocol: %s", url))
+	return nil, nil, errors.New(fmt.Sprintf("Unsupported protocol: %s", url))
 }
 
-func readFileOrPanic(path string) []byte {
-	content, err := os.ReadFile(path)
+func readFile(path string) (io.Reader, io.Closer, error) {
+	f, err := os.Open(path)
 	if err != nil {
-		panicStringsErr("Unable to open file", path, err)
+		return nil, nil, err
 	}
-	return content
+	return bufio.NewReader(f), f, nil
 }
 
-func readablePost(url string) string {
-	fmt.Printf("GET %s for readability\n", url)
-	article, err := readability.FromURL(url, 30*time.Second)
+func writeYaml(o any, path string) {
+	output, err := yaml.Marshal(o)
 	if err != nil {
-		return ""
+		panicStringErr("YAML error", err)
 	}
-	return article.TextContent
+
+	// Markdown uses `---` for YAML frontmatter
+	sep := []byte("---\n")
+	output = append(sep, output...)
+	output = append(output, sep...)
+
+	err = os.WriteFile(path, output, os.FileMode(int(0660)))
+	if err != nil {
+		panicStringsErr("Unable to write file", path, err)
+	}
 }
 
 func readable(html string) string {

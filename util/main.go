@@ -3,9 +3,7 @@ package main
 import (
 	"errors"
 	"fmt"
-	"github.com/go-yaml/yaml"
 	"github.com/mmcdole/gofeed"
-	"os"
 	"time"
 )
 
@@ -39,7 +37,6 @@ func filterPost(item *MultiTypeItem, config Config) error {
 	for _, blockedDomain := range config.BlockDomains {
 		if isDomainOrSubdomain(item.item.Link, blockedDomain) {
 			return errors.New(fmt.Sprintf("Domain is blocked: %s", blockedDomain))
-
 		}
 	}
 	return nil
@@ -51,7 +48,7 @@ func processPost(item *MultiTypeItem, feed *gofeed.Feed, config Config) (PostFro
 	out.Params.Feed.Items = []*gofeed.Item{} // exclude the others posts
 	out.Params.Post = *item.item
 
-	postDate := time.Date(1970, time.January, 1, 0, 0, 0, 0, time.UTC)
+	postDate := unixEpoc()
 	if item.item.PublishedParsed != nil {
 		postDate = *item.item.PublishedParsed
 	}
@@ -135,42 +132,6 @@ func processFeed(feedId string, feedDetails FeedDetails, config Config) ([]PostF
 	return posts, feed
 }
 
-func writePost(post PostFrontmatter) {
-	output, err := yaml.Marshal(post)
-	if err != nil {
-		panicStringErr("YAML error", err)
-	}
-
-	// Markdown uses `---` for YAML frontmatter
-	sep := []byte("---\n")
-	output = append(sep, output...)
-	output = append(output, sep...)
-
-	path := fmt.Sprintf("%s/%s.md", POST_FOLDER_PATH, safeGUID(post))
-	err = os.WriteFile(path, output, os.FileMode(int(0600)))
-	if err != nil {
-		panicStringsErr("Unable to write file", path, err)
-	}
-}
-
-func writeFeed(feed FeedFrontmatter) {
-	output, err := yaml.Marshal(feed)
-	if err != nil {
-		panicStringErr("YAML error", err)
-	}
-
-	// Markdown uses `---` for YAML frontmatter
-	sep := []byte("---\n")
-	output = append(sep, output...)
-	output = append(output, sep...)
-
-	path := fmt.Sprintf("%s/%s.md", FEED_FOLDER_PATH, feed.Params.Id)
-	err = os.WriteFile(path, output, os.FileMode(int(0600)))
-	if err != nil {
-		panicStringsErr("Unable to write file", path, err)
-	}
-}
-
 func main() {
 	rmdir(POST_FOLDER_PATH)
 	rmdir(FEED_FOLDER_PATH)
@@ -191,9 +152,11 @@ func main() {
 	allPosts = sortAndLimitPosts(allPosts, *config.MaxPosts)
 	fmt.Printf("Total %d posts\n", len(allPosts))
 	for _, feed := range allFeeds {
-		writeFeed(feed)
+		path := fmt.Sprintf("%s/%s.md", FEED_FOLDER_PATH, feed.Params.Id)
+		writeYaml(feed, path)
 	}
 	for _, post := range allPosts {
-		writePost(post)
+		path := fmt.Sprintf("%s/%s.md", POST_FOLDER_PATH, safeGUID(post))
+		writeYaml(post, path)
 	}
 }

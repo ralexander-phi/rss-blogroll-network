@@ -1,7 +1,6 @@
 package main
 
 import (
-	"bytes"
 	"encoding/xml"
 	"fmt"
 )
@@ -45,10 +44,14 @@ func asDetails(outlines []XmlOutline) []FeedDetails {
 }
 
 func parseOpml(url string) []FeedDetails {
-	content := readUrlOrPanic(url)
-	decoder := xml.NewDecoder(bytes.NewReader(content))
+	content, closer, err := readUrl(url)
+	if err != nil {
+		panicStringsErr("Error reading URL", url, err)
+	}
+	defer closer.Close()
+	decoder := xml.NewDecoder(content)
 	opml := XmlOpml{}
-	err := decoder.Decode(&opml)
+	err = decoder.Decode(&opml)
 	if err != nil {
 		panicStringErr("Error decoding OMPL", err)
 	}

@@ -2,13 +2,11 @@ package main
 
 import (
 	"bytes"
-	"fmt"
 	"github.com/mmcdole/gofeed"
 	"github.com/mmcdole/gofeed/atom"
 	"github.com/mmcdole/gofeed/json"
 	"github.com/mmcdole/gofeed/rss"
 	"io"
-	"net/http"
 )
 
 type CustomParser struct {
@@ -16,8 +14,6 @@ type CustomParser struct {
 	ap             *atom.Parser
 	jp             *json.Parser
 	rp             *rss.Parser
-	userAgent      string
-	client         *http.Client
 	atomTranslator *gofeed.DefaultAtomTranslator
 	jsonTranslator *gofeed.DefaultJSONTranslator
 	rssTranslator  *gofeed.DefaultRSSTranslator
@@ -46,7 +42,6 @@ func mergeFeeds(feed *gofeed.Feed, rss *rss.Feed) []MultiTypeItem {
 		converted.item = item
 		if rss != nil {
 			for _, rssItem := range rss.Items {
-				fmt.Printf("Checking: %v \n %v\n", rssItem.GUID, rssItem.Link)
 				if rssItem.GUID != nil {
 					if item.GUID == rssItem.GUID.Value {
 						converted.rss = rssItem

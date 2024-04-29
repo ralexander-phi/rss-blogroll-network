@@ -78,11 +78,16 @@ func isEmpty(s string) bool {
 }
 
 func parseConfig() Config {
-	content := readFileOrPanic("feeds.yaml")
-	config := Config{}
-	err := yaml.Unmarshal(content, &config)
+	content, closer, err := readFile("feeds.yaml")
 	if err != nil {
-		panicStringErr("Config unmarshal error", err)
+		panicStringErr("Unable to parse config", err)
+	}
+	defer closer.Close()
+	config := Config{}
+	decoder := yaml.NewDecoder(content)
+	err = decoder.Decode(&config)
+	if err != nil {
+		panicStringErr("Config decode error", err)
 	}
 	// Parse the OPML file (local file or remote resource)
 	config.Feeds = parseOpml(config.FeedUrl)
@@ -137,4 +142,8 @@ func errMissingField(field string) error {
 
 func errBlockWord(field string, word string) error {
 	return errors.New(fmt.Sprintf("Skipping: %s content contains block word: %s", field, word))
+}
+
+func unixEpoc() time.Time {
+	return time.Date(1970, time.January, 1, 0, 0, 0, 0, time.UTC)
 }
