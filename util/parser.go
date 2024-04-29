@@ -99,33 +99,16 @@ func (f *CustomParser) Parse(feed io.Reader) (*gofeed.Feed, []MultiTypeItem, err
 }
 
 func (f *CustomParser) ParseURLExtended(url string) (*gofeed.Feed, []MultiTypeItem, error) {
-	req, err := http.NewRequest("GET", url, nil)
+	resp, err := httpGet(url)
 	if err != nil {
 		return nil, nil, err
 	}
-	req.Header.Set("User-Agent", f.userAgent)
-
-	resp, err := f.client.Do(req)
-	if err != nil {
-		return nil, nil, err
-	}
-
-	if resp != nil {
-		defer func() {
-			closeErr := resp.Body.Close()
-			if closeErr != nil {
-				err = closeErr
-			}
-		}()
-	}
-
-	return f.Parse(resp.Body)
+	defer resp.Close()
+	return f.Parse(resp)
 }
 
 func NewParser() *CustomParser {
 	return &CustomParser{
-		userAgent:      "Feed2Pages/1.0",
-		client:         &http.Client{},
 		ap:             &atom.Parser{},
 		atomTranslator: &gofeed.DefaultAtomTranslator{},
 		jp:             &json.Parser{},

@@ -6,14 +6,13 @@ import (
 	"github.com/go-yaml/yaml"
 	"github.com/mmcdole/gofeed"
 	"os"
-	"strings"
 	"time"
 )
 
 const POST_FOLDER_PATH = "content/post"
 const FEED_FOLDER_PATH = "content/feed"
 
-func filterPost(item *MultiTypeItem, feedConfig FeedConfig, config Config) error {
+func filterPost(item *MultiTypeItem, config Config) error {
 	// Missing required fields
 	if item.item.PublishedParsed == nil {
 		return errMissingField("PublishedParsed")
@@ -35,15 +34,6 @@ func filterPost(item *MultiTypeItem, feedConfig FeedConfig, config Config) error
 	if has, which := containsAny(item.item.Content, config.BlockWords...); has {
 		return errBlockWord("Content", which)
 	}
-	if has, which := containsAny(item.item.Description, feedConfig.BlockWords...); has {
-		return errBlockWord("Description", which)
-	}
-	if has, which := containsAny(item.item.Title, feedConfig.BlockWords...); has {
-		return errBlockWord("Title", which)
-	}
-	if has, which := containsAny(item.item.Content, feedConfig.BlockWords...); has {
-		return errBlockWord("Content", which)
-	}
 
 	// Blocked domains
 	for _, blockedDomain := range config.BlockDomains {
@@ -52,66 +42,41 @@ func filterPost(item *MultiTypeItem, feedConfig FeedConfig, config Config) error
 
 		}
 	}
-	for _, blockedDomain := range feedConfig.BlockDomains {
-		if isDomainOrSubdomain(item.item.Link, blockedDomain) {
-			return errors.New(fmt.Sprintf("Domain is blocked: %s", blockedDomain))
-
-		}
-	}
-
 	return nil
 }
 
-func processPost(item *MultiTypeItem, feed *gofeed.Feed, feedConfig FeedConfig, config Config) (PostFrontmatter, error) {
+func processPost(item *MultiTypeItem, feed *gofeed.Feed, config Config) (PostFrontmatter, error) {
 	out := PostFrontmatter{}
 	out.Params.Feed = *feed
 	out.Params.Feed.Items = []*gofeed.Item{} // exclude the others posts
 	out.Params.Post = *item.item
-	out.Date = item.item.PublishedParsed.Format(time.RFC3339)
 
-	// Filter out content that's too old
-	age := time.Since(*item.item.PublishedParsed)
+	postDate := time.Date(1970, time.January, 1, 0, 0, 0, 0, time.UTC)
+	if item.item.PublishedParsed != nil {
+		postDate = *item.item.PublishedParsed
+	}
+	out.Date = postDate.Format(time.RFC3339)
+	age := time.Since(postDate)
 	out.Params.PrettyAge = pretty(age)
 	ageDays := int(age.Hours() / 24)
+
+	// Filter out content that's too old
 	if config.PostAgeLimitDays != nil && ageDays > *config.PostAgeLimitDays {
 		return out, errors.New("Too old")
-	}
-
-	if feedConfig.IgnoreDescription != nil && *feedConfig.IgnoreDescription {
-		out.Params.Post.Description = ""
-	}
-	if feedConfig.IgnoreContent != nil && *feedConfig.IgnoreContent {
-		out.Params.Post.Content = ""
 	}
 
 	// The description is one of:
 	//  - description from the feed
 	//  - the content from the feed
-	//  - the contents of the linked page (HTTP GET it)
-	// Pass content through readability to remove HTML and cruft
-	isUsingContentAsDescription := false
-	if isEmpty(out.Params.Post.Description) {
-		isUsingContentAsDescription = true
-		out.Params.Post.Description = out.Params.Post.Content
-	}
-	out.Params.Post.Description = readable(out.Params.Post.Description)
-	if isEmpty(out.Params.Post.Description) {
-		isUsingContentAsDescription = true
-		out.Params.Post.Description = readablePost(out.Params.Post.Link)
-	}
-	out.Params.Post.Description = strings.TrimSpace(out.Params.Post.Description)
+	out.Params.Post.Description = firstNonEmpty(
+		[]string{
+			out.Params.Post.Description,
+			out.Params.Post.Content,
+		})
 
-	err := filterPost(item, feedConfig, config)
+	err := filterPost(item, config)
 	if err != nil {
 		return out, err
-	}
-
-	// Ensure our summary isn't too much of the content
-	if isUsingContentAsDescription {
-		out.Params.Post.Description = truncateText(
-			out.Params.Post.Description,
-			len(out.Params.Post.Description)/20,
-		)
 	}
 
 	// An RSS only field (not Atom or JSON feeds)
@@ -127,11 +92,11 @@ func processPost(item *MultiTypeItem, feed *gofeed.Feed, feedConfig FeedConfig, 
 	return out, nil
 }
 
-func processFeed(feedId string, feedConfig FeedConfig, config Config) ([]PostFrontmatter, FeedFrontmatter) {
+func processFeed(feedId string, feedDetails FeedDetails, config Config) ([]PostFrontmatter, FeedFrontmatter) {
 	fp := NewParser()
-	parsedFeed, mergedItems, err := fp.ParseURLExtended(feedConfig.URL)
+	parsedFeed, mergedItems, err := fp.ParseURLExtended(feedDetails.Link)
 	if err != nil {
-		fmt.Printf("Unable to parse feed: %s %v", feedConfig.URL, err)
+		fmt.Printf("Unable to parse feed: %v %v", feedDetails, err)
 		return []PostFrontmatter{}, FeedFrontmatter{}
 	}
 
@@ -140,6 +105,13 @@ func processFeed(feedId string, feedConfig FeedConfig, config Config) ([]PostFro
 	feed.Description = parsedFeed.Description
 	feed.Params.Feed = *parsedFeed
 	feed.Params.Id = feedId
+
+	if isEmpty(feed.Title) {
+		feed.Title = feedDetails.Title
+	}
+	if isEmpty(feed.Description) {
+		feed.Description = feedDetails.Text
+	}
 
 	// Store posts elsewhere
 	feed.Params.Feed.Items = []*gofeed.Item{}
@@ -152,7 +124,7 @@ func processFeed(feedId string, feedConfig FeedConfig, config Config) ([]PostFro
 
 	posts := []PostFrontmatter{}
 	for _, post := range mergedItems {
-		processed, err := processPost(&post, parsedFeed, feedConfig, config)
+		processed, err := processPost(&post, parsedFeed, config)
 		processed.Params.FeedId = feedId
 		if err != nil {
 			fmt.Printf("  Excluding post: %v\n", err)
@@ -166,7 +138,7 @@ func processFeed(feedId string, feedConfig FeedConfig, config Config) ([]PostFro
 func writePost(post PostFrontmatter) {
 	output, err := yaml.Marshal(post)
 	if err != nil {
-		panic(fmt.Sprintf("YAML error: %v\n", err))
+		panicStringErr("YAML error", err)
 	}
 
 	// Markdown uses `---` for YAML frontmatter
@@ -177,14 +149,14 @@ func writePost(post PostFrontmatter) {
 	path := fmt.Sprintf("%s/%s.md", POST_FOLDER_PATH, safeGUID(post))
 	err = os.WriteFile(path, output, os.FileMode(int(0600)))
 	if err != nil {
-		panic(fmt.Sprintf("Unable to write file %s %v", path, err))
+		panicStringsErr("Unable to write file", path, err)
 	}
 }
 
 func writeFeed(feed FeedFrontmatter) {
 	output, err := yaml.Marshal(feed)
 	if err != nil {
-		panic(fmt.Sprintf("YAML error: %v\n", err))
+		panicStringErr("YAML error", err)
 	}
 
 	// Markdown uses `---` for YAML frontmatter
@@ -195,7 +167,7 @@ func writeFeed(feed FeedFrontmatter) {
 	path := fmt.Sprintf("%s/%s.md", FEED_FOLDER_PATH, feed.Params.Id)
 	err = os.WriteFile(path, output, os.FileMode(int(0600)))
 	if err != nil {
-		panic(fmt.Sprintf("Unable to write file %s %v", path, err))
+		panicStringsErr("Unable to write file", path, err)
 	}
 }
 
@@ -207,10 +179,10 @@ func main() {
 	config := parseConfig()
 	allPosts := []PostFrontmatter{}
 	allFeeds := []FeedFrontmatter{}
-	for id, feedConfig := range config.Feeds {
-		fmt.Printf("Processing feed: %s\n", feedConfig.URL)
+	for id, feedDetails := range config.Feeds {
+		fmt.Printf("Processing feed: %v\n", feedDetails)
 		feedId := fmt.Sprintf("%d", id)
-		posts, feed := processFeed(feedId, feedConfig, config)
+		posts, feed := processFeed(feedId, feedDetails, config)
 		allFeeds = append(allFeeds, feed)
 		posts = sortAndLimitPosts(posts, *config.MaxPostsPerFeed)
 		fmt.Printf("  got %d posts\n", len(posts))

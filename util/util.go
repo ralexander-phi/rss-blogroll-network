@@ -5,9 +5,7 @@ import (
 	"encoding/hex"
 	"errors"
 	"fmt"
-	readability "github.com/go-shiori/go-readability"
 	"github.com/go-yaml/yaml"
-	"net/url"
 	"os"
 	"sort"
 	"strings"
@@ -37,14 +35,14 @@ func containsAny(search string, targets ...string) (bool, string) {
 func mkdirIfNotExists(path string) {
 	err := os.MkdirAll(path, 0770)
 	if err != nil {
-		panic(fmt.Sprintf("Unable to creater directory: %s: %v", path, err))
+		panicStringsErr("Unable to create directory", path, err)
 	}
 }
 
 func rmdir(path string) {
 	err := os.RemoveAll(path)
 	if err != nil {
-		panic(fmt.Sprintf("Unable to remove directory: %s: %v", path, err))
+		panicStringsErr("Unable to remove directory", path, err)
 	}
 }
 
@@ -66,49 +64,28 @@ func pretty(duration time.Duration) string {
 	}
 }
 
-func errMissingField(field string) error {
-	return errors.New(fmt.Sprintf("Missing required field: %s\n", field))
-}
-
-func errBlockWord(field string, word string) error {
-	return errors.New(fmt.Sprintf("Skipping: %s content contains block word: %s", field, word))
-}
-
-func readablePost(url string) string {
-	fmt.Printf("GET %s for readability\n", url)
-	article, err := readability.FromURL(url, 30*time.Second)
-	if err != nil {
-		return ""
+func firstNonEmpty(options []string) string {
+	for _, option := range options {
+		if !isEmpty(option) {
+			return strings.TrimSpace(option)
+		}
 	}
-	return article.TextContent
+	return ""
 }
 
 func isEmpty(s string) bool {
 	return 0 == len(strings.TrimSpace(s))
 }
 
-func readable(html string) string {
-	fakeURL, err := url.Parse("")
-	if err != nil {
-		panic("Unable to build fake URL")
-	}
-	article, err := readability.FromReader(strings.NewReader(html), fakeURL)
-	if err != nil {
-		return ""
-	}
-	return article.TextContent
-}
-
 func parseConfig() Config {
-	content, err := os.ReadFile("feeds.yaml")
-	if err != nil {
-		panic(fmt.Sprintf("Unable to open file %e", err))
-	}
+	content := readFileOrPanic("feeds.yaml")
 	config := Config{}
-	err = yaml.Unmarshal(content, &config)
+	err := yaml.Unmarshal(content, &config)
 	if err != nil {
-		panic(fmt.Sprintf("Config unmarshal error %e", err))
+		panicStringErr("Config unmarshal error", err)
 	}
+	// Parse the OPML file (local file or remote resource)
+	config.Feeds = parseOpml(config.FeedUrl)
 	return config
 }
 
@@ -142,19 +119,22 @@ func truncateText(s string, max int) string {
 	return s[:strings.LastIndexAny(s[:max], " .,:;-")]
 }
 
-func isDomainOrSubdomain(questionURL string, domain string) bool {
-	questionURL = strings.ToLower(questionURL)
-	domain = strings.ToLower(domain)
-	u, err := url.Parse(questionURL)
-	if err != nil {
-		return false
-	}
-	if u.Host == domain {
-		return true
-	}
-	dotDomain := "." + domain
-	if strings.HasSuffix(u.Host, dotDomain) {
-		return true
-	}
-	return false
+func panicStringErr(s string, err error) {
+	panic(fmt.Sprintf("%s: %e", s, err))
+}
+
+func panicStringsErr(s1, s2 string, err error) {
+	panic(fmt.Sprintf("%s: %s: %e", s1, s2, err))
+}
+
+func panicErr(err error) {
+	panic(fmt.Sprintf("%e", err))
+}
+
+func errMissingField(field string) error {
+	return errors.New(fmt.Sprintf("Missing required field: %s\n", field))
+}
+
+func errBlockWord(field string, word string) error {
+	return errors.New(fmt.Sprintf("Skipping: %s content contains block word: %s", field, word))
 }

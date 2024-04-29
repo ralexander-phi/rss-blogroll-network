@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <opml version="2.0">
+    <head>
+      <title>Your Feeds</title>
+    </head>
+    <body>
+    <outline text="Ungrouped" title="Ungrouped">
+      <outline text="Tom Hazledine" type="rss" xmlUrl="https://tomhazledine.com/feed.xml" />
+      <outline text="alexsci.com blog" type="rss" xmlUrl="https://alexsci.com/blog/rss.xml" />
+      <outline text="Marisabel Munoz" type="rss" xmlUrl="https://marisabel.nl/rss.php" />
+    </outline>  </body>
+  </opml>

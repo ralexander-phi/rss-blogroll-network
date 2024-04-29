@@ -1,18 +1,6 @@
-feeds:
-  - url: https://alexsci.com/blog/rss.xml
-  - url: https://blog.jim-nielsen.com/feed.xml
-  - url: https://blog.thijsalkema.de/atom.xml
-  - url: https://emilymstark.com/feed.xml
-  - url: https://frederik-braun.com/feeds/all.atom.xml
-  - url: https://marisabel.nl/rss.php
-  - url: https://raphaelkabo.com/rss.xml
-  - url: https://sbarnea.com/index.xml
-  - url: https://tyler.io/feed/
-  - url: https://venthur.de/atom.xml
-  - url: https://webdev.rip/atom
-  - url: https://www.mostlypython.com/rss/
-  - url: https://www.privateoctopus.com/feed.xml
-  - url: https://šime.eu/feed.xml
+# If you host your own you can load it here
+# I.E.: feed_url: https://feedland.com/opml?screenname=robalexdev
+feed_url: file://static/links.opml
 
 post_age_limit_days:
 max_posts_per_feed: 50

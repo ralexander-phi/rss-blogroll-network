@@ -3,11 +3,11 @@
 <title>Feed</title>
 <link rel="canonical" href="{{ .Permalink }}" />
 <link rel="alternate" type="application/rss+xml" title="Feed" href="/index.xml">
-<style>
+<link rel="_follows" href="/links.opml">
 
 {{ block "extrahead" . }}
 {{ end }}
-
+<style>
 h1 {
   font-size: 1.5em;
   text-align: center;

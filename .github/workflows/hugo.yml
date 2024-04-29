@@ -40,6 +40,7 @@ jobs:
           HUGO_ENVIRONMENT: production
           HUGO_ENV: production
         run: |
+          set -e
           cd util
           go build
           cd ../site

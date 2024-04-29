@@ -1,13 +1,14 @@
 # Feed2Pages
 
-Aggregate RSS feeds into your own news feed web site
+A blogroll that aggregates RSS feeds into your own news feed web site.
 
 
 ## Use cases
 
 * A personal RSS reader you can access from all your devices
-* Share what you're reading and the RSS feeds you follow
+* Share what you're reading and promote the RSS feeds you follow
 * Aggregate multiple feeds to create a news feed for a particular topic
+* Discover new blogs from the bloggers you follow
 
 
 ## Build your own
@@ -23,38 +24,41 @@ Then enable GitHub Pages:
 
 You can configure a custom domain or enforce HTTPS on this page as well.
 
-Edit `site/feeds.yaml` to customize your feed.
+
+## Connect your feeds
+
+If you're already using an RSS feed reader, check if it can export an OPML file.
+Export this and save it as `site/static/links.opml`.
+You'll need to re-export this file to pick up any changes to who you follow.
+
+You can manage your feed on sites like [FeedLand](https://feedland.com), which publishes your subscriptions at `https://feedland.com/opml?screenname=<yourname>`.
+Edit `site/feeds.yaml` and set `feed_url` to the URL of your OPML file.
+
+Alternatively, you can edit the provided sample file (`site/static/links.opml`) manually.
+The most important field is `xmlUrl` (which points to the feed URL).
+
+
+## Running locally
+
+First build the utility:
+
+    $ cd util
+    $ go build
+
+Then run hugo:
+
+    $ hugo server
+
+
+## Promote your links
+
+Add `<link rel="alternate" type="application/opml+xml" href="<your site>/links.opml">`
+Software that supports this syntax can help readers of your blog discover what you're reading.
 
 
 ## feeds.yaml settings
 
-
-### Configure feeds
-
-A list of URLs with optional settings:
-
-```
-feeds:
-  - url: https://example.com/rss.xml
-  - url: https://example.co.uk/atom.xml
-    block_words:
-      - Bitcoin
-      - Cryptocurrency
-```
-
-The above settings pulls an RSS feed from example.com and an Atom feed from example.co.uk.
-Articles that contain block words, "Bitcoin" and "Cryptocurrency", will be filtered out of the example.co.uk feed but not the example.com feed.
-
-Required fields:
-* `url`: The URL of the RSS, Atom, or JSON feed
-
-Optional fields:
-* `block_words`: Articles that contain any of these words in the title, description, or page content will be filtered out.
-* `block_domains`: Articles from this domain, or subdomains of this domain, will be filtered out. (Overrides the global setting)
-* `ignore_description`: Some RSS feeds contain metadata in the description field. Setting this to `true` will cause Feed2Pages to generate an alternate description from the RSS `content` field or by scraping the linked article. (Overrides the global setting)
-
-
-### Global settings
+`opml`: The URL of your RSS OPML file. You likely don't need to change this, but you can set this to a remote file if you already publish this file elsewhere. There's many public OPML files, like [Awesome RSS Feeds](https://github.com/plenaryapp/awesome-rss-feeds), for example.
 
 `post_age_limit_days`: Filter out posts older than this limit
 
@@ -65,6 +69,7 @@ Optional fields:
 `block_words`: Articles that contain any of these words in the title, description, or page content will be filtered out.
 
 `block_domains`: Articles from this domain, or subdomains of this domain, will be filtered out.
+
 
 ## How it works
 
@@ -84,4 +89,3 @@ Optional fields:
   * Hacker News: https://news.ycombinator.com/rss
   * Hacker News RSS: https://hnrss.org
   * Reddit Subreddits: https://www.reddit.com/r/programming.rss
-

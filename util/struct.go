@@ -5,21 +5,21 @@ import (
 	"github.com/mmcdole/gofeed/rss"
 )
 
-type FeedConfig struct {
-	URL               string   `yaml:"url"`
-	IgnoreDescription *bool    `yaml:"ignore_description"`
-	IgnoreContent     *bool    `yaml:"ignore_content"`
-	BlockWords        []string `yaml:"block_words"`
-	BlockDomains      []string `yaml:"block_domains"`
+type Config struct {
+	Feeds            []FeedDetails
+	FeedUrl          string   `yaml:"feed_url"`
+	PostAgeLimitDays *int     `yaml:"post_age_limit_days"`
+	MaxPostsPerFeed  *int     `yaml:"max_posts_per_feed"`
+	MaxPosts         *int     `yaml:"max_posts"`
+	BlockWords       []string `yaml:"block_words"`
+	BlockDomains     []string `yaml:"block_domains"`
 }
 
-type Config struct {
-	Feeds            []FeedConfig `yaml:"feeds"`
-	PostAgeLimitDays *int         `yaml:"post_age_limit_days"`
-	MaxPostsPerFeed  *int         `yaml:"max_posts_per_feed"`
-	MaxPosts         *int         `yaml:"max_posts"`
-	BlockWords       []string     `yaml:"block_words"`
-	BlockDomains     []string     `yaml:"block_domains"`
+type FeedDetails struct {
+	Link  string
+	Text  string
+	Title string
+	Type  string
 }
 
 // https://gohugo.io/content-management/front-matter/
