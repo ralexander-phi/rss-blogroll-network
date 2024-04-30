@@ -1,1 +1,5 @@
 *.swp
+.hugo_build.lock
+public/
+content/post/
+content/feed/
