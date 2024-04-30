@@ -35,7 +35,7 @@ jobs:
         id: pages
         uses: actions/configure-pages@v5
       - name: Collect content
-        uses: ralexander-phi/feed2pages-action@latest
+        uses: ralexander-phi/feed2pages-action@0.0.3
       - name: Build with Hugo
         env:
           # For maximum backward compatibility with Hugo modules
