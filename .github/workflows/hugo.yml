@@ -34,6 +34,8 @@ jobs:
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
+      - name: Collect content
+        uses: ralexander-phi/feed2pages-action@latest
       - name: Build with Hugo
         env:
           # For maximum backward compatibility with Hugo modules
@@ -41,10 +43,6 @@ jobs:
           HUGO_ENV: production
         run: |
           set -e
-          cd util
-          go build
-          cd ../site
-          ../util/util
           hugo \
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/"
