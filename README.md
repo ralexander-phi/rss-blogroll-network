@@ -16,7 +16,7 @@ A blogroll that aggregates RSS feeds into your own news feed web site.
 First fork this repository into your GitHub account.
 Then enable GitHub Pages:
 
-![Steps to enable GitHub Pages](images/Enable Pages.png)
+![Steps to enable GitHub Pages](images/Enable-Pages.png)
 
 1. Open the Settings tab on your repo
 2. Select Pages from the lefthand navigation
