@@ -1,0 +1,38 @@
+{{ define "extrahead" }}
+<style>
+div.feed {
+  font-size: 1.1em;
+  padding-top: 1.2em;
+}
+
+p {
+  font-size: 1.2em;
+}
+</style>
+{{ end }}
+
+{{ define "main" }}
+
+<a href="..">⮢ Up</a>
+
+<p>This news feed tracks the following feeds:</p>
+
+{{ range .Pages}}
+  <div class="feed">
+  <a href="feed-{{ .Params.id }}">
+    {{ if .Title }}
+      {{ .Title | truncate 80 }}
+    {{ else if .Params.Feed.feedlink }}
+      {{ .Params.Feed.feedlink | truncate 80 }}
+    {{ else }}
+      {{ .Params.Feed.link | truncate 80 }}
+    {{ end }}
+  </a>
+  {{ if .Description }}
+    &mdash;
+    {{ .Description | truncate 200 }}
+  {{ end }}
+  </div>
+{{ end }}
+
+{{ end }}

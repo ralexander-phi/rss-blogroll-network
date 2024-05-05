@@ -14,7 +14,7 @@ li.page-item {
 
 {{ define "main" }}
 
-{{ $paginator := .Paginate (where .Site.RegularPages "Section" "post") }}
+{{ $paginator := .Paginate (where .Site.RegularPages "Section" "reading") }}
 
 {{- range $paginator.Pages -}}
   {{ partial "post" . }}

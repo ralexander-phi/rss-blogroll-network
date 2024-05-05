@@ -8,7 +8,7 @@
 
   <span title="{{ .Date }}" >{{ .Params.pretty_age }}</span>
     &mdash;
-  <a title="{{ .Params.feed.description }}" href="feed/{{ .Params.feed_id}}">
+  <a title="{{ .Params.feed.description }}" href="following/feed-{{ .Params.feed_id}}">
       {{ if .Params.feed.title }}
       {{ .Params.feed.title | truncate 30 }}
       {{ else }}

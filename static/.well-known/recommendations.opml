@@ -5,6 +5,9 @@
   </head>
   <body>
     <outline text="alexsci.com blog" type="rss" xmlUrl="https://alexsci.com/blog/rss.xml" />
+    <outline text="manton.org" type="rss" xmlUrl="https://www.manton.org/feed.xml" />
+    <outline text="scripting.com" type="rss" xmlUrl="http://scripting.com/rss.xml" />
+
     <outline text="lobste.rs" type="rss" xmlUrl="https://lobste.rs/t/programming,cryptography,linux,networking,security,browsers,compsci,devops.rss" />
     <outline text="Hacker News" type="rss" xmlUrl="https://hnrss.org/frontpage?points=100" />
   </body>

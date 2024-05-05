@@ -1,6 +1,6 @@
 # If you host your own you can load it here
 # I.E.: feed_url: https://feedland.com/opml?screenname=robalexdev
-feed_url: file://static/links.opml
+feed_url: file://static/.well-known/recommendations.opml
 
 post_age_limit_days:
 max_posts_per_feed: 50
@@ -17,3 +17,7 @@ block_domains:
   - twitter.com
   - youtube.com
   - youtu.be
+
+discover_depth: 2
+max_recommendations_per_feed: 100
+max_recommendations: 1000

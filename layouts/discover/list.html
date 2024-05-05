@@ -1,0 +1,49 @@
+{{ define "extrahead" }}
+<style>
+
+div.rec {
+  font-size: 1.1em;
+  padding-top: 1.2em;
+}
+
+div.recommender {
+  font-size: 0.8em;
+  font-style: italic;
+}
+
+p {
+  font-size: 1.2em;
+}
+</style>
+{{ end }}
+
+{{ define "main" }}
+
+<a href="..">⮢ Up</a>
+
+<p>Here are even more RSS feeds recommended by the feeds I follow:</p>
+
+{{ range .Pages}}
+  {{ if and (.Title) (.Params.link) }}
+  <div class="rec">
+    <a href="{{ .Params.link }}" rel=“UGC” rel="nofollow">
+      {{ if .Title }}
+        {{ .Title | truncate 80 }}
+      {{ else }}
+        {{ .Params.link | truncate 80 }}
+      {{ end }}
+    </a>
+    {{ if .Description }}
+      &mdash;
+      {{ .Description | truncate 200 }}
+    {{ end }}
+    <div class="recommender">Recommended by: 
+      {{ range .Params.recommended_by }}
+        <span class="recommender">{{ . }}</span>
+      {{ end }}
+    </div>
+  </div>
+  {{ end }}
+{{ end }}
+
+{{ end }}
