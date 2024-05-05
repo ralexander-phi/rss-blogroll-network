@@ -2,4 +2,4 @@ baseURL:
 languageCode: en-us
 title: My New Hugo Site
 canonifyURLs: true
-paginate: 100
+paginate: 30

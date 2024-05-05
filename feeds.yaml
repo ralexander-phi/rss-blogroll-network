@@ -3,13 +3,15 @@
 feed_url: file://static/.well-known/recommendations.opml
 
 post_age_limit_days:
-max_posts_per_feed: 50
+max_posts_per_feed: 30
 max_posts: 2000
 
 block_words:
   - cryptocurrency
   - bitcoin
   - tesla
+  - github copilot
+  - chatgpt
 
 block_domains:
   - medium.com
@@ -17,7 +19,9 @@ block_domains:
   - twitter.com
   - youtube.com
   - youtu.be
+  # slow:
+  - feedpress.me
 
 discover_depth: 2
-max_recommendations_per_feed: 100
+max_recommendations_per_feed: 50
 max_recommendations: 1000

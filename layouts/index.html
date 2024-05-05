@@ -1,17 +1,3 @@
-{{ define "extrahead" }}
-<style>
-ul.pagination {
-  text-align: center;
-  margin: 3em;
-}
-li.page-item {
-  font-size: 1.2em;
-  display: inline;
-  padding: 0.4em;
-}
-</style>
-{{ end }}
-
 {{ define "main" }}
 
 {{ $paginator := .Paginate (where .Site.RegularPages "Section" "reading") }}

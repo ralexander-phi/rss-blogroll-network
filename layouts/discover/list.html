@@ -19,11 +19,10 @@ p {
 
 {{ define "main" }}
 
-<a href="..">⮢ Up</a>
-
 <p>Here are even more RSS feeds recommended by the feeds I follow:</p>
 
-{{ range .Pages}}
+{{ $paginator := .Paginate .Pages }}
+{{ range $paginator.Pages }}
   {{ if and (.Title) (.Params.link) }}
   <div class="rec">
     <a href="{{ .Params.link }}" rel=“UGC” rel="nofollow">
@@ -45,5 +44,5 @@ p {
   </div>
   {{ end }}
 {{ end }}
-
+{{ template "_internal/pagination.html" . }}
 {{ end }}

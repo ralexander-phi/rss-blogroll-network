@@ -8,8 +8,10 @@
   <body>
   {{ partial "topnav" . }}
 
+  <div class="main">
   {{- block "main" . -}}
   {{- end -}}
+  </div>
 
   {{- block "analytics" . -}}
   {{- end -}}
