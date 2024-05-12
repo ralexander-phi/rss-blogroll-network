@@ -4,17 +4,17 @@
     {{ partial "head" . }}
     {{ block "extrahead" . }}
     {{ end }}
+    {{- block "analytics" . -}}
+    {{- end -}}
   </head>
   <body>
-  {{ partial "topnav" . }}
+
+  <h1>RSS Blogroll Network</h1>
 
   <div class="main">
   {{- block "main" . -}}
   {{- end -}}
   </div>
-
-  {{- block "analytics" . -}}
-  {{- end -}}
 
   <footer>
     <div style="font-size: 2em">📡</div>

@@ -3,3 +3,12 @@ languageCode: en-us
 title: My New Hugo Site
 canonifyURLs: true
 paginate: 30
+publishDir: docs
+outputs:
+  home:
+  - html
+  page:
+  rss:
+  section:
+  taxonomy:
+  term:

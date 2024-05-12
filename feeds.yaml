@@ -1,10 +1,9 @@
 # If you host your own you can load it here
 # I.E.: feed_url: https://feedland.com/opml?screenname=robalexdev
-feed_url: file://static/.well-known/recommendations.opml
+feed_url: file:///static/.well-known/recommendations.opml
 
-post_age_limit_days:
-max_posts_per_feed: 30
-max_posts: 2000
+max_posts_per_feed: 1
+max_posts: 1
 
 block_words:
   - cryptocurrency
@@ -22,6 +21,6 @@ block_domains:
   # slow:
   - feedpress.me
 
-discover_depth: 2
-max_recommendations_per_feed: 50
-max_recommendations: 1000
+discover_depth: 80000
+max_recommendations_per_feed: 50000
+max_recommendations: 1000000
