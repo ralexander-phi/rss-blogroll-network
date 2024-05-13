@@ -4,6 +4,8 @@ title: My New Hugo Site
 canonifyURLs: true
 paginate: 30
 publishDir: docs
+disableKinds:
+- sitemap
 outputs:
   home:
   - html

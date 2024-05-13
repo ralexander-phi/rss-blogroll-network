@@ -2,24 +2,9 @@
 # I.E.: feed_url: https://feedland.com/opml?screenname=robalexdev
 feed_url: file:///static/.well-known/recommendations.opml
 
+# Not used
 max_posts_per_feed: 1
 max_posts: 1
-
-block_words:
-  - cryptocurrency
-  - bitcoin
-  - tesla
-  - github copilot
-  - chatgpt
-
-block_domains:
-  - medium.com
-  - substack.com
-  - twitter.com
-  - youtube.com
-  - youtu.be
-  # slow:
-  - feedpress.me
 
 discover_depth: 80000
 max_recommendations_per_feed: 50000
