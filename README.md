@@ -6,6 +6,8 @@ These blogrolls help people who read your blog discover other websites you think
 This project maps connections between blogs and other RSS-enabled entities.
 The size and interconnectedness of the network can be tracked over time.
 
+[Read the blog post.](https://alexsci.com/blog/blogroll-network/)
+
 ## Joining the network
 
 The best way to join the network is for a blog already in the network to add your blog to their blogroll.
