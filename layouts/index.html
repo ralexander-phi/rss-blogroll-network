@@ -123,7 +123,12 @@ The size and interconnectedness of the network can be tracked over time.
     .data(nodes)
     .join("circle")
       .attr("r", 5.2)
-      .attr("fill", "#FF8800");
+      .attr("fill", "#FF8800")
+      .style("cursor", "pointer");
+
+  node.on("click", (_, d) => {
+      window.location.href = d.id
+    });
 
   node.append("title")
       .text(d => d.id);

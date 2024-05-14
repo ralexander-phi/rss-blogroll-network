@@ -6,7 +6,10 @@ These blogrolls help people who read your blog discover other websites you think
 This project maps connections between blogs and other RSS-enabled entities.
 The size and interconnectedness of the network can be tracked over time.
 
-[Read the blog post.](https://alexsci.com/blog/blogroll-network/)
+This project uses the [Feed2Pages-action crawler](https://github.com/ralexander-phi/feed2pages-action) to walk the blogroll network.
+
+[Read the blog post to learn more](https://alexsci.com/blog/blogroll-network/).
+
 
 ## Joining the network
 
@@ -14,6 +17,7 @@ The best way to join the network is for a blog already in the network to add you
 This may happen organically over time if you have content that's interesting to others in the network.
 
 To help the network get bootstrapped, and discover disjoint parts of the network, you can open a GitHub Issue to add you blog.
+Please first check to see if your site is listed to avoid maintainance overhead.
 You'll qualify if:
 
 * You have an RSS feed
