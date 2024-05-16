@@ -1,11 +1,14 @@
-# If you host your own you can load it here
-# I.E.: feed_url: https://feedland.com/opml?screenname=robalexdev
-feed_url: file:///static/.well-known/recommendations.opml
+feed_url: file:///seeds.opml
 
-# Not used
-max_posts_per_feed: 1
-max_posts: 1
+# We don't need any posts
+max_posts_per_feed: 0
+max_posts: 0
 
+# Search deep
 discover_depth: 80000
 max_recommendations_per_feed: 50000
 max_recommendations: 1000000
+
+# Merge these folders
+discover_folder_name: "content/discover"
+following_folder_name: "content/discover"

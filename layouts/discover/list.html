@@ -1,0 +1,35 @@
+{{ define "extratitle" }}
+<nav class="breadcrumb" aria-label="breadcrumbs">
+  <ul>
+    <li><a href="/">Home</a></li>
+    <li class="is-active"><a href="#" aria-current="page">Feeds</a></li>
+  </ul>
+</nav>
+{{ end }}
+
+
+{{ define "main" }}
+
+{{ $feeds := (sort .Pages "Title") }}
+
+<h2 class="subtitle is-4">Web Feed List</h2>
+
+<p class="block">
+{{ $feeds | len }} web feeds are discoverable through the blogroll network.
+</p>
+
+<ul>
+{{- range $feeds -}}
+<li>
+  <a href="/discover/feed-{{ .Params.id }}/">
+    {{ .Title }}
+  </a>
+  {{ if .Description }}
+  &nbsp;&mdash;&nbsp; {{ .Description | truncate 120 }}
+  {{ end }}
+</li>
+{{- end -}}
+</ul>
+</p>
+
+{{- end -}}

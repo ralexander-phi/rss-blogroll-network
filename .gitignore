@@ -1,6 +1,4 @@
 *.swp
 .hugo_build.lock
 content/reading/post-*.md
-content/following/feed-*.md
-content/discover/feed-*.md
-content/network/link-*.md
+public/

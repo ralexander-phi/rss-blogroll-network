@@ -5,21 +5,62 @@
     {{ block "extrahead" . }}
     {{ end }}
     {{ partial "analytics" . }}
+    <script>
+      document.addEventListener('DOMContentLoaded', () => {
+        const $navbarBurgers = Array.prototype.slice.call(document.querySelectorAll('.navbar-burger'), 0);
+        $navbarBurgers.forEach( el => {
+          el.addEventListener('click', () => {
+            const target = el.dataset.target;
+            const $target = document.getElementById(target);
+            el.classList.toggle('is-active');
+            $target.classList.toggle('is-active');
+          });
+        });
+      });
+    </script>
   </head>
   <body>
+  <nav class="navbar is-link" role="navigation" aria-label="main navigation">
+    <div class="navbar-brand">
+      <a class="navbar-item" href="/">
+        Blogroll Network Map
+      </a>
 
-  <h1>RSS Blogroll Network</h1>
+      <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+      </a>
+    </div>
 
-  <div class="main">
-  {{- block "main" . -}}
-  {{- end -}}
-  </div>
+    <div id="navbarBasicExample" class="navbar-menu">
+      <div class="navbar-start">
+        <a class="navbar-item" href="/discover/">
+          Feeds
+        </a>
+        <a class="navbar-item" href="https://github.com/ralexander-phi/rss-blogroll-network">
+          GitHub Repo
+        </a>
+      </div>
+    </div>
+  </nav>
 
-  <footer>
+  <section class="section">
+    <h1 class="title is-2">Blogroll Network Map</h1>
+
+    {{ block "extratitle" . }}
+    {{ end }}
+    {{- block "main" . -}}
+    {{- end -}}
+  </section>
+
+  <footer class="footer" style="text-align: center">
     <div style="font-size: 2em">📡</div>
     <br />
     Powered by <a href="https://github.com/ralexander-phi/Feed2Pages">Feed2Pages</a>
     <br />
+    This project is Apache 2.0 licensed
     <br />
     Last refreshed: {{ time.Now | time.Format "2 January 2006 at 15:04 (MST)"}}
   </footer>

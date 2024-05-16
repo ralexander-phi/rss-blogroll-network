@@ -1,8 +1,18 @@
+{{ define "extratitle" }}
+{{- $feeds := (where .Site.RegularPages.ByTitle "Section" "discover") -}}
+
+<p class="block buttons">
+  <a href="discover" class="button is-primary">Explore {{ $feeds | len }} web feeds</a>
+  <a href="https://alexsci.com/blog/blogroll-network/" class="button is-secondary">Read the blog post</a>
+</p>
+{{ end }}
+
+
 {{ define "main" }}
 
 {{ $nodes := slice }}
 {{ $links := slice }}
-{{- range (where .Site.RegularPages "Section" "network") -}}
+{{- range (where .Site.RegularPages.ByTitle "Section" "network") -}}
   {{- $src :=  .Params.source_url -}}
   {{- $dst :=  .Params.destination_url -}}
   {{- $nodes = $nodes | append (dict "id" $src "group" 1) -}}
@@ -15,79 +25,33 @@
   "links" ($links| uniq)
 ) }}
 
+
 <div id="network-graph"></div>
 
-<h2>About</h2>
+<h2 class="subtitle is-4">About</h2>
 
-<p>
-RSS feeds can programmatically define a <a href="https://opml.org/blogroll.opml">blogroll using OPML</a>.
-These blogrolls help people who read your blog discover other websites you think are worth promoting.
+<p class="block">
+  Websites can programmatically define a <a href="https://opml.org/blogroll.opml">blogroll using OPML</a>.
+  These blogrolls help people who read your blog discover other websites you think are worth promoting.
 </p>
 
 
-<p>
-This project maps connections between blogs and other RSS-enabled entities.
-The size and interconnectedness of the network can be tracked over time.
+<p class="block">
+  This project maps connections between blogs and other websites with RSS feeds or web feeds.
+  The size and interconnectedness of the network can be tracked over time.
 </p>
 
-<p>
-<a href="https://github.com/ralexander-phi/rss-blogroll-network">Learn more</a>
+<p class="block">
+Check out
+<a href="https://github.com/ralexander-phi/rss-blogroll-network">the GitHub repo</a>
+and
+<a href="https://alexsci.com/blog/blogroll-network/">the blog post</a>
+to learn more.
 </p>
-
-<p>
-<a href="https://alexsci.com/blog/blogroll-network/">Read the blog post</a>
-</p>
-
-<table>
-  <thead>
-    <tr>
-      <th>Source</th>
-      <th>Destination</th>
-    </tr>
-  </thead>
-  <tbody id="link-table">
-  </tbody>
-</table>
 
 <script src="d3-7.8.3.min.js"></script>
 <script>
   var data = {{ $data }};
-  data.links.sort(
-    (a, b) => {
-      if (a["source"] == b["source"]) {
-        return 0;
-      } else if (a["source"] > b["source"]) {
-        return 1;
-      } else {
-        return -1;
-      }
-    }
-  );
-
-  var linkTable = document.getElementById("link-table");
-  for (const link of data["links"]) {
-    const src = link["source"];
-    const dst = link["target"];
-    // Skip initial list
-    if (src.startsWith("file://") || dst.startsWith("file://")) {
-      continue;
-    }
-
-    var tr = document.createElement("tr");
-    var aSrc = document.createElement("a");
-    var aDst = document.createElement("a");
-    var tdSrc = document.createElement("td");
-    var tdDst = document.createElement("td");
-    aSrc.innerText = src;
-    aDst.innerText = dst;
-    aSrc.setAttribute("href", src);
-    aDst.setAttribute("href", dst);
-    tdSrc.appendChild(aSrc);
-    tdDst.appendChild(aDst);
-    tr.appendChild(tdSrc);
-    tr.appendChild(tdDst);
-    linkTable.appendChild(tr);
-  }
 
   const color = d3.scaleOrdinal(d3.schemeDark2);
   const width = 1000;
@@ -125,10 +89,6 @@ The size and interconnectedness of the network can be tracked over time.
       .attr("r", 5.2)
       .attr("fill", "#FF8800")
       .style("cursor", "pointer");
-
-  node.on("click", (_, d) => {
-      window.location.href = d.id
-    });
 
   node.append("title")
       .text(d => d.id);
@@ -169,4 +129,5 @@ The size and interconnectedness of the network can be tracked over time.
 
   document.getElementById("network-graph").appendChild(svg.node());
 </script>
+
 {{- end -}}

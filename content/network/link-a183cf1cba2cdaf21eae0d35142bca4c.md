@@ -1,0 +1,5 @@
+---
+params:
+  source_url: https://thoughtshrapnel.com/feed.xml
+  destination_url: https://thoughtshrapnel.com/.well-known/recommendations.opml
+---

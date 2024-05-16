@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>Your Feeds</title>
+  </head>
+  <body>
+    <outline text="alexsci.com blog" type="rss" xmlUrl="https://alexsci.com/blog/rss.xml" />
+    <outline text="manton.org" type="rss" xmlUrl="https://www.manton.org/feed.xml" />
+    <outline text="scripting.com" type="rss" xmlUrl="http://scripting.com/rss.xml" />
+    <outline text="philbowell.me" type="rss" xmlUrl="https://philbowell.me/feed.xml" />
+    <outline text="lmika.org" type="rss" xmlUrl="https://lmika.org/feed.xml" />
+    <outline text="blog.jim-nielsen.com" type="rss" xmlUrl="https://blog.jim-nielsen.com/feed.xml" />
+    <outline text="solene" type="rss" xmlUrl="https://dataswamp.org/~solene/rss.xml" />
+    <outline text="daniel.haxx.se" type="rss" xmlUrl="https://daniel.haxx.se/blog/feed/" />
+    <outline text="tomhazledine" type="rss" xmlUrl="https://tomhazledine.com/feed.xml" />
+    <outline text="words.filippo.io" type="rss" xmlUrl="https://words.filippo.io/rss/" />
+    <outline text="colinwalker" type="rss" xmlUrl="https://colinwalker.blog/dailyfeed.xml" />
+    <outline text="technovia" type="rss" xmlUrl="https://technovia.co.uk/feed.xml" />
+    <outline text="joeross" type="rss" xmlUrl="https://joeross.me/feed.xml" />
+    <outline text="philbowell" type="rss" xmlUrl="https://philbowell.me/feed.xml" />
+    <outline text="samdavies" type="rss" xmlUrl="https://samdavies.me/feed.xml" />
+    <outline text="discursive.adamprocter" type="rss" xmlUrl="https://discursive.adamprocter.co.uk/feed.xml" />
+    <outline text="therealadam" type="rss" xmlUrl="https://therealadam.com/feed.xml" />
+  </body>
+</opml>
