@@ -22,7 +22,11 @@
 {{- range $feeds -}}
 <li>
   <a href="/discover/feed-{{ .Params.id }}/">
-    {{ .Title }}
+    {{ if .Title }}
+      {{ .Title }}
+    {{ else }}
+      {{ .Params.Link }}
+    {{ end }}
   </a>
   {{ if .Description }}
   &nbsp;&mdash;&nbsp; {{ .Description | truncate 120 }}

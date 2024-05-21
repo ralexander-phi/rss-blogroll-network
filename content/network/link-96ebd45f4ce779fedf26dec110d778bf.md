@@ -1,0 +1,7 @@
+---
+params:
+  source_type: 1
+  source_url: https://xn--ime-zza.eu/feed.xml
+  destination_type: 2
+  destination_url: https://šime.eu/
+---

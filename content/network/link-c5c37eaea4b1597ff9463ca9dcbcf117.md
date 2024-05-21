@@ -1,5 +1,7 @@
 ---
 params:
+  source_type: 3
   source_url: https://therealadam.com/.well-known/recommendations.opml
+  destination_type: 1
   destination_url: https://www.henrikkarlsson.xyz/feed
 ---

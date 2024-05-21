@@ -5,6 +5,6 @@ title: Šime’s blog
 params:
   feedlink: https://%C5%A1ime.eu/feed.xml
   id: 2ccf8c0e0990f307bd13afb522b2dd0c
-  link: https://xn--ime-zza.eu/feed.xml
+  link: https://šime.eu/
   blogrolls: []
 ---

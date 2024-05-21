@@ -2,3 +2,9 @@ baseURL:
 languageCode: en-us
 title: My New Hugo Site
 canonifyURLs: true
+outputs:
+  home:
+    - html
+    - json
+  visualize:
+    - html

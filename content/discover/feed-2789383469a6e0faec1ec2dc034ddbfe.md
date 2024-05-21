@@ -5,6 +5,6 @@ title: Rasmus Andersson
 params:
   feedlink: https://rsms.me/atom.xml
   id: 2789383469a6e0faec1ec2dc034ddbfe
-  link: https://rsms.me/atom.xml
+  link: https://rsms.me/
   blogrolls: []
 ---

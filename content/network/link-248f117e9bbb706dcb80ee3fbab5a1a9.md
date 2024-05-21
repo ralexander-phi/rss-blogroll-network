@@ -1,0 +1,7 @@
+---
+params:
+  source_type: 1
+  source_url: https://rsms.me/atom.xml
+  destination_type: 2
+  destination_url: https://rsms.me/
+---

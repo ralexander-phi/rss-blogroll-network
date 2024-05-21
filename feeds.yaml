@@ -12,3 +12,14 @@ max_recommendations: 1000000
 # Merge these folders
 discover_folder_name: "content/discover"
 following_folder_name: "content/discover"
+
+crawl_threads: 8
+
+# Generous timeouts
+request_timeout_ms:              60000
+http_dial_timeout_ms:            60000
+http_tls_handshake_timeout_ms:   30000
+http_response_header_timeout_ms: 30000
+
+# disable keep alive, we won't reconnect often
+http_dial_keep_alive_ms: -1

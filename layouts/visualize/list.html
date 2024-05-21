@@ -1,0 +1,20 @@
+{{ define "main" }}
+
+<h1 class="title is-1">Blogroll Network Map</h1>
+
+<div id="3d-graph"></div>
+
+<script src="/3d-force-graph.min.js"></script>
+<script type="importmap">{ "imports": { "three": "/three.module.js" }}</script>
+<script type="module">
+  import SpriteText from "/three-spritetext.mjs";
+
+  const Graph = ForceGraph3D()
+    (document.getElementById('3d-graph'))
+      .jsonUrl('/index.json')
+      .nodeLabel('id')
+      .nodeAutoColorBy('group')
+      .linkThreeObjectExtend(true);
+
+</script>
+{{ end }}

@@ -1,40 +1,21 @@
-{{ define "extratitle" }}
-{{- $feeds := (where .Site.RegularPages.ByTitle "Section" "discover") -}}
+{{ define "main" }}
 
+<h1 class="title is-1">Blogroll Network Map</h1>
+
+{{- $feeds := (where .Site.RegularPages.ByTitle "Section" "discover") -}}
 <p class="block buttons">
   <a href="discover" class="button is-primary">Explore {{ $feeds | len }} web feeds</a>
   <a href="https://alexsci.com/blog/blogroll-network/" class="button is-secondary">Read the blog post</a>
 </p>
-{{ end }}
 
-
-{{ define "main" }}
-
-{{ $nodes := slice }}
-{{ $links := slice }}
-{{- range (where .Site.RegularPages.ByTitle "Section" "network") -}}
-  {{- $src :=  .Params.source_url -}}
-  {{- $dst :=  .Params.destination_url -}}
-  {{- $nodes = $nodes | append (dict "id" $src "group" 1) -}}
-  {{- $nodes = $nodes | append (dict "id" $dst "group" 1) -}}
-  {{- $links = $links | append (dict "source" $src "target" $dst) -}}
-{{- end -}}
-
-{{ $data := (dict
-  "nodes" ($nodes | uniq)
-  "links" ($links| uniq)
-) }}
-
+<h2 class="subtitle is-4 pt-6">Discover</h2>
 
 <div id="network-graph"></div>
-
-<h2 class="subtitle is-4">About</h2>
 
 <p class="block">
   Websites can programmatically define a <a href="https://opml.org/blogroll.opml">blogroll using OPML</a>.
   These blogrolls help people who read your blog discover other websites you think are worth promoting.
 </p>
-
 
 <p class="block">
   This project maps connections between blogs and other websites with RSS feeds or web feeds.
@@ -49,85 +30,21 @@ and
 to learn more.
 </p>
 
-<script src="d3-7.8.3.min.js"></script>
-<script>
-  var data = {{ $data }};
+<h2 class="subtitle is-4 pt-6">Visualize</h2>
 
-  const color = d3.scaleOrdinal(d3.schemeDark2);
-  const width = 1000;
-  const height = 800;
-  const links = data.links.map(d => ({...d}));
-  const nodes = data.nodes.map(d => ({...d}));
+<p class="block">
+A visualization of the network is also available.
+</p>
 
-  const simulation = d3.forceSimulation(nodes)
-      .force("link", d3.forceLink(links).id(d => d.id))
-      .force("charge", d3.forceManyBody())
-      .force("x", d3.forceX())
-      .force("y", d3.forceY());
+<p class="block">
+<a class="button is-link" href="/visualize">View Network Graph</a>
+</p>
 
-  const svg = d3.create("svg")
-      .attr("width", width)
-      .attr("height", height)
-      .attr("viewBox", [-width / 2, -height / 2, width, height])
-      .attr("style", "max-width: 100%; height: auto;");
+<p class="block">
+<a href="/visualize">
+<img src="visualize.png">
+</a>
+</p>
 
-  const link = svg.append("g")
-      .attr("stroke", "#151")
-      .attr("stroke-opacity", 0.3)
-    .selectAll("line")
-    .data(links)
-    .join("line")
-      .attr("stroke-width", 2)
-      .attr("fill", "333");
-
-  const node = svg.append("g")
-      .attr("stroke", "#333")
-      .attr("stroke-width", 2)
-    .selectAll("circle")
-    .data(nodes)
-    .join("circle")
-      .attr("r", 5.2)
-      .attr("fill", "#FF8800")
-      .style("cursor", "pointer");
-
-  node.append("title")
-      .text(d => d.id);
-
-  node.call(d3.drag()
-        .on("start", dragstarted)
-        .on("drag", dragged)
-        .on("end", dragended));
-
-  simulation.on("tick", () => {
-    link
-        .attr("x1", d => d.source.x)
-        .attr("y1", d => d.source.y)
-        .attr("x2", d => d.target.x)
-        .attr("y2", d => d.target.y);
-
-    node
-        .attr("cx", d => d.x)
-        .attr("cy", d => d.y);
-  });
-
-  function dragstarted(event) {
-    if (!event.active) simulation.alphaTarget(0.3).restart();
-    event.subject.fx = event.subject.x;
-    event.subject.fy = event.subject.y;
-  }
-
-  function dragged(event) {
-    event.subject.fx = event.x;
-    event.subject.fy = event.y;
-  }
-
-  function dragended(event) {
-    if (!event.active) simulation.alphaTarget(0);
-    event.subject.fx = null;
-    event.subject.fy = null;
-  }
-
-  document.getElementById("network-graph").appendChild(svg.node());
-</script>
 
 {{- end -}}

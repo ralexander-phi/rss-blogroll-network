@@ -8,7 +8,6 @@
 </nav>
 {{ end }}
 
-
 {{- define "main" -}}
 
 <h2 class="subtitle is-3 mb-1">{{ .Title }}</h2>
@@ -29,50 +28,56 @@
 {{ .Params.Description }}
 </p>
 
+{{ $current_feed := .Params.feedlink }}
 
-<!-- When searching for recommended feeds, search "forwards" -->
-{{ $blogrollUrls := .Params.blogrolls }}
-{{ $feedlink := .Params.feedlink }}
-{{ $nextUrls := (slice) }}
-{{ $prevUrls := (slice) }}
-{{- range (where .Site.RegularPages "Section" "network") -}}
-  {{- $link := . -}}
-  {{ if in $blogrollUrls $link.Params.source_url }}
-    {{ $nextUrls = $nextUrls | append $link.Params.destination_url }}
-  {{- end -}}
-  {{ if eq $link.Params.source_url $feedlink }}
-    {{ $nextUrls = $nextUrls | append $link.Params.destination_url }}
-  {{- end -}}
-  {{ if eq $link.Params.destination_url $feedlink }}
-    {{ $prevUrls = $prevUrls | append $link.Params.source_url }}
+{{ $fwd_feeds := (slice) }}
+{{ $fwd_search := (slice .Params.feedlink) }}
+{{ $next_fwd_search := (slice) }}
+
+{{ $rev_feeds := (slice) }}
+{{ $rev_search := (slice .Params.feedlink) }}
+{{ $next_rev_search := (slice) }}
+
+{{ $FEED_TYPE := 1 }}
+
+<!-- The longest chain is
+  Feed -> Website
+  Website -> Blogroll
+  Blogroll -> Feed
+  Which requires three lookups
+-->
+
+{{- $links := (where .Site.RegularPages "Section" "network") -}}
+{{ $iters := (slice 1 2 3) }}
+{{- range $idx := $iters -}}
+  {{- range $link := $links -}}
+    {{- if in $fwd_search $link.Params.source_url -}}
+      {{- if eq $FEED_TYPE $link.Params.destination_type -}}
+        {{- if eq $current_feed $link.Params.destination_url -}}
+          <!-- Don't link back to self -->
+        {{- else -}}
+          {{- $fwd_feeds = $fwd_feeds | append $link.Params.destination_url -}}
+        {{- end -}}
+      {{- else -}}
+        {{- $fwd_search = $fwd_search | append $link.Params.destination_url -}}
+      {{- end -}}
+    {{- end -}}
+    {{- if in $rev_search $link.Params.destination_url -}}
+      {{- if eq $FEED_TYPE $link.Params.source_type -}}
+        {{- if eq $current_feed $link.Params.source_url -}}
+          <!-- Don't link back to self -->
+        {{- else -}}
+          {{- $rev_feeds = $rev_feeds | append $link.Params.source_url -}}
+        {{- end -}}
+      {{- else -}}
+        {{- $rev_search = $rev_search | append $link.Params.source_url -}}
+      {{- end -}}
+    {{- end -}}
   {{- end -}}
 {{- end -}}
 
-<!-- Go another link -->
-{{ $nextTwice := (slice) }}
-{{ $prevTwice := (slice) }}
-{{- range (where .Site.RegularPages "Section" "network") -}}
-  {{- $link := . -}}
-  {{ if in $nextUrls $link.Params.source_url }}
-    {{ $nextTwice = $nextTwice | append $link.Params.destination_url }}
-  {{- end -}}
-  {{ if in $prevUrls $link.Params.destination_url }}
-    {{ $prevTwice = $prevTwice | append $link.Params.source_url }}
-  {{- end -}}
-{{- end -}}
 
-{{ $prevFeeds := (slice) }}
-{{ $nextFeeds := (slice) }}
-{{- range (where .Site.RegularPages.ByTitle "Section" "discover") -}}
-  {{ if or (in $nextUrls .Params.feedlink) (in $nextTwice .Params.feedlink) }}
-    {{ $nextFeeds = $nextFeeds | append .Params.feedlink }}
-  {{ end }}
-  {{ if or (in $prevUrls .Params.feedlink) (in $prevTwice .Params.feedlink) }}
-    {{ $prevFeeds = $prevFeeds | append .Params.feedlink }}
-  {{ end }}
-{{- end -}}
-
-{{- if $nextFeeds -}}
+{{- if $fwd_feeds -}}
 <h3 class="subtitle is-4 pt-6">Blogroll</h3>
 <p class="block">
 The blogroll links to the following feeds
@@ -80,7 +85,7 @@ The blogroll links to the following feeds
 <p class="block">
 <ul>
 {{- range (where .Site.RegularPages.ByTitle "Section" "discover") -}}
-  {{ if (in $nextFeeds .Params.feedlink) }}
+  {{ if (in $fwd_feeds .Params.feedlink) }}
   <li>
     <a href="/discover/feed-{{ .Params.id }}">
       {{ .Title }}
@@ -96,9 +101,7 @@ The blogroll links to the following feeds
 {{- end -}}
 
 
-<!-- Sometimes the RSS feed links to a website and that links to the OPML, so we need to go two layers -->
-
-{{- if $prevFeeds -}}
+{{- if $rev_feeds -}}
 <h3 class="subtitle is-4 pt-6">Linked in these blogrolls</h3>
 <p class="block">
 This web feed was found in blogrolls related to these web feeds
@@ -106,7 +109,7 @@ This web feed was found in blogrolls related to these web feeds
 <p class="block">
 <ul>
 {{- range (where .Site.RegularPages.ByTitle "Section" "discover") -}}
-  {{ if (in $prevFeeds .Params.feedlink) }}
+  {{ if (in $rev_feeds .Params.feedlink) }}
   <li>
     <a href="/discover/feed-{{ .Params.id }}">
       {{ .Title }}

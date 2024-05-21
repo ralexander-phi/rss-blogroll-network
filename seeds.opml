@@ -12,7 +12,6 @@
     <outline text="blog.jim-nielsen.com" type="rss" xmlUrl="https://blog.jim-nielsen.com/feed.xml" />
     <outline text="solene" type="rss" xmlUrl="https://dataswamp.org/~solene/rss.xml" />
     <outline text="daniel.haxx.se" type="rss" xmlUrl="https://daniel.haxx.se/blog/feed/" />
-    <outline text="tomhazledine" type="rss" xmlUrl="https://tomhazledine.com/feed.xml" />
     <outline text="words.filippo.io" type="rss" xmlUrl="https://words.filippo.io/rss/" />
     <outline text="colinwalker" type="rss" xmlUrl="https://colinwalker.blog/dailyfeed.xml" />
     <outline text="technovia" type="rss" xmlUrl="https://technovia.co.uk/feed.xml" />
