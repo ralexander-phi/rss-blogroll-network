@@ -8,7 +8,7 @@
   <a href="https://alexsci.com/blog/blogroll-network/" class="button is-secondary">Read the blog post</a>
 </p>
 
-<h2 class="subtitle is-4 pt-6">Discover</h2>
+<h2 class="subtitle is-4 pt-6">About</h2>
 
 <div id="network-graph"></div>
 
@@ -17,9 +17,14 @@
   These blogrolls help people who read your blog discover other websites you think are worth promoting.
 </p>
 
+<p class="p-6">
+<img src="opml-links.drawio.png" style="padding: 2em; background: #ccc;" alt="A diagram showing how an OPML blogroll can link to RSS feeds, which in turn can each link to another OPML blogroll, and so-on">
+</p>
+
 <p class="block">
-  This project maps connections between blogs and other websites with RSS feeds or web feeds.
+  This project maps connections between websites, web feeds (RSS, Atom, and JSON feeds), and OPML blogrolls.
   The size and interconnectedness of the network can be tracked over time.
+  Exploring the network can help you discover new websites recommended by bloggers you already follow.
 </p>
 
 <p class="block">
@@ -28,6 +33,32 @@ Check out
 and
 <a href="https://alexsci.com/blog/blogroll-network/">the blog post</a>
 to learn more.
+</p>
+
+<h2 class="subtitle is-4 pt-6">Create your own OPML blogroll</h2>
+
+<p class="block">
+Joining the network is as easy as publishing your own list of recommended feeds using OPML.
+</p>
+
+<p class="block">
+If you're using WordPress, you can manage your feeds using <a href="https://gist.github.com/joshbetz/689bfef4ce89fe48d19621744fd03138">Link Manager</a>.
+</p>
+
+<p class="block">
+Hosted blogging services like <a href="https://www.manton.org/2024/03/11/recommendations-and-blogrolls.html">micro.blog support OPML blogrolls</a>.
+</p>
+
+<p class="block">
+If you'd like to roll your own, first decide where you'd like to host your recommendations.
+You can use static file hosting provided by your web hosting software or a third party service like <a href="https://feedland.com/opml?screenname=robalexdev">FeedLand</a>.
+Link to your recommendations either <a href="https://opml.org/blogroll.opml">via your RSS feed or website homepage</a>.
+</p>
+
+<p class="block">
+This website crawls web feeds and OPML recommendations starting from several hard-coded seed URLs.
+If your blog is discoverable from those seeds, then your feed and any website in your OPML blogroll will be added to the network.
+If you're not discoverable from a website in the network, you can <a href="https://github.com/ralexander-phi/rss-blogroll-network/issues/new/choose">request that your feed is added as a seed</a>.
 </p>
 
 <h2 class="subtitle is-4 pt-6">Visualize</h2>
@@ -42,7 +73,7 @@ A visualization of the network is also available.
 
 <p class="block">
 <a href="/visualize">
-<img src="visualize.png">
+<img src="visualize.png" alt="A screenshot showing a network graph of websites, web feeds, and blogrolls. Colorful nodes connected by grey lines on a black background">
 </a>
 </p>
 
