@@ -38,6 +38,7 @@
 {{ $rev_search := (slice .Params.feedlink) }}
 {{ $next_rev_search := (slice) }}
 
+{{ $SEED_TYPE := 0 }}
 {{ $FEED_TYPE := 1 }}
 
 <!-- The longest chain is
@@ -52,7 +53,7 @@
 {{- range $idx := $iters -}}
   {{- range $link := $links -}}
     {{- if in $fwd_search $link.Params.source_url -}}
-      {{- if eq $FEED_TYPE $link.Params.destination_type -}}
+      {{- if and (eq $FEED_TYPE $link.Params.destination_type) (ne $SEED_TYPE $link.Params.source_type) -}}
         {{- if eq $current_feed $link.Params.destination_url -}}
           <!-- Don't link back to self -->
         {{- else -}}
@@ -63,7 +64,7 @@
       {{- end -}}
     {{- end -}}
     {{- if in $rev_search $link.Params.destination_url -}}
-      {{- if eq $FEED_TYPE $link.Params.source_type -}}
+      {{- if and (eq $FEED_TYPE $link.Params.source_type) (ne $SEED_TYPE $link.Params.destination_type) -}}
         {{- if eq $current_feed $link.Params.source_url -}}
           <!-- Don't link back to self -->
         {{- else -}}
