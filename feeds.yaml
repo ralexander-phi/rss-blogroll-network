@@ -14,6 +14,9 @@ max_recommendations: 1000000
 discover_folder_name: "content/discover"
 following_folder_name: "content/discover"
 
+# Append content, helps when some sites are temporarily offline
+remove_old_content: False
+
 crawl_threads: 8
 
 # Generous timeouts
