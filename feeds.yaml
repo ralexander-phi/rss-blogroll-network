@@ -1,4 +1,5 @@
-feed_url: file:///seeds.opml
+feed_urls:
+  - file:///seeds.opml
 
 # We don't need any posts
 max_posts_per_feed: 0

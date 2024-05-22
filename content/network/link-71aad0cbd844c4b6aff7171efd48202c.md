@@ -1,0 +1,7 @@
+---
+params:
+  source_type: 3
+  source_url: https://jakelacaze.com/.well-known/recommendations.opml
+  destination_type: 1
+  destination_url: https://ryanholiday.net/feed/atom/
+---
