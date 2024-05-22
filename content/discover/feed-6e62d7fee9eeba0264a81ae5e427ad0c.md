@@ -1,5 +1,5 @@
 ---
-date: "2024-05-21T23:54:21.295+01:00"
+date: "2024-05-22T07:00:32.921+01:00"
 description: Life viewed from London E3
 title: diamond geezer
 params:
