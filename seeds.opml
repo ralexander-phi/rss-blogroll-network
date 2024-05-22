@@ -21,5 +21,6 @@
     <outline text="discursive.adamprocter" type="rss" xmlUrl="https://discursive.adamprocter.co.uk/feed.xml" />
     <outline text="therealadam" type="rss" xmlUrl="https://therealadam.com/feed.xml" />
     <outline text="josh.blog" type="rss" xmlUrl="https://josh.blog/feed" />
+    <outline text="visitmy.website" type="rss" xmlUrl="https://visitmy.website/feed.xml" />
   </body>
 </opml>
