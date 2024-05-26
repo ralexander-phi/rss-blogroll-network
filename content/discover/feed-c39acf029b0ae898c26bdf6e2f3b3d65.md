@@ -1,5 +1,5 @@
 ---
-date: "2024-05-22T14:07:47+00:00"
+date: "2024-05-26T11:11:28+00:00"
 description: ""
 title: Home Assistant
 params:

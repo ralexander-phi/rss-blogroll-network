@@ -1,5 +1,5 @@
 ---
-date: "2024-05-21T21:06:33+02:00"
+date: "2024-05-26T15:23:29+02:00"
 description: The place on the web where I do more procrastinating than writing
 title: Derek Kedziora
 params:

@@ -1,5 +1,5 @@
 ---
-date: "2024-05-22T14:53:12.870248+00:00"
+date: "2024-05-26T16:46:45.759475+00:00"
 description: The personal blog of a 30-something year old cis-male from the East of
   England. Topics include mental, physical, and emotional health, hobbies, and self-improvement.
 title: Nicky's Blog

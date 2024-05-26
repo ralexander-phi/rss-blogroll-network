@@ -1,0 +1,7 @@
+---
+params:
+  source_type: 2
+  source_url: https://colinwalker.blog
+  destination_type: 3
+  destination_url: https://colinwalker.blog/feeds.opml
+---

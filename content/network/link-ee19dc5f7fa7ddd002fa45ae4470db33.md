@@ -1,0 +1,7 @@
+---
+params:
+  source_type: 2
+  source_url: https://im.farai.xyz/
+  destination_type: 3
+  destination_url: https://im.farai.xyz/.well-known/recommendations.opml
+---

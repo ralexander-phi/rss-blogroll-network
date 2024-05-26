@@ -1,5 +1,5 @@
 ---
-date: "2024-05-22T08:25:34.831-05:00"
+date: "2024-05-25T21:37:29.488-05:00"
 description: '...trudging into the distance in the bleeding stinking mad shadow of
   Jesus...the Lord out of dust had created him, had made him blood and nerve and mind,
   had made him to bleed and weep and think, and'

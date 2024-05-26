@@ -1,0 +1,7 @@
+---
+params:
+  source_type: 3
+  source_url: https://samdavies.me/.well-known/recommendations.opml
+  destination_type: 2
+  destination_url: https://ross.catrow.net
+---
