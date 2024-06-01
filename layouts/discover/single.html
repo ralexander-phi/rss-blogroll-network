@@ -10,120 +10,141 @@
 
 {{- define "main" -}}
 
-<h2 class="subtitle is-3 mb-1">{{ .Title }}</h2>
+<section class="hero is-info mb-6">
+  <div class="hero-body">
+  <p class="is-size-6">
+  {{ .Params.feedlink }}
+  </p>
 
-<p class="block tags">
-{{ if .Params.link }}
-  <a rel="ugc" href="{{ .Params.link }}" class="tag is-link">Website</a>
-{{ end }}
-<a rel="ugc" href="{{ .Params.feedlink }}" class="tag is-link">Web Feed</a>
+  <h2 class="subtitle is-3 mb-1">{{ .Title }}</h2>
 
-{{ range .Params.blogrolls }}
-<a rel="ugc" href="{{ . }}" class="tag is-link">Blogroll</a>
-</a>
-{{ end }}
-</p>
-
-<p class="block is-size-5">
-{{ .Params.Description }}
-</p>
-
-{{ $current_feed := .Params.feedlink }}
-
-{{ $fwd_feeds := (slice) }}
-{{ $fwd_search := (slice .Params.feedlink) }}
-{{ $next_fwd_search := (slice) }}
-
-{{ $rev_feeds := (slice) }}
-{{ $rev_search := (slice .Params.feedlink) }}
-{{ $next_rev_search := (slice) }}
-
-{{ $SEED_TYPE := 0 }}
-{{ $FEED_TYPE := 1 }}
-
-<!-- The longest chain is
-  Feed -> Website
-  Website -> Blogroll
-  Blogroll -> Feed
-  Which requires three lookups
--->
-
-{{- $links := (where .Site.RegularPages "Section" "network") -}}
-{{ $iters := (slice 1 2 3) }}
-{{- range $idx := $iters -}}
-  {{- range $link := $links -}}
-    {{- if in $fwd_search $link.Params.source_url -}}
-      {{- if and (eq $FEED_TYPE $link.Params.destination_type) (ne $SEED_TYPE $link.Params.source_type) -}}
-        {{- if eq $current_feed $link.Params.destination_url -}}
-          <!-- Don't link back to self -->
-        {{- else -}}
-          {{- $fwd_feeds = $fwd_feeds | append $link.Params.destination_url -}}
-        {{- end -}}
-      {{- else -}}
-        {{- $fwd_search = $fwd_search | append $link.Params.destination_url -}}
-      {{- end -}}
-    {{- end -}}
-    {{- if in $rev_search $link.Params.destination_url -}}
-      {{- if and (eq $FEED_TYPE $link.Params.source_type) (ne $SEED_TYPE $link.Params.destination_type) -}}
-        {{- if eq $current_feed $link.Params.source_url -}}
-          <!-- Don't link back to self -->
-        {{- else -}}
-          {{- $rev_feeds = $rev_feeds | append $link.Params.source_url -}}
-        {{- end -}}
-      {{- else -}}
-        {{- $rev_search = $rev_search | append $link.Params.source_url -}}
-      {{- end -}}
-    {{- end -}}
-  {{- end -}}
-{{- end -}}
-
-
-{{- if $fwd_feeds -}}
-<h3 class="subtitle is-4 pt-6">Blogroll</h3>
-<p class="block">
-The blogroll links to the following feeds
-</p>
-<p class="block">
-<ul>
-{{- range (where .Site.RegularPages.ByTitle "Section" "discover") -}}
-  {{ if (in $fwd_feeds .Params.feedlink) }}
-  <li>
-    <a href="/discover/feed-{{ .Params.id }}">
-      {{ .Title }}
+  <p class="tags pb-0 mb-0">
+  {{ range $url, $validated := .Params.websites }}
+  <span class="tags has-addons mb-0">
+    <a rel="ugc" href="{{ $url }}" class="tag is-link">
+      {{ if hasPrefix $url "https://bsky.app/" }}
+        Bluesky
+      {{ else }}
+        Website
+      {{ end }}
     </a>
-    {{- if .Description -}}
-      &nbsp;&mdash;&nbsp; {{ .Description }}
-    {{- end -}}
-  </li>
-  {{- end -}}
-{{- end -}}
-</ul>
-</p>
-{{- end -}}
+    {{ if $validated }}
+    <span title="Validated" class="tag is-success is-light">&#x2714;</span>
+    {{ else }}
+    <span title="Unvalidated" class="tag is-danger is-light">?</span>
+    {{ end }}
+  </span>
+  {{ end }}
+  <span class="tags has-addons mb-0">
+  <a rel="ugc" href="{{ .Params.feedlink }}" class="tag is-link">
+    {{ if eq .Params.feedtype "rss" }}
+      RSS
+    {{ else if eq .Params.feedtype "atom" }}
+      Atom
+    {{ else }}
+      Web
+    {{ end }}
+    Feed</a>
+  </span>
 
+  {{ range .Params.blogrolls }}
+  <span class="tags has-addons mb-0">
+  <a rel="ugc" href="{{ . }}" class="tag is-link">OPML Blogroll</a>
+  </span>
+  {{ end }}
 
-{{- if $rev_feeds -}}
-<h3 class="subtitle is-4 pt-6">Linked in these blogrolls</h3>
-<p class="block">
-This web feed was found in blogrolls related to these web feeds
-</p>
-<p class="block">
-<ul>
-{{- range (where .Site.RegularPages.ByTitle "Section" "discover") -}}
-  {{ if (in $rev_feeds .Params.feedlink) }}
-  <li>
-    <a href="/discover/feed-{{ .Params.id }}">
-      {{ .Title }}
-    </a>
-    {{- if .Description -}}
-      &nbsp;&mdash;&nbsp; {{ .Description }}
-    {{- end -}}
-  </li>
-  {{- end -}}
-{{- end -}}
-</ul>
-</p>
-{{- end -}}
+  <!-- display hack -->
+  <span class="tags has-addons mb-0"></span>
+  </p>
+
+  {{ if .Description }}
+  <p class="block is-size-5 pt-5">
+  {{ .Description }}
+  </p>
+  {{ end }}
+
+  {{ if .Params.categories }}
+  <h3 class="subtitle is-4 pt-6">Categories</h3>
+  <ul class="mt-1 pl-3">
+    {{ range .Params.categories }}
+    <span class="tag is-info">{{ . }}</span>
+    {{ end }}
+  </ul>
+  {{ end }}
+  </div>
+
+</section>
+
+{{ $ctx := . }}
+
+<div class="columns">
+
+  <div class="column is-one-third section">
+    <h3 class="subtitle is-3">Related Sites</h3>
+    {{ if .Params.relme }}
+    <ul>
+      {{ range $url, $validated := .Params.relme }}
+      <li>
+      <a rel="ugc" href="{{ $url }}">{{ $url }}</a>
+      {{ if $validated }}
+      <span title="Validated" class="tag is-success is-light">&#x2714;</span>
+      {{ else }}
+      <span title="Unvalidated" class="tag is-danger is-light">?</span>
+      {{ end }}
+      </li>
+      {{ end }}
+      </ul>
+    {{ else }}
+      <p class="block">
+      None found.
+      </p>
+      <p class="block p-3" style="border-left: 0.2em solid #4258ff;">
+      If you are the site owner, you can add <code>&lt;link rel="me" ...&gt;</code> elements to link to your other sites or profile pages.
+      These will appear after the next crawl.
+      </p>
+    {{ end }}
+  </div>
+
+  <div class="column is-one-third section">
+    <h3 class="subtitle is-3">Blogroll</h3>
+    {{ if .Params.recommended }}
+      Web feeds discovered via OPML blogroll
+      <ul class="pl-4">
+      {{ range $rec := sort .Params.recommended }}
+        {{ partialCached "feed_short.html" (dict "context" $ctx "rec" $rec) $rec }}
+      {{ end }}
+      </ul>
+    {{ else }}
+      <p class="block">
+      None found.
+      Only web feeds (RSS feeds or Atom feeds) will appear here.
+      </p>
+      <p class="block p-3" style="border-left: 0.2em solid #4258ff">
+      If you are the site owner you can add an OPML blogroll to <a href="https://alexsci.com/blog/blogroll-network/">recommend other blogs or websites</a>.
+      </p>
+    {{ end }}
+  </div>
+
+  <div class="column is-one-third section">
+    <h3 class="subtitle is-3">Subscribers</h3>
+    {{ if .Params.recommender }}
+      Web feeds that include this feed
+      <ul class="pl-4">
+      {{ range $rec := .Params.recommender }}
+        {{ partialCached "feed_short.html" (dict "context" $ctx "rec" $rec) $rec }}
+      {{ end }}
+      </ul>
+    {{ else }}
+      <p class="block">
+      None found.
+      </p>
+      <p class="block p-3" style="border-left: 0.2em solid #4258ff">
+      If you'd like to promote this feed you can add it to your OPML blogroll.
+      You'll appear here as a subscriber after the next crawl if your site is part of the network.
+      </p>
+    {{ end }}
+  </div>
+</div>
 
 
 {{- end -}}

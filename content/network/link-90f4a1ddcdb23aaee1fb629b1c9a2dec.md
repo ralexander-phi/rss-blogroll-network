@@ -1,7 +1,0 @@
----
-params:
-  source_type: 1
-  source_url: https://colinwalker.blog/dailyfeed.xml
-  destination_type: 3
-  destination_url: https://colinwalker.blog/feeds.opml
----

@@ -1,0 +1,24 @@
+{{- $target := .rec -}}
+
+{{- range $feed := (where .context.Site.RegularPages "Section" "discover") -}}
+{{- if eq $target .Params.FeedLink }}
+
+<li class="pt-5">
+  <a href="/discover/feed-{{ .Params.feedid }}/">
+    {{ if .Title }}
+      {{ .Title }}
+    {{ else }}
+      {{ .Params.FeedLink }}
+    {{ end }}
+  </a>
+  <br />
+  <a class="is-size-7" href="{{ .Params.FeedLink }}">
+  {{ .Params.FeedLink }}
+  </a>
+  {{ if .Description }}
+  <br />
+  {{ .Description | truncate 120 }}
+  {{ end }}
+</li>
+{{- end -}}
+{{- end -}}

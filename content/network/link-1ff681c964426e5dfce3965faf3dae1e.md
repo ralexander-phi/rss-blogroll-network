@@ -1,7 +1,0 @@
----
-params:
-  source_type: 3
-  source_url: https://colinwalker.blog/feeds.opml
-  destination_type: 1
-  destination_url: https://thejaymo.net/feed/
----

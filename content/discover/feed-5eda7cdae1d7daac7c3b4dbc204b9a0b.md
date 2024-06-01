@@ -1,10 +1,18 @@
 ---
-date: Fri, 19 Apr 2024 22:36:36 +0000
-description: Ryan C. Jerz's feed
 title: Jerz.US - Microblog
+description: Ryan C. Jerz's feed
 params:
   feedlink: https://jerz.us/rss/?section=micro
-  id: 5eda7cdae1d7daac7c3b4dbc204b9a0b
-  link: https://jerz.us/
+  feedtype: rss
+  feedid: 5eda7cdae1d7daac7c3b4dbc204b9a0b
+  websites: {}
   blogrolls: []
+  recommended: []
+  recommender:
+  - https://danq.me/comments/feed/
+  - https://danq.me/feed/
+  - https://danq.me/kind/article/feed/
+  - https://danq.me/kind/note/feed/
+  categories: []
+  relme: {}
 ---

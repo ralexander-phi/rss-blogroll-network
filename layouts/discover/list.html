@@ -19,14 +19,20 @@
 </p>
 
 <ul>
-{{- range $feeds -}}
+{{- range sort $feeds ".Params.feedlink" -}}
 <li>
-  <a href="/discover/feed-{{ .Params.id }}/">
+  <a href="/discover/feed-{{ .Params.feedid }}/">
+
     {{ if .Title }}
       {{ .Title }}
     {{ else }}
-      {{ .Params.Link }}
+      {{ .Params.feedlink }}
     {{ end }}
+
+  <span class="tag">
+    {{ .Params.feedtype }}
+  </span>
+
   </a>
   {{ if .Description }}
   &nbsp;&mdash;&nbsp; {{ .Description | truncate 120 }}

@@ -1,7 +1,0 @@
----
-params:
-  source_type: 3
-  source_url: https://rknight.me/blog/roll/opml.xml
-  destination_type: 2
-  destination_url: https://birchtree.me
----

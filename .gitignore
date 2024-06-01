@@ -2,3 +2,7 @@
 .hugo_build.lock
 content/reading/post-*.md
 public/
+static/index.json
+feed2pages.db
+rss-blogroll-network
+*.log

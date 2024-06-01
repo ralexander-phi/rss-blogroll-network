@@ -39,3 +39,13 @@ We'll respect your decision if you don't want your website listed here.
 
 Our crawler uses the `Feed2Pages/*` User-Agent string and respects `robots.txt`.
 Block this User-Agent (or all bots) from accessing your RSS feed using your `robots.txt` file.
+
+
+## Running the crawler
+
+Build https://github.com/ralexander-phi/feed2pages-action, which has the crawler code.
+
+Then build this project (`go build`) and run the analysis tool: `./rss-blogroll-network`.
+
+Finally build the site with hugo: `hugo` or `hugo server`.
+

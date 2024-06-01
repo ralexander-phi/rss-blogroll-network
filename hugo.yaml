@@ -5,6 +5,5 @@ canonifyURLs: true
 outputs:
   home:
     - html
-    - json
   visualize:
     - html

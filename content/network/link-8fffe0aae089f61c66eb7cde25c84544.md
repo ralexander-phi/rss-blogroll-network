@@ -1,7 +1,0 @@
----
-params:
-  source_type: 3
-  source_url: https://lmika.org/.well-known/recommendations.opml
-  destination_type: 2
-  destination_url: https://critter.blog
----
