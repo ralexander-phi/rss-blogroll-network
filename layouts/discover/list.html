@@ -19,7 +19,7 @@
 </p>
 
 <ul>
-{{- range sort $feeds ".Params.feedlink" -}}
+{{- range sort (sort $feeds ".Params.feedlink") ".Params.blogrolls" "desc" -}}
 <li>
   <a href="/discover/feed-{{ .Params.feedid }}/">
 
@@ -29,9 +29,19 @@
       {{ .Params.feedlink }}
     {{ end }}
 
+  {{ if ne (.Params.blogrolls | len) 0 }}
   <span class="tag">
-    {{ .Params.feedtype }}
+    Blogroll
   </span>
+  {{ end }}
+
+  {{ if eq .Params.feedtype "rss" }}
+  <span class="tag">RSS Feed</span>
+  {{ else if eq .Params.feedtype "atom" }}
+  <span class="tag">Atom Feed</span>
+  {{ else }}
+  <span class="tag">Web Feed</span>
+  {{ end }}
 
   </a>
   {{ if .Description }}
