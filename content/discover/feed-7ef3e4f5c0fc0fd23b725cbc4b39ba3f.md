@@ -1,5 +1,6 @@
 ---
 title: Home Assistant
+date: "1970-01-01T00:00:00Z"
 description: Public posts from @homeassistant@fosstodon.org
 params:
   feedlink: https://fosstodon.org/@homeassistant.rss
@@ -16,4 +17,9 @@ params:
     https://www.home-assistant.io/: true
     https://www.home-assistant.io/join-chat: false
     https://www.youtube.com/@home_assistant: false
+  last_post_title: ""
+  last_post_description: ""
+  last_post_date: ""
+  last_post_link: ""
+  last_post_categories: []
 ---

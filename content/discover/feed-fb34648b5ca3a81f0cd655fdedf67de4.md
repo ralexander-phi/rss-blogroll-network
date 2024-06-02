@@ -1,5 +1,6 @@
 ---
 title: 'Alchemists: Screencasts'
+date: "2021-02-15T13:39:41Z"
 description: Screencast tutorials for teaching the craft of software engineering.
 params:
   feedlink: https://alchemists.io/feeds/screencasts.xml
@@ -14,6 +15,12 @@ params:
   blogrolls: []
   recommended: []
   recommender: []
-  categories: []
+  categories:
+  - screencasts
   relme: {}
+  last_post_title: ""
+  last_post_description: ""
+  last_post_date: ""
+  last_post_link: ""
+  last_post_categories: []
 ---

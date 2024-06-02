@@ -1,5 +1,6 @@
 ---
 title: African Music Forum
+date: "1970-01-01T00:00:00Z"
 description: Community for Lovers of African Musics
 params:
   feedlink: https://amf.didiermary.fr/feed/
@@ -20,4 +21,14 @@ params:
     https://masto.ai/@cybeardjm: true
     https://mastodon.host/@cybeardjm: false
     https://twitter.com/cybeardjm: false
+  last_post_title: TRUE STORY – Malcolm Jiyane Tree-O
+  last_post_description: While the Tree-O’s previous outing UMDALI presented a snapshot
+    of an inspired few days of spontaneity, TRUE STORY is a more deliberately crafted
+    opus. Recorded in Johannesburg over three sessions
+  last_post_date: "2024-05-31T19:57:12Z"
+  last_post_link: https://amf.didiermary.fr/true-story-malcolm-jiyane-tree-o/
+  last_post_categories:
+  - AfroJazz
+  - Jazz
+  - South Africa
 ---

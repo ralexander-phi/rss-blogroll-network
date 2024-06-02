@@ -1,5 +1,6 @@
 ---
 title: ALAN'S LIST of POLYAMORY EVENTS
+date: "2024-06-01T09:28:41-04:00"
 description: Poly cons, retreats and other gatherings â€” regional, national and international
 params:
   feedlink: https://polyevents.blogspot.com/feeds/posts/default
@@ -10,7 +11,24 @@ params:
   blogrolls: []
   recommended: []
   recommender: []
-  categories: []
+  categories:
+  - '#ENMconventions'
+  - '#PolyConventions'
+  - '#polyamoryevents'
+  - '#polycons'
+  - '#polyevents'
+  - poly con
+  - poly events
+  - poly groups
+  - polyamory
+  - polyamory conference
+  - polyamory convention
+  - polyamory event
   relme:
     https://www.blogger.com/profile/16008171792811719945: true
+  last_post_title: ""
+  last_post_description: ""
+  last_post_date: ""
+  last_post_link: ""
+  last_post_categories: []
 ---

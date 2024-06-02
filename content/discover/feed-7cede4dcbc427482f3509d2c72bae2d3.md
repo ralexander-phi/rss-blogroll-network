@@ -1,5 +1,6 @@
 ---
 title: xkcd.com
+date: "1970-01-01T00:00:00Z"
 description: 'xkcd.com: A webcomic of romance and math humor.'
 params:
   feedlink: https://xkcd.com/rss.xml
@@ -19,4 +20,9 @@ params:
   - https://hacdias.com/feed.xml
   categories: []
   relme: {}
+  last_post_title: Modes of Transportation
+  last_post_description: ""
+  last_post_date: "1970-01-01T00:00:00Z"
+  last_post_link: https://xkcd.com/2940/
+  last_post_categories: []
 ---

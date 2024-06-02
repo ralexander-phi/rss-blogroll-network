@@ -1,5 +1,6 @@
 ---
 title: Paolo’s Weblog
+date: "1970-01-01T00:00:00Z"
 description: Paolo Valdemarin's blog - since 2002
 params:
   feedlink: https://val.demar.in/feed/
@@ -14,5 +15,14 @@ params:
   - http://scripting.com/rssNightly.xml
   categories: []
   relme:
-    https://mastodon.cloud/@Paolo: false
+    https://mastodon.cloud/@Paolo: true
+  last_post_title: The “think of a number” fallacy
+  last_post_description: Some time a go a colleague commenting on the idea of iterative
+    prompting, suggested to ask GPT to “think about something” and then make a decision
+    on what to write or not to write. The problem
+  last_post_date: "2024-04-15T16:12:16Z"
+  last_post_link: https://val.demar.in/2024/04/the-think-of-a-number-fallacy/
+  last_post_categories:
+  - Artificial Intelligence
+  - prompting
 ---

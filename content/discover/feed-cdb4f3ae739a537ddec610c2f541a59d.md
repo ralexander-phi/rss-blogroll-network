@@ -1,5 +1,6 @@
 ---
 title: Comments for Enthusiasms
+date: "1970-01-01T00:00:00Z"
 description: All my interests in one place
 params:
   feedlink: https://www.curtisfamily.org.uk/comments/feed/
@@ -12,4 +13,11 @@ params:
   recommender: []
   categories: []
   relme: {}
+  last_post_title: Comment on Banktivity Revisited by Moneywiz to Banktivity – Enthusiasms
+  last_post_description: '[…] Despite some bad experiences in my free trial period,
+    I subscribed and have now been using Banktivity for several months. I felt forced
+    to change the app I use for my personal finances.'
+  last_post_date: "2023-12-08T12:12:02Z"
+  last_post_link: https://www.curtisfamily.org.uk/technology/banktivity-revisited/#comment-6
+  last_post_categories: []
 ---

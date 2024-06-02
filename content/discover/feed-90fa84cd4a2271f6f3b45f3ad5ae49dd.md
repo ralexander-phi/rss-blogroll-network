@@ -1,5 +1,6 @@
 ---
 title: "\U0001F38F Glitch"
+date: "1970-01-01T00:00:00Z"
 description: Public posts from @glitchdotcom@mastodon.social
 params:
   feedlink: https://mastodon.social/@glitchdotcom.rss
@@ -16,4 +17,9 @@ params:
     https://glitch.com/: true
     https://help.glitch.com/: false
     https://support.glitch.com/: false
+  last_post_title: ""
+  last_post_description: ""
+  last_post_date: ""
+  last_post_link: ""
+  last_post_categories: []
 ---

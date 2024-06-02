@@ -1,5 +1,6 @@
 ---
 title: Dan Q
+date: "1970-01-01T00:00:00Z"
 description: 'Personal blog of Dan Q: hacker, magician, geocacher, gamer...'
 params:
   feedlink: https://danq.me/feed/
@@ -217,8 +218,6 @@ params:
   - https://www.blogpocket.com/feed/
   - https://www.blogpocket.com/feed/podcast
   - https://rss.metafilter.com/metafilter.rss
-  - https://www.optipess.com/comments/feed/
-  - https://www.optipess.com/feed/
   - https://www.zylstra.org/blog/comments/feed/
   - https://xkcd.com/atom.xml
   - https://youdo.blog/comments/feed/
@@ -232,4 +231,9 @@ params:
     https://m.danq.me/@dan: false
     https://www.linkedin.com/in/itsdanq/: false
     https://www.youtube.com/@DanQ: false
+  last_post_title: ""
+  last_post_description: ""
+  last_post_date: ""
+  last_post_link: ""
+  last_post_categories: []
 ---

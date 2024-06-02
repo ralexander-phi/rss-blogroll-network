@@ -1,5 +1,6 @@
 ---
 title: Erin Kissane's small internet website
+date: "1970-01-01T00:00:00Z"
 description: The feed of updates to Erin Kissane's small internet website
 params:
   feedlink: https://erinkissane.com/feed.rss
@@ -14,4 +15,11 @@ params:
   - https://joeross.me/feed.xml
   categories: []
   relme: {}
+  last_post_title: Untangling Threads
+  last_post_description: Back in the fall, I wrote a series of posts on a particularly
+    horrific episode in Meta’s past. I hadn’t planned to revisit the topic immediately,
+    but here we are, with Threads federation with the
+  last_post_date: "2023-12-21T21:56:23Z"
+  last_post_link: https://erinkissane.com/untangling-threads
+  last_post_categories: []
 ---

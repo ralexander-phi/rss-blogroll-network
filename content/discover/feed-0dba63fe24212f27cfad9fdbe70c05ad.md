@@ -1,5 +1,6 @@
 ---
 title: ttntm.me - Likes
+date: "2024-05-29T00:00:00Z"
 description: Tom's homepage. A personal website, journal and playground. Everything,
   and nothing.
 params:
@@ -37,4 +38,9 @@ params:
     https://codeberg.org/ttntm: false
     https://fosstodon.org/@ttntm: false
     https://github.com/ttntm: false
+  last_post_title: Week 22, 2024
+  last_post_description: ""
+  last_post_date: "1970-01-01T00:00:00Z"
+  last_post_link: https://ttntm.me/likes/2024-w22/
+  last_post_categories: []
 ---

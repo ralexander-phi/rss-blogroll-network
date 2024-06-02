@@ -1,5 +1,6 @@
 ---
 title: A Whole Lotta Nothing
+date: "1970-01-01T00:00:00Z"
 description: A Whole Lotta Nothing
 params:
   feedlink: https://a.wholelottanothing.org/rss/
@@ -14,4 +15,11 @@ params:
   - https://jeroensangers.com/podcast.xml
   categories: []
   relme: {}
+  last_post_title: It's been…
+  last_post_description: Eight years after the crime was committed, six years since
+    most evidence came to light in Michael Cohen's trial (where he plead guilty when
+    the paper trail they tried to hide was exposed and Cohen
+  last_post_date: "2024-05-31T17:10:06Z"
+  last_post_link: https://a.wholelottanothing.org/its-been/
+  last_post_categories: []
 ---

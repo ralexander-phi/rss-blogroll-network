@@ -1,5 +1,6 @@
 ---
 title: Cory Dransfeldt
+date: "1970-01-01T00:00:00Z"
 description: Posts from my site.
 params:
   feedlink: https://feedpress.me/coryd
@@ -16,6 +17,8 @@ params:
   blogrolls: []
   recommended: []
   recommender:
+  - https://amerpie.lol/feed.xml
+  - https://chrisburnell.com/feed.xml
   - https://rknight.me/subscribe/posts/rss.xml
   categories: []
   relme:
@@ -27,4 +30,9 @@ params:
     https://social.lol/@cory: true
     https://www.instapaper.com/p/coryd: false
     https://www.npmjs.com/~cdransf: false
+  last_post_title: ""
+  last_post_description: ""
+  last_post_date: ""
+  last_post_link: ""
+  last_post_categories: []
 ---

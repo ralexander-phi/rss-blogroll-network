@@ -1,5 +1,6 @@
 ---
 title: Jerz.US - Microblog
+date: "2024-05-29T22:20:17Z"
 description: Ryan C. Jerz's feed
 params:
   feedlink: https://jerz.us/rss/?section=micro
@@ -15,4 +16,9 @@ params:
   - https://danq.me/kind/note/feed/
   categories: []
   relme: {}
+  last_post_title: Get a load of this category
+  last_post_description: ""
+  last_post_date: "2024-04-19T22:37:39Z"
+  last_post_link: https://jerz.us/micro/97
+  last_post_categories: []
 ---

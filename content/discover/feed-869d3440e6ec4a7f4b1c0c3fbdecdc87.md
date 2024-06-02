@@ -1,5 +1,6 @@
 ---
 title: Threads – Meta
+date: "1970-01-01T00:00:00Z"
 description: ""
 params:
   feedlink: https://about.fb.com/news/category/threads/feed/
@@ -13,4 +14,16 @@ params:
   - http://scripting.com/rssNightly.xml
   categories: []
   relme: {}
+  last_post_title: 'Introducing Threads: A New Way to Share With Text'
+  last_post_description: |-
+    Threads is a new app, built by the Instagram team, for sharing text updates and joining public conversations.
+    The post Introducing Threads: A New Way to Share With Text appeared first on Meta.
+  last_post_date: "2023-07-05T23:30:45Z"
+  last_post_link: https://about.fb.com/news/2023/07/introducing-threads-new-app-text-sharing/
+  last_post_categories:
+  - Meta
+  - Product News
+  - Recent News
+  - Sidebar - Featured
+  - Threads
 ---

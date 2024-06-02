@@ -1,5 +1,6 @@
 ---
 title: Manton Reece
+date: "1970-01-01T00:00:00Z"
 description: 'I created Micro.blog. I also have two podcasts: Core Intuition and Timetable.'
 params:
   feedlink: https://www.manton.org/podcast.xml
@@ -47,4 +48,12 @@ params:
     https://github.com/manton: false
     https://micro.blog/manton: false
     https://twitter.com/mantonsblog: false
+  last_post_title: Podcast hosting for $5
+  last_post_description: |-
+    Six years ago, we launched our $10/month plan with podcast hosting. Since then we’ve added several big features to the plan, which is now called Micro.blog Premium:
+
+    Create up to 5 blogs, each with
+  last_post_date: "2024-05-30T09:03:42-05:00"
+  last_post_link: https://www.manton.org/2024/05/29/podcast-hosting-for.html
+  last_post_categories: []
 ---

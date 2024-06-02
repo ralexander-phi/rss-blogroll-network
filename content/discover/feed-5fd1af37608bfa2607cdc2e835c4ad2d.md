@@ -1,5 +1,6 @@
 ---
 title: Mijndert Stuij
+date: "1970-01-01T00:00:00Z"
 description: Senior DevOps Engineer. Runner. Minimalist.
 params:
   feedlink: https://mijndertstuij.nl/feed.xml
@@ -16,4 +17,11 @@ params:
   - https://danq.me/kind/note/feed/
   categories: []
   relme: {}
+  last_post_title: Default apps 2024
+  last_post_description: 'Here''s a fun new thing in the blogosphere: sharing your
+    default apps. I saw a few people I follow do it and borrowed the format, as one
+    does. A ton more pages like this to look at are catalogued by'
+  last_post_date: "2024-02-19T00:00:00Z"
+  last_post_link: https://mijndertstuij.nl/posts/default-apps-2024/
+  last_post_categories: []
 ---

@@ -1,5 +1,6 @@
 ---
 title: 'Matt Langford :prami:'
+date: "1970-01-01T00:00:00Z"
 description: Public posts from @matthew@social.lol
 params:
   feedlink: https://social.lol/@matthew.rss
@@ -7,12 +8,18 @@ params:
   feedid: 5b0e57fb14a40f8fbb1794c8ddeb2eda
   websites:
     https://social.lol/@matthew: true
+    https://social.lol/@matthew/: false
   blogrolls: []
   recommended: []
   recommender: []
   categories: []
   relme:
-    https://matthew.omg.lol/: false
+    https://matthew.omg.lol/: true
     https://twitter.com/mattslangford: false
     https://www.mattlangford.com/: false
+  last_post_title: ""
+  last_post_description: ""
+  last_post_date: ""
+  last_post_link: ""
+  last_post_categories: []
 ---

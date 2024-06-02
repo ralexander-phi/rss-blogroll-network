@@ -1,5 +1,6 @@
 ---
 title: text/plain
+date: "1970-01-01T00:00:00Z"
 description: ericlaw talks about security, the web, and software in general
 params:
   feedlink: https://textslashplain.com/feed/
@@ -16,4 +17,15 @@ params:
   - https://danq.me/kind/note/feed/
   categories: []
   relme: {}
+  last_post_title: Authenticode in 2024
+  last_post_description: My 2021-2024 Authenticode certificate expired yesterday,
+    so I began the process of getting a replacement last week. As in past years, I
+    again selected a 3 year OV certificate from DigiCert.
+  last_post_date: "2024-05-22T16:08:03Z"
+  last_post_link: https://textslashplain.com/2024/05/22/authenticode-in-2024/
+  last_post_categories:
+  - security
+  - Authenticode
+  - signing
+  - SmartAppControl
 ---

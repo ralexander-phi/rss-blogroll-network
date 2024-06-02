@@ -1,5 +1,6 @@
 ---
 title: Adactio
+date: "1970-01-01T00:00:00Z"
 description: The online home of Jeremy Keith, an author and web developer living and
   working in Brighton, England.
 params:
@@ -37,10 +38,14 @@ params:
     https://speakerdeck.com/adactio: false
     https://twitter.com/adactio: false
     https://uk.bookshop.org/shop/adactio: false
-    https://untappd.com/user/adactio: false
     https://vimeo.com/adactio: false
     https://www.facebook.com/adactio: false
     https://www.flickr.com/people/adactio: false
     https://www.linkedin.com/in/adactio/: false
     https://www.youtube.com/adactio: false
+  last_post_title: ""
+  last_post_description: ""
+  last_post_date: ""
+  last_post_link: ""
+  last_post_categories: []
 ---

@@ -1,5 +1,6 @@
 ---
 title: John Kristoff
+date: "1970-01-01T00:00:00Z"
 description: Latest blog posts from John Kristoff
 params:
   feedlink: https://dataplane.org/jtk/blog/index.xml
@@ -13,4 +14,11 @@ params:
   - https://alexsci.com/blog/rss.xml
   categories: []
   relme: {}
+  last_post_title: Case of the unpredictable run-parts
+  last_post_description: “Why doesn’t this just work?!” is something I’m apt to say
+    about all kinds of devices or systems more complex than a mechanical lever. When
+    problems arise, if it isn’t due to normal wear or
+  last_post_date: "2023-04-17T00:00:00Z"
+  last_post_link: https://dataplane.org/jtk/blog/2023/04/run-parts/
+  last_post_categories: []
 ---

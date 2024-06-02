@@ -1,5 +1,6 @@
 ---
 title: Nicky's Blog
+date: "1970-01-01T00:00:00Z"
 description: The personal blog of a 30-something year old cis-male from the East of
   England. Topics include mental, physical, and emotional health, hobbies, and self-improvement.
 params:
@@ -13,4 +14,9 @@ params:
   recommender: []
   categories: []
   relme: {}
+  last_post_title: ""
+  last_post_description: ""
+  last_post_date: ""
+  last_post_link: ""
+  last_post_categories: []
 ---

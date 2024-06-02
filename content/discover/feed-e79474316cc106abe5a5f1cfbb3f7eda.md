@@ -1,5 +1,6 @@
 ---
 title: Comments for Excited Pixels
+date: "1970-01-01T00:00:00Z"
 description: ""
 params:
   feedlink: https://excited-pixels.com/comments/feed/
@@ -12,4 +13,13 @@ params:
   recommender: []
   categories: []
   relme: {}
+  last_post_title: Comment on Best Photography-Related Stuff of 2023 by Christopher
+    Parsons
+  last_post_description: |-
+    In reply to <a href="https://excited-pixels.com/2024/01/05/best-photography-related-stuff-of-2023/comment-page-1/#comment-623">Chad</a>.
+
+    I still just use the Photos application, to be honest. Though
+  last_post_date: "2024-02-16T19:46:15Z"
+  last_post_link: https://excited-pixels.com/2024/01/05/best-photography-related-stuff-of-2023/comment-page-1/#comment-625
+  last_post_categories: []
 ---

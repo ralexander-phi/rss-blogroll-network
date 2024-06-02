@@ -1,5 +1,6 @@
 ---
 title: DJM (freelance for hire)
+date: "1970-01-01T00:00:00Z"
 description: Public posts from @cybeardjm@masto.ai
 params:
   feedlink: https://masto.ai/@cybeardjm.rss
@@ -15,4 +16,9 @@ params:
     https://amf.didiermary.fr/: true
     https://www.didiermary.fr/: true
     https://www.didiermary.fr/support-blogs-donate-today/: true
+  last_post_title: ""
+  last_post_description: ""
+  last_post_date: ""
+  last_post_link: ""
+  last_post_categories: []
 ---

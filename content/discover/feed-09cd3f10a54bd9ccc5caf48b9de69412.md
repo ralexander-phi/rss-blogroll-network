@@ -1,5 +1,6 @@
 ---
 title: Kev Quirk
+date: "1970-01-01T00:00:00Z"
 description: Latest posts from my blog
 params:
   feedlink: https://kevquirk.com/feed
@@ -54,4 +55,9 @@ params:
     https://kevquirk.com/72ja@qrk.one: false
     https://kevquirk.com/feed: false
     https://social.lol/@kevquirk: true
+  last_post_title: ""
+  last_post_description: ""
+  last_post_date: ""
+  last_post_link: ""
+  last_post_categories: []
 ---

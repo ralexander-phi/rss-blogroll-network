@@ -1,5 +1,6 @@
 ---
 title: PaulStamatiou.com - Technology, Design and Photography
+date: "2023-10-20T04:39:45Z"
 description: ""
 params:
   feedlink: https://paulstamatiou.com/posts.xml
@@ -15,4 +16,9 @@ params:
   relme:
     https://stammy.design/@stammy: true
     https://twitter.com/Stammy: false
+  last_post_title: Stocketa
+  last_post_description: ""
+  last_post_date: "2023-10-16T16:00:00Z"
+  last_post_link: https://paulstamatiou.com/stocketa/
+  last_post_categories: []
 ---

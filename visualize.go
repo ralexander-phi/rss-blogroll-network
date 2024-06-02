@@ -56,7 +56,7 @@ func (a *Analysis) Visualize() {
 			Group: nodeType,
 		})
 	}
-	output, err := json.Marshal(viz)
+	output, err := json.MarshalIndent(viz, "", "    ")
 	ohno(err)
 	err = os.WriteFile("static/index.json", output, os.FileMode(int(0660)))
 	ohno(err)

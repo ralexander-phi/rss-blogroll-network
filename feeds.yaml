@@ -9,6 +9,7 @@ max_posts_per_feed: 1
 
 # Search deep
 discover_depth: 80000
+post_collection_depth: 80000
 max_recommendations_per_feed: 50000
 max_recommendations: 1000000
 

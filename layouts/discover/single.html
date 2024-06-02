@@ -16,7 +16,15 @@
   {{ .Params.feedlink }}
   </p>
 
-  <h2 class="subtitle is-3 mb-1">{{ .Title }}</h2>
+  <h2 class="subtitle is-3 mb-1">{{ .Title | truncate 120 }}</h2>
+
+  {{ if .Params.categories }}
+    <div class="tags">
+    {{ range (first 10 .Params.categories) }}
+      <span class="tag">{{ . | truncate 20 }}</span>
+    {{ end }}
+    </div>
+  {{ end }}
 
   <p class="tags pb-0 mb-0">
   {{ range $url, $validated := .Params.websites }}
@@ -59,20 +67,36 @@
 
   {{ if .Description }}
   <p class="block is-size-5 pt-5">
-  {{ .Description }}
+  {{ .Description | truncate 240 }}
   </p>
-  {{ end }}
-
-  {{ if .Params.categories }}
-  <h3 class="subtitle is-4 pt-6">Categories</h3>
-  <ul class="mt-1 pl-3">
-    {{ range .Params.categories }}
-    <span class="tag is-info">{{ . }}</span>
-    {{ end }}
-  </ul>
   {{ end }}
   </div>
 
+  {{ if .Params.last_post_date }}
+    <div class="hero-body">
+    <p class="is-size-7">
+    Recent post:
+    {{ .Params.last_post_date | time.Format ":date_medium" }}
+    </p>
+    <a href="{{ .Params.last_post_link }}">
+    <p class="is-size-3">
+      {{ .Params.last_post_title | truncate 120 }}
+    </p>
+    </a>
+
+    {{ if .Params.last_post_categories }}
+      <div class="tags">
+      {{ range .Params.last_post_categories }}
+        <span class="tag">{{ . }}</span>
+      {{ end }}
+      </div>
+    {{ end }}
+
+    <p class="is-size-5">
+      {{ .Params.last_post_description | truncate 240 }}
+    </p>
+    </div>
+  {{ end }}
 </section>
 
 {{ $ctx := . }}

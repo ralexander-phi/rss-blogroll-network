@@ -1,5 +1,6 @@
 ---
 title: Adam Keys is Linking
+date: "1970-01-01T00:00:00Z"
 description: ""
 params:
   feedlink: https://short.therealadam.com/feed.xml
@@ -15,4 +16,11 @@ params:
     https://github.com/therealadam: false
     https://micro.blog/therealadam: false
     https://twitter.com/therealadam: false
+  last_post_title: Trim the attention sails
+  last_post_description: 'In America, the 2024 election cycle is unlikely to amuse
+    anyone. Maybe this is a rallying point for “unifying” the country: a near-universal
+    loathing of our politicians, how they get themselves'
+  last_post_date: "2024-04-08T11:04:58-05:00"
+  last_post_link: https://short.therealadam.com/2024/04/08/trim-the-attention.html
+  last_post_categories: []
 ---

@@ -1,5 +1,6 @@
 ---
 title: Keep Practising
+date: "1970-01-01T00:00:00Z"
 description: "\U0001F1E6\U0001F1FA Educating and entertaining through the medium of
   voice. I'm a co-host of Hemispheric Views podcast and NBL Pocket Podcast."
 params:
@@ -27,4 +28,11 @@ params:
     https://micro.blog/canion: false
     https://social.lol/@canion: true
     https://twitter.com/canion: false
+  last_post_title: Slash Guy
+  last_post_description: |-
+    On Hemispheric Views it has become a bit of a running gag that when I become interested in something new or different, the phrase, “I’m an insert interest here guy!” is unleashed.
+    Most recently
+  last_post_date: "2024-05-29T18:20:33+08:00"
+  last_post_link: https://canion.blog/2024/05/29/slash-guy.html
+  last_post_categories: []
 ---

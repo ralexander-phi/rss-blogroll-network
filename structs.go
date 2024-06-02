@@ -7,20 +7,26 @@ import (
 
 type FeedInfo struct {
 	Title       string         `yaml:"title"`
+	Date        string         `yaml:"date"`
 	Description string         `yaml:"description"`
 	Params      FeedInfoParams `yaml:"params"`
 }
 
 type FeedInfoParams struct {
-	FeedLink    string          `yaml:"feedlink"`
-	FeedType    string          `yaml:"feedtype"`
-	FeedID      string          `yaml:"feedid"`
-	Websites    map[string]bool `yaml:"websites"`
-	Blogrolls   []string        `yaml:"blogrolls"`
-	Recommended []string        `yaml:"recommended"`
-	Recommender []string        `yaml:"recommender"`
-	Categories  []string        `yaml:"categories"`
-	RelMe       map[string]bool `yaml:"relme"`
+	FeedLink           string          `yaml:"feedlink"`
+	FeedType           string          `yaml:"feedtype"`
+	FeedID             string          `yaml:"feedid"`
+	Websites           map[string]bool `yaml:"websites"`
+	Blogrolls          []string        `yaml:"blogrolls"`
+	Recommended        []string        `yaml:"recommended"`
+	Recommender        []string        `yaml:"recommender"`
+	Categories         []string        `yaml:"categories"`
+	RelMe              map[string]bool `yaml:"relme"`
+	LastPostTitle      string          `yaml:"last_post_title"`
+	LastPostDesc       string          `yaml:"last_post_description"`
+	LastPostDate       string          `yaml:"last_post_date"`
+	LastPostLink       string          `yaml:"last_post_link"`
+	LastPostCategories []string        `yaml:"last_post_categories"`
 }
 
 func NewFeedInfo(row ScanFeedInfo) *FeedInfo {
@@ -33,6 +39,7 @@ func NewFeedInfo(row ScanFeedInfo) *FeedInfo {
 	}
 	f := FeedInfo{
 		Title:       row.Title,
+		Date:        row.Date,
 		Description: row.Description,
 		Params:      p,
 	}
@@ -55,6 +62,7 @@ func (f *FeedInfo) Save() {
 
 type ScanFeedInfo struct {
 	Title       string
+	Date        string
 	Description string
 	FeedLink    string
 	FeedID      string

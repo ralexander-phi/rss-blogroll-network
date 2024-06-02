@@ -1,5 +1,6 @@
 ---
 title: Cory Dransfeldt
+date: "1970-01-01T00:00:00Z"
 description: All of the posts and activity from my site.
 params:
   feedlink: https://feedpress.me/coryd-all
@@ -26,4 +27,11 @@ params:
     https://social.lol/@cory: true
     https://www.instapaper.com/p/coryd: false
     https://www.npmjs.com/~cdransf: false
+  last_post_title: "\U0001F3A5: Mad Max (⭐️⭐️⭐️)"
+  last_post_description: In the ravaged near-future, a savage motorcycle gang rules
+    the road. Terrorizing innocent civilians while tearing up the streets, the ruthless
+    gang laughs in the face of a police force hell-bent on
+  last_post_date: "2024-06-02T02:27:00Z"
+  last_post_link: https://feedpress.me/link/23974/16700662/9659
+  last_post_categories: []
 ---

@@ -50,6 +50,62 @@ func (a *Analysis) PopulateCategoriesForFeed(feed *FeedInfo) {
 	}
 }
 
+func (a *Analysis) PopulateCategoriesForPost(feed *FeedInfo) {
+	post_link := feed.Params.LastPostLink
+	if post_link == "" {
+		return
+	}
+	query, args, err := sqlx.In(`
+    SELECT category
+      FROM posts_by_categories
+     WHERE link = ?
+    `,
+		post_link,
+	)
+	ohno(err)
+
+	query = a.db.Rebind(query)
+	rows, err := a.db.Query(query, args...)
+	ohno(err)
+
+	for rows.Next() {
+		var link string
+		err = rows.Scan(&link)
+		ohno(err)
+		if !slices.Contains(feed.Params.LastPostCategories, link) {
+			feed.Params.LastPostCategories = append(feed.Params.LastPostCategories, link)
+		}
+	}
+}
+
+func (a *Analysis) PopulateLastPostForFeed(feed *FeedInfo) {
+	rows, err := a.db.Query(`
+       SELECT date, description, title, post_link
+         FROM posts
+        WHERE feed_id = ?
+     ORDER BY date DESC
+        LIMIT 1
+    `,
+		feed.Params.FeedID,
+	)
+	ohno(err)
+
+	var date string
+	var description string
+	var title string
+	var link string
+	for rows.Next() {
+		err = rows.Scan(&date, &description, &title, &link)
+		ohno(err)
+	}
+	feed.Params.LastPostTitle = title
+	feed.Params.LastPostDesc = description
+	feed.Params.LastPostDate = date
+	feed.Params.LastPostLink = link
+
+	a.PopulateCategoriesForPost(feed)
+}
+
 func (a *Analysis) PopulateBlogrollsForFeed(feed *FeedInfo) {
 	// Feed => Blogroll or Website => Blogroll
 	source_urls := []string{
@@ -405,7 +461,7 @@ func (a *Analysis) PopulateRecommenders(feed *FeedInfo, blogrolls []string, webs
 
 func (a *Analysis) Analyze() {
 	feedRows, err := a.db.Query(`
-    SELECT description, title, feed_link, feed_id, feed_type
+    SELECT description, date, title, feed_link, feed_id, feed_type
       FROM feeds;`,
 	)
 	ohno(err)
@@ -413,6 +469,7 @@ func (a *Analysis) Analyze() {
 		var row ScanFeedInfo
 		err = feedRows.Scan(
 			&row.Description,
+			&row.Date,
 			&row.Title,
 			&row.FeedLink,
 			&row.FeedID,
@@ -436,6 +493,7 @@ func (a *Analysis) Analyze() {
 		fmt.Printf("\tIn Feeds: %v\n", feed.Params.Recommender)
 		a.PopulateRelMeForWebsites(feed)
 		a.PopulateCategoriesForFeed(feed)
+		a.PopulateLastPostForFeed(feed)
 		feed.Save()
 	}
 }

@@ -1,5 +1,6 @@
 ---
 title: Thoughts and Tribulations of a Compulsive Creator
+date: "1970-01-01T00:00:00Z"
 description: I'm a compulsive creator (words, images, videos, podcasts). It's not
   always an easy journey, but it is a rewarding one. The podcast is all about sharing
   some thoughts about my experience as a creator
@@ -40,4 +41,12 @@ params:
   categories: []
   relme:
     https://micro.blog/numericcitizen: false
+  last_post_title: Episode 06 — Wrapping Up 2023
+  last_post_description: "It’s time to wrap up 2023! In this last podcast episode
+    for the year\U0001F60C, I reflect on twelve months of creative work. It was a
+    busy year\U0001F605\U0001F468\U0001F3FB‍\U0001F4BB, and I’m grateful for all of
+    it"
+  last_post_date: "2023-12-16T11:43:35-04:00"
+  last_post_link: https://blog.numericcitizen.me/2023/12/16/episode-wrapping-up.html
+  last_post_categories: []
 ---

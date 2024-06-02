@@ -1,5 +1,6 @@
 ---
 title: '@chrisaldrich.bsky.social'
+date: "1970-01-01T00:00:00Z"
 description: ""
 params:
   feedlink: https://bsky.app/profile/did:plc:am7gdn5ny4vagg3lwjcppy3f/rss
@@ -12,4 +13,9 @@ params:
   recommender: []
   categories: []
   relme: {}
+  last_post_title: ""
+  last_post_description: ""
+  last_post_date: ""
+  last_post_link: ""
+  last_post_categories: []
 ---

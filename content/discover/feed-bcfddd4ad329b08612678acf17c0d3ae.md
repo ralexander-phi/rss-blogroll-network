@@ -1,0 +1,27 @@
+---
+title: Calum Ryan - Notes
+date: "2024-04-03T12:00:00Z"
+description: ""
+params:
+  feedlink: https://calumryan.com/feeds/notes/atom
+  feedtype: atom
+  feedid: bcfddd4ad329b08612678acf17c0d3ae
+  websites:
+    https://calumryan.com/: true
+  blogrolls: []
+  recommended: []
+  recommender: []
+  categories:
+  - . notes .
+  relme:
+    https://fed.brid.gy/r/https:/calumryan.com/: false
+    https://github.com/calumryan: true
+    https://indieweb.org/User:Calumryan.com: false
+    https://micro.blog/calumryan: false
+    https://toot.cafe/@calumryan: false
+  last_post_title: ""
+  last_post_description: ""
+  last_post_date: ""
+  last_post_link: ""
+  last_post_categories: []
+---

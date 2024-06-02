@@ -1,5 +1,6 @@
 ---
 title: Comments for Rich Tabor
+date: "1970-01-01T00:00:00Z"
 description: Multidisciplinary maker specializing in the intersection of product,
   design and engineering. Making WordPress.
 params:
@@ -13,4 +14,12 @@ params:
   recommender: []
   categories: []
   relme: {}
+  last_post_title: Comment on Ask Me Anything About WordPress by Rich Tabor
+  last_post_description: |-
+    In reply to <a href="https://rich.blog/ama/comment-page-1/#comment-2510">Nol</a>.
+
+    It's a work in progress; the biggest challenge is making sure all areas of the admin are accounted for properly in
+  last_post_date: "2024-05-28T20:40:14Z"
+  last_post_link: https://rich.blog/ama/comment-page-1/#comment-2511
+  last_post_categories: []
 ---

@@ -20,13 +20,13 @@
 
 <ul>
 {{- range sort (sort $feeds ".Params.feedlink") ".Params.blogrolls" "desc" -}}
-<li>
+<li class="pt-5">
   <a href="/discover/feed-{{ .Params.feedid }}/">
 
     {{ if .Title }}
-      {{ .Title }}
+      {{ .Title | truncate 120 }}
     {{ else }}
-      {{ .Params.feedlink }}
+      {{ .Params.feedlink | truncate 120 }}
     {{ end }}
 
   {{ if ne (.Params.blogrolls | len) 0 }}
@@ -46,6 +46,15 @@
   </a>
   {{ if .Description }}
   &nbsp;&mdash;&nbsp; {{ .Description | truncate 120 }}
+  {{ end }}
+
+  {{ if .Params.categories }}
+    <div class="p-3">
+    <span>Categories:</span>
+    {{ range (first 40 .Params.categories) }}
+      <span class="tag">{{ . | truncate 40 }}</span>
+    {{ end }}
+    </div>
   {{ end }}
 </li>
 {{- end -}}

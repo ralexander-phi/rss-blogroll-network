@@ -1,5 +1,6 @@
 ---
 title: Frank Meeuwsen
+date: "1970-01-01T00:00:00Z"
 description: ""
 params:
   feedlink: https://frankmeeuwsen.com/feed.xml
@@ -97,7 +98,6 @@ params:
   - https://www.neondystopia.com/?feed=comments-rss2
   - https://www.neondystopia.com/?feed=rss2
   - https://www.pelicancrossing.net/netwars/index.xml
-  - https://zijperspace.nl/comments/feed/
   recommender:
   - https://colinwalker.blog/dailyfeed.xml
   - https://colinwalker.blog/livefeed.xml
@@ -107,4 +107,11 @@ params:
   relme:
     https://indieweb.social/@frank: true
     https://micro.blog/frank: false
+  last_post_title: Digitale Autonomie, een gesprek met Kirsten Jassies
+  last_post_description: Afgelopen maandag was ik te gast in de fantastische werfkelder/studio
+    van Kirsten Jassies. Zij heeft een Podcast over Social Media en ik mocht een uurtje
+    komen praten over wat mij fascineert in de
+  last_post_date: "2024-05-29T21:55:33+02:00"
+  last_post_link: https://frankmeeuwsen.com/2024/05/29/digitale-autonomie-een.html
+  last_post_categories: []
 ---

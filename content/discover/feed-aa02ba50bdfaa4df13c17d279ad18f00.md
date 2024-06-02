@@ -1,5 +1,6 @@
 ---
 title: Excursions by Amit Gawande
+date: "1970-01-01T00:00:00Z"
 description: ""
 params:
   feedlink: https://www.amitgawande.com/feed.xml
@@ -13,4 +14,11 @@ params:
   - https://colinwalker.blog/livefeed.xml
   categories: []
   relme: {}
+  last_post_title: Today, I pushed a minor release …
+  last_post_description: Today, I pushed a minor release for Posts Stats plugin that
+    enables (and defaults to) collapsing the table for the posts by year. You can
+    expand the table by clicking the “Show Posts by Year”
+  last_post_date: "2024-05-25T18:45:27+05:30"
+  last_post_link: https://www.amitgawande.com/2024/05/25/today-i-pushed.html
+  last_post_categories: []
 ---

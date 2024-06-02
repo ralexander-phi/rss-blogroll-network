@@ -1,5 +1,6 @@
 ---
 title: Comments for Dan Q
+date: "1970-01-01T00:00:00Z"
 description: 'Personal blog of Dan Q: hacker, magician, geocacher, gamer...'
 params:
   feedlink: https://danq.me/comments/feed/
@@ -217,8 +218,6 @@ params:
   - https://www.blogpocket.com/feed/
   - https://www.blogpocket.com/feed/podcast
   - https://rss.metafilter.com/metafilter.rss
-  - https://www.optipess.com/comments/feed/
-  - https://www.optipess.com/feed/
   - https://www.zylstra.org/blog/comments/feed/
   - https://xkcd.com/atom.xml
   - https://youdo.blog/comments/feed/
@@ -232,4 +231,11 @@ params:
     https://m.danq.me/@dan: false
     https://www.linkedin.com/in/itsdanq/: false
     https://www.youtube.com/@DanQ: false
+  last_post_title: Comment on [Article] Window Tax by Patrick Doyle
+  last_post_description: Fpphhhh ah Fppphhhh fuhhhhh ,,, Take your head out from underneath
+    the pillow you're talking into and speak clearly.. or is your microphone in the
+    other room while you chat away.. Because no one can
+  last_post_date: "2024-05-26T09:17:54+01:00"
+  last_post_link: https://danq.me/2024/04/28/window-tax/#comment-249014
+  last_post_categories: []
 ---

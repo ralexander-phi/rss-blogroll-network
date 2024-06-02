@@ -1,5 +1,6 @@
 ---
 title: FluidDyn blog
+date: "2024-04-07T00:00:00+02:00"
 description: ""
 params:
   feedlink: https://fluiddyn.netlify.app/feeds/all.atom.xml
@@ -13,4 +14,12 @@ params:
   categories: []
   relme:
     https://hachyderm.io/@fluiddyn: true
+  last_post_title: This Month In Fluiddyn - Mar 2024 edition
+  last_post_description: A big FluidImage release and a small Transonic bug fix
+  last_post_date: "2024-04-07T00:00:00+02:00"
+  last_post_link: https://fluiddyn.netlify.app/tmif-Mar-2024.html
+  last_post_categories:
+  - News
+  - dev
+  - ThisMonthInFluiddyn
 ---

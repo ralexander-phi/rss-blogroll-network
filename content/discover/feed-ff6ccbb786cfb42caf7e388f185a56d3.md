@@ -1,5 +1,6 @@
 ---
 title: Josh Betz
+date: "1970-01-01T00:00:00Z"
 description: "Made with \U0001F9C0 in Madison"
 params:
   feedlink: https://josh.blog/feed
@@ -32,4 +33,12 @@ params:
   - https://alexsci.com/blog/rss.xml
   categories: []
   relme: {}
+  last_post_title: Dog Park Saturday Mornings
+  last_post_description: ""
+  last_post_date: "2024-05-18T22:07:12Z"
+  last_post_link: https://josh.blog/2024/05/dog-park-saturday-mornings
+  last_post_categories:
+  - Life
+  - dogs
+  - nature
 ---

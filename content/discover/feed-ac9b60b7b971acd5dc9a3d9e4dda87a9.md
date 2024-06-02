@@ -1,5 +1,6 @@
 ---
 title: 'Joel :void: :casio:'
+date: "1970-01-01T00:00:00Z"
 description: Public posts from @joel@fosstodon.org
 params:
   feedlink: https://fosstodon.org/@joel.rss
@@ -16,4 +17,9 @@ params:
     https://joelchrono.xyz/contact: true
     https://keyoxide.org/2281776180B00C8FBA30BEA4E23D9C7FA57497A6: false
     https://ko-fi.com/joelchrono: false
+  last_post_title: ""
+  last_post_description: ""
+  last_post_date: ""
+  last_post_link: ""
+  last_post_categories: []
 ---

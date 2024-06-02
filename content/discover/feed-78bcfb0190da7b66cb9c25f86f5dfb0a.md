@@ -1,5 +1,6 @@
 ---
 title: AnySoftKeyboard
+date: "1970-01-01T00:00:00Z"
 description: Public posts from @anysoftkeyboard@hachyderm.io
 params:
   feedlink: https://hachyderm.io/@anysoftkeyboard.rss
@@ -16,4 +17,9 @@ params:
     https://anysoftkeyboard.github.io/: true
     https://community.hachyderm.io/approved: false
     https://github.com/AnySoftKeyboard/AnySoftKeyboard: false
+  last_post_title: ""
+  last_post_description: ""
+  last_post_date: ""
+  last_post_link: ""
+  last_post_categories: []
 ---

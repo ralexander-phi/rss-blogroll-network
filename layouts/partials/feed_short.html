@@ -6,9 +6,9 @@
 <li class="pt-5">
   <a href="/discover/feed-{{ .Params.feedid }}/">
     {{ if .Title }}
-      {{ .Title }}
+      {{ .Title | truncate 120 }}
     {{ else }}
-      {{ .Params.FeedLink }}
+      {{ .Params.FeedLink | truncate 120 }}
     {{ end }}
   </a>
   <br />

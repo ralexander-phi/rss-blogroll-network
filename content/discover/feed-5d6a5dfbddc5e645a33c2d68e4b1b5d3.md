@@ -1,5 +1,6 @@
 ---
 title: simply.
+date: "2024-06-01T11:47:28Z"
 description: it’s personal and micro – simply.
 params:
   feedlink: https://simply.joejenett.com/feed.xml
@@ -31,4 +32,12 @@ params:
     https://the.dailywebthing.com/: false
     https://toot.community/@jenett: true
     https://wiki.joejenett.com/: true
+  last_post_title: whataya mean - pulled a Jack?
+  last_post_description: I recently shared a ‘plain text note-taking assistant’ at
+    the hub and decided to give Jack a heads-up before publishing the post - if for
+    no other reason, it was a chance to razz him a bit (yet
+  last_post_date: "2024-05-28T12:52:06Z"
+  last_post_link: https://simply.joejenett.com/whataya-mean-pulled-a-jack/
+  last_post_categories:
+  - '["personal"]'
 ---

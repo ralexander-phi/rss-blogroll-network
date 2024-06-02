@@ -1,5 +1,6 @@
 ---
 title: JONATHAN HAYS
+date: "1970-01-01T00:00:00Z"
 description: CEO of Silverpine. Co-Author of Sunlit and Wavelength with @manton.  Powered
   by coffee and cheese. he/him
 params:
@@ -15,4 +16,9 @@ params:
   relme:
     https://micro.blog/cheesemaker: false
     https://twitter.com/cheesemaker: false
+  last_post_title: ""
+  last_post_description: ""
+  last_post_date: ""
+  last_post_link: ""
+  last_post_categories: []
 ---

@@ -1,5 +1,6 @@
 ---
 title: sexplanations
+date: "1970-01-01T00:00:00Z"
 description: Sexplanations is sexedutainment for the universe hosted by Dr. Lindsey
   Doe, doctor of human sexuality and clinical sexologist.
 params:
@@ -17,4 +18,12 @@ params:
   - https://danq.me/kind/note/feed/
   categories: []
   relme: {}
+  last_post_title: What do unicorn tongues and snails have to do with sex?
+  last_post_description: The innovation in sex toys seems exponential. Almost like
+    an engineer goes -- SciFi character + sexual anatomy + something that has never
+    been done before = latest pleasure creation. Adam & Eve, a
+  last_post_date: "2024-05-10T18:46:30Z"
+  last_post_link: https://nebula.tv/videos/sexplanations-what-do-unicorn-tongues-and-snails-have-to-do-with-sex/
+  last_post_categories:
+  - Health
 ---

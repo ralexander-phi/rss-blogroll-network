@@ -1,5 +1,6 @@
 ---
 title: Stories Archive | Electrek
+date: "1970-01-01T00:00:00Z"
 description: EV and Tesla News, Green Energy, Ebikes, and more
 params:
   feedlink: https://electrek.co/web-stories/feed/
@@ -13,4 +14,9 @@ params:
   recommender: []
   categories: []
   relme: {}
+  last_post_title: 'Testing a 40 mph standing electric scooter: Nanrobot N6 review'
+  last_post_description: ""
+  last_post_date: "2023-08-25T12:51:10Z"
+  last_post_link: https://electrek.co/web-stories/nanrobot-n6-review/
+  last_post_categories: []
 ---

@@ -1,5 +1,6 @@
 ---
 title: We Got Family
+date: "2023-09-17T09:25:09Z"
 description: A Fast and Furious Podcast
 params:
   feedlink: https://wegot.family/feed.xml
@@ -23,4 +24,10 @@ params:
     https://podcasts.apple.com/us/podcast/we-got-family/id1695398667: false
     https://social.lol/@robb: true
     https://wegot.family/feed.xml: false
+  last_post_title: 05 - Superfast!
+  last_post_description: "✨\U0001F3CE️ Get your exclusive We Got Family Stickers here\n\nSuperfast!
+    (2015) - IMDb\nMeet the Spartans (2008) - IMDb"
+  last_post_date: "2023-09-17T09:25:09Z"
+  last_post_link: https://wegot.family/5/
+  last_post_categories: []
 ---

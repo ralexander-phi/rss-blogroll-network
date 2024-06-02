@@ -1,5 +1,6 @@
 ---
 title: Matt Steele
+date: "1970-01-01T00:00:00Z"
 description: The personal website of Matt Steele
 params:
   feedlink: https://steele.blue/feed
@@ -12,4 +13,11 @@ params:
   recommender: []
   categories: []
   relme: {}
+  last_post_title: Side projects should be fun
+  last_post_description: 'Connell McCarthy''s post about "overengineering everything
+    at his wedding" was a fun read: https://connellmccarthy.com/article/wedding/ I
+    can…'
+  last_post_date: "2024-04-28T00:00:00Z"
+  last_post_link: http://steele.blue//side-projects-should-be-fun
+  last_post_categories: []
 ---

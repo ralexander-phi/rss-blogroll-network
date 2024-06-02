@@ -1,5 +1,6 @@
 ---
 title: Thomas Gigold
+date: "2024-05-31T14:43:18Z"
 description: Ãœber das Netz, das Leben und den ganzen Rest
 params:
   feedlink: https://gigold.me/rss
@@ -18,4 +19,9 @@ params:
     https://mastodon.social/@gigold: false
     https://www.instagram.com/gigold: false
     https://www.threads.net/@gigold: false
+  last_post_title: ""
+  last_post_description: ""
+  last_post_date: ""
+  last_post_link: ""
+  last_post_categories: []
 ---

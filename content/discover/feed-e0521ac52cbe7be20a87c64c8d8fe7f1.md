@@ -1,5 +1,6 @@
 ---
 title: A History of Rock Music in 500 Songs
+date: "1970-01-01T00:00:00Z"
 description: Andrew Hickey presents a history of rock music from 1938 to 1999, looking
   at five hundred songs that shaped the genre.
 params:
@@ -12,4 +13,31 @@ params:
   recommender: []
   categories: []
   relme: {}
+  last_post_title: 'Song 174B: “I Heard it Through the Grapevine” Part Two, “It Takes
+    Two”'
+  last_post_description: For those who haven’t heard the announcement I posted , songs
+    from this point on will sometimes be split among multiple episodes, so this is
+    the second part of a two-episode look at the song “I
+  last_post_date: "2024-05-24T20:58:55Z"
+  last_post_link: https://500songs.com/podcast/song-174b-i-heard-it-through-the-grapevine-part-two-it-takes-two/
+  last_post_categories:
+  - Ashford and Simpson
+  - Barrett Strong
+  - Berry Gordy
+  - Bert Berns
+  - David Ruffin
+  - Harvey Fuqua
+  - Holland-Dozier-Holland
+  - James Brown
+  - Kim Weston
+  - Luther Dixon
+  - Martha and the Vandellas
+  - Marvin Gaye
+  - Mary Wells
+  - Mickey Stevenson
+  - Norman Whitfield
+  - Smokey Robinson
+  - Tammi Terrell
+  - The Beatles
+  - The Temptations
 ---

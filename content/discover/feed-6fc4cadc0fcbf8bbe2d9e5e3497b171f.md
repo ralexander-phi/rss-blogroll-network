@@ -1,5 +1,6 @@
 ---
 title: Kuketz IT-Security » Microblog
+date: "1970-01-01T00:00:00Z"
 description: IT-Sicherheit | Datenschutz | Hacking
 params:
   feedlink: https://www.kuketz-blog.de/category/microblog/feed/
@@ -14,4 +15,9 @@ params:
   categories: []
   relme:
     https://social.tchncs.de/@kuketzblog: true
+  last_post_title: ""
+  last_post_description: ""
+  last_post_date: ""
+  last_post_link: ""
+  last_post_categories: []
 ---

@@ -1,5 +1,6 @@
 ---
 title: Set Studio
+date: "1970-01-01T00:00:00Z"
 description: ""
 params:
   feedlink: https://set.studio/feed/
@@ -8,7 +9,16 @@ params:
   websites: {}
   blogrolls: []
   recommended: []
-  recommender: []
+  recommender:
+  - https://chrisburnell.com/feed.xml
   categories: []
   relme: {}
+  last_post_title: 'The Index: Issue #26'
+  last_post_description: Happy Monday! I’m doing a bit of admin at the moment in relation
+    to bringing Piccalilli back. Some of you might remember the Piccalilli newsletter.
+    It was the precursor to this newsletter. I’m
+  last_post_date: "2024-01-29T07:24:00Z"
+  last_post_link: https://set.studio/the-index-issue-26/
+  last_post_categories:
+  - The Index
 ---
