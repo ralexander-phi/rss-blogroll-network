@@ -30,4 +30,14 @@ params:
   last_post_date: "2024-05-02T13:55:12+01:00"
   last_post_link: https://vladcampos.com/2024/05/02/vcp-substack-is.html
   last_post_categories: []
+  score_criteria:
+    cats: 0
+    description: 3
+    postcats: 0
+    promoted: 0
+    promotes: 1
+    relme: 1
+    title: 3
+    website: 2
+  score: 10
 ---

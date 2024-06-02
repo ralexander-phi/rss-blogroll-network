@@ -22,4 +22,14 @@ params:
   last_post_date: "2024-05-28T20:40:14Z"
   last_post_link: https://rich.blog/ama/comment-page-1/#comment-2511
   last_post_categories: []
+  score_criteria:
+    cats: 0
+    description: 3
+    postcats: 0
+    promoted: 0
+    promotes: 0
+    relme: 0
+    title: 3
+    website: 2
+  score: 8
 ---

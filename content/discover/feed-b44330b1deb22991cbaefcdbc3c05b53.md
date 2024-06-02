@@ -24,4 +24,14 @@ params:
   last_post_date: "2024-04-09T18:30:00Z"
   last_post_link: https://frills.dev/changelog/240409/
   last_post_categories: []
+  score_criteria:
+    cats: 0
+    description: 3
+    postcats: 0
+    promoted: 0
+    promotes: 0
+    relme: 0
+    title: 3
+    website: 1
+  score: 7
 ---

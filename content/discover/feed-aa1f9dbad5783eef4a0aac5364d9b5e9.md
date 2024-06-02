@@ -182,6 +182,7 @@ params:
   - https://geoffgraham.me/feed/
   - https://jerz.us/atom/
   - https://jerz.us/rss/
+  - https://lalunemauve.fr/comments/feed/
   - https://ma.tt/comments/feed/
   - https://rss.nebula.app/video/channels/minutephysics.rss?plus=true
   - https://rss.nebula.app/video/channels/philosophytube.rss?plus=true
@@ -215,9 +216,12 @@ params:
   - https://www.alchemists.io/feeds/projects.xml
   - https://www.alchemists.io/feeds/screencasts.xml
   - https://www.alchemists.io/feeds/talks.xml
+  - https://www.blogpocket.com/comments/feed/
   - https://www.blogpocket.com/feed/
   - https://www.blogpocket.com/feed/podcast
   - https://rss.metafilter.com/metafilter.rss
+  - https://www.optipess.com/comments/feed/
+  - https://www.optipess.com/feed/
   - https://www.zylstra.org/blog/comments/feed/
   - https://xkcd.com/atom.xml
   - https://youdo.blog/comments/feed/
@@ -231,11 +235,20 @@ params:
     https://m.danq.me/@dan: false
     https://www.linkedin.com/in/itsdanq/: false
     https://www.youtube.com/@DanQ: false
-  last_post_title: Comment on [Article] Window Tax by Patrick Doyle
-  last_post_description: Fpphhhh ah Fppphhhh fuhhhhh ,,, Take your head out from underneath
-    the pillow you're talking into and speak clearly.. or is your microphone in the
-    other room while you chat away.. Because no one can
-  last_post_date: "2024-05-26T09:17:54+01:00"
-  last_post_link: https://danq.me/2024/04/28/window-tax/#comment-249014
+  last_post_title: Comment on [Article] Woke Kids by Katie Sutton
+  last_post_description: I mean, I'm not entirely surprised with a family like yours
+    around her.
+  last_post_date: "2024-06-02T15:53:45+01:00"
+  last_post_link: https://danq.me/2024/06/02/woke-kids/#comment-249520
   last_post_categories: []
+  score_criteria:
+    cats: 0
+    description: 3
+    postcats: 0
+    promoted: 0
+    promotes: 10
+    relme: 2
+    title: 3
+    website: 2
+  score: 20
 ---

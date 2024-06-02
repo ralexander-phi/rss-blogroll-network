@@ -41,4 +41,14 @@ params:
   - Life
   - dogs
   - nature
+  score_criteria:
+    cats: 0
+    description: 3
+    postcats: 3
+    promoted: 5
+    promotes: 9
+    relme: 0
+    title: 3
+    website: 2
+  score: 25
 ---

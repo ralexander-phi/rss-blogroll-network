@@ -21,4 +21,14 @@ params:
   last_post_link: https://set.studio/the-index-issue-26/
   last_post_categories:
   - The Index
+  score_criteria:
+    cats: 0
+    description: 0
+    postcats: 1
+    promoted: 5
+    promotes: 0
+    relme: 0
+    title: 3
+    website: 0
+  score: 9
 ---

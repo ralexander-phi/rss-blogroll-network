@@ -23,4 +23,14 @@ params:
   last_post_date: "2024-06-01T04:30:13Z"
   last_post_link: https://robertoferraro.substack.com/p/ai-at-work-is-here-now-comes-the
   last_post_categories: []
+  score_criteria:
+    cats: 0
+    description: 3
+    postcats: 0
+    promoted: 0
+    promotes: 0
+    relme: 0
+    title: 3
+    website: 2
+  score: 8
 ---

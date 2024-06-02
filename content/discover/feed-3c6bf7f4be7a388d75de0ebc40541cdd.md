@@ -21,4 +21,14 @@ params:
   last_post_date: "2024-03-05T11:37:37Z"
   last_post_link: https://digitalblog.coop.co.uk/2024/03/05/how-our-accessibility-champions-are-creating-a-can-do-culture/comment-page-1/#comment-25060
   last_post_categories: []
+  score_criteria:
+    cats: 0
+    description: 0
+    postcats: 0
+    promoted: 0
+    promotes: 0
+    relme: 0
+    title: 3
+    website: 2
+  score: 5
 ---

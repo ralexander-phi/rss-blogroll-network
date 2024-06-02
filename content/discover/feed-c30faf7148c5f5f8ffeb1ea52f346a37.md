@@ -22,16 +22,26 @@ params:
   - film
   - photography
   relme: {}
-  last_post_title: Weeknotes 26th May 2024
-  last_post_description: "Still on holiday, still recommend it.\n\n        \n    \n
-    \       \n            \n\n\n    \n    \n    \n        \n            The embodiment
-    of the holiday spirit"
-  last_post_date: "2024-05-27T11:38:22Z"
-  last_post_link: https://polytechnic.co.uk/blog/2024/05/weeknotes-26th-may-2024/
+  last_post_title: Weeknotes 2nd June 2024
+  last_post_description: Back from my holiday, jet lagged to hell, but thinking about
+    all the good memories.it’s a glorious day, so I’ve done the minimal amount of
+    gardening to earn the wine I’m now enjoying before
+  last_post_date: "2024-06-02T15:40:56Z"
+  last_post_link: https://polytechnic.co.uk/blog/2024/06/weeknotes-2nd-june-2024/
   last_post_categories:
-  - canada
-  - holiday
   - me
+  - home
   - diary
   - weeknotes
+  - garden
+  score_criteria:
+    cats: 5
+    description: 3
+    postcats: 3
+    promoted: 5
+    promotes: 0
+    relme: 0
+    title: 3
+    website: 0
+  score: 19
 ---

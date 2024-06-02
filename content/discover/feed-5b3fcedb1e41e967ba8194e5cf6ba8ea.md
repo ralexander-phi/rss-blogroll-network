@@ -1,6 +1,6 @@
 ---
 title: Thomas Gigold
-date: "2024-05-31T14:43:18Z"
+date: "2024-06-02T13:47:01Z"
 description: Ãœber das Netz, das Leben und den ganzen Rest
 params:
   feedlink: https://gigold.me/rss
@@ -24,4 +24,14 @@ params:
   last_post_date: ""
   last_post_link: ""
   last_post_categories: []
+  score_criteria:
+    cats: 0
+    description: 3
+    postcats: 0
+    promoted: 0
+    promotes: 0
+    relme: 2
+    title: 3
+    website: 2
+  score: 10
 ---

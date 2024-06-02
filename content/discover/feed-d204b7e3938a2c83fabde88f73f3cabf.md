@@ -24,4 +24,14 @@ params:
   last_post_date: "2024-02-29T00:00:00Z"
   last_post_link: https://max-inden.de/post/2024-02-29-stepping-down/
   last_post_categories: []
+  score_criteria:
+    cats: 0
+    description: 3
+    postcats: 0
+    promoted: 5
+    promotes: 0
+    relme: 2
+    title: 3
+    website: 2
+  score: 15
 ---

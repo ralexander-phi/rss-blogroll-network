@@ -20,4 +20,14 @@ params:
   last_post_date: "2020-01-15T11:49:00+01:00"
   last_post_link: https://www.mc4wp.com/blog/user-survey/
   last_post_categories: []
+  score_criteria:
+    cats: 0
+    description: 3
+    postcats: 0
+    promoted: 0
+    promotes: 0
+    relme: 0
+    title: 3
+    website: 2
+  score: 8
 ---

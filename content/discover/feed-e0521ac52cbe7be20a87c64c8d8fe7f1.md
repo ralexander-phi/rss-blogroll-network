@@ -40,4 +40,14 @@ params:
   - Tammi Terrell
   - The Beatles
   - The Temptations
+  score_criteria:
+    cats: 0
+    description: 3
+    postcats: 3
+    promoted: 0
+    promotes: 0
+    relme: 0
+    title: 3
+    website: 0
+  score: 9
 ---

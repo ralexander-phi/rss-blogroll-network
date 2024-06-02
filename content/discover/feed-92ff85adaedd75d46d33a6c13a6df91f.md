@@ -22,4 +22,14 @@ params:
   last_post_link: https://www.leaningforward.com/blog/2024/05/fortnote-27th-may/?utm_source=rss&utm_medium=rss&utm_campaign=fortnote-27th-may
   last_post_categories:
   - Uncategorized
+  score_criteria:
+    cats: 0
+    description: 0
+    postcats: 1
+    promoted: 5
+    promotes: 0
+    relme: 0
+    title: 3
+    website: 2
+  score: 11
 ---

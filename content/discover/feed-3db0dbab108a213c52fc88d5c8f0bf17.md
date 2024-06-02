@@ -182,6 +182,7 @@ params:
   - https://geoffgraham.me/feed/
   - https://jerz.us/atom/
   - https://jerz.us/rss/
+  - https://lalunemauve.fr/comments/feed/
   - https://ma.tt/comments/feed/
   - https://rss.nebula.app/video/channels/minutephysics.rss?plus=true
   - https://rss.nebula.app/video/channels/philosophytube.rss?plus=true
@@ -215,9 +216,12 @@ params:
   - https://www.alchemists.io/feeds/projects.xml
   - https://www.alchemists.io/feeds/screencasts.xml
   - https://www.alchemists.io/feeds/talks.xml
+  - https://www.blogpocket.com/comments/feed/
   - https://www.blogpocket.com/feed/
   - https://www.blogpocket.com/feed/podcast
   - https://rss.metafilter.com/metafilter.rss
+  - https://www.optipess.com/comments/feed/
+  - https://www.optipess.com/feed/
   - https://www.zylstra.org/blog/comments/feed/
   - https://xkcd.com/atom.xml
   - https://youdo.blog/comments/feed/
@@ -236,4 +240,14 @@ params:
   last_post_date: ""
   last_post_link: ""
   last_post_categories: []
+  score_criteria:
+    cats: 0
+    description: 3
+    postcats: 0
+    promoted: 0
+    promotes: 10
+    relme: 2
+    title: 3
+    website: 2
+  score: 20
 ---

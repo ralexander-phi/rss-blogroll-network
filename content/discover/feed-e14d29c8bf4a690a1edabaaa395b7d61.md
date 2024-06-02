@@ -14,18 +14,26 @@ params:
   - https://colinwalker.blog/livefeed.xml
   categories: []
   relme: {}
-  last_post_title: '[Article] Framing Device'
-  last_post_description: This weekend I repaired an ill-fitting door, which I learned
-    to do by watching my grandfather, over thirty years ago.
-  last_post_date: "2024-06-01T14:15:41+01:00"
-  last_post_link: https://danq.me/2024/06/01/framing-device/
+  last_post_title: '[Article] Woke Kids'
+  last_post_description: The other weekend I took our 10-year-old to her first Pride
+    parade, and she blew my mind with the level of allyship she's already achieved.
+  last_post_date: "2024-06-02T12:44:05+01:00"
+  last_post_link: https://danq.me/2024/06/02/woke-kids/
   last_post_categories:
   - Personal
-  - carpentry
-  - diy
-  - family
-  - house building works 2024
-  - houses
-  - nostalgia
-  - published on gemini
+  - children
+  - parenting
+  - pride
+  - sexuality
+  - witney
+  score_criteria:
+    cats: 0
+    description: 3
+    postcats: 3
+    promoted: 5
+    promotes: 0
+    relme: 0
+    title: 3
+    website: 0
+  score: 14
 ---

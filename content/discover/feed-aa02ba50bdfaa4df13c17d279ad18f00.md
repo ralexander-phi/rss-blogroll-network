@@ -21,4 +21,14 @@ params:
   last_post_date: "2024-05-25T18:45:27+05:30"
   last_post_link: https://www.amitgawande.com/2024/05/25/today-i-pushed.html
   last_post_categories: []
+  score_criteria:
+    cats: 0
+    description: 0
+    postcats: 0
+    promoted: 5
+    promotes: 0
+    relme: 0
+    title: 3
+    website: 0
+  score: 8
 ---

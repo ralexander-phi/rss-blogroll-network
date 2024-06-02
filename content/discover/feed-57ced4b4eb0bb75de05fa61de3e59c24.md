@@ -30,4 +30,14 @@ params:
   last_post_date: "2023-09-17T09:25:09Z"
   last_post_link: https://wegot.family/5/
   last_post_categories: []
+  score_criteria:
+    cats: 0
+    description: 3
+    postcats: 0
+    promoted: 0
+    promotes: 0
+    relme: 2
+    title: 3
+    website: 2
+  score: 10
 ---

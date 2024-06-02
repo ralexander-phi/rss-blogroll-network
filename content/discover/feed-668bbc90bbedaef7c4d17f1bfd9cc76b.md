@@ -25,4 +25,14 @@ params:
   last_post_link: https://nebula.tv/videos/philosophytube-blooper-reel-the-most-misunderstood-philosopher-in-the-world/
   last_post_categories:
   - Culture
+  score_criteria:
+    cats: 0
+    description: 3
+    postcats: 1
+    promoted: 5
+    promotes: 0
+    relme: 0
+    title: 3
+    website: 2
+  score: 14
 ---

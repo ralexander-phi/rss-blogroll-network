@@ -26,4 +26,14 @@ params:
   last_post_link: https://nebula.tv/videos/sexplanations-what-do-unicorn-tongues-and-snails-have-to-do-with-sex/
   last_post_categories:
   - Health
+  score_criteria:
+    cats: 0
+    description: 3
+    postcats: 1
+    promoted: 5
+    promotes: 0
+    relme: 0
+    title: 3
+    website: 2
+  score: 14
 ---

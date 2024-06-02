@@ -21,4 +21,14 @@ params:
   last_post_link: https://blog.gitea.com/release-of-1.22.0
   last_post_categories:
   - release
+  score_criteria:
+    cats: 0
+    description: 3
+    postcats: 1
+    promoted: 5
+    promotes: 0
+    relme: 0
+    title: 3
+    website: 2
+  score: 14
 ---

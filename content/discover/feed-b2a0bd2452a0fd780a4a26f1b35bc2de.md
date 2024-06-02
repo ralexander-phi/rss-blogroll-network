@@ -21,11 +21,21 @@ params:
   relme:
     https://github.com/colly: true
     https://mastodon.social/@colly: true
-  last_post_title: Enji and the Expressionists
+  last_post_title: Delia’s Third Happening
   last_post_description: |-
-    Paul Brändle and Enji at Kings Place.
-    We enjoyed a sunny jaunt to London to see outstanding Munich-based Mongolian singer Enji (full name Enkhjargal Erkhembayar, nickname Ulaan) at Kings Place.
-  last_post_date: "2024-05-20T23:45:00+01:00"
-  last_post_link: https://colly.com/stream/enji-and-the-expressionists
+    Nottingham, we’re putting on a show! Join us in beautiful St John’s, Carrington, for a high summer evening of Japanophilia on Sat 20th July. Tickets on sale now.
+              Reply via email
+  last_post_date: "2024-06-02T12:00:00+01:00"
+  last_post_link: https://colly.com/stream/delia-s-third-happening
   last_post_categories: []
+  score_criteria:
+    cats: 0
+    description: 3
+    postcats: 0
+    promoted: 5
+    promotes: 0
+    relme: 2
+    title: 3
+    website: 2
+  score: 15
 ---

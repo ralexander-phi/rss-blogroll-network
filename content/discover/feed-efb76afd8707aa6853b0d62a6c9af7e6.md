@@ -19,4 +19,14 @@ params:
   last_post_date: "2024-05-10T10:29:02+01:00"
   last_post_link: https://philbowell.me/2024/05/10/its-all-excuses.html
   last_post_categories: []
+  score_criteria:
+    cats: 0
+    description: 0
+    postcats: 0
+    promoted: 0
+    promotes: 0
+    relme: 0
+    title: 3
+    website: 0
+  score: 3
 ---

@@ -49,4 +49,14 @@ params:
   last_post_date: "2023-12-16T11:43:35-04:00"
   last_post_link: https://blog.numericcitizen.me/2023/12/16/episode-wrapping-up.html
   last_post_categories: []
+  score_criteria:
+    cats: 0
+    description: 3
+    postcats: 0
+    promoted: 0
+    promotes: 10
+    relme: 1
+    title: 3
+    website: 2
+  score: 19
 ---

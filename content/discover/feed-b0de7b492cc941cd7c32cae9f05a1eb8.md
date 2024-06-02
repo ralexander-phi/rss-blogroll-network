@@ -1,6 +1,6 @@
 ---
 title: Nicky's Blog
-date: "2024-06-02T09:38:02Z"
+date: "2024-06-02T16:15:24Z"
 description: The personal blog of a 30-something year old cis-male from the East of
   England. Topics include mental, physical, and emotional health, hobbies, and self-improvement.
 params:
@@ -23,4 +23,14 @@ params:
   last_post_date: "2024-06-02T00:00:00Z"
   last_post_link: https://nicky.bearblog.dev/2024-year-of-acceptance-accountability/
   last_post_categories: []
+  score_criteria:
+    cats: 0
+    description: 3
+    postcats: 0
+    promoted: 5
+    promotes: 0
+    relme: 0
+    title: 3
+    website: 2
+  score: 13
 ---

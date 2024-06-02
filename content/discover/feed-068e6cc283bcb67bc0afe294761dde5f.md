@@ -28,4 +28,14 @@ params:
   last_post_date: "2022-04-06T00:00:00Z"
   last_post_link: http://ada.is//blog/2022/04/06/integrating-augmented-reality-objects-into-the-real-world/
   last_post_categories: []
+  score_criteria:
+    cats: 0
+    description: 3
+    postcats: 0
+    promoted: 5
+    promotes: 0
+    relme: 2
+    title: 3
+    website: 2
+  score: 15
 ---

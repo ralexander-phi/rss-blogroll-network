@@ -31,4 +31,14 @@ params:
   - standards
   - usability
   - WAI
+  score_criteria:
+    cats: 0
+    description: 3
+    postcats: 3
+    promoted: 5
+    promotes: 0
+    relme: 1
+    title: 3
+    website: 2
+  score: 17
 ---

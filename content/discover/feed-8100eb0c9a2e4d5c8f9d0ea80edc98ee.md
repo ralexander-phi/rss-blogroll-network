@@ -28,4 +28,14 @@ params:
   - glamorous
   - work
   - Working
+  score_criteria:
+    cats: 0
+    description: 3
+    postcats: 3
+    promoted: 5
+    promotes: 0
+    relme: 2
+    title: 3
+    website: 2
+  score: 18
 ---

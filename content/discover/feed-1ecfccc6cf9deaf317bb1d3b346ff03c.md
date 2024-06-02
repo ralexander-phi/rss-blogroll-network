@@ -21,4 +21,14 @@ params:
   last_post_date: "2022-12-01T08:00:39Z"
   last_post_link: https://www.behindthesource.co.uk/podcasts/s02e05-coolify-with-andras-bacsai/
   last_post_categories: []
+  score_criteria:
+    cats: 0
+    description: 3
+    postcats: 0
+    promoted: 0
+    promotes: 0
+    relme: 0
+    title: 3
+    website: 1
+  score: 7
 ---

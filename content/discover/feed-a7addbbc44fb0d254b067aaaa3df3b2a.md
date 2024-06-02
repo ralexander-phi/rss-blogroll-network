@@ -20,4 +20,14 @@ params:
   last_post_date: "2024-01-08T02:33:59Z"
   last_post_link: https://actualwebsite.org/rss-club.html
   last_post_categories: []
+  score_criteria:
+    cats: 1
+    description: 3
+    postcats: 0
+    promoted: 0
+    promotes: 0
+    relme: 0
+    title: 3
+    website: 1
+  score: 8
 ---

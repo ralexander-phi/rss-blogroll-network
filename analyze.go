@@ -423,6 +423,83 @@ func (a *Analysis) FindWebsitesRecommendingBlogrolls(blogrolls []string) []strin
 	return websites
 }
 
+func (a *Analysis) PopulateScore(feed *FeedInfo) {
+	// Does this site recommend others?
+	// More recommendations are better
+	// until you reach 20
+	// Half a point each, up to 10 points
+	promotesScore := min(len(feed.Params.Recommended), 20) / 2
+	feed.Params.ScoreCriteria["promotes"] = promotesScore
+
+	// Do others recommend this feed?
+	// 5 points if any
+	promotedScore := 0
+	if len(feed.Params.Recommender) > 0 {
+		promotedScore = 5
+	}
+	feed.Params.ScoreCriteria["promoted"] = promotedScore
+
+	// Does this feed have a website?
+	// +1 point
+	// Can we verify the website via backlinks?
+	// +1 point
+	websiteScore := 0
+	for _, verified := range feed.Params.Websites {
+		if verified {
+			websiteScore = 2
+		} else {
+			websiteScore = max(websiteScore, 1)
+		}
+	}
+	feed.Params.ScoreCriteria["website"] = websiteScore
+
+	// Is this page related to others (rel=me)?
+	// +1 point
+	// Are they verified?
+	// +1 point
+	relMeScore := 0
+	for _, verified := range feed.Params.RelMe {
+		if verified {
+			relMeScore = 2
+		} else {
+			relMeScore = max(relMeScore, 1)
+		}
+	}
+	feed.Params.ScoreCriteria["relme"] = relMeScore
+
+	// Does the feed have categories?
+	// One point each, up to five
+	catScore := min(len(feed.Params.Categories), 5)
+	feed.Params.ScoreCriteria["cats"] = catScore
+
+	// Does the last post have categories?
+	// One point each, up to three
+	postCatScore := min(len(feed.Params.LastPostCategories), 3)
+	feed.Params.ScoreCriteria["postcats"] = postCatScore
+
+	// Does the feed have a title?
+	// 3 points
+	titleScore := 0
+	if len(feed.Title) > 0 {
+		titleScore = 3
+	}
+	feed.Params.ScoreCriteria["title"] = titleScore
+
+	// Does the feed have a description?
+	// 3 points
+	descriptionScore := 0
+	if len(feed.Description) > 0 {
+		descriptionScore = 3
+	}
+	feed.Params.ScoreCriteria["description"] = descriptionScore
+
+	// Sum it up
+	feed.Params.Score = 0
+	for _, score := range feed.Params.ScoreCriteria {
+		feed.Params.Score += score
+	}
+}
+
 func (a *Analysis) PopulateRecommenders(feed *FeedInfo, blogrolls []string, websites []string) {
 	targetUrls := append(blogrolls, websites...)
 
@@ -494,6 +571,7 @@ func (a *Analysis) Analyze() {
 		a.PopulateRelMeForWebsites(feed)
 		a.PopulateCategoriesForFeed(feed)
 		a.PopulateLastPostForFeed(feed)
+		a.PopulateScore(feed)
 		feed.Save()
 	}
 }

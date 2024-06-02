@@ -35,4 +35,14 @@ params:
   last_post_date: "2024-05-29T18:20:33+08:00"
   last_post_link: https://canion.blog/2024/05/29/slash-guy.html
   last_post_categories: []
+  score_criteria:
+    cats: 0
+    description: 3
+    postcats: 0
+    promoted: 0
+    promotes: 4
+    relme: 2
+    title: 3
+    website: 2
+  score: 14
 ---

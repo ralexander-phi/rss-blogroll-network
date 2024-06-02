@@ -34,4 +34,14 @@ params:
   last_post_date: "2024-05-17T17:41:34Z"
   last_post_link: https://starbreaker.org/blog/entertainment/saga-emerald-beyond/index.html
   last_post_categories: []
+  score_criteria:
+    cats: 1
+    description: 3
+    postcats: 0
+    promoted: 0
+    promotes: 0
+    relme: 0
+    title: 3
+    website: 1
+  score: 8
 ---

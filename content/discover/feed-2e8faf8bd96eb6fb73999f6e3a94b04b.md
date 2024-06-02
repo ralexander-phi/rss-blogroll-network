@@ -24,4 +24,14 @@ params:
   last_post_date: "2024-05-28T10:10:39+02:00"
   last_post_link: https://pftnhr.xyz/jetzt-mache-ich-also-auch-20240528
   last_post_categories: []
+  score_criteria:
+    cats: 0
+    description: 3
+    postcats: 0
+    promoted: 0
+    promotes: 0
+    relme: 2
+    title: 3
+    website: 2
+  score: 10
 ---

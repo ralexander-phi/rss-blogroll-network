@@ -21,4 +21,14 @@ params:
   last_post_date: "2023-11-21T16:55:29Z"
   last_post_link: https://chat.openai.com/share/cfc1eefe-7c8c-4281-8ea9-4258bc980387/
   last_post_categories: []
+  score_criteria:
+    cats: 0
+    description: 3
+    postcats: 0
+    promoted: 5
+    promotes: 0
+    relme: 0
+    title: 3
+    website: 0
+  score: 11
 ---

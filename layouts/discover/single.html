@@ -141,9 +141,9 @@
     {{ else }}
       <p class="block">
       None found.
-      Only web feeds (RSS feeds or Atom feeds) will appear here.
       </p>
       <p class="block p-3" style="border-left: 0.2em solid #4258ff">
+      Web feeds (RSS feeds or Atom feeds) will appear here.
       If you are the site owner you can add an OPML blogroll to <a href="https://alexsci.com/blog/blogroll-network/">recommend other blogs or websites</a>.
       </p>
     {{ end }}
@@ -169,6 +169,36 @@
     {{ end }}
   </div>
 </div>
+
+<section class="hero is-info">
+  <div class="hero-body">
+  <h2 class="title is-4">Feed Score</h2>
+  <p class="block">
+    This feed scored {{ .Params.score }} point in our rating.
+  </p>
+
+  <p class="block">
+    A feed can increase its score (and appear higher on our list)
+    by implementing an OPML blogroll, adding a title, description,
+    categories, and more.
+  </p>
+
+  <p class="block">
+  <details>
+    <summary>
+      See criteria
+    </summary>
+
+    <p class="block p-4">
+      {{ range $cat, $score := .Params.score_criteria }}
+        {{ $cat }} - {{ $score }}
+        <br />
+      {{ end }}
+    </p>
+  </details>
+  </p>
+  </div>
+</section>
 
 
 {{- end -}}

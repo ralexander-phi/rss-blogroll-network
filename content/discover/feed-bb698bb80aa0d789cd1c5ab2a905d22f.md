@@ -22,4 +22,14 @@ params:
   last_post_link: https://500songs.com/2023/08/29/mixcloud-issue/
   last_post_categories:
   - Uncategorized
+  score_criteria:
+    cats: 0
+    description: 0
+    postcats: 1
+    promoted: 0
+    promotes: 0
+    relme: 0
+    title: 3
+    website: 2
+  score: 6
 ---

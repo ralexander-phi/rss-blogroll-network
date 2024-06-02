@@ -8,6 +8,7 @@ params:
   feedid: 6ff83db219be2bdfab3da76e964d7c4e
   websites:
     https://www.techdirt.com/: true
+    https://www.techdirt.com/2023/01/04/journalists-and-others-should-leave-twitter-heres-how-they-can-get-started/: false
   blogrolls: []
   recommended: []
   recommender: []
@@ -23,4 +24,14 @@ params:
   - "1"
   - history
   - look back
+  score_criteria:
+    cats: 0
+    description: 0
+    postcats: 3
+    promoted: 0
+    promotes: 0
+    relme: 0
+    title: 3
+    website: 2
+  score: 8
 ---

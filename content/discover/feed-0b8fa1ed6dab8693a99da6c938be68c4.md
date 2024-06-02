@@ -20,4 +20,14 @@ params:
   last_post_date: "2024-05-16T13:39:00+01:00"
   last_post_link: https://clearleft.com/thinking/global-accessibility-awareness-day-at-clearleft
   last_post_categories: []
+  score_criteria:
+    cats: 0
+    description: 3
+    postcats: 0
+    promoted: 5
+    promotes: 0
+    relme: 0
+    title: 3
+    website: 0
+  score: 11
 ---

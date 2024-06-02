@@ -24,4 +24,14 @@ params:
   last_post_date: "2024-04-19T14:01:32Z"
   last_post_link: https://herman.bearblog.dev/how-the-internet-became-shit/
   last_post_categories: []
+  score_criteria:
+    cats: 0
+    description: 3
+    postcats: 0
+    promoted: 5
+    promotes: 0
+    relme: 0
+    title: 3
+    website: 2
+  score: 13
 ---

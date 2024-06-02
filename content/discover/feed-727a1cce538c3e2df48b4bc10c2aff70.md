@@ -21,4 +21,14 @@ params:
   last_post_link: https://www.midlas.org.au/10-year-strategy-for-reducing-family-and-domestic-violence/
   last_post_categories:
   - Advocacy Services
+  score_criteria:
+    cats: 0
+    description: 3
+    postcats: 1
+    promoted: 0
+    promotes: 0
+    relme: 0
+    title: 3
+    website: 2
+  score: 9
 ---

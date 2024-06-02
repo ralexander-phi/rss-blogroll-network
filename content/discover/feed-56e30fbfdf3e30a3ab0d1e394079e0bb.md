@@ -27,4 +27,14 @@ params:
   - Diversity in Ai
   - Diversity In Tech
   - Women In Tech
+  score_criteria:
+    cats: 0
+    description: 3
+    postcats: 3
+    promoted: 0
+    promotes: 0
+    relme: 0
+    title: 3
+    website: 2
+  score: 11
 ---

@@ -18,4 +18,14 @@ params:
   last_post_date: "2024-02-08T02:14:06Z"
   last_post_link: https://danielbachhuber.com/70-confident/#comment-314519
   last_post_categories: []
+  score_criteria:
+    cats: 0
+    description: 3
+    postcats: 0
+    promoted: 0
+    promotes: 0
+    relme: 0
+    title: 3
+    website: 2
+  score: 8
 ---

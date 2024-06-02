@@ -1,6 +1,6 @@
 ---
 title: MetaFilter
-date: "2024-06-02T04:59:16Z"
+date: "2024-06-02T15:17:48Z"
 description: The past 24 hours of MetaFilter
 params:
   feedlink: https://rss.metafilter.com/metafilter.rss
@@ -14,23 +14,26 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: A Quarter Century on the High Seas
-  last_post_description: At the end of the nineties, technology and the Internet were
-    a playground for young engineers and 'hackers'. Some of them regularly gathered
-    in the w00w00 IRC chatroom on the EFnet network. This tech
-  last_post_date: "2024-06-02T04:59:16Z"
-  last_post_link: https://www.metafilter.com/203976/A-Quarter-Century-on-the-High-Seas
+  last_post_title: The most intense potato flavor you've ever experienced.
+  last_post_description: Rosin is highly flammable, and its fumes are noxious. So
+    what better way to cook a potato? Boiling potatoes in molten rosin - a byproduct
+    of pine sap distillation - seals in the flavor.  "You get the
+  last_post_date: "2024-06-02T15:17:48Z"
+  last_post_link: https://www.metafilter.com/203989/The-most-intense-potato-flavor-youve-ever-experienced
   last_post_categories:
-  - Anniversary
-  - Copyright
-  - FileSharing
-  - Musi
-  - Music
-  - MusicIndustry
-  - Napster
-  - P2P
-  - Piracy
-  - Spotify
-  - Torrents
-  - YouTube
+  - catface
+  - cooking
+  - potato
+  - rosin
+  - turpentine
+  score_criteria:
+    cats: 0
+    description: 3
+    postcats: 3
+    promoted: 0
+    promotes: 0
+    relme: 0
+    title: 3
+    website: 2
+  score: 11
 ---

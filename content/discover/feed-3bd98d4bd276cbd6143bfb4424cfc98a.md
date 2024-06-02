@@ -24,4 +24,14 @@ params:
   last_post_link: https://rachsmith.com/mnnm-5/
   last_post_categories:
   - mn&n
+  score_criteria:
+    cats: 0
+    description: 3
+    postcats: 1
+    promoted: 5
+    promotes: 0
+    relme: 0
+    title: 3
+    website: 0
+  score: 12
 ---

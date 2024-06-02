@@ -22,4 +22,14 @@ params:
   last_post_date: "2024-04-26T00:00:00Z"
   last_post_link: https://nivenly.org/blog/2024/04/26/pachli-decision/
   last_post_categories: []
+  score_criteria:
+    cats: 0
+    description: 3
+    postcats: 0
+    promoted: 0
+    promotes: 0
+    relme: 2
+    title: 3
+    website: 2
+  score: 10
 ---

@@ -20,4 +20,14 @@ params:
   last_post_date: "2024-01-27T14:12:33Z"
   last_post_link: http://bookrastinating.com/user/lewisdaleuk/generatednote/376717
   last_post_categories: []
+  score_criteria:
+    cats: 0
+    description: 0
+    postcats: 0
+    promoted: 0
+    promotes: 0
+    relme: 0
+    title: 3
+    website: 2
+  score: 5
 ---

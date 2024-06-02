@@ -20,4 +20,14 @@ params:
   last_post_date: "2023-08-26T12:34:45Z"
   last_post_link: https://some.pics/64e9f161837ae
   last_post_categories: []
+  score_criteria:
+    cats: 0
+    description: 3
+    postcats: 0
+    promoted: 0
+    promotes: 0
+    relme: 1
+    title: 3
+    website: 2
+  score: 9
 ---

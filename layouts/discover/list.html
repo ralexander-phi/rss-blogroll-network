@@ -18,8 +18,12 @@
 {{ $feeds | len }} web feeds are discoverable through the blogroll network.
 </p>
 
+<p class="block">
+Feeds are ordered by their <a href="/scoring/">score</a>.
+</p>
+
 <ul>
-{{- range sort (sort $feeds ".Params.feedlink") ".Params.blogrolls" "desc" -}}
+{{- range sort (sort $feeds ".Params.feedlink") ".Params.Score" "desc" -}}
 <li class="pt-5">
   <a href="/discover/feed-{{ .Params.feedid }}/">
 

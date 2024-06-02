@@ -28,4 +28,14 @@ params:
   last_post_date: "2024-05-27T21:16:10Z"
   last_post_link: https://jamesvandyne.com/f529671c-f92c-4b0c-abea-8605950881d2
   last_post_categories: []
+  score_criteria:
+    cats: 0
+    description: 0
+    postcats: 0
+    promoted: 5
+    promotes: 0
+    relme: 2
+    title: 3
+    website: 2
+  score: 12
 ---

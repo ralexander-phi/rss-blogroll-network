@@ -18,51 +18,46 @@ params:
   - https://danq.me/kind/note/feed/
   categories: []
   relme: {}
-  last_post_title: ما من شيءٍ يضيع؛ كلُّ شيء بقدرٍ
-  last_post_description: اِفتح التدوينة لتعرف لماذا يستحيل علينا نمذجة السلوك الإنساني؟
-  last_post_date: "2024-06-02T01:27:53Z"
-  last_post_link: https://youdo.blog/2024/06/02/no-love-however-brief-is-wasted/
+  last_post_title: من قديم و لمغريب و ليهود بيناتهوم علاقة ضريفة مكانش بيناتهوم الصداع
+    و لا مشاكيل عكس لعرب
+  last_post_description: ويكيبيديا اللهجات العربية (مهما بلغت عدد مقالاتها) جهد مُهدر
+    بلا نفع ولا فايدة.
+  last_post_date: "2024-06-02T13:01:31Z"
+  last_post_link: https://youdo.blog/2024/06/02/ary-wikipedia-org/
   last_post_categories:
   - صيدُ الشابكة
-  - 404 Media
-  - ANUP SATHYA
-  - “حديقة الدروب المتشعبة
-  - Defector
-  - George Box
-  - Hacker News
-  - Ian Betteridge
-  - Jessica Lessin
-  - KEN NAKAGAKI
-  - Kyle Chayka
-  - Laplace’s Demon
-  - Reuters Institute for the Study of Journalism
-  - Rio
-  - Simon Owens
-  - SODP Dispatch
-  - Steve Bryant
-  - Storythings
-  - The Empathy Marketing Co
-  - The Garden of Forking Paths
-  - The MIT Press
-  - The New Yorker
-  - Tyler O'Shea
-  - فهد الشارخ
-  - فهد راشد المطيري
-  - فورتشن العربية
-  - في منزل أنثى السّنجاب
-  - ممدوح نجم
-  - مادونا عماد
-  - مجموعة البنك الأفريقي للتنمية
-  - مريم بازرعة
-  - نشرة Delightful
-  - "نشرة \U0001F4E8الترجمة في أسبوع"
-  - نشرة Kuration
-  - نشرة Storythings
-  - نشرة كاتبٌ ثلاثيني البريدية
-  - نشرة كتاب أزرق الرباعيّة
-  - نشرة ما قلّ ودلّ
-  - الدكتور نسيم الخوري
-  - حاسوبويه
-  - سهام سلطان
-  - شركة حاسوبويه للأبحاث والتطوير والتدريب
+  - Challengers
+  - Hacker News Daily
+  - https://weekly.hatnote.com/archive/ar/20231006/weeklypedia_20231006.html
+  - Loewe
+  - Mark J. Nelson
+  - موقع نبيل الجابري
+  - مؤسسة أقواس الإعلامية
+  - مدونة نبيل الجابري
+  - مركز مالكوم كير-كارنيغي للشرق الأوسط
+  - نبيل الجابري
+  - نبال كرم
+  - ويكيپيديا لمغريبية
+  - Volv Concierge
+  - Zendaya
+  - إيمان الخطاف
+  - اللامساواة
+  - د. رشيد الخيّون
+  - رشاد حسن
+  - شركة Loewe
+  - ضرغام الدباغ
+  - عبد الكبير الميناوي
+  - عبد الجليل 09
+  - عبداللطيف الوراري
+  - عبداللطيف الزبيدي
+  score_criteria:
+    cats: 0
+    description: 3
+    postcats: 3
+    promoted: 5
+    promotes: 0
+    relme: 0
+    title: 3
+    website: 2
+  score: 16
 ---

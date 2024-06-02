@@ -1,6 +1,6 @@
 ---
 title: Open Source JobHub
-date: "2024-06-02T05:17:48-05:00"
+date: "2024-06-02T11:49:19-05:00"
 description: Jobs from Open Source JobHub
 params:
   feedlink: https://opensourcejobhub.com/rss/
@@ -22,4 +22,14 @@ params:
   last_post_date: "2024-06-01T15:10:08-05:00"
   last_post_link: https://opensourcejobhub.com/job/16303/sr-site-reliability-engineer/
   last_post_categories: []
+  score_criteria:
+    cats: 0
+    description: 3
+    postcats: 0
+    promoted: 0
+    promotes: 0
+    relme: 0
+    title: 3
+    website: 2
+  score: 8
 ---

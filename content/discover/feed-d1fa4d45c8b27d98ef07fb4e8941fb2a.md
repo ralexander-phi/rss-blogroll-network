@@ -29,4 +29,14 @@ params:
   - chemie
   - emancipatie
   - literatuur
+  score_criteria:
+    cats: 0
+    description: 0
+    postcats: 3
+    promoted: 5
+    promotes: 0
+    relme: 2
+    title: 3
+    website: 2
+  score: 15
 ---

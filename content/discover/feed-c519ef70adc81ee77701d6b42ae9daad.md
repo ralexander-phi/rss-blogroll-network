@@ -20,4 +20,14 @@ params:
   last_post_link: https://www.swiss-miss.com/2024/06/less-afraid.html
   last_post_categories:
   - quotes
+  score_criteria:
+    cats: 0
+    description: 3
+    postcats: 1
+    promoted: 0
+    promotes: 0
+    relme: 0
+    title: 3
+    website: 0
+  score: 7
 ---

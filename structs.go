@@ -27,15 +27,18 @@ type FeedInfoParams struct {
 	LastPostDate       string          `yaml:"last_post_date"`
 	LastPostLink       string          `yaml:"last_post_link"`
 	LastPostCategories []string        `yaml:"last_post_categories"`
+	ScoreCriteria      map[string]int  `yaml:"score_criteria"`
+	Score              int             `yaml:"score"`
 }
 
 func NewFeedInfo(row ScanFeedInfo) *FeedInfo {
 	p := FeedInfoParams{
-		FeedLink: row.FeedLink,
-		FeedID:   row.FeedID,
-		FeedType: row.FeedType,
-		Websites: map[string]bool{},
-		RelMe:    map[string]bool{},
+		FeedLink:      row.FeedLink,
+		FeedID:        row.FeedID,
+		FeedType:      row.FeedType,
+		Websites:      map[string]bool{},
+		RelMe:         map[string]bool{},
+		ScoreCriteria: map[string]int{},
 	}
 	f := FeedInfo{
 		Title:       row.Title,

@@ -22,4 +22,14 @@ params:
   last_post_link: https://support.glitch.com/t/can-i-change-how-i-log-in/67491
   last_post_categories:
   - Glitch Help
+  score_criteria:
+    cats: 0
+    description: 3
+    postcats: 1
+    promoted: 0
+    promotes: 0
+    relme: 0
+    title: 3
+    website: 2
+  score: 9
 ---

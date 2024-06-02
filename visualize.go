@@ -3,6 +3,7 @@ package main
 import (
 	"encoding/json"
 	"os"
+	"slices"
 )
 
 type VisualData struct {
@@ -56,6 +57,33 @@ func (a *Analysis) Visualize() {
 			Group: nodeType,
 		})
 	}
+
+	slices.SortFunc(viz.Nodes, func(a, b VizNode) int {
+		if a.ID < b.ID {
+			return -1
+		} else if a.ID > b.ID {
+			return 1
+		} else {
+			return 0
+		}
+	})
+
+	slices.SortFunc(viz.Links, func(a, b VizLink) int {
+		if a.Source < b.Source {
+			return -1
+		} else if a.Source > b.Source {
+			return 1
+		} else {
+			if a.Destination < b.Destination {
+				return -1
+			} else if a.Destination > b.Destination {
+				return 1
+			} else {
+				return 0
+			}
+		}
+	})
+
 	output, err := json.MarshalIndent(viz, "", "    ")
 	ohno(err)
 	err = os.WriteFile("static/index.json", output, os.FileMode(int(0660)))

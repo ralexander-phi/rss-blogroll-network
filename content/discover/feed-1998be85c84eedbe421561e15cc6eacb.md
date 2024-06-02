@@ -21,4 +21,14 @@ params:
   last_post_date: "2024-05-24T17:34:06Z"
   last_post_link: https://textslashplain.com/2024/05/20/attack-techniques-full-trust-script-downloads/comment-page-1/#comment-38443
   last_post_categories: []
+  score_criteria:
+    cats: 0
+    description: 3
+    postcats: 0
+    promoted: 0
+    promotes: 0
+    relme: 0
+    title: 3
+    website: 2
+  score: 8
 ---

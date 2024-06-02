@@ -23,4 +23,14 @@ params:
   last_post_date: "2023-12-28T13:30:00+01:00"
   last_post_link: https://neu-gierig.fm/podcast/die-menschliche-seite-herauskehren-sven-saro
   last_post_categories: []
+  score_criteria:
+    cats: 0
+    description: 3
+    postcats: 0
+    promoted: 0
+    promotes: 0
+    relme: 1
+    title: 3
+    website: 2
+  score: 9
 ---

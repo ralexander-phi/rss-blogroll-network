@@ -24,4 +24,14 @@ params:
   last_post_date: "2024-05-31T13:45:32Z"
   last_post_link: https://www.welivesecurity.com/en/videos/what-happens-facial-recognition-gets-wrong-week-security-tony-anscombe/
   last_post_categories: []
+  score_criteria:
+    cats: 0
+    description: 3
+    postcats: 0
+    promoted: 5
+    promotes: 0
+    relme: 0
+    title: 3
+    website: 0
+  score: 11
 ---

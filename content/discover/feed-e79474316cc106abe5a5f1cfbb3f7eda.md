@@ -22,4 +22,14 @@ params:
   last_post_date: "2024-02-16T19:46:15Z"
   last_post_link: https://excited-pixels.com/2024/01/05/best-photography-related-stuff-of-2023/comment-page-1/#comment-625
   last_post_categories: []
+  score_criteria:
+    cats: 0
+    description: 0
+    postcats: 0
+    promoted: 0
+    promotes: 0
+    relme: 0
+    title: 3
+    website: 2
+  score: 5
 ---

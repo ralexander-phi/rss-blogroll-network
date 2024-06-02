@@ -22,4 +22,14 @@ params:
   last_post_categories:
   - Ceramics
   - Pottery
+  score_criteria:
+    cats: 0
+    description: 3
+    postcats: 2
+    promoted: 0
+    promotes: 0
+    relme: 0
+    title: 3
+    website: 2
+  score: 10
 ---

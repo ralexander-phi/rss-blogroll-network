@@ -21,4 +21,14 @@ params:
   last_post_date: "2023-04-17T00:00:00Z"
   last_post_link: https://dataplane.org/jtk/blog/2023/04/run-parts/
   last_post_categories: []
+  score_criteria:
+    cats: 0
+    description: 3
+    postcats: 0
+    promoted: 5
+    promotes: 0
+    relme: 0
+    title: 3
+    website: 2
+  score: 13
 ---

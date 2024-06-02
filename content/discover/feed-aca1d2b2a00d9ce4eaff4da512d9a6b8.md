@@ -24,4 +24,14 @@ params:
   last_post_date: "2024-05-26T21:08:34Z"
   last_post_link: https://barryfrost.com/2024/05/week-144-headquarters
   last_post_categories: []
+  score_criteria:
+    cats: 0
+    description: 3
+    postcats: 0
+    promoted: 0
+    promotes: 0
+    relme: 2
+    title: 3
+    website: 2
+  score: 10
 ---

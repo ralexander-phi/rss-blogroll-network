@@ -13,12 +13,20 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Comment on Upgrading From an iPhone 12 mini to an iPhone 15 Pro
-    by Xero
-  last_post_description: I recently set up Apple Pay on my new iPhone 15 Pro, and
-    the process was incredibly smooth and intuitive. I didn't encounter any issues
-    at all. Transferring my data from my previous Android device to
-  last_post_date: "2024-06-02T02:53:24Z"
-  last_post_link: https://mjtsai.com/blog/2024/01/12/upgrading-from-an-iphone-12-mini-to-an-iphone-15-pro/#comment-4098220
+  last_post_title: Comment on Unwanted Tracking Alerts in iOS and Android by Kristoffer
+  last_post_description: I can confirm. Just got notified that my Android 13 phone
+    is a part of this find a thing network.
+  last_post_date: "2024-06-02T15:00:03Z"
+  last_post_link: https://mjtsai.com/blog/2024/05/31/unwanted-tracking-alerts-in-ios-and-android/#comment-4098502
   last_post_categories: []
+  score_criteria:
+    cats: 0
+    description: 0
+    postcats: 0
+    promoted: 0
+    promotes: 0
+    relme: 0
+    title: 3
+    website: 1
+  score: 4
 ---

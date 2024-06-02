@@ -19,4 +19,14 @@ params:
   last_post_date: "2024-05-28T21:16:00Z"
   last_post_link: http://sites.libsyn.com/517508/185-ill-eat-glue-cheese
   last_post_categories: []
+  score_criteria:
+    cats: 0
+    description: 3
+    postcats: 0
+    promoted: 0
+    promotes: 0
+    relme: 0
+    title: 3
+    website: 0
+  score: 6
 ---

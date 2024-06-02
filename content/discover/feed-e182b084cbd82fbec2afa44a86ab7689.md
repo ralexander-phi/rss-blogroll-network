@@ -22,4 +22,14 @@ params:
   last_post_date: "2024-05-08T12:00:00Z"
   last_post_link: https://www.engineersneedart.com/blog/quartercabphase1/quartercabphase1.html
   last_post_categories: []
+  score_criteria:
+    cats: 2
+    description: 3
+    postcats: 0
+    promoted: 5
+    promotes: 0
+    relme: 0
+    title: 3
+    website: 2
+  score: 15
 ---

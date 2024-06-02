@@ -23,4 +23,14 @@ params:
   last_post_date: "2024-04-08T11:04:58-05:00"
   last_post_link: https://short.therealadam.com/2024/04/08/trim-the-attention.html
   last_post_categories: []
+  score_criteria:
+    cats: 0
+    description: 0
+    postcats: 0
+    promoted: 0
+    promotes: 0
+    relme: 1
+    title: 3
+    website: 2
+  score: 6
 ---

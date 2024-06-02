@@ -26,4 +26,14 @@ params:
   last_post_date: "2024-05-11T15:13:19-07:00"
   last_post_link: https://blog.grotenhuis.info/2024/05/11/bird-talk.html
   last_post_categories: []
+  score_criteria:
+    cats: 0
+    description: 3
+    postcats: 0
+    promoted: 0
+    promotes: 0
+    relme: 1
+    title: 3
+    website: 2
+  score: 9
 ---

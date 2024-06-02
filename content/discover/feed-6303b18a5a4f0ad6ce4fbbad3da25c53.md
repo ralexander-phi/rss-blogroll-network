@@ -98,6 +98,7 @@ params:
   - https://www.neondystopia.com/?feed=comments-rss2
   - https://www.neondystopia.com/?feed=rss2
   - https://www.pelicancrossing.net/netwars/index.xml
+  - https://zijperspace.nl/comments/feed/
   recommender:
   - https://colinwalker.blog/dailyfeed.xml
   - https://colinwalker.blog/livefeed.xml
@@ -114,4 +115,14 @@ params:
   last_post_date: "2024-05-29T21:55:33+02:00"
   last_post_link: https://frankmeeuwsen.com/2024/05/29/digitale-autonomie-een.html
   last_post_categories: []
+  score_criteria:
+    cats: 0
+    description: 0
+    postcats: 0
+    promoted: 5
+    promotes: 10
+    relme: 2
+    title: 3
+    website: 2
+  score: 22
 ---

@@ -25,4 +25,14 @@ params:
   last_post_categories:
   - Artificial Intelligence
   - prompting
+  score_criteria:
+    cats: 0
+    description: 3
+    postcats: 2
+    promoted: 5
+    promotes: 0
+    relme: 2
+    title: 3
+    website: 2
+  score: 17
 ---

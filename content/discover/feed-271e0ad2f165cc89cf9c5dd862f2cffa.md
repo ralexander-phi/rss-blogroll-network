@@ -24,4 +24,14 @@ params:
   last_post_date: "2024-05-19T17:35:56Z"
   last_post_link: https://ianbetteridge.com/2024/03/06/the-future-of-search-driven-affiliate-content/comment-page-1/#comment-3861
   last_post_categories: []
+  score_criteria:
+    cats: 0
+    description: 3
+    postcats: 0
+    promoted: 0
+    promotes: 0
+    relme: 1
+    title: 3
+    website: 2
+  score: 9
 ---

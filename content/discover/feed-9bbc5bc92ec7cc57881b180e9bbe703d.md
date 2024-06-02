@@ -26,4 +26,14 @@ params:
   last_post_date: "2024-04-22T05:00:00Z"
   last_post_link: https://kld.dev/slot-machine-2/
   last_post_categories: []
+  score_criteria:
+    cats: 0
+    description: 3
+    postcats: 0
+    promoted: 5
+    promotes: 0
+    relme: 2
+    title: 3
+    website: 2
+  score: 15
 ---

@@ -22,4 +22,14 @@ params:
   last_post_date: "2024-05-27T14:35:20Z"
   last_post_link: https://newsletter.werd.io/archive/this-weeks-notable-links-6036/
   last_post_categories: []
+  score_criteria:
+    cats: 0
+    description: 3
+    postcats: 0
+    promoted: 0
+    promotes: 0
+    relme: 0
+    title: 3
+    website: 2
+  score: 8
 ---
