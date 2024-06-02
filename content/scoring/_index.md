@@ -11,8 +11,7 @@ Criteria are intended to improve reader experience and discoverability of the fe
 
 Over time new criteria will be added and the weights may be adjusted.
 
-
-## OPML Blogroll
+### OPML Blogroll
 
 **Up to 10 points**
 
@@ -25,13 +24,13 @@ Each website you promote adds half a point, up to the maximum of 10 points.
 Promoting feeds in your OPML Blogroll helps us grow the blogroll network.
 
 
-## Title and description
+### Title and description
 
 **Up to 6 points**
 
 Make sure you give your feed a title and description.
 
-## Feed categories
+### Feed categories
 
 **Up to 5 points**
 
@@ -39,7 +38,7 @@ Help readers understand what kind of content you have in your feed by adding cat
 You'll get a point for each category you add, up to five points.
 
 
-## Reverse OPML Blogroll
+### Reverse OPML Blogroll
 
 **Up to 5 points**
 
@@ -47,7 +46,7 @@ You'll need another website owner to promote your website in their OPML blogroll
 Getting recommended by another site in the network will earn you 5 points.
 
 
-## Post categories
+### Post categories
 
 **Up to 3 points**
 
@@ -55,7 +54,7 @@ We share your latest post's title and description to help readers understand wha
 Tag your posts with categories to earn up to 3 points.
 
 
-## Link to your website
+### Link to your website
 
 **Up to 2 points**
 
@@ -63,7 +62,7 @@ Your web feed should point to your website and your website should link to your 
 You need both links present to get both points.
 
 
-## Related webpages
+### Related webpages
 
 **Up to 2 points**
 
@@ -76,7 +75,7 @@ If the linked page has a `rel=me` backlink to your site, then the link is verifi
 You get a total of two points if you have at least one verified related webpage.
 
 
-# Debugging
+## Debugging
 
 This website and the scoring system are still being developed, so you may see some issues.
 
@@ -92,7 +91,7 @@ Here's some things to consider if your feed page doesn't look right:
 If you're still not sure, [open an issue](https://github.com/ralexander-phi/rss-blogroll-network/issues).
 
 
-# Non-criteria
+## Non-criteria
 
 Here's some things we won't make you do for points:
 
