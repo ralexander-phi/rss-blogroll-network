@@ -53,7 +53,6 @@ params:
   - https://granary.io/url?input=html
   - https://honza.pokorny.ca/index.xml
   - https://im.farai.xyz/feed.rss.xml
-  - https://immerweiterlaufen.de/feed
   - https://jerz.us/rss/?section=micro
   - https://jimkang.com/weblog/feed.xml
   - https://joekrall.com/atom.xml
@@ -167,6 +166,8 @@ params:
   - https://benfrain.com/feed/
   - https://benfrain.com/home/feed/
   - https://blog.humblebundle.com/comments/feed/
+  - https://www.buttersafe.com/feed/
+  - https://www.buttersafe.com/feed/atom/
   - https://colinwalker.blog/dailyfeed.xml
   - https://cosmicqbit.dev/blog/index.xml
   - https://degruchy.org/comments/feed/
@@ -182,7 +183,7 @@ params:
   - https://geoffgraham.me/feed/
   - https://jerz.us/atom/
   - https://jerz.us/rss/
-  - https://lalunemauve.fr/comments/feed/
+  - https://kevquirk.com/feed
   - https://ma.tt/comments/feed/
   - https://rss.nebula.app/video/channels/minutephysics.rss?plus=true
   - https://rss.nebula.app/video/channels/philosophytube.rss?plus=true
@@ -202,12 +203,19 @@ params:
   - https://notiz.blog/type/standard/feed/
   - https://notiz.blog/type/status/feed/
   - https://notiz.blog/type/video/feed/
+  - https://oglaf.com/feeds/rss/
   - https://polytechnic.co.uk/blog/rss
   - https://rss.metafilter.com/popular-comments.rss
   - https://rss.metafilter.com/popular-posts.rss
   - https://rss.metafilter.com/projects.rss
+  - https://indieweb.social/@seanmcp.rss
   - https://sfss.space/feed/
   - https://shiflett.org/feeds/links
+  - https://shkspr.mobi/blog/feed
+  - https://shkspr.mobi/blog/feed/atom/
+  - https://shkspr.mobi/blog/feed/podcast/
+  - https://stantonharcourtschool.org.uk/comments/feed/
+  - https://stantonharcourtschool.org.uk/feed/
   - https://steele.blue/feed
   - https://stefanbohacek.com/feed
   - https://textslashplain.com/comments/feed/
@@ -216,12 +224,15 @@ params:
   - https://www.alchemists.io/feeds/projects.xml
   - https://www.alchemists.io/feeds/screencasts.xml
   - https://www.alchemists.io/feeds/talks.xml
-  - https://www.blogpocket.com/comments/feed/
   - https://www.blogpocket.com/feed/
   - https://www.blogpocket.com/feed/podcast
   - https://rss.metafilter.com/metafilter.rss
+  - https://www.nathalielawhead.com/candybox/comments/feed
   - https://www.optipess.com/comments/feed/
   - https://www.optipess.com/feed/
+  - https://polyamorousmisanthrope.com/wordpress/comments/feed/
+  - https://www.schneier.com/comments/feed/
+  - https://www.schneier.com/feed/
   - https://www.zylstra.org/blog/comments/feed/
   - https://xkcd.com/atom.xml
   - https://youdo.blog/comments/feed/
@@ -251,4 +262,5 @@ params:
     title: 3
     website: 2
   score: 20
+  ispodcast: false
 ---

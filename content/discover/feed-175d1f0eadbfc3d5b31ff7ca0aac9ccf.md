@@ -11,7 +11,6 @@ params:
   blogrolls: []
   recommended: []
   recommender:
-  - https://josh.blog/comments/feed
   - https://josh.blog/feed
   categories: []
   relme: {}
@@ -35,4 +34,5 @@ params:
     title: 3
     website: 2
   score: 16
+  ispodcast: false
 ---

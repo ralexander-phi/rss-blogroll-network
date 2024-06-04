@@ -14,14 +14,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Can I change how I log in?
-  last_post_description: "Hi,\nis there a way to change how I login in into Glitch?\nI
-    am using Sign with Google option, but if I change and start using Github my projects
-    wont be here.\n            4 posts - 2 participants\n    "
-  last_post_date: "2024-05-31T07:21:28Z"
-  last_post_link: https://support.glitch.com/t/can-i-change-how-i-log-in/67491
+  last_post_title: How do create a whatsapp webhook? for multiagent
+  last_post_description: I’m a doctor not a coder but I’m learning. How do I create
+    a WhatsApp webhook so there is one business number available but the message will
+    go to different agents’ numbers and only one agent
+  last_post_date: "2024-06-04T12:35:01Z"
+  last_post_link: https://support.glitch.com/t/how-do-create-a-whatsapp-webhook-for-multiagent/67549
   last_post_categories:
-  - Glitch Help
+  - Coding Help
   score_criteria:
     cats: 0
     description: 3
@@ -32,4 +32,5 @@ params:
     title: 3
     website: 2
   score: 9
+  ispodcast: false
 ---

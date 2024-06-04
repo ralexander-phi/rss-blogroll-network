@@ -33,7 +33,10 @@ params:
   - https://www.michalzelazny.com/feed/
   - https://blog.numericcitizen.me/podcast.xml
   - https://excited-pixels.com/comments/feed/
+  - https://www.manton.org/podcast.xml
   - https://manuelmoreale.com/feed/instagram
+  - https://mastodon.social/tags/mjtsaiupdate.rss
+  - https://mjtsai.com/blog/comments/feed/
   - https://om.co/comments/feed/
   - https://www.feedio.co/@thenewsprint/feed
   - https://www.curtisfamily.org.uk/comments/feed/
@@ -41,13 +44,12 @@ params:
   categories: []
   relme:
     https://micro.blog/numericcitizen: false
-  last_post_title: Episode 06 — Wrapping Up 2023
-  last_post_description: "It’s time to wrap up 2023! In this last podcast episode
-    for the year\U0001F60C, I reflect on twelve months of creative work. It was a
-    busy year\U0001F605\U0001F468\U0001F3FB‍\U0001F4BB, and I’m grateful for all of
-    it"
-  last_post_date: "2023-12-16T11:43:35-04:00"
-  last_post_link: https://blog.numericcitizen.me/2023/12/16/episode-wrapping-up.html
+  last_post_title: First Narrated Blog Post Experiment
+  last_post_description: 'Hi everyone. I might be late to the party, but I finally
+    sat down for a few minutes to test Micro.blog’s new feature: narrated blog posts.
+    It is strange because this is my first use and I cannot'
+  last_post_date: "2024-06-02T14:50:13-04:00"
+  last_post_link: https://blog.numericcitizen.me/2024/06/02/first-narrated-blog.html
   last_post_categories: []
   score_criteria:
     cats: 0
@@ -59,4 +61,5 @@ params:
     title: 3
     website: 2
   score: 19
+  ispodcast: true
 ---

@@ -1,6 +1,6 @@
 ---
 title: Kitty Giraudel
-date: "2024-06-01T14:29:47Z"
+date: "2024-06-04T06:31:09Z"
 description: I’m Kitty Giraudel, a non-binary trans frontend developer based in Berlin,
   focused on accessibility and inclusivity.
 params:
@@ -30,4 +30,5 @@ params:
     title: 3
     website: 2
   score: 13
+  ispodcast: false
 ---

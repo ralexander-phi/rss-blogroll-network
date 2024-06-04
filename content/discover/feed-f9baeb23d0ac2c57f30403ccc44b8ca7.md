@@ -1,6 +1,6 @@
 ---
 title: MetaFilter
-date: "2024-06-02T15:17:48Z"
+date: "2024-06-04T12:31:58Z"
 description: The past 24 hours of MetaFilter
 params:
   feedlink: https://rss.metafilter.com/metafilter.rss
@@ -14,18 +14,19 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: The most intense potato flavor you've ever experienced.
-  last_post_description: Rosin is highly flammable, and its fumes are noxious. So
-    what better way to cook a potato? Boiling potatoes in molten rosin - a byproduct
-    of pine sap distillation - seals in the flavor.  "You get the
-  last_post_date: "2024-06-02T15:17:48Z"
-  last_post_link: https://www.metafilter.com/203989/The-most-intense-potato-flavor-youve-ever-experienced
+  last_post_title: Spiders and frogs return to cotton farms as industry cleans up
+    its act
+  last_post_description: Spiders and frogs return to cotton farms as industry cleans
+    up its act. Once devoid of insect life, Australian cotton paddocks are now teeming
+    with spiders and other animals as the cotton industry
+  last_post_date: "2024-06-04T12:31:58Z"
+  last_post_link: https://www.metafilter.com/204012/Spiders-and-frogs-return-to-cotton-farms-as-industry-cleans-up-its-act
   last_post_categories:
-  - catface
-  - cooking
-  - potato
-  - rosin
-  - turpentine
+  - Cotton
+  - Frogs
+  - Pesticides
+  - PesticideUse
+  - Spiders
   score_criteria:
     cats: 0
     description: 3
@@ -36,4 +37,5 @@ params:
     title: 3
     website: 2
   score: 11
+  ispodcast: false
 ---

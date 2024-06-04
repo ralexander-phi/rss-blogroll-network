@@ -9,6 +9,7 @@ params:
   websites:
     https://ochtendgrijs.be/: true
     https://ochtendgrijs.be/author/ochtendgrijs/: false
+    https://ochtendgrijs.be/index.php: false
   blogrolls: []
   recommended: []
   recommender:
@@ -33,4 +34,5 @@ params:
     title: 3
     website: 2
   score: 15
+  ispodcast: false
 ---

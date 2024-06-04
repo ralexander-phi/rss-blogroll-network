@@ -1,6 +1,6 @@
 ---
 title: 'starbreaker.org: writing'
-date: "2024-06-02T08:16:43Z"
+date: "2024-06-03T17:26:35Z"
 description: 'Matthew’s writing feed: posts on craft, worldbuilding, and occasional
   poetasting'
 params:
@@ -49,4 +49,5 @@ params:
     title: 3
     website: 2
   score: 10
+  ispodcast: false
 ---

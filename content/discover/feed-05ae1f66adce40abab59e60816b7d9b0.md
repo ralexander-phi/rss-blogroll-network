@@ -8,6 +8,7 @@ params:
   feedid: 05ae1f66adce40abab59e60816b7d9b0
   websites:
     https://beardystarstuff.net/: true
+    https://denny.micro.blog/: false
   blogrolls: []
   recommended: []
   recommender:
@@ -34,4 +35,5 @@ params:
     title: 3
     website: 2
   score: 12
+  ispodcast: false
 ---

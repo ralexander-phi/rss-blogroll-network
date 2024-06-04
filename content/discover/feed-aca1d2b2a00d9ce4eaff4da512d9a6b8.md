@@ -17,12 +17,12 @@ params:
     https://fed.brid.gy/r/https:/barryfrost.com/: false
     https://github.com/barryf: true
     https://mastodon.social/@barryf: true
-  last_post_title: Week 144 - Headquarters
+  last_post_title: Week 145 - Robot
   last_post_description: |-
-    For my second work trip in a fortnight I visited our HQ in sunny San Diego.
-    On the 11-hour flight out I did a bit of work and then worked my way through three films: The Holdovers (heartwarming),
-  last_post_date: "2024-05-26T21:08:34Z"
-  last_post_link: https://barryfrost.com/2024/05/week-144-headquarters
+    I was happy to be back home after my US trip, with a bank holiday to catch up on sleep. I think I'm just about readjusted now.
+    It's been half-term holidays for the boys. My in-laws stayed with us for
+  last_post_date: "2024-06-03T19:08:18Z"
+  last_post_link: https://barryfrost.com/2024/06/week-145-robot
   last_post_categories: []
   score_criteria:
     cats: 0
@@ -34,4 +34,5 @@ params:
     title: 3
     website: 2
   score: 10
+  ispodcast: false
 ---

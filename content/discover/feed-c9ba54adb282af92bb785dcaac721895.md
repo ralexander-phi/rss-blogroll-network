@@ -9,7 +9,6 @@ params:
   feedtype: rss
   feedid: c9ba54adb282af92bb785dcaac721895
   websites:
-    https://vladcampos.com: false
     https://vladcampos.com/: true
   blogrolls:
   - https://vladcampos.com/.well-known/recommendations.opml
@@ -17,10 +16,11 @@ params:
   - https://indieweb.org/wiki/index.php?feed=atom&title=Special%3ARecentChanges
   - https://otavio.cc/feed.xml
   - https://www.manton.org/feed.xml
+  - https://www.manton.org/podcast.xml
   recommender: []
   categories: []
   relme:
-    https://github.com/vladcampos: false
+    https://github.com/vladcampos: true
     https://micro.blog/vladcampos: false
     https://twitter.com/vladcampos: false
   last_post_title: 'VCP 5 - #Substack: is the honeymoon over?'
@@ -35,9 +35,10 @@ params:
     description: 3
     postcats: 0
     promoted: 0
-    promotes: 1
-    relme: 1
+    promotes: 2
+    relme: 2
     title: 3
     website: 2
-  score: 10
+  score: 12
+  ispodcast: true
 ---

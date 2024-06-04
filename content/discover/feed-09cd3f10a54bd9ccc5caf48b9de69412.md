@@ -7,6 +7,7 @@ params:
   feedtype: rss
   feedid: 09cd3f10a54bd9ccc5caf48b9de69412
   websites:
+    https://kevq.uk/: false
     https://kevquirk.com/: true
   blogrolls:
   - https://kevquirk.com/blogroll/kevquirk.opml
@@ -48,6 +49,7 @@ params:
   - https://hacdias.com/feed.xml
   - https://jlelse.blog/.min.rss
   - https://jlelse.blog/.rss
+  - https://jlelse.blog/index.xml
   categories: []
   relme:
     https://fosstodon.org/@kev: true
@@ -70,4 +72,5 @@ params:
     title: 3
     website: 2
   score: 25
+  ispodcast: false
 ---

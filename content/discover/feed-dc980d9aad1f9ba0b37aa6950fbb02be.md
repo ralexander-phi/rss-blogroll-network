@@ -43,10 +43,10 @@ params:
     https://www.flickr.com/people/adactio: false
     https://www.linkedin.com/in/adactio/: false
     https://www.youtube.com/adactio: false
-  last_post_title: Sunday session in Cork, like
-  last_post_description: Sunday session in Cork, like
-  last_post_date: "2024-06-02T16:22:22Z"
-  last_post_link: https://adactio.com/notes/21180
+  last_post_title: ""
+  last_post_description: ""
+  last_post_date: ""
+  last_post_link: ""
   last_post_categories: []
   score_criteria:
     cats: 0
@@ -58,4 +58,5 @@ params:
     title: 3
     website: 2
   score: 15
+  ispodcast: false
 ---

@@ -9,25 +9,29 @@ params:
   feedid: f10e05ae51feb5b85bfe456a27652bdb
   websites:
     https://www.opencost.io/: false
-    https://www.opencost.io/blog: false
   blogrolls: []
   recommended: []
   recommender: []
   categories: []
   relme: {}
-  last_post_title: ""
-  last_post_description: ""
-  last_post_date: ""
-  last_post_link: ""
-  last_post_categories: []
+  last_post_title: Introducing OpenCost Plugins
+  last_post_description: OpenCost banner
+  last_post_date: "1970-01-01T00:00:00Z"
+  last_post_link: https://opencost.io/blog/introducing-opencost-plugins
+  last_post_categories:
+  - external costs
+  - IT cost monitoring
+  - Datadog costs
+  - IT costs
   score_criteria:
     cats: 0
     description: 3
-    postcats: 0
+    postcats: 3
     promoted: 0
     promotes: 0
     relme: 0
     title: 3
     website: 1
-  score: 7
+  score: 10
+  ispodcast: false
 ---

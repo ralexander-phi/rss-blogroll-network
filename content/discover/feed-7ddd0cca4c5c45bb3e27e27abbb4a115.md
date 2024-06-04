@@ -17,10 +17,12 @@ params:
     https://github.com/lmika: false
     https://micro.blog/lmika: false
     https://twitter.com/_leonmika: false
-  last_post_title: ""
-  last_post_description: ""
-  last_post_date: ""
-  last_post_link: ""
+  last_post_title: Some More Thoughts On Unit Testing
+  last_post_description: Kinda want to avoid this blog descending into a series of
+    “this is wrong with unit testing” posts, but something did occur to me this morning.
+    We’ve kicked off a new service at work recently.
+  last_post_date: "2024-06-03T12:32:50+10:00"
+  last_post_link: https://lmika.org/2024/06/03/some-more-thoughts.html
   last_post_categories: []
   score_criteria:
     cats: 0
@@ -32,4 +34,5 @@ params:
     title: 3
     website: 2
   score: 9
+  ispodcast: true
 ---

@@ -1,6 +1,6 @@
 ---
 title: 'starbreaker.org: entertainment'
-date: "2024-06-02T08:16:43Z"
+date: "2024-06-03T17:26:34Z"
 description: 'Matthew’s entertainment feed: books, movies, games, music, etc.'
 params:
   feedlink: https://starbreaker.org/feeds/entertainment.xml
@@ -44,4 +44,5 @@ params:
     title: 3
     website: 1
   score: 8
+  ispodcast: false
 ---

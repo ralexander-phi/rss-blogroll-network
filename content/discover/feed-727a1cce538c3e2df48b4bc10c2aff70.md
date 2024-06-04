@@ -7,6 +7,7 @@ params:
   feedtype: rss
   feedid: 727a1cce538c3e2df48b4bc10c2aff70
   websites:
+    https://midlas.org.au/: false
     https://www.midlas.org.au/: true
   blogrolls: []
   recommended: []
@@ -31,4 +32,5 @@ params:
     title: 3
     website: 2
   score: 9
+  ispodcast: false
 ---

@@ -22,6 +22,7 @@ params:
   - https://jabel.blog/feed.xml
   - https://jabel.blog/podcast.xml
   - https://maique.eu/feed.xml
+  - https://www.manton.org/feed
   - https://www.manton.org/feed.xml
   - https://www.manton.org/podcast.xml
   categories: []
@@ -44,4 +45,5 @@ params:
     title: 3
     website: 2
   score: 14
+  ispodcast: false
 ---

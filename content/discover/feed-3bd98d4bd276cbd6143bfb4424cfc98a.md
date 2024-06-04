@@ -14,16 +14,18 @@ params:
   recommender:
   - https://jlelse.blog/.min.rss
   - https://jlelse.blog/.rss
+  - https://jlelse.blog/index.xml
   categories: []
   relme: {}
-  last_post_title: Month notes & numbers №5
-  last_post_description: "Notable\n#WeblogPoMo2024. I added a note every day this
-    month. It was sometimes a squeeze to get a post up, but I think I did less procrastination
-    and time-wasting overall this month. \nI was thinking"
-  last_post_date: "2024-05-31T18:44:00Z"
-  last_post_link: https://rachsmith.com/mnnm-5/
+  last_post_title: Comedy series I've watched over and over (and over)
+  last_post_description: |-
+    I love a good comedy series. It's my comfort television. These are my favourites over the years.
+    90s
+    We only had free-to-air TV at our house, so it was slim pickings from the four channels available
+  last_post_date: "2024-06-04T19:06:00Z"
+  last_post_link: https://rachsmith.com/comedy-series/
   last_post_categories:
-  - mn&n
+  - miscellany
   score_criteria:
     cats: 0
     description: 3
@@ -34,4 +36,5 @@ params:
     title: 3
     website: 0
   score: 12
+  ispodcast: false
 ---

@@ -7,6 +7,7 @@ params:
   feedtype: rss
   feedid: 9fde18f0e6557cda1c6a58ec2134baec
   websites:
+    https://trysmudford.com/: false
     https://www.trysmudford.com/: false
     https://www.trysmudford.com/blog/: true
   blogrolls: []
@@ -19,12 +20,12 @@ params:
     https://mastodon.social/@trys: false
     https://photography.trysmudford.com/: false
     https://twitter.com/trysmudford: false
-  last_post_title: There it is again, that fluid feeling
-  last_post_description: For the first few years, the only way to add Utopian fluid
-    scales to your site was to copy & paste the generated CSS. A “downside” of this
-    delivery system is we have absolutely no idea who uses
-  last_post_date: "2024-05-18T00:00:00Z"
-  last_post_link: https://www.trysmudford.com/blog/fluid-feeling/
+  last_post_title: Data all the way down
+  last_post_description: We had our bi-monthly company hack day last week. I had the
+    pleasure of teaming up with a colleague who isn’t in engineering (yet), but would
+    love to move into the backend engineering space. We
+  last_post_date: "2024-06-04T00:00:00Z"
+  last_post_link: https://www.trysmudford.com/blog/data-all-the-way-down/
   last_post_categories: []
   score_criteria:
     cats: 0
@@ -36,4 +37,5 @@ params:
     title: 3
     website: 2
   score: 9
+  ispodcast: false
 ---

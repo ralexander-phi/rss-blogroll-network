@@ -16,12 +16,11 @@ params:
   - http://scripting.com/rssNightly.xml
   categories: []
   relme: {}
-  last_post_title: The Alito Flag Scandal Just Got Worse. What’s the Next Move for
-    Dems?
-  last_post_description: Earlier this week, Supreme Court Justice Samuel Alito refused to
-    recuse himself from hearing Jan. 6-related cases amid controversy over an upside-down
-    U.S. flag outside Alito’s home
-  last_post_date: "2024-05-31T08:00:00Z"
+  last_post_title: GOP Fury At Trump Verdict Just Got Scarier. This Dem Sees An Opening.
+  last_post_description: In the wake of Donald Trump’s conviction on 34 felony counts,
+    Republican anger at the verdict is getting darker, with GOP leaders talking about
+    holding hearings and even defunding other
+  last_post_date: "2024-06-04T09:00:00Z"
   last_post_link: ""
   last_post_categories: []
   score_criteria:
@@ -34,4 +33,5 @@ params:
     title: 3
     website: 0
   score: 11
+  ispodcast: true
 ---

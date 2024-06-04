@@ -7,17 +7,21 @@ params:
   feedtype: rss
   feedid: dc294f1462eaae6df6913f9afe4fe0c0
   websites:
+    https://mjtsai.com/blog: true
     https://mjtsai.com/blog/: false
   blogrolls: []
   recommended: []
   recommender: []
   categories: []
-  relme: {}
-  last_post_title: Comment on Unwanted Tracking Alerts in iOS and Android by Kristoffer
-  last_post_description: I can confirm. Just got notified that my Android 13 phone
-    is a part of this find a thing network.
-  last_post_date: "2024-06-02T15:00:03Z"
-  last_post_link: https://mjtsai.com/blog/2024/05/31/unwanted-tracking-alerts-in-ios-and-android/#comment-4098502
+  relme:
+    https://mastodon.social/@mjtsai: false
+  last_post_title: Comment on “Lightning” Headphones That Require Bluetooth by Dan
+  last_post_description: |-
+    Going the Bluetooth route for audio transmission is kind of genius, I have to say.
+
+    On the other hand, this shows how Lightning was protecting the market for iPhone peripherals. USB-C to analog audio
+  last_post_date: "2024-06-04T10:29:22Z"
+  last_post_link: https://mjtsai.com/blog/2024/06/03/lightning-headphones-that-require-bluetooth/#comment-4099359
   last_post_categories: []
   score_criteria:
     cats: 0
@@ -25,8 +29,9 @@ params:
     postcats: 0
     promoted: 0
     promotes: 0
-    relme: 0
+    relme: 1
     title: 3
-    website: 1
-  score: 4
+    website: 2
+  score: 6
+  ispodcast: false
 ---

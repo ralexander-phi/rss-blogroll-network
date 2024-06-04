@@ -15,14 +15,13 @@ params:
   categories: []
   relme:
     https://mastodon.social/@lars: true
-  last_post_title: Bad for me, good for me
-  last_post_description: Some things that are good for me, some things that are bad
-    for me, and some things that are going on in my life.
-  last_post_date: "2024-05-25T18:18:45Z"
-  last_post_link: https://lars-christian.com/bad-for-me-good-for-me/
+  last_post_title: Grief is a boulder
+  last_post_description: Hard earned insight on grief.
+  last_post_date: "2024-06-04T09:45:50Z"
+  last_post_link: https://lars-christian.com/grief-is-a-boulder/
   last_post_categories:
-  - Health
-  - '#LifeUpdate'
+  - Introspection
+  - '#Grief'
   - '#philosophising'
   score_criteria:
     cats: 0
@@ -34,4 +33,5 @@ params:
     title: 3
     website: 2
   score: 18
+  ispodcast: false
 ---

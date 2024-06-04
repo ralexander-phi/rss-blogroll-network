@@ -14,7 +14,7 @@ params:
   categories: []
   relme:
     https://community.hachyderm.io/: false
-    https://community.hachyderm.io/approved: false
+    https://community.hachyderm.io/approved: true
     https://grafana.hachyderm.io/public: false
   last_post_title: ""
   last_post_description: ""
@@ -27,8 +27,9 @@ params:
     postcats: 0
     promoted: 0
     promotes: 0
-    relme: 1
+    relme: 2
     title: 3
     website: 2
-  score: 9
+  score: 10
+  ispodcast: false
 ---

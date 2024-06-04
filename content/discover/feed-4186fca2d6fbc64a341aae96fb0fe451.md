@@ -7,7 +7,7 @@ params:
   feedtype: rss
   feedid: 4186fca2d6fbc64a341aae96fb0fe451
   websites:
-    https://www.seanmcp.com/: false
+    https://seanmcp.com/: false
   blogrolls: []
   recommended: []
   recommender: []
@@ -28,4 +28,5 @@ params:
     title: 3
     website: 1
   score: 7
+  ispodcast: false
 ---

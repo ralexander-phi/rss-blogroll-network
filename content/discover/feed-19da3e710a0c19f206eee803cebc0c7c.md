@@ -10,6 +10,7 @@ params:
   feedid: 19da3e710a0c19f206eee803cebc0c7c
   websites:
     https://bsky.app/profile/eay.social: true
+    https://staging.bsky.app/profile/eay.social: false
   blogrolls: []
   recommended: []
   recommender: []
@@ -30,4 +31,5 @@ params:
     title: 3
     website: 2
   score: 8
+  ispodcast: false
 ---

@@ -1,6 +1,6 @@
 ---
 title: Piccalilli - Everything
-date: "2024-06-02T16:01:42Z"
+date: "2024-06-04T14:01:02Z"
 description: We are Piccalilli. A publication dedicated to providing high quality
   educational content to level up your front-end skills.
 params:
@@ -15,12 +15,13 @@ params:
   categories: []
   relme:
     https://front-end.social/@piccalilli: true
-  last_post_title: How I’m using “AI”
+  last_post_title: Let’s make a floating button sign up form pattern
   last_post_description: |-
-    I put “AI” in quotes in my writing because the current iteration of “AI” is hardly intelligent. But, whether I like it or not, it is the colloquial term right now.
-    I don’t think it’s a
-  last_post_date: "2024-05-30T07:55:57Z"
-  last_post_link: https://piccalil.li/blog/how-im-using-ai/?ref=main-rss-feed
+    Sign up forms, they’re pretty common! What’s also common is for the submit button to float above the input, like this:
+
+    There’s a problem though. A lot of the time, the input is behind the
+  last_post_date: "2024-06-04T07:58:14Z"
+  last_post_link: https://piccalil.li/blog/lets-make-a-floating-button-sign-up-form-pattern/?ref=main-rss-feed
   last_post_categories: []
   score_criteria:
     cats: 0
@@ -32,4 +33,5 @@ params:
     title: 3
     website: 2
   score: 10
+  ispodcast: false
 ---

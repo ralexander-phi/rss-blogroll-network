@@ -7,13 +7,15 @@ params:
   feedtype: rss
   feedid: 7bdd1a00a9835cf9ac8a82a8f74b2dba
   websites:
-    https://rushkoff.com/blog/: false
+    https://rushkoff.com/: true
+    https://www.rushkoff.com/blog/: false
   blogrolls: []
   recommended: []
   recommender:
   - https://frankmeeuwsen.com/feed.xml
   categories: []
-  relme: {}
+  relme:
+    https://social.coop/@Rushkoff: false
   last_post_title: 'Team Human ep. 248: I Will Not Be Autotuned – Live from All Tech
     Is Human’s Responsible Tech Mixer'
   last_post_description: Douglas Rushkoff took the stage at All Tech Is Human’s Responsible
@@ -29,8 +31,9 @@ params:
     postcats: 1
     promoted: 5
     promotes: 0
-    relme: 0
+    relme: 1
     title: 3
-    website: 1
-  score: 13
+    website: 2
+  score: 15
+  ispodcast: false
 ---

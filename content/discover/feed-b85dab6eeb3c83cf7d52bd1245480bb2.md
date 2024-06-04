@@ -13,6 +13,7 @@ params:
   recommender:
   - https://jlelse.blog/.min.rss
   - https://jlelse.blog/.rss
+  - https://jlelse.blog/index.xml
   categories: []
   relme:
     https://github.com/ashfurrow: true
@@ -36,4 +37,5 @@ params:
     title: 3
     website: 2
   score: 15
+  ispodcast: false
 ---

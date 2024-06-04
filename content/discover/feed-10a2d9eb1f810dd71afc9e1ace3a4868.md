@@ -13,12 +13,10 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Side projects should be fun
-  last_post_description: 'Connell McCarthy''s post about "overengineering everything
-    at his wedding" was a fun read: https://connellmccarthy.com/article/wedding/ I
-    can…'
-  last_post_date: "2024-04-28T00:00:00Z"
-  last_post_link: http://steele.blue//side-projects-should-be-fun
+  last_post_title: ""
+  last_post_description: ""
+  last_post_date: ""
+  last_post_link: ""
   last_post_categories: []
   score_criteria:
     cats: 0
@@ -30,4 +28,5 @@ params:
     title: 3
     website: 1
   score: 7
+  ispodcast: false
 ---

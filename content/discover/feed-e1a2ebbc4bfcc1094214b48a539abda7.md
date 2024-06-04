@@ -8,7 +8,7 @@ params:
   feedid: e1a2ebbc4bfcc1094214b48a539abda7
   websites:
     https://mxb.dev/: true
-    https://mxb.dev/notes/: false
+    https://mxb.dev/notes: false
   blogrolls: []
   recommended: []
   recommender:
@@ -34,4 +34,5 @@ params:
     title: 3
     website: 2
   score: 15
+  ispodcast: false
 ---

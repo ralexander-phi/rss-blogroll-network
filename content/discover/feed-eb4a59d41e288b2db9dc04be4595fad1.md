@@ -15,28 +15,24 @@ params:
   - http://scripting.com/rss.xml
   categories: []
   relme: {}
-  last_post_title: Einride orders 150 Peterbilt 579EV electric semi trucks for US
-    fleet
-  last_post_description: |-
-    American truck brand Peterbilt has announced its biggest electric semi sale to date – with Swedish transport company Einride AB ordering 150 of the company’s 579EV BEV trucks.
-
-
-
-     more…
-  last_post_date: "2024-06-02T01:06:29Z"
-  last_post_link: https://electrek.co/2024/06/01/einride-orders-150-peterbilt-579ev-electric-semi-trucks-for-us-fleet/
+  last_post_title: Lectric XP Lite 2.0 unveiled as new $799 best-bang-for-your-buck
+    folding electric bike
+  last_post_description: In what should come as a surprise to absolutely nobody, Lectric
+    Ebikes has done it again. North America’s leading value e-bike brand has just
+    unveiled another doozy, this time upgrading the popular
+  last_post_date: "2024-06-04T11:27:00Z"
+  last_post_link: https://electrek.co/2024/06/04/lectric-xp-lite-2-0-unveiled-as-new-799-best-bang-for-your-buck-folding-electric-bike/
   last_post_categories:
   - News
-  - electric trucks
-  - heavy equipment
   score_criteria:
     cats: 0
     description: 3
-    postcats: 3
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 16
+  score: 14
+  ispodcast: false
 ---

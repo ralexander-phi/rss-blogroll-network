@@ -21,13 +21,14 @@
   {{ if .Params.categories }}
     <div class="tags">
     {{ range (first 10 .Params.categories) }}
-      <span class="tag">{{ . | truncate 20 }}</span>
+      <span class="tag">{{ . | truncate 25 }}</span>
     {{ end }}
     </div>
   {{ end }}
 
   <p class="tags pb-0 mb-0">
-  {{ range $url, $validated := .Params.websites }}
+
+  {{ range $url, $validated := (sort .Params.websites "value" "desc") }}
   <span class="tags has-addons mb-0">
     <a rel="ugc" href="{{ $url }}" class="tag is-link">
       {{ if hasPrefix $url "https://bsky.app/" }}
@@ -43,16 +44,19 @@
     {{ end }}
   </span>
   {{ end }}
+
   <span class="tags has-addons mb-0">
   <a rel="ugc" href="{{ .Params.feedlink }}" class="tag is-link">
-    {{ if eq .Params.feedtype "rss" }}
-      RSS
+    {{ if .Params.ispodcast  }}
+      Podcast
+    {{ else if eq .Params.feedtype "rss" }}
+      RSS Feed
     {{ else if eq .Params.feedtype "atom" }}
-      Atom
+      Atom Feed
     {{ else }}
-      Web
+      Web Feed
     {{ end }}
-    Feed</a>
+    </a>
   </span>
 
   {{ range .Params.blogrolls }}
@@ -152,7 +156,7 @@
   <div class="column is-one-third section">
     <h3 class="subtitle is-3">Subscribers</h3>
     {{ if .Params.recommender }}
-      Web feeds that include this feed
+      Blogrolls that include this feed
       <ul class="pl-4">
       {{ range $rec := .Params.recommender }}
         {{ partialCached "feed_short.html" (dict "context" $ctx "rec" $rec) $rec }}

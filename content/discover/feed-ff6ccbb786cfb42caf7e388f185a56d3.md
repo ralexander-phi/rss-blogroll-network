@@ -6,8 +6,7 @@ params:
   feedlink: https://josh.blog/feed
   feedtype: rss
   feedid: ff6ccbb786cfb42caf7e388f185a56d3
-  websites:
-    https://josh.blog/: true
+  websites: {}
   blogrolls:
   - https://josh.blog/.well-known/recommendations.opml
   recommended:
@@ -49,6 +48,7 @@ params:
     promotes: 9
     relme: 0
     title: 3
-    website: 2
-  score: 25
+    website: 0
+  score: 23
+  ispodcast: false
 ---

@@ -15,12 +15,12 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: This week's notable links
+  last_post_title: This week's notable links - June 3, 2024
   last_post_description: |-
-    Nos is running a "journalism accelerator", which onboards independent journalists and publications onto Nostr with guaranteed promotion and 1:1 help.
-    Nostr is a different kind of open network, in the
-  last_post_date: "2024-05-27T14:35:20Z"
-  last_post_link: https://newsletter.werd.io/archive/this-weeks-notable-links-6036/
+    This is my regular digest of links and media I found notable over the last week. Did I miss something? Let me know!
+    The 21 best science fiction books of all time – according to New Scientist
+  last_post_date: "2024-06-04T01:11:10Z"
+  last_post_link: https://newsletter.werd.io/archive/this-weeks-notable-links-june-3-2024-9835/
   last_post_categories: []
   score_criteria:
     cats: 0
@@ -32,4 +32,5 @@ params:
     title: 3
     website: 2
   score: 8
+  ispodcast: false
 ---

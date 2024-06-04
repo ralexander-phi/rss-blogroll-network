@@ -16,23 +16,22 @@ params:
   - http://scripting.com/rssNightly.xml
   categories: []
   relme: {}
-  last_post_title: How one change to Google search blew up one independent publisher
-  last_post_description: Until last year, Retro Dodo had a growing business and a
-    team of six. Now it’s fighting for its life
-  last_post_date: "2024-05-31T00:00:06Z"
-  last_post_link: https://www.platformer.news/google-retro-dodo-core-algorithm-change-ai-publishers/
+  last_post_title: The strange incentives at OpenAI
+  last_post_description: 'I am once again asking: what is the conflict of interest
+    policy at this company?'
+  last_post_date: "2024-06-04T00:08:19Z"
+  last_post_link: https://www.platformer.news/openai-altman-investments-conflicts-wsj/
   last_post_categories:
-  - Google
-  - AI
-  - Journalism
+  - OpenAI
   score_criteria:
     cats: 0
     description: 3
-    postcats: 3
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 16
+  score: 14
+  ispodcast: false
 ---

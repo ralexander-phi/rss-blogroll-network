@@ -14,7 +14,7 @@ params:
   categories: []
   relme:
     https://ko-fi.com/alwynsoh: false
-    https://sohwatt.com/alwyn: false
+    https://sohwatt.com/alwyn: true
   last_post_title: ""
   last_post_description: ""
   last_post_date: ""
@@ -26,8 +26,9 @@ params:
     postcats: 0
     promoted: 0
     promotes: 0
-    relme: 1
+    relme: 2
     title: 3
     website: 2
-  score: 9
+  score: 10
+  ispodcast: false
 ---

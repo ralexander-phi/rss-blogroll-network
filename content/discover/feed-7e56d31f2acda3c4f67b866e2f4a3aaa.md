@@ -1,6 +1,6 @@
 ---
 title: Security.NL maakt Nederland veilig
-date: "2024-06-02T18:35:01+02:00"
+date: "2024-06-04T15:45:01+02:00"
 description: Security.NL maakt Nederland veilig
 params:
   feedlink: https://www.security.nl/rss/headlines.xml
@@ -14,12 +14,12 @@ params:
   - https://hacdias.com/feed.xml
   categories: []
   relme: {}
-  last_post_title: 'Minister: stadions zonder camera''s met gezichtsherkenning gemiste
-    kans'
-  last_post_description: Het is een gemiste kans dat er als gevolg van de AVG in Nederlandse
-    voetbalstadions geen camera's met gezichtsherkenning mogen ...
-  last_post_date: "2024-06-02T13:58:00+02:00"
-  last_post_link: https://www.security.nl/posting/843900/Minister%3A+stadions+zonder+camera%27s+met+gezichtsherkenning+gemiste+kans?channel=rss
+  last_post_title: 'Staatssecretaris: impact ddos-aanvallen vaak beperkt en symbolisch
+    van aard'
+  last_post_description: Ddos-aanvallen zijn vaak beperkt en symbolisch van aard,
+    maar de overheid heeft geen overzicht van dergelijke aanvallen, aldus ...
+  last_post_date: "2024-06-04T15:25:05+02:00"
+  last_post_link: https://www.security.nl/posting/844201/Staatssecretaris%3A+impact+ddos-aanvallen+vaak+beperkt+en+symbolisch+van+aard?channel=rss
   last_post_categories: []
   score_criteria:
     cats: 0
@@ -31,4 +31,5 @@ params:
     title: 3
     website: 2
   score: 13
+  ispodcast: false
 ---

@@ -14,7 +14,7 @@ params:
   categories: []
   relme:
     https://club.macstories.net/: true
-    https://macstories.net/: false
+    https://macstories.net/: true
     https://unapologetic.io/: true
   last_post_title: ""
   last_post_description: ""
@@ -31,4 +31,5 @@ params:
     title: 3
     website: 2
   score: 10
+  ispodcast: false
 ---

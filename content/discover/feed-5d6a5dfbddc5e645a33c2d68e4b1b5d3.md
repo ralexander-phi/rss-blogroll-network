@@ -7,7 +7,10 @@ params:
   feedtype: atom
   feedid: 5d6a5dfbddc5e645a33c2d68e4b1b5d3
   websites:
+    https://simply.jenett.org/: false
     https://simply.joejenett.com/: true
+    https://simply.micro.jenett.org/: false
+    https://simply.personal.jenett.org/: false
   blogrolls: []
   recommended: []
   recommender: []
@@ -18,7 +21,7 @@ params:
     https://github.com/joejenett: true
     https://ideas.joejenett.com/: true
     https://iwebthings.joejenett.com/: true
-    https://jenett.org/: false
+    https://jenett.org/: true
     https://joe.joejenett.com/: false
     https://joejenett.com/: true
     https://joejenett.github.io/i.webthings/: true
@@ -50,4 +53,5 @@ params:
     title: 3
     website: 2
   score: 11
+  ispodcast: false
 ---

@@ -16,13 +16,13 @@ params:
   - https://danq.me/kind/note/feed/
   categories: []
   relme: {}
-  last_post_title: What happens when facial recognition gets it wrong – Week in security
-    with Tony Anscombe
-  last_post_description: A woman in London has been misidentified as a shoplifter
-    by a facial recognition system amid fresh concerns over the technology's accuracy
-    and reliability
-  last_post_date: "2024-05-31T13:45:32Z"
-  last_post_link: https://www.welivesecurity.com/en/videos/what-happens-facial-recognition-gets-wrong-week-security-tony-anscombe/
+  last_post_title: The murky world of password leaks – and how to check if you’ve
+    been hit
+  last_post_description: Password leaks are increasingly common and figuring out whether
+    the keys to your own kingdom have been exposed might be tricky – unless you know
+    where to look
+  last_post_date: "2024-06-03T09:30:00Z"
+  last_post_link: https://www.welivesecurity.com/en/how-to/the-murky-world-of-password-leaks-and-how-to-check-if-youve-been-hit/
   last_post_categories: []
   score_criteria:
     cats: 0
@@ -34,4 +34,5 @@ params:
     title: 3
     website: 0
   score: 11
+  ispodcast: false
 ---

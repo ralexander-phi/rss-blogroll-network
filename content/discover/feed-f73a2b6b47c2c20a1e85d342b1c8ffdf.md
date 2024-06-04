@@ -13,6 +13,7 @@ params:
   recommender:
   - https://jlelse.blog/.min.rss
   - https://jlelse.blog/.rss
+  - https://jlelse.blog/index.xml
   categories: []
   relme: {}
   last_post_title: Gitea 1.22.0 is released
@@ -31,4 +32,5 @@ params:
     title: 3
     website: 2
   score: 14
+  ispodcast: false
 ---

@@ -18,38 +18,33 @@ params:
   - https://danq.me/kind/note/feed/
   categories: []
   relme: {}
-  last_post_title: من قديم و لمغريب و ليهود بيناتهوم علاقة ضريفة مكانش بيناتهوم الصداع
-    و لا مشاكيل عكس لعرب
-  last_post_description: ويكيبيديا اللهجات العربية (مهما بلغت عدد مقالاتها) جهد مُهدر
-    بلا نفع ولا فايدة.
-  last_post_date: "2024-06-02T13:01:31Z"
-  last_post_link: https://youdo.blog/2024/06/02/ary-wikipedia-org/
+  last_post_title: 'د.أحمد الخميسى: “نحو تسعين بالمئة من كلمات العامية المصرية هى
+    كلمات فصيحة”'
+  last_post_description: 'ملاحظة شخصية: لاحظتُ أن غير العرب من الأمازيغ والأكراد عندما
+    يكتبون ويبدعون بالعربية أفضل بكثير من العرب'
+  last_post_date: "2024-06-04T11:05:12Z"
+  last_post_link: https://youdo.blog/2024/06/04/%d8%af-%d8%a3%d8%ad%d9%85%d8%af-%d8%a7%d9%84%d8%ae%d9%85%d9%8a%d8%b3%d9%89-%d9%86%d8%ad%d9%88-%d8%aa%d8%b3%d8%b9%d9%8a%d9%86-%d8%a8%d8%a7%d9%84%d9%85%d8%a6%d8%a9-%d9%85%d9%86-%d9%83%d9%84%d9%85/
   last_post_categories:
   - صيدُ الشابكة
-  - Challengers
-  - Hacker News Daily
-  - https://weekly.hatnote.com/archive/ar/20231006/weeklypedia_20231006.html
-  - Loewe
-  - Mark J. Nelson
-  - موقع نبيل الجابري
-  - مؤسسة أقواس الإعلامية
-  - مدونة نبيل الجابري
-  - مركز مالكوم كير-كارنيغي للشرق الأوسط
-  - نبيل الجابري
-  - نبال كرم
-  - ويكيپيديا لمغريبية
-  - Volv Concierge
-  - Zendaya
-  - إيمان الخطاف
-  - اللامساواة
-  - د. رشيد الخيّون
-  - رشاد حسن
-  - شركة Loewe
-  - ضرغام الدباغ
-  - عبد الكبير الميناوي
-  - عبد الجليل 09
-  - عبداللطيف الوراري
-  - عبداللطيف الزبيدي
+  - Jakob Greenfeld
+  - James Cussen
+  - Play Permissionless
+  - The Living Philosophy
+  - مهدي حسين
+  - موقع SciDev.Net
+  - مؤسسة “كنوز يوغرطا ” للنشر
+  - نشرة Play Permissionless
+  - نشرة The Living Philosophy
+  - نشرة الخوارزمية لتحديثات الذكاء الاصطناعي
+  - هارون حمادو
+  - أحمد سمير عبد الحميد
+  - بنزين سكينة
+  - بروين حبيب
+  - جوردان بيترسون
+  - جوردان بِ. بيترسون
+  - د. عبدالله المدني
+  - د.أحمد الخميسى
+  - عماد الدين حسين
   score_criteria:
     cats: 0
     description: 3
@@ -60,4 +55,5 @@ params:
     title: 3
     website: 2
   score: 16
+  ispodcast: false
 ---

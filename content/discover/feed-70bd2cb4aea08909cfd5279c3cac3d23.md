@@ -15,8 +15,10 @@ params:
   - https://hacdias.com/feed.xml
   - https://jlelse.blog/.min.rss
   - https://jlelse.blog/.rss
+  - https://jlelse.blog/index.xml
+  - https://kevq.uk/feed.xml
+  - https://kevq.uk/feed/
   - https://kevquirk.com/feed
-  - https://kevquirk.com/feed/
   categories: []
   relme: {}
   last_post_title: How the internet became shit
@@ -34,4 +36,5 @@ params:
     title: 3
     website: 2
   score: 13
+  ispodcast: false
 ---

@@ -13,6 +13,7 @@ params:
   recommender:
   - https://jlelse.blog/.min.rss
   - https://jlelse.blog/.rss
+  - https://jlelse.blog/index.xml
   categories: []
   relme:
     https://mastodon.social/@hesse: true
@@ -38,4 +39,5 @@ params:
     title: 3
     website: 2
   score: 18
+  ispodcast: false
 ---

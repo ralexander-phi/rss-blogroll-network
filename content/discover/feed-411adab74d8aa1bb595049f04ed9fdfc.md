@@ -8,9 +8,9 @@ params:
   feedid: 411adab74d8aa1bb595049f04ed9fdfc
   websites:
     https://frills.dev/: true
-    https://frills.dev/blog/: false
-    https://frills.dev/bookmarks/: false
-    https://frills.dev/changelog/: false
+    https://frills.dev/blog: false
+    https://frills.dev/bookmarks: false
+    https://frills.dev/changelog: false
   blogrolls: []
   recommended: []
   recommender: []
@@ -19,11 +19,10 @@ params:
     https://frills.omg.lol/: true
     https://indieweb.social/@frills: true
     https://social.lol/@frills: false
-  last_post_title: Trust
-  last_post_description: Jeremy Keith drops a truth bomb about Google, MDN and other
-    corps real biggest asset.
-  last_post_date: "2024-05-28T13:20:00Z"
-  last_post_link: https://adactio.com/journal/21160
+  last_post_title: Art
+  last_post_description: Collection of drawings and doodles
+  last_post_date: "2024-06-03T00:00:00Z"
+  last_post_link: https://frills.dev/collections/art/
   last_post_categories: []
   score_criteria:
     cats: 0
@@ -35,4 +34,5 @@ params:
     title: 3
     website: 2
   score: 10
+  ispodcast: false
 ---

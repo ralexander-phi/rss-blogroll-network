@@ -1,6 +1,6 @@
 ---
 title: diamond geezer
-date: "2024-06-02T11:12:02+01:00"
+date: "2024-06-04T07:00:32+01:00"
 description: Life viewed from London E3
 params:
   feedlink: http://feeds.feedburner.com/blogspot/HcFb
@@ -12,10 +12,10 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: TfL FoI requests in May 2024
+  last_post_title: Bakerloo 40
   last_post_description: ""
-  last_post_date: "2024-06-02T09:00:00+01:00"
-  last_post_link: http://diamondgeezer.blogspot.com/2024/06/tfl-foi-requests-in-may-2024.html
+  last_post_date: "2024-06-04T07:00:00+01:00"
+  last_post_link: http://diamondgeezer.blogspot.com/2024/06/bakerloo-40.html
   last_post_categories: []
   score_criteria:
     cats: 0

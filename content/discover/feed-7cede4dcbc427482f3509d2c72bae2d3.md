@@ -20,10 +20,10 @@ params:
   - https://hacdias.com/feed.xml
   categories: []
   relme: {}
-  last_post_title: Modes of Transportation
+  last_post_title: Cell Organelles
   last_post_description: ""
   last_post_date: "1970-01-01T00:00:00Z"
-  last_post_link: https://xkcd.com/2940/
+  last_post_link: https://xkcd.com/2941/
   last_post_categories: []
   score_criteria:
     cats: 0
@@ -35,4 +35,5 @@ params:
     title: 3
     website: 2
   score: 13
+  ispodcast: false
 ---

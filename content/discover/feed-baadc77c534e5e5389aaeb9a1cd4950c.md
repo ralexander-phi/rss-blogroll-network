@@ -14,7 +14,7 @@ params:
   categories: []
   relme:
     https://amitg.net/: true
-    https://amitgawande.com/: false
+    https://amitgawande.com/: true
   last_post_title: ""
   last_post_description: ""
   last_post_date: ""
@@ -30,4 +30,5 @@ params:
     title: 3
     website: 2
   score: 10
+  ispodcast: false
 ---

@@ -39,12 +39,15 @@ Feeds are ordered by their <a href="/scoring/">score</a>.
   </span>
   {{ end }}
 
-  {{ if eq .Params.feedtype "rss" }}
-  <span class="tag">RSS Feed</span>
+  <!-- Show podcasts separately, show feeds by type -->
+  {{ if .Params.ispodcast }}
+    <span class="tag">Podcast</span>
+  {{ else if eq .Params.feedtype "rss" }}
+    <span class="tag">RSS Feed</span>
   {{ else if eq .Params.feedtype "atom" }}
-  <span class="tag">Atom Feed</span>
+    <span class="tag">Atom Feed</span>
   {{ else }}
-  <span class="tag">Web Feed</span>
+    <span class="tag">Web Feed</span>
   {{ end }}
 
   </a>

@@ -14,9 +14,9 @@ params:
   categories: []
   relme:
     https://community.torproject.org/: true
-    https://torproject.org/: false
-    https://torproject.org/donate: false
-    https://torproject.org/download: false
+    https://torproject.org/: true
+    https://torproject.org/donate: true
+    https://torproject.org/download: true
   last_post_title: ""
   last_post_description: ""
   last_post_date: ""
@@ -32,4 +32,5 @@ params:
     title: 3
     website: 2
   score: 10
+  ispodcast: false
 ---

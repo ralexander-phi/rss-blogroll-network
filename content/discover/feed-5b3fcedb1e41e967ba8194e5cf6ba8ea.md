@@ -7,8 +7,8 @@ params:
   feedtype: rss
   feedid: 5b3fcedb1e41e967ba8194e5cf6ba8ea
   websites:
+    https://gigold.de/: false
     https://gigold.me/: true
-    https://gigold.me/hello: false
   blogrolls: []
   recommended: []
   recommender: []
@@ -34,4 +34,5 @@ params:
     title: 3
     website: 2
   score: 10
+  ispodcast: false
 ---

@@ -1,6 +1,6 @@
 ---
 title: Erik Kroes - Accessibility Consultant
-date: "2024-03-25T23:00:00Z"
+date: "2024-06-03T22:00:00Z"
 description: Erik Kroes - Consultant specialized in accessibility, inclusive design
   and design systems.
 params:
@@ -29,4 +29,5 @@ params:
     title: 3
     website: 0
   score: 11
+  ispodcast: false
 ---

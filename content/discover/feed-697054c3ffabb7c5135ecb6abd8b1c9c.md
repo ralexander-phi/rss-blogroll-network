@@ -1,6 +1,6 @@
 ---
 title: 'Alchemists: Articles'
-date: "2024-06-01T12:32:56Z"
+date: "2024-06-02T21:44:34Z"
 description: Articles on the craft of software engineering.
 params:
   feedlink: https://www.alchemists.io/feeds/articles.xml
@@ -29,4 +29,5 @@ params:
     title: 3
     website: 1
   score: 8
+  ispodcast: false
 ---

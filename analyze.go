@@ -538,7 +538,7 @@ func (a *Analysis) PopulateRecommenders(feed *FeedInfo, blogrolls []string, webs
 
 func (a *Analysis) Analyze() {
 	feedRows, err := a.db.Query(`
-    SELECT description, date, title, feed_link, feed_id, feed_type
+    SELECT description, date, title, feed_link, feed_id, feed_type, is_podcast
       FROM feeds;`,
 	)
 	ohno(err)
@@ -551,6 +551,7 @@ func (a *Analysis) Analyze() {
 			&row.FeedLink,
 			&row.FeedID,
 			&row.FeedType,
+			&row.IsPodcast,
 		)
 		ohno(err)
 		feed := NewFeedInfo(row)

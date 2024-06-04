@@ -18,32 +18,20 @@ params:
     https://twitter.com/thejaymo: false
     https://www.flickr.com/people/thejaymo: false
     https://www.instagram.com/thejaymo/: false
-  last_post_title: Little Computer People | 2411
-  last_post_description: |-
-    Right now AI is the worst it’s ever going to be. It costs about £60 a day to house a little computer person powered by an LLM in a virtual world. What will the world be like when it costs 60p?
-    The
-  last_post_date: "2024-06-01T22:34:52Z"
-  last_post_link: https://www.thejaymo.net/2024/06/01/2411-little-computer-people/
-  last_post_categories:
-  - "AI \U0001F916"
-  - "Permanently Moved \U0001F50A"
-  - "World Running \U0001F310"
-  - ai
-  - Animal Crossing
-  - LLM
-  - microsoft
-  - OpenAI
-  - sims
-  - Tamagotchi
-  - world running
+  last_post_title: ""
+  last_post_description: ""
+  last_post_date: ""
+  last_post_link: ""
+  last_post_categories: []
   score_criteria:
     cats: 0
     description: 3
-    postcats: 3
+    postcats: 0
     promoted: 0
     promotes: 0
     relme: 1
     title: 3
     website: 2
-  score: 12
+  score: 9
+  ispodcast: false
 ---

@@ -1,6 +1,6 @@
 ---
 title: psd's Blip.fm Feed
-date: "2024-06-02T09:29:44-07:00"
+date: "2024-06-04T05:56:48-07:00"
 description: Keep track of psd's previous blips
 params:
   feedlink: https://blip.fm/feed/psd
@@ -29,4 +29,5 @@ params:
     title: 3
     website: 2
   score: 10
+  ispodcast: false
 ---

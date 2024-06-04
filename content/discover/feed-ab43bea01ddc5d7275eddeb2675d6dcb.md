@@ -14,7 +14,7 @@ params:
   categories: []
   relme:
     https://eay.cc/: true
-    https://eay.li/nks: false
+    https://eay.li/nks: true
     https://stefangrund.eu/: false
   last_post_title: ""
   last_post_description: ""
@@ -31,4 +31,5 @@ params:
     title: 3
     website: 2
   score: 10
+  ispodcast: false
 ---

@@ -1,6 +1,6 @@
 ---
 title: Popular Comments Across MetaFilter
-date: "2024-06-02T16:03:04Z"
+date: "2024-06-04T13:03:03Z"
 description: Comments from across all sites, marked as a favorite most often in the
   past seven days.
 params:
@@ -16,12 +16,11 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: By tclark in "The number of women murdered by partners also went
-    down" on MeFi
-  last_post_description: I wish that the ghouls out there who oppose no fault divorce
-    would find this evidence compelling.That's the thing. They do.
-  last_post_date: "2024-05-31T23:55:42Z"
-  last_post_link: http://www.metafilter.com/203965/The-number-of-women-murdered-by-partners-also-went-down#8568987
+  last_post_title: By phunniemee in "Is "please no name calling" a big ask?" on MetaTalk
+  last_post_description: Well the important thing is we've still found ways to scold
+    each other over dumb shit instead of focusing on the actual problems. Never change.
+  last_post_date: "2024-06-03T17:01:41Z"
+  last_post_link: http://metatalk.metafilter.com/26445/Is-please-no-name-calling-a-big-ask#1424993
   last_post_categories: []
   score_criteria:
     cats: 0
@@ -33,4 +32,5 @@ params:
     title: 3
     website: 2
   score: 8
+  ispodcast: false
 ---

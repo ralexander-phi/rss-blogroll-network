@@ -44,4 +44,5 @@ params:
     title: 3
     website: 0
   score: 19
+  ispodcast: false
 ---

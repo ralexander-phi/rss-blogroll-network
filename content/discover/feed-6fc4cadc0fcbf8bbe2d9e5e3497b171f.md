@@ -15,19 +15,24 @@ params:
   categories: []
   relme:
     https://social.tchncs.de/@kuketzblog: true
-  last_post_title: ""
-  last_post_description: ""
-  last_post_date: ""
-  last_post_link: ""
-  last_post_categories: []
+  last_post_title: 'Firefox: Data protection breach in Android version – E-Mail an
+    Mozilla'
+  last_post_description: 'Aufgrund der Datenschutzverstöße in der aktuellen Android-Version
+    von Firefox (Version 126.0) habe ich Mozilla kontaktiert und um Stellungnahme
+    gebeten: Dear Mozilla team, I would like to draw your'
+  last_post_date: "2024-05-31T10:21:25Z"
+  last_post_link: https://www.kuketz-blog.de/firefox-data-protection-breach-in-android-version-e-mail-an-mozilla/
+  last_post_categories:
+  - Microblog
   score_criteria:
     cats: 0
     description: 3
-    postcats: 0
+    postcats: 1
     promoted: 0
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 10
+  score: 11
+  ispodcast: false
 ---

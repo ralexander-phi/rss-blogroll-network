@@ -14,18 +14,18 @@ params:
   - https://colinwalker.blog/livefeed.xml
   categories: []
   relme: {}
-  last_post_title: '[Article] Woke Kids'
-  last_post_description: The other weekend I took our 10-year-old to her first Pride
-    parade, and she blew my mind with the level of allyship she's already achieved.
-  last_post_date: "2024-06-02T12:44:05+01:00"
-  last_post_link: https://danq.me/2024/06/02/woke-kids/
+  last_post_title: '[Article] Somewhat-Effective Spam Filters'
+  last_post_description: I've tried a variety of unusual anti-spam solutions. Here's
+    how they worked out for me.
+  last_post_date: "2024-06-04T11:27:38+01:00"
+  last_post_link: https://danq.me/2024/06/04/somewhat-effective-spam-filters/
   last_post_categories:
   - Personal
-  - children
-  - parenting
-  - pride
-  - sexuality
-  - witney
+  - email
+  - geeky
+  - published on gemini
+  - rss
+  - spam
   score_criteria:
     cats: 0
     description: 3
@@ -36,4 +36,5 @@ params:
     title: 3
     website: 0
   score: 14
+  ispodcast: false
 ---

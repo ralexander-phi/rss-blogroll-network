@@ -8,6 +8,7 @@ params:
   feedid: 4ad26c9069efe11645babfec2ee98e83
   websites:
     https://andysylvester.com/: true
+    https://www.andysylvester.com/: false
   blogrolls: []
   recommended: []
   recommender: []
@@ -32,4 +33,5 @@ params:
     title: 3
     website: 2
   score: 9
+  ispodcast: false
 ---

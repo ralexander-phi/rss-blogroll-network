@@ -1,6 +1,6 @@
 ---
 title: Clearleft | Blog
-date: "2024-06-02T11:08:48+01:00"
+date: "2024-06-04T14:35:28+01:00"
 description: The latest news from Clearleft
 params:
   feedlink: https://clearleft.com/thinking/rss
@@ -13,12 +13,12 @@ params:
   - https://chrisburnell.com/feed.xml
   categories: []
   relme: {}
-  last_post_title: Global Accessibility Awareness Day at Clearleft
-  last_post_description: Thursday, May 16, 2024, marks the 13th Global Accessibility
-    Awareness Day (GAAD). The purpose of GAAD is to get everyone talking, thinking
-    and learning about digital access/inclusion and people with
-  last_post_date: "2024-05-16T13:39:00+01:00"
-  last_post_link: https://clearleft.com/thinking/global-accessibility-awareness-day-at-clearleft
+  last_post_title: A modern approach to browser support
+  last_post_description: Just recently, some front-end code we delivered to a client
+    was making its way through acceptance testing. We were slightly surprised to discover
+    that their standards required our code to be
+  last_post_date: "2024-06-03T19:10:00+01:00"
+  last_post_link: https://clearleft.com/thinking/a-modern-approach-to-browser-support
   last_post_categories: []
   score_criteria:
     cats: 0
@@ -30,4 +30,5 @@ params:
     title: 3
     website: 0
   score: 11
+  ispodcast: false
 ---

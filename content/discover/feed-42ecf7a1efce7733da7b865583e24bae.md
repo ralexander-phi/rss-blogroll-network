@@ -15,7 +15,7 @@ params:
   relme:
     https://beardyguycreative.com/: true
     https://beardystarstuff.net/: true
-    https://denny.micro.blog/: false
+    https://denny.micro.blog/: true
   last_post_title: ""
   last_post_description: ""
   last_post_date: ""
@@ -31,4 +31,5 @@ params:
     title: 3
     website: 2
   score: 10
+  ispodcast: false
 ---

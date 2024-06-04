@@ -19,8 +19,9 @@ params:
   - https://colinwalker.blog/dailyfeed.xml
   - https://colinwalker.blog/livefeed.xml
   - https://hacdias.com/feed.xml
+  - https://kevq.uk/feed.xml
+  - https://kevq.uk/feed/
   - https://kevquirk.com/feed
-  - https://kevquirk.com/feed/
   categories: []
   relme: {}
   last_post_title: 'Own Your Web – Issue 14: Webmentions'
@@ -40,4 +41,5 @@ params:
     title: 3
     website: 2
   score: 13
+  ispodcast: false
 ---

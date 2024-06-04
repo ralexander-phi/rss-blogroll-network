@@ -14,24 +14,20 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'This Week In Techdirt History: May 26th – June 1st'
-  last_post_description: Five Years Ago This week in 2019, a report showed how EU
-    ISPs were happily ignoring net neutrality rules. We wondered why Congress was
-    moving forward with its plan to encourage more copyright
-  last_post_date: "2024-06-01T19:00:00Z"
-  last_post_link: https://www.techdirt.com/2024/06/01/this-week-in-techdirt-history-may-26th-june-1st/
-  last_post_categories:
-  - "1"
-  - history
-  - look back
+  last_post_title: ""
+  last_post_description: ""
+  last_post_date: ""
+  last_post_link: ""
+  last_post_categories: []
   score_criteria:
     cats: 0
     description: 0
-    postcats: 3
+    postcats: 0
     promoted: 0
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 8
+  score: 5
+  ispodcast: false
 ---

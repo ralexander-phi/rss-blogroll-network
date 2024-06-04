@@ -1,6 +1,6 @@
 ---
 title: Mike Street activity
-date: "2024-06-01T18:47:26Z"
+date: "2024-06-02T20:49:39Z"
 description: ""
 params:
   feedlink: https://gitlab.com/mikestreety.atom
@@ -18,15 +18,15 @@ params:
     Rock
   last_post_description: |-
     Mike Street
-    (26acb40e)
+    (c65269b6)
 
     at
-    01 Jun 18:47
+    02 Jun 20:49
 
 
-    API: Add 934 - Go With the Flow
+    API: Add 936 - Tones
   last_post_date: "1970-01-01T00:00:00Z"
-  last_post_link: https://gitlab.com/mikestreety-sites/ale-house-rock/-/commit/26acb40e2ab7892440beb64c09b505660ea44329
+  last_post_link: https://gitlab.com/mikestreety-sites/ale-house-rock/-/commit/c65269b6a431bf0584773df0f91df66519d648d1
   last_post_categories: []
   score_criteria:
     cats: 0
@@ -38,4 +38,5 @@ params:
     title: 3
     website: 2
   score: 7
+  ispodcast: false
 ---

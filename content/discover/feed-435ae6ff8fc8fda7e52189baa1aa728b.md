@@ -8,6 +8,7 @@ params:
   feedid: 435ae6ff8fc8fda7e52189baa1aa728b
   websites:
     https://toot.wales/@chrisaldrich: true
+    https://toot.wales/web/@chrisaldrich: false
   blogrolls: []
   recommended: []
   recommender: []
@@ -30,4 +31,5 @@ params:
     title: 3
     website: 2
   score: 10
+  ispodcast: false
 ---

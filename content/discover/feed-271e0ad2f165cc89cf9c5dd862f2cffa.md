@@ -16,13 +16,10 @@ params:
   relme:
     https://mastodon.social/@ianbetteridge: false
     https://micro.blog/ianbetteridge: false
-  last_post_title: Comment on The future of search-driven affiliate content by Hate
-    to say I told you so | Ian Betteridge
-  last_post_description: '[…] Treat your existing ad revenue and affiliate revenue
-    as a cash cow, not a growth market. Although my gut feeling is that AI Overviews
-    won’t impact on affiliate content as heavily as the kind'
-  last_post_date: "2024-05-19T17:35:56Z"
-  last_post_link: https://ianbetteridge.com/2024/03/06/the-future-of-search-driven-affiliate-content/comment-page-1/#comment-3861
+  last_post_title: Comment on Google lies by One Hundred and Fifty Four – Gavin Lewis
+  last_post_description: '[…] Google lies | Ian Betteridge […]'
+  last_post_date: "2024-06-02T19:27:37Z"
+  last_post_link: https://ianbetteridge.com/2024/05/29/google-lies/comment-page-1/#comment-3873
   last_post_categories: []
   score_criteria:
     cats: 0
@@ -34,4 +31,5 @@ params:
     title: 3
     website: 2
   score: 9
+  ispodcast: false
 ---

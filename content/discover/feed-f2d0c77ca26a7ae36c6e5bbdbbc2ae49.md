@@ -14,20 +14,20 @@ params:
   recommender:
   - http://scripting.com/rss.xml
   - http://scripting.com/rssNightly.xml
-  - https://josh.blog/comments/feed
   - https://josh.blog/feed
   categories: []
   relme: {}
-  last_post_title: GitHub and JFrog partner to unify code and binaries for DevSecOps
-  last_post_description: "This partnership between GitHub and JFrog enables developers
-    to manage code and binaries more efficiently on two of the most widely used developer
-    platforms in the world. \nThe post GitHub and JFrog"
-  last_post_date: "2024-05-29T13:15:54Z"
-  last_post_link: https://github.blog/2024-05-29-github-and-jfrog/
+  last_post_title: How GitHub reduced testing time for iOS apps with new runner features
+  last_post_description: |-
+    Learn how GitHub used macOS and Apple Silicon runners for GitHub Actions to build, test, and deploy our iOS app faster.
+    The post How GitHub reduced testing time for iOS apps with new runner features
+  last_post_date: "2024-06-03T16:45:06Z"
+  last_post_link: https://github.blog/2024-06-03-how-github-reduced-testing-time-for-ios-apps-with-new-runner-features/
   last_post_categories:
-  - Product
-  - DevSecOps
-  - GitHub Copilot
+  - Engineering
+  - GitHub Actions
+  - GitHub Mobile
+  - How GitHub builds GitHub
   score_criteria:
     cats: 0
     description: 3
@@ -38,4 +38,5 @@ params:
     title: 3
     website: 2
   score: 16
+  ispodcast: false
 ---

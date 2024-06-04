@@ -7,7 +7,7 @@ params:
   feedtype: rss
   feedid: 0da3b6b7c6f13556fc2fcdc64dda50e2
   websites:
-    https://www.nathalielawhead.com/candybox/: false
+    https://www.nathalielawhead.com/candybox: true
   blogrolls: []
   recommended: []
   recommender:
@@ -16,7 +16,8 @@ params:
   - https://danq.me/kind/article/feed/
   - https://danq.me/kind/note/feed/
   categories: []
-  relme: {}
+  relme:
+    https://mastodon.social/@alienmelon: false
   last_post_title: The story of my first A MAZE (and why I wish we had an event dedicated
     to solo-devs)
   last_post_description: It was an incredible surprise when I got the news that BlueSuburbia
@@ -33,8 +34,9 @@ params:
     postcats: 2
     promoted: 5
     promotes: 0
-    relme: 0
+    relme: 1
     title: 3
-    website: 1
-  score: 14
+    website: 2
+  score: 16
+  ispodcast: false
 ---
