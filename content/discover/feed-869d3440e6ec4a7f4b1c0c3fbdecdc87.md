@@ -12,7 +12,12 @@ params:
   recommender:
   - http://scripting.com/rss.xml
   - http://scripting.com/rssNightly.xml
-  categories: []
+  categories:
+  - Meta
+  - Product News
+  - Recent News
+  - Sidebar - Featured
+  - Threads
   relme: {}
   last_post_title: 'Introducing Threads: A New Way to Share With Text'
   last_post_description: |-

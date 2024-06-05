@@ -15,7 +15,11 @@ params:
   recommended: []
   recommender:
   - https://chrisburnell.com/feed.xml
-  categories: []
+  categories:
+  - Hacks
+  - JavaScript
+  - Tools
+  - Web
   relme:
     https://codepen.io/meyerweb: false
     https://dribbble.com/meyerweb: false

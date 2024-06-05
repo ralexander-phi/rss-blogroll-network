@@ -12,7 +12,17 @@ params:
   blogrolls: []
   recommended: []
   recommender: []
-  categories: []
+  categories:
+  - Leadership and Management
+  - Personal Development
+  - 2023Goals
+  - AchievingSuccess
+  - CareerGoals
+  - GoalSetting
+  - PositiveThinking
+  - PracticalTips
+  - RealisticGoals
+  - TimeManagement
   relme: {}
   last_post_title: 8 Practical Tips for Setting and Reaching Smart Goals in 2023
   last_post_description: Setting smart goals is a great way to stay motivated and

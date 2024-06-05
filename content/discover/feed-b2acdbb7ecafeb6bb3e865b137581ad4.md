@@ -14,7 +14,8 @@ params:
   recommended: []
   recommender:
   - https://frankmeeuwsen.com/feed.xml
-  categories: []
+  categories:
+  - sport
   relme:
     https://github.com/islandsvinur: true
     https://gitlab.com/islandsvinur: false

@@ -11,11 +11,17 @@ params:
   blogrolls: []
   recommended: []
   recommender:
+  - https://danq.blog/comments/feed/
+  - https://danq.blog/feed/
   - https://danq.me/comments/feed/
   - https://danq.me/feed/
   - https://danq.me/kind/article/feed/
   - https://danq.me/kind/note/feed/
-  categories: []
+  - https://danq.uk/comments/feed/
+  - https://danq.uk/feed/
+  categories:
+  - Games
+  - Uncategorized
   relme:
     https://mastodon.social/@alienmelon: false
   last_post_title: The story of my first A MAZE (and why I wish we had an event dedicated

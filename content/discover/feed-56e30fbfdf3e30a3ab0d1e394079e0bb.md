@@ -12,7 +12,13 @@ params:
   blogrolls: []
   recommended: []
   recommender: []
-  categories: []
+  categories:
+  - Blog
+  - Ai Ethics
+  - Diversity And Inclusion
+  - Diversity in Ai
+  - Diversity In Tech
+  - Women In Tech
   relme: {}
   last_post_title: '#IamthefutureofAI: Alva Markelius'
   last_post_description: |-

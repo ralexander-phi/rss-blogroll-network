@@ -11,7 +11,8 @@ params:
   recommended: []
   recommender:
   - https://chrisburnell.com/feed.xml
-  categories: []
+  categories:
+  - The Index
   relme: {}
   last_post_title: 'The Index: Issue #26'
   last_post_description: Happy Monday! I’m doing a bit of admin at the moment in relation

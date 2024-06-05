@@ -19,6 +19,7 @@ params:
   - https://colinwalker.blog/dailyfeed.xml
   - https://colinwalker.blog/livefeed.xml
   - https://hacdias.com/feed.xml
+  - https://kevq.uk/feed
   - https://kevq.uk/feed.xml
   - https://kevq.uk/feed/
   - https://kevquirk.com/feed

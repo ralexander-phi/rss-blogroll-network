@@ -12,7 +12,13 @@ params:
   recommended: []
   recommender:
   - https://frankmeeuwsen.com/feed.xml
-  categories: []
+  categories:
+  - boeken
+  - flow
+  - vrouw
+  - chemie
+  - emancipatie
+  - literatuur
   relme:
     https://deepthought.infullflow.net/@elmine: true
     https://m.tzyl.nl/@elmine: false

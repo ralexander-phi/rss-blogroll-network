@@ -11,7 +11,11 @@ params:
   recommended: []
   recommender:
   - http://scripting.com/rss.xml
-  categories: []
+  categories:
+  - Inside Nelio
+  - Nelio Content
+  - Plugins
+  - Release
   relme: {}
   last_post_title: Nelio Content 3.4 – Message Pool, Social Timelines, and Hootsuite
     Support

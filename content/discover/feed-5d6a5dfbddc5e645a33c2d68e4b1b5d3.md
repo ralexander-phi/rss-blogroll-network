@@ -14,7 +14,8 @@ params:
   blogrolls: []
   recommended: []
   recommender: []
-  categories: []
+  categories:
+  - '["personal"]'
   relme:
     https://bsky.app/profile/jenett.bsky.social: false
     https://directory.joejenett.com/: true

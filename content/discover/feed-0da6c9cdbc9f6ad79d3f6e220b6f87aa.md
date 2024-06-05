@@ -14,7 +14,8 @@ params:
   recommender:
   - http://scripting.com/rss.xml
   - http://scripting.com/rssNightly.xml
-  categories: []
+  categories:
+  - OpenAI
   relme: {}
   last_post_title: The strange incentives at OpenAI
   last_post_description: 'I am once again asking: what is the conflict of interest

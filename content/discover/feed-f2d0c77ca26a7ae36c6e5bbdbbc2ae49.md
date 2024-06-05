@@ -15,7 +15,11 @@ params:
   - http://scripting.com/rss.xml
   - http://scripting.com/rssNightly.xml
   - https://josh.blog/feed
-  categories: []
+  categories:
+  - Engineering
+  - GitHub Actions
+  - GitHub Mobile
+  - How GitHub builds GitHub
   relme: {}
   last_post_title: How GitHub reduced testing time for iOS apps with new runner features
   last_post_description: |-

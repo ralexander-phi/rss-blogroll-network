@@ -12,7 +12,8 @@ params:
   blogrolls: []
   recommended: []
   recommender: []
-  categories: []
+  categories:
+  - Society & Culture
   relme:
     https://github.com/toddgrotenhuis: false
     https://instagram.com/toddgrotenhuis: false
@@ -27,7 +28,7 @@ params:
   last_post_link: https://blog.grotenhuis.info/2024/05/11/bird-talk.html
   last_post_categories: []
   score_criteria:
-    cats: 0
+    cats: 1
     description: 3
     postcats: 0
     promoted: 0
@@ -35,6 +36,6 @@ params:
     relme: 1
     title: 3
     website: 2
-  score: 9
+  score: 10
   ispodcast: true
 ---

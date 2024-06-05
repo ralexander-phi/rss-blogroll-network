@@ -12,7 +12,8 @@ params:
   blogrolls: []
   recommended: []
   recommender: []
-  categories: []
+  categories:
+  - Uncategorized
   relme: {}
   last_post_title: Mixcloud Issue
   last_post_description: I just got an email from Mixcloud saying my subscription

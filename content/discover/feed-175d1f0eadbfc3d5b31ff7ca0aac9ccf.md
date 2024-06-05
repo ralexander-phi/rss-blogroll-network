@@ -12,7 +12,10 @@ params:
   recommended: []
   recommender:
   - https://josh.blog/feed
-  categories: []
+  categories:
+  - Uncategorized
+  - career
+  - Figma
   relme: {}
   last_post_title: Figma is freaking great
   last_post_description: I’ve been meaning to write up what’s been going on since

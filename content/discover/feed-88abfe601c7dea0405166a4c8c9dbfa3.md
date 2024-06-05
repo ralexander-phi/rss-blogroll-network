@@ -44,7 +44,8 @@ params:
   - https://social.ayjay.org/podcast.xml
   - https://www.zylstra.org/blog/comments/feed/
   recommender: []
-  categories: []
+  categories:
+  - Society & Culture
   relme:
     https://github.com/manton: false
     https://micro.blog/manton: false
@@ -58,7 +59,7 @@ params:
   last_post_link: https://www.manton.org/2024/05/29/podcast-hosting-for.html
   last_post_categories: []
   score_criteria:
-    cats: 0
+    cats: 1
     description: 3
     postcats: 0
     promoted: 0
@@ -66,6 +67,6 @@ params:
     relme: 1
     title: 3
     website: 2
-  score: 19
+  score: 20
   ispodcast: true
 ---

@@ -12,11 +12,35 @@ params:
   blogrolls: []
   recommended: []
   recommender:
+  - https://danq.blog/comments/feed/
+  - https://danq.blog/feed/
   - https://danq.me/comments/feed/
   - https://danq.me/feed/
   - https://danq.me/kind/article/feed/
   - https://danq.me/kind/note/feed/
-  categories: []
+  - https://danq.uk/comments/feed/
+  - https://danq.uk/feed/
+  categories:
+  - صيدُ الشابكة
+  - Jakob Greenfeld
+  - James Cussen
+  - Play Permissionless
+  - The Living Philosophy
+  - مهدي حسين
+  - موقع SciDev.Net
+  - مؤسسة “كنوز يوغرطا ” للنشر
+  - نشرة Play Permissionless
+  - نشرة The Living Philosophy
+  - نشرة الخوارزمية لتحديثات الذكاء الاصطناعي
+  - هارون حمادو
+  - أحمد سمير عبد الحميد
+  - بنزين سكينة
+  - بروين حبيب
+  - جوردان بيترسون
+  - جوردان بِ. بيترسون
+  - د. عبدالله المدني
+  - د.أحمد الخميسى
+  - عماد الدين حسين
   relme: {}
   last_post_title: 'د.أحمد الخميسى: “نحو تسعين بالمئة من كلمات العامية المصرية هى
     كلمات فصيحة”'

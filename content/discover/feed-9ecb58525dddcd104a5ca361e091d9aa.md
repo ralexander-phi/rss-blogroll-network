@@ -12,7 +12,10 @@ params:
   blogrolls: []
   recommended: []
   recommender: []
-  categories: []
+  categories:
+  - weeknotes
+  - indiepass
+  - indieweb
   relme:
     https://twitter.com/marksuth: false
   last_post_title: Weekly Notes 12

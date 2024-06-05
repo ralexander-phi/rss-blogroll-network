@@ -12,7 +12,12 @@ params:
   blogrolls: []
   recommended: []
   recommender: []
-  categories: []
+  categories:
+  - Cotton
+  - Frogs
+  - Pesticides
+  - PesticideUse
+  - Spiders
   relme: {}
   last_post_title: Spiders and frogs return to cotton farms as industry cleans up
     its act

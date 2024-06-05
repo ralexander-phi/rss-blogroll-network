@@ -12,7 +12,11 @@ params:
   blogrolls: []
   recommended: []
   recommender: []
-  categories: []
+  categories:
+  - external costs
+  - IT cost monitoring
+  - Datadog costs
+  - IT costs
   relme: {}
   last_post_title: Introducing OpenCost Plugins
   last_post_description: OpenCost banner

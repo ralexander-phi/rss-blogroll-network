@@ -11,7 +11,10 @@ params:
   blogrolls: []
   recommended: []
   recommender: []
-  categories: []
+  categories:
+  - News
+  - dev
+  - ThisMonthInFluiddyn
   relme:
     https://hachyderm.io/@fluiddyn: true
   last_post_title: This Month In Fluiddyn - Mar 2024 edition

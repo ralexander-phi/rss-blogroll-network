@@ -13,7 +13,10 @@ params:
   blogrolls: []
   recommended: []
   recommender: []
-  categories: []
+  categories:
+  - Video Highlight
+  - beginner
+  - graphic
   relme: {}
   last_post_title: WordCamp Video Highlight 2018/09/28
   last_post_description: I had the pleasure of attending WordCamp Pittsburgh on September

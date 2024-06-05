@@ -13,7 +13,8 @@ params:
   blogrolls: []
   recommended: []
   recommender: []
-  categories: []
+  categories:
+  - Technology
   relme: {}
   last_post_title: Coolify with András Bácsai
   last_post_description: Mike talks about a self-hosted Netlify alternative, Coolify,
@@ -22,7 +23,7 @@ params:
   last_post_link: https://www.behindthesource.co.uk/podcasts/s02e05-coolify-with-andras-bacsai/
   last_post_categories: []
   score_criteria:
-    cats: 0
+    cats: 1
     description: 3
     postcats: 0
     promoted: 0
@@ -30,6 +31,6 @@ params:
     relme: 0
     title: 3
     website: 1
-  score: 7
+  score: 8
   ispodcast: true
 ---

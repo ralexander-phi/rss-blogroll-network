@@ -11,11 +11,22 @@ params:
   blogrolls: []
   recommended: []
   recommender:
+  - https://danq.blog/comments/feed/
+  - https://danq.blog/feed/
   - https://danq.me/comments/feed/
   - https://danq.me/feed/
   - https://danq.me/kind/article/feed/
   - https://danq.me/kind/note/feed/
-  categories: []
+  - https://danq.uk/comments/feed/
+  - https://danq.uk/feed/
+  categories:
+  - Art
+  - artisanat
+  - bijoux
+  - collaborations
+  - créativité
+  - interviews
+  - Neil Gaiman
   relme:
     https://eldritch.cafe/@LaLuneMauve: true
     https://twitter.com/LaLuneMauve: false

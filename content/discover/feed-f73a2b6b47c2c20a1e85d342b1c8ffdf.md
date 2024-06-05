@@ -14,7 +14,8 @@ params:
   - https://jlelse.blog/.min.rss
   - https://jlelse.blog/.rss
   - https://jlelse.blog/index.xml
-  categories: []
+  categories:
+  - release
   relme: {}
   last_post_title: Gitea 1.22.0 is released
   last_post_description: We are thrilled to announce the latest release of Gitea v1.22.0.

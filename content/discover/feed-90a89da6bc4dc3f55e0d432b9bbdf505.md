@@ -14,7 +14,14 @@ params:
   recommended: []
   recommender:
   - https://chrisburnell.com/feed.xml
-  categories: []
+  categories:
+  - books
+  - reading
+  - bookshelves
+  - balance
+  - gender
+  - fiction
+  - nonfiction
   relme: {}
   last_post_title: Reading patterns
   last_post_description: |-

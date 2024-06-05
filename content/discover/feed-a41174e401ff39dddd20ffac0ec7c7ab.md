@@ -12,7 +12,14 @@ params:
   recommender:
   - http://scripting.com/rss.xml
   - http://scripting.com/rssNightly.xml
-  categories: []
+  categories:
+  - "1"
+  - copyright
+  - death
+  - ownership
+  - video game library
+  - video game preservation
+  - video games
   relme: {}
   last_post_title: 'You Don’t Own The Video Games You’ve Bought: The Death Edition'
   last_post_description: In my basement at home, I have a handful of old gaming consoles

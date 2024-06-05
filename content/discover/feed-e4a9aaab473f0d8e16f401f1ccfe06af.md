@@ -14,7 +14,8 @@ params:
   recommender:
   - http://scripting.com/rss.xml
   - http://scripting.com/rssNightly.xml
-  categories: []
+  categories:
+  - News
   relme: {}
   last_post_title: GOP Fury At Trump Verdict Just Got Scarier. This Dem Sees An Opening.
   last_post_description: In the wake of Donald Trump’s conviction on 34 felony counts,
@@ -24,7 +25,7 @@ params:
   last_post_link: ""
   last_post_categories: []
   score_criteria:
-    cats: 0
+    cats: 1
     description: 3
     postcats: 0
     promoted: 5
@@ -32,6 +33,6 @@ params:
     relme: 0
     title: 3
     website: 0
-  score: 11
+  score: 12
   ispodcast: true
 ---

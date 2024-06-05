@@ -18,7 +18,8 @@ params:
   - https://www.manton.org/feed.xml
   - https://www.manton.org/podcast.xml
   recommender: []
-  categories: []
+  categories:
+  - Society & Culture
   relme:
     https://github.com/vladcampos: true
     https://micro.blog/vladcampos: false
@@ -31,7 +32,7 @@ params:
   last_post_link: https://vladcampos.com/2024/05/02/vcp-substack-is.html
   last_post_categories: []
   score_criteria:
-    cats: 0
+    cats: 1
     description: 3
     postcats: 0
     promoted: 0
@@ -39,6 +40,6 @@ params:
     relme: 2
     title: 3
     website: 2
-  score: 12
+  score: 13
   ispodcast: true
 ---

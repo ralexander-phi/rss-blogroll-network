@@ -11,11 +11,18 @@ params:
   blogrolls: []
   recommended: []
   recommender:
+  - https://danq.blog/comments/feed/
+  - https://danq.blog/feed/
   - https://danq.me/comments/feed/
   - https://danq.me/feed/
   - https://danq.me/kind/article/feed/
   - https://danq.me/kind/note/feed/
-  categories: []
+  - https://danq.uk/comments/feed/
+  - https://danq.uk/feed/
+  categories:
+  - AfroJazz
+  - Jazz
+  - South Africa
   relme:
     https://bsky.app/profile/@didiermary.fr: false
     https://masto.ai/@cybeardjm: true

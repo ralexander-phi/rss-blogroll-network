@@ -41,7 +41,8 @@ params:
   - https://www.feedio.co/@thenewsprint/feed
   - https://www.curtisfamily.org.uk/comments/feed/
   recommender: []
-  categories: []
+  categories:
+  - Technology
   relme:
     https://micro.blog/numericcitizen: false
   last_post_title: First Narrated Blog Post Experiment
@@ -52,7 +53,7 @@ params:
   last_post_link: https://blog.numericcitizen.me/2024/06/02/first-narrated-blog.html
   last_post_categories: []
   score_criteria:
-    cats: 0
+    cats: 1
     description: 3
     postcats: 0
     promoted: 0
@@ -60,6 +61,6 @@ params:
     relme: 1
     title: 3
     website: 2
-  score: 19
+  score: 20
   ispodcast: true
 ---

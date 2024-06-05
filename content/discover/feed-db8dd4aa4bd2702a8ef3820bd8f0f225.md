@@ -12,7 +12,10 @@ params:
   blogrolls: []
   recommended: []
   recommender: []
-  categories: []
+  categories:
+  - wordpress
+  - timehop
+  - on-this-day
   relme:
     https://twitter.com/ChrisAldrich: false
   last_post_title: On This Day functionality for WordPress

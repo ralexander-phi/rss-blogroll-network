@@ -11,7 +11,9 @@ params:
   blogrolls: []
   recommended: []
   recommender: []
-  categories: []
+  categories:
+  - Ceramics
+  - Pottery
   relme: {}
   last_post_title: Happy 8th IndieWeb Birthday to BoffoSocko.com!
   last_post_description: In the bustle of life I missed it a week or so ago, so Happy

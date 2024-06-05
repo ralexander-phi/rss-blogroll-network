@@ -12,7 +12,8 @@ params:
   blogrolls: []
   recommended: []
   recommender: []
-  categories: []
+  categories:
+  - Advocacy Services
   relme: {}
   last_post_title: 10 Year Strategy for reducing Family and Domestic Violence
   last_post_description: 'Midlas has prepared a submission to the Department of Communities

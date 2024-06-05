@@ -385,6 +385,10 @@
             "group": 2
         },
         {
+            "id": "https://adam.status.lol/feed",
+            "group": 1
+        },
+        {
             "id": "https://adamsilver.io/",
             "group": 2
         },
@@ -3938,10 +3942,6 @@
         },
         {
             "id": "https://eatthispodcast.com/",
-            "group": 2
-        },
-        {
-            "id": "https://eatthispodcast.com/cdn-cgi/l/email-protection",
             "group": 2
         },
         {
@@ -7993,14 +7993,6 @@
             "group": 2
         },
         {
-            "id": "https://iwebthings.joejenett.com//feed.atom",
-            "group": 1
-        },
-        {
-            "id": "https://iwebthings.joejenett.com//iwd.atom",
-            "group": 1
-        },
-        {
             "id": "https://iwebthings.joejenett.com/feed.atom",
             "group": 1
         },
@@ -11113,10 +11105,6 @@
             "group": 1
         },
         {
-            "id": "https://meyerweb.com/eric/thoughts/feed/?scope=full",
-            "group": 1
-        },
-        {
             "id": "https://meyerweb.com/eric/thoughts/rss2/full",
             "group": 1
         },
@@ -11759,10 +11747,6 @@
         {
             "id": "https://neilojwilliams.net/",
             "group": 2
-        },
-        {
-            "id": "https://neilojwilliams.net/feed/",
-            "group": 1
         },
         {
             "id": "https://neliosoftware.com/",
@@ -14199,10 +14183,6 @@
         {
             "id": "https://simply.joejenett.com/",
             "group": 2
-        },
-        {
-            "id": "https://simply.joejenett.com//feed.atom",
-            "group": 1
         },
         {
             "id": "https://simply.joejenett.com/feed.atom",
@@ -17645,19 +17625,19 @@
             "group": 2
         },
         {
-            "id": "https://wiki.jenett.org/feed.php",
-            "group": 1
-        },
-        {
-            "id": "https://wiki.jenett.org/feed.php?mode=list\u0026ns=",
-            "group": 1
-        },
-        {
             "id": "https://wiki.joejenett.com/",
             "group": 2
         },
         {
             "id": "https://wiki.ruk.ca/",
+            "group": 2
+        },
+        {
+            "id": "https://wiki.ruk.ca/w/index.php?feed=atom\u0026title=Special%3ARecentChanges",
+            "group": 1
+        },
+        {
+            "id": "https://wiki.ruk.ca/wiki/Special:RecentChanges",
             "group": 2
         },
         {
@@ -19745,15 +19725,7 @@
             "group": 1
         },
         {
-            "id": "https://www.meyerweb.com/eric/thoughts/category/personal/rss2/full/",
-            "group": 1
-        },
-        {
             "id": "https://www.meyerweb.com/eric/thoughts/category/tech/rss2/full",
-            "group": 1
-        },
-        {
-            "id": "https://www.meyerweb.com/eric/thoughts/category/tech/rss2/full/",
             "group": 1
         },
         {
@@ -22175,6 +22147,10 @@
             "target": "https://fosstodon.org/@eleventy"
         },
         {
+            "source": "https://11ty.dev/firehose/firehose.rss",
+            "target": "https://www.11ty.dev/firehose/firehose.rss"
+        },
+        {
             "source": "https://11ty.rocks/",
             "target": "https://11ty.rocks/feed/"
         },
@@ -23029,6 +23005,14 @@
         {
             "source": "https://adam.proven.lol/",
             "target": "https://www.youtube.com/@omgdotlol"
+        },
+        {
+            "source": "https://adam.status.lol/",
+            "target": "https://adam.status.lol/feed"
+        },
+        {
+            "source": "https://adam.status.lol/",
+            "target": "https://social.lol/@adam"
         },
         {
             "source": "https://adamsilver.io/",
@@ -24857,6 +24841,14 @@
         {
             "source": "https://blog.gitea.io/",
             "target": "https://blog.gitea.io/rss.xml"
+        },
+        {
+            "source": "https://blog.gitea.io/atom.xml",
+            "target": "https://blog.gitea.com/"
+        },
+        {
+            "source": "https://blog.gitea.io/rss.xml",
+            "target": "https://blog.gitea.com/"
         },
         {
             "source": "https://blog.grotenhuis.info/",
@@ -27389,6 +27381,10 @@
         {
             "source": "https://burk.io/",
             "target": "https://social.lol/@jason"
+        },
+        {
+            "source": "https://burk.io/rss.xml",
+            "target": "https://grepjason.sh/"
         },
         {
             "source": "https://business-business.business/",
@@ -31619,6 +31615,1210 @@
             "target": "https://www.youtube.com/@DanQ"
         },
         {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://abnib.co.uk/"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://abnib.co.uk/birthdays.xml"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://abstrusegoose.com/feed/"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://abstrusegoose.com/feed/atom"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://adactio.com/"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://adactio.com/rss/"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://adrianroselli.com/"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://adrianroselli.com/feed"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://amf.didiermary.fr/"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://amf.didiermary.fr/feed/"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://benfrain.com/"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://benfrain.com/feed"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://blog.chriswm.com/"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://blog.chriswm.com/feed.xml"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://blog.codinghorror.com/"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://blog.codinghorror.com/rss/"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://blog.flipper.net/rss/"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://blog.flipperzero.one/"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://blog.humblebundle.com/"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://blog.humblebundle.com/feed/"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://blog.jim-nielsen.com/"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://blog.jim-nielsen.com/feed.xml"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://blog.pcora.eu/"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://blog.pcora.eu/feed.xml"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://brianjdevries.com/"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://brianjdevries.com/feed.xml"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://briefs.video/"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://briefs.video/feed.xml"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://buttersafe.com/"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://calebhearth.com/"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://calebhearth.com/atom.xml"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://colinwalker.blog/"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://colinwalker.blog/livefeed.rss"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://colly.com/"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://colly.com/articles/feed"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://cosmicqbit.dev/"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://cosmicqbit.dev/index.xml"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://darekkay.com/"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://darekkay.com/atom.xml"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://daverupert.com/"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://daverupert.com/atom.xml"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://degruchy.org/"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://degruchy.org/feed/"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://derekkedziora.com/"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://derekkedziora.com/feed.xml"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://diggingthedigital.com/"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://diggingthedigital.com/feed"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://distributed.blog/"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://distributed.blog/category/podcast/feed/"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://drikkes.com/"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://drikkes.com/?feed=rss2"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://evantravers.com/"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://evantravers.com/feed.xml"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://feeds.feedburner.com/Buttersafe"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://feeds.feedburner.com/Metafilter"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://feeds.feedburner.com/Optipess"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://feeds.feedburner.com/mefi/Projects"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://feeds.feedburner.com/robweychert"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://feeds.feedburner.com/thewikiman"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://fleeblewidget.co.uk/"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://fleeblewidget.co.uk/comments/feed/"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://fleeblewidget.co.uk/feed/"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://foreverliketh.is/"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://foreverliketh.is/blog/index.xml"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://forwardcomic.com/list.php"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://freshrss.org/"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://freshrss.org/feeds/all.atom.xml"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://frittiert.es/"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://frittiert.es/rss.xml"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://geoffgraham.me/"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://geoffgraham.me/feed"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://gomakethings.com/"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://gomakethings.com/feed/index.xml"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://granary.io/url?input=html"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://honza.pokorny.ca/"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://honza.pokorny.ca/index.xml"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://im.farai.xyz/"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://im.farai.xyz/feed.rss.xml"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://immerweiterlaufen.de/"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://jerz.us/"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://jerz.us/rss/?section=micro"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://jimkang.com/"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://jimkang.com/weblog/feed.xml"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://joekrall.com/"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://joekrall.com/atom.xml"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://jvns.ca/"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://jvns.ca/atom.xml"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://kevq.uk/"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://kevq.uk/feed.xml"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://lalunemauve.fr/"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://lalunemauve.fr/feed/"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://levimcg.com/"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://levimcg.com/feed.xml"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://ma.tt/"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://ma.tt/feed/"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://marcthiele.com/"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://marcthiele.com/feed-all"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://mattstein.com/"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://mattstein.com/rss.xml"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://mijndertstuij.nl/"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://mijndertstuij.nl/feed.xml"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://minim.blog/"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://minim.blog/index.xml"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://nebula.tv/minutephysics/"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://nebula.tv/philosophytube/"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://nebula.tv/realengineering/"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://nebula.tv/sexplanations/"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://nebula.tv/stevenbridges/"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://news.indieweb.org/en"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://notiz.blog/"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://notiz.blog/feed/"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://octopuns.blogspot.com/feeds/posts/"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://oglaf.com/latest/"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://paganwandererlu.wordpress.com/feed/atom/"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://paganwandererlu.wordpress.com/feed/atom/"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://pbfcomics.com/feed/"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://polyamorousmisanthrope.com/wordpress/feed/"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://polyinthemedia.blogspot.com/feeds/posts/"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://polytechnic.co.uk/"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://polytechnic.co.uk/blog/rss/"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://projects.metafilter.com/"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://robertheaton.com/"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://robertheaton.com/feed.xml"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://rosemarymosco.com/comics/bird-and-moon/all"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://rsdoiel.github.io/"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://rsdoiel.github.io/rss.xml"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://rss.nebula.app/video/channels/minutephysics.rss"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://rss.nebula.app/video/channels/philosophytube.rss"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://rss.nebula.app/video/channels/realengineering.rss"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://rss.nebula.app/video/channels/sexplanations.rss"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://rss.nebula.app/video/channels/stevenbridges.rss"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://rusingh.com/"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://rusingh.com/feed/"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://scottohara.me/"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://seanmcp.com/"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://seanmcp.com/rss.xml"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://sfss.space/"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://sfss.space/feed"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://sheep.horse/"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://sheep.horse/rss.xml"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://shiflett.org/"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://shiflett.org/feeds/blog"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://shkspr.mobi/blog"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://shkspr.mobi/blog/feed/"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://stantonharcourtschool.co.uk/"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://stantonharcourtschool.co.uk/feed/"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://steele.blue/"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://steele.blue/feed/atom.xml"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://stefanbohacek.com/"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://stefanbohacek.com/feed/"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://stitcher.io/rss"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://textslashplain.com/"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://textslashplain.com/feed/"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://thehistoryoftheweb.com/"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://thehistoryoftheweb.com/feed/"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://theoatmeal.com/"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://theoatmeal.com/feed/rss"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://theunderground.blog/"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://theunderground.blog/feed.xml"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://tommorris.org/"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://tommorris.org/index.xml"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://tonsky.me/"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://tonsky.me/atom.xml"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://tracydurnell.com/"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://tracydurnell.com/feed/"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://v6.robweychert.com/blog/"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://www.alchemists.io/"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://www.alchemists.io/feeds/news.xml"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://www.blogger.com/feeds/30436440/posts/default"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://www.blogger.com/feeds/3477437989623950502/posts/default"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://www.blogpocket.com/"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://www.blogpocket.com/feed"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://www.dave-thorp.me.uk/"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://www.kryogenix.org/days/"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://www.kryogenix.org/days/feed"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://www.metafilter.com/"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://www.nathalielawhead.com/candybox"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://www.nathalielawhead.com/candybox/feed"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://www.ned-potter.com/blog/"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://www.oglaf.com/feeds/rss/"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://www.ohjoysextoy.com/"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://www.ohjoysextoy.com/feed/"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://www.optipess.com/"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://www.pbfcomics.com/feed/"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://www.polyamorousmisanthrope.com/"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://www.schneier.com/blog/"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://www.schneier.com/feed/atom/"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://www.scottohara.me/feed.xml"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://www.smbc-comics.com/"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://www.smbc-comics.com/comic/rss"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://www.stitcher.io/rss"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://www.thefarside.com/"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://www.thefarside.com/new-stuff/1"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://www.welivesecurity.com/"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://www.welivesecurity.com/en/rss/feed/"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://www.youtube.com/channel/UC-XYsDNh4-886rMNLnnwR_w"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://www.youtube.com/channel/UC2C_jShtL725hvbm1arSV9w"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://www.youtube.com/channel/UC2bkHVIDjXS7sgrgjFtzOXQ"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://www.youtube.com/channel/UC3KEoMzNz8eYnwBC34RaKCQ"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://www.youtube.com/channel/UC3izYCSBcfi2LfdIr-qg0gQ"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://www.youtube.com/channel/UC3tMH8u6yG3mSxi-qpfmpkA"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://www.youtube.com/channel/UC4K10PNjqgGLKA3lo5V8KdQ"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://www.youtube.com/channel/UC5_iLVNOt2i0fX57v8AjMEQ"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://www.youtube.com/channel/UC6107grRI4m0o2-emgoDnAA"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://www.youtube.com/channel/UC67f2Qf7FYhtoUIF4Sf29cA"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://www.youtube.com/channel/UC6IxnFzHofFJ5X2PycSMsww"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://www.youtube.com/channel/UC6NY68EiT1430CkWZJ7Yg7Q"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://www.youtube.com/channel/UC7Edgk9RxP7Fm7vjQ1d-cDA"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://www.youtube.com/channel/UC7_gcs09iThXybpVgjHZ_7g"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://www.youtube.com/channel/UC9PEibgWOqZ-1I1JdxRmr6g"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://www.youtube.com/channel/UCA3nrVC6HlfDs414V_SYlbQ"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://www.youtube.com/channel/UCAAMxPPYxyAE27svqW7zw4A"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://www.youtube.com/channel/UCAuUUnT6oDeKwE6v1NGQxug"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://www.youtube.com/channel/UCBa659QWEk1AI4Tg--mrJ2A"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://www.youtube.com/channel/UCEOXxzW2vU0P-0THehuIIeg"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://www.youtube.com/channel/UCGCe_sFWL22uFs9f03mSZAA"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://www.youtube.com/channel/UCGm3CO6LPcN-Y7HIuyE0Rew"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://www.youtube.com/channel/UCH4BNI0-FOK2dMXoFtViWHw"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://www.youtube.com/channel/UCHnyfMqiRRG1u-2MsSQLbXA"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://www.youtube.com/channel/UCIOqgcoAGI2fycb89gPXMPA"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://www.youtube.com/channel/UCJ-vHE5CrGaL_ITEg-n3OeA"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://www.youtube.com/channel/UCJkMlOu7faDgqh4PfzbpLdg"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://www.youtube.com/channel/UCLNfsUeQm6zU2eBlQbEy4tw"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://www.youtube.com/channel/UCMu5gPmKp5av0QCAajKTMhw"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://www.youtube.com/channel/UCNYrK4tc5i1-eL8TXesH2pg"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://www.youtube.com/channel/UCOYWgypDktXdb-HfZnSMK6A"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://www.youtube.com/channel/UCWXCrItCF6ZgXrdozUS-Idw"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://www.youtube.com/channel/UC_cznB5YZZmvAmeq7Y3EriQ"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://www.youtube.com/channel/UCbbQalJ4OaC0oQ0AqRaOJ9g"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://www.youtube.com/channel/UCeVBDgameAI0Qhf7leaPhYw"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://www.youtube.com/channel/UCeiYXex_fwgYDonaTcSIk6w"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://www.youtube.com/channel/UCfzIl99c9BYVyu97H5ISn7g"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://www.youtube.com/channel/UCgITW_70LNZFkNna7VsXbuQ"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://www.youtube.com/channel/UChT-l10Pm5m-xOeYOl_37Xw"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://www.youtube.com/channel/UCiR2d9r3QkBwuNVS8nqGNgg"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://www.youtube.com/channel/UCimiUgDLbi6P17BdaCZpVbg"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://www.youtube.com/channel/UCpEI4NuWSISo6LvAUAoa4pg"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://www.youtube.com/channel/UCsn6cjffsvyOZCZxvGoJxGg"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://www.youtube.com/channel/UCwgURKfUA7e0Z7_qE3TvBFQ"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://www.youtube.com/channel/UCyC_4jvPzLiSkJkLIkA7B8g"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://www.youtube.com/feeds/videos.xml?channel_id=UC-XYsDNh4-886rMNLnnwR_w"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2C_jShtL725hvbm1arSV9w"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2bkHVIDjXS7sgrgjFtzOXQ"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://www.youtube.com/feeds/videos.xml?channel_id=UC3KEoMzNz8eYnwBC34RaKCQ"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://www.youtube.com/feeds/videos.xml?channel_id=UC3izYCSBcfi2LfdIr-qg0gQ"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://www.youtube.com/feeds/videos.xml?channel_id=UC3tMH8u6yG3mSxi-qpfmpkA"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4K10PNjqgGLKA3lo5V8KdQ"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://www.youtube.com/feeds/videos.xml?channel_id=UC5_iLVNOt2i0fX57v8AjMEQ"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6107grRI4m0o2-emgoDnAA"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://www.youtube.com/feeds/videos.xml?channel_id=UC67f2Qf7FYhtoUIF4Sf29cA"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6IxnFzHofFJ5X2PycSMsww"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6NY68EiT1430CkWZJ7Yg7Q"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7Edgk9RxP7Fm7vjQ1d-cDA"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7_gcs09iThXybpVgjHZ_7g"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9-y-6csu5WGm29I7JiwpnA"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9PEibgWOqZ-1I1JdxRmr6g"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://www.youtube.com/feeds/videos.xml?channel_id=UCA3nrVC6HlfDs414V_SYlbQ"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://www.youtube.com/feeds/videos.xml?channel_id=UCAAMxPPYxyAE27svqW7zw4A"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://www.youtube.com/feeds/videos.xml?channel_id=UCAuUUnT6oDeKwE6v1NGQxug"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://www.youtube.com/feeds/videos.xml?channel_id=UCBa659QWEk1AI4Tg--mrJ2A"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://www.youtube.com/feeds/videos.xml?channel_id=UCEOXxzW2vU0P-0THehuIIeg"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGCe_sFWL22uFs9f03mSZAA"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGm3CO6LPcN-Y7HIuyE0Rew"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://www.youtube.com/feeds/videos.xml?channel_id=UCH4BNI0-FOK2dMXoFtViWHw"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://www.youtube.com/feeds/videos.xml?channel_id=UCHnyfMqiRRG1u-2MsSQLbXA"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIOqgcoAGI2fycb89gPXMPA"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJ-vHE5CrGaL_ITEg-n3OeA"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJkMlOu7faDgqh4PfzbpLdg"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLNfsUeQm6zU2eBlQbEy4tw"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMu5gPmKp5av0QCAajKTMhw"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://www.youtube.com/feeds/videos.xml?channel_id=UCNYrK4tc5i1-eL8TXesH2pg"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://www.youtube.com/feeds/videos.xml?channel_id=UCOYWgypDktXdb-HfZnSMK6A"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://www.youtube.com/feeds/videos.xml?channel_id=UCWXCrItCF6ZgXrdozUS-Idw"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYO_jab_esuFRV4b17AJtAw"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_cznB5YZZmvAmeq7Y3EriQ"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://www.youtube.com/feeds/videos.xml?channel_id=UCbbQalJ4OaC0oQ0AqRaOJ9g"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://www.youtube.com/feeds/videos.xml?channel_id=UCeVBDgameAI0Qhf7leaPhYw"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://www.youtube.com/feeds/videos.xml?channel_id=UCeiYXex_fwgYDonaTcSIk6w"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfzIl99c9BYVyu97H5ISn7g"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://www.youtube.com/feeds/videos.xml?channel_id=UCgITW_70LNZFkNna7VsXbuQ"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://www.youtube.com/feeds/videos.xml?channel_id=UChT-l10Pm5m-xOeYOl_37Xw"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://www.youtube.com/feeds/videos.xml?channel_id=UCiR2d9r3QkBwuNVS8nqGNgg"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://www.youtube.com/feeds/videos.xml?channel_id=UCimiUgDLbi6P17BdaCZpVbg"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://www.youtube.com/feeds/videos.xml?channel_id=UCpEI4NuWSISo6LvAUAoa4pg"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsXVk37bltHxD1rDPwtNM8Q"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsn6cjffsvyOZCZxvGoJxGg"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://www.youtube.com/feeds/videos.xml?channel_id=UCwgURKfUA7e0Z7_qE3TvBFQ"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://www.youtube.com/feeds/videos.xml?channel_id=UCyC_4jvPzLiSkJkLIkA7B8g"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://www.zylstra.org/blog/"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://www.zylstra.org/blog/feed/"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://xkcd.com/"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://xkcd.com/rss.xml"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://youdo.blog/"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://youdo.blog/feed/"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://zinzolin.fr/"
+        },
+        {
+            "source": "https://danq.blog/blogroll.xml",
+            "target": "https://zinzolin.fr/index.xml"
+        },
+        {
+            "source": "https://danq.blog/comments/feed/",
+            "target": "https://danq.me/"
+        },
+        {
+            "source": "https://danq.blog/feed/",
+            "target": "https://danq.me/"
+        },
+        {
             "source": "https://danq.me/",
             "target": "https://danq.me/blogroll.xml"
         },
@@ -32909,6 +34109,1210 @@
         {
             "source": "https://danq.uk/",
             "target": "https://www.youtube.com/@DanQ"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://abnib.co.uk/"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://abnib.co.uk/birthdays.xml"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://abstrusegoose.com/feed/"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://abstrusegoose.com/feed/atom"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://adactio.com/"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://adactio.com/rss/"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://adrianroselli.com/"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://adrianroselli.com/feed"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://amf.didiermary.fr/"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://amf.didiermary.fr/feed/"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://benfrain.com/"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://benfrain.com/feed"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://blog.chriswm.com/"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://blog.chriswm.com/feed.xml"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://blog.codinghorror.com/"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://blog.codinghorror.com/rss/"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://blog.flipper.net/rss/"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://blog.flipperzero.one/"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://blog.humblebundle.com/"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://blog.humblebundle.com/feed/"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://blog.jim-nielsen.com/"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://blog.jim-nielsen.com/feed.xml"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://blog.pcora.eu/"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://blog.pcora.eu/feed.xml"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://brianjdevries.com/"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://brianjdevries.com/feed.xml"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://briefs.video/"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://briefs.video/feed.xml"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://buttersafe.com/"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://calebhearth.com/"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://calebhearth.com/atom.xml"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://colinwalker.blog/"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://colinwalker.blog/livefeed.rss"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://colly.com/"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://colly.com/articles/feed"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://cosmicqbit.dev/"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://cosmicqbit.dev/index.xml"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://darekkay.com/"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://darekkay.com/atom.xml"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://daverupert.com/"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://daverupert.com/atom.xml"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://degruchy.org/"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://degruchy.org/feed/"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://derekkedziora.com/"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://derekkedziora.com/feed.xml"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://diggingthedigital.com/"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://diggingthedigital.com/feed"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://distributed.blog/"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://distributed.blog/category/podcast/feed/"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://drikkes.com/"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://drikkes.com/?feed=rss2"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://evantravers.com/"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://evantravers.com/feed.xml"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://feeds.feedburner.com/Buttersafe"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://feeds.feedburner.com/Metafilter"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://feeds.feedburner.com/Optipess"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://feeds.feedburner.com/mefi/Projects"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://feeds.feedburner.com/robweychert"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://feeds.feedburner.com/thewikiman"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://fleeblewidget.co.uk/"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://fleeblewidget.co.uk/comments/feed/"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://fleeblewidget.co.uk/feed/"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://foreverliketh.is/"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://foreverliketh.is/blog/index.xml"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://forwardcomic.com/list.php"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://freshrss.org/"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://freshrss.org/feeds/all.atom.xml"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://frittiert.es/"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://frittiert.es/rss.xml"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://geoffgraham.me/"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://geoffgraham.me/feed"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://gomakethings.com/"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://gomakethings.com/feed/index.xml"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://granary.io/url?input=html"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://honza.pokorny.ca/"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://honza.pokorny.ca/index.xml"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://im.farai.xyz/"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://im.farai.xyz/feed.rss.xml"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://immerweiterlaufen.de/"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://jerz.us/"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://jerz.us/rss/?section=micro"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://jimkang.com/"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://jimkang.com/weblog/feed.xml"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://joekrall.com/"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://joekrall.com/atom.xml"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://jvns.ca/"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://jvns.ca/atom.xml"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://kevq.uk/"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://kevq.uk/feed.xml"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://lalunemauve.fr/"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://lalunemauve.fr/feed/"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://levimcg.com/"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://levimcg.com/feed.xml"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://ma.tt/"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://ma.tt/feed/"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://marcthiele.com/"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://marcthiele.com/feed-all"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://mattstein.com/"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://mattstein.com/rss.xml"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://mijndertstuij.nl/"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://mijndertstuij.nl/feed.xml"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://minim.blog/"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://minim.blog/index.xml"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://nebula.tv/minutephysics/"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://nebula.tv/philosophytube/"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://nebula.tv/realengineering/"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://nebula.tv/sexplanations/"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://nebula.tv/stevenbridges/"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://news.indieweb.org/en"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://notiz.blog/"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://notiz.blog/feed/"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://octopuns.blogspot.com/feeds/posts/"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://oglaf.com/latest/"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://paganwandererlu.wordpress.com/feed/atom/"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://paganwandererlu.wordpress.com/feed/atom/"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://pbfcomics.com/feed/"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://polyamorousmisanthrope.com/wordpress/feed/"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://polyinthemedia.blogspot.com/feeds/posts/"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://polytechnic.co.uk/"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://polytechnic.co.uk/blog/rss/"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://projects.metafilter.com/"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://robertheaton.com/"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://robertheaton.com/feed.xml"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://rosemarymosco.com/comics/bird-and-moon/all"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://rsdoiel.github.io/"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://rsdoiel.github.io/rss.xml"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://rss.nebula.app/video/channels/minutephysics.rss"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://rss.nebula.app/video/channels/philosophytube.rss"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://rss.nebula.app/video/channels/realengineering.rss"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://rss.nebula.app/video/channels/sexplanations.rss"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://rss.nebula.app/video/channels/stevenbridges.rss"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://rusingh.com/"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://rusingh.com/feed/"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://scottohara.me/"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://seanmcp.com/"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://seanmcp.com/rss.xml"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://sfss.space/"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://sfss.space/feed"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://sheep.horse/"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://sheep.horse/rss.xml"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://shiflett.org/"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://shiflett.org/feeds/blog"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://shkspr.mobi/blog"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://shkspr.mobi/blog/feed/"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://stantonharcourtschool.co.uk/"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://stantonharcourtschool.co.uk/feed/"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://steele.blue/"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://steele.blue/feed/atom.xml"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://stefanbohacek.com/"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://stefanbohacek.com/feed/"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://stitcher.io/rss"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://textslashplain.com/"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://textslashplain.com/feed/"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://thehistoryoftheweb.com/"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://thehistoryoftheweb.com/feed/"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://theoatmeal.com/"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://theoatmeal.com/feed/rss"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://theunderground.blog/"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://theunderground.blog/feed.xml"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://tommorris.org/"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://tommorris.org/index.xml"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://tonsky.me/"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://tonsky.me/atom.xml"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://tracydurnell.com/"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://tracydurnell.com/feed/"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://v6.robweychert.com/blog/"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://www.alchemists.io/"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://www.alchemists.io/feeds/news.xml"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://www.blogger.com/feeds/30436440/posts/default"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://www.blogger.com/feeds/3477437989623950502/posts/default"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://www.blogpocket.com/"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://www.blogpocket.com/feed"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://www.dave-thorp.me.uk/"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://www.kryogenix.org/days/"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://www.kryogenix.org/days/feed"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://www.metafilter.com/"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://www.nathalielawhead.com/candybox"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://www.nathalielawhead.com/candybox/feed"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://www.ned-potter.com/blog/"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://www.oglaf.com/feeds/rss/"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://www.ohjoysextoy.com/"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://www.ohjoysextoy.com/feed/"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://www.optipess.com/"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://www.pbfcomics.com/feed/"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://www.polyamorousmisanthrope.com/"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://www.schneier.com/blog/"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://www.schneier.com/feed/atom/"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://www.scottohara.me/feed.xml"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://www.smbc-comics.com/"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://www.smbc-comics.com/comic/rss"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://www.stitcher.io/rss"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://www.thefarside.com/"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://www.thefarside.com/new-stuff/1"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://www.welivesecurity.com/"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://www.welivesecurity.com/en/rss/feed/"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://www.youtube.com/channel/UC-XYsDNh4-886rMNLnnwR_w"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://www.youtube.com/channel/UC2C_jShtL725hvbm1arSV9w"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://www.youtube.com/channel/UC2bkHVIDjXS7sgrgjFtzOXQ"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://www.youtube.com/channel/UC3KEoMzNz8eYnwBC34RaKCQ"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://www.youtube.com/channel/UC3izYCSBcfi2LfdIr-qg0gQ"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://www.youtube.com/channel/UC3tMH8u6yG3mSxi-qpfmpkA"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://www.youtube.com/channel/UC4K10PNjqgGLKA3lo5V8KdQ"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://www.youtube.com/channel/UC5_iLVNOt2i0fX57v8AjMEQ"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://www.youtube.com/channel/UC6107grRI4m0o2-emgoDnAA"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://www.youtube.com/channel/UC67f2Qf7FYhtoUIF4Sf29cA"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://www.youtube.com/channel/UC6IxnFzHofFJ5X2PycSMsww"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://www.youtube.com/channel/UC6NY68EiT1430CkWZJ7Yg7Q"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://www.youtube.com/channel/UC7Edgk9RxP7Fm7vjQ1d-cDA"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://www.youtube.com/channel/UC7_gcs09iThXybpVgjHZ_7g"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://www.youtube.com/channel/UC9PEibgWOqZ-1I1JdxRmr6g"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://www.youtube.com/channel/UCA3nrVC6HlfDs414V_SYlbQ"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://www.youtube.com/channel/UCAAMxPPYxyAE27svqW7zw4A"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://www.youtube.com/channel/UCAuUUnT6oDeKwE6v1NGQxug"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://www.youtube.com/channel/UCBa659QWEk1AI4Tg--mrJ2A"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://www.youtube.com/channel/UCEOXxzW2vU0P-0THehuIIeg"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://www.youtube.com/channel/UCGCe_sFWL22uFs9f03mSZAA"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://www.youtube.com/channel/UCGm3CO6LPcN-Y7HIuyE0Rew"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://www.youtube.com/channel/UCH4BNI0-FOK2dMXoFtViWHw"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://www.youtube.com/channel/UCHnyfMqiRRG1u-2MsSQLbXA"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://www.youtube.com/channel/UCIOqgcoAGI2fycb89gPXMPA"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://www.youtube.com/channel/UCJ-vHE5CrGaL_ITEg-n3OeA"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://www.youtube.com/channel/UCJkMlOu7faDgqh4PfzbpLdg"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://www.youtube.com/channel/UCLNfsUeQm6zU2eBlQbEy4tw"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://www.youtube.com/channel/UCMu5gPmKp5av0QCAajKTMhw"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://www.youtube.com/channel/UCNYrK4tc5i1-eL8TXesH2pg"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://www.youtube.com/channel/UCOYWgypDktXdb-HfZnSMK6A"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://www.youtube.com/channel/UCWXCrItCF6ZgXrdozUS-Idw"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://www.youtube.com/channel/UC_cznB5YZZmvAmeq7Y3EriQ"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://www.youtube.com/channel/UCbbQalJ4OaC0oQ0AqRaOJ9g"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://www.youtube.com/channel/UCeVBDgameAI0Qhf7leaPhYw"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://www.youtube.com/channel/UCeiYXex_fwgYDonaTcSIk6w"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://www.youtube.com/channel/UCfzIl99c9BYVyu97H5ISn7g"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://www.youtube.com/channel/UCgITW_70LNZFkNna7VsXbuQ"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://www.youtube.com/channel/UChT-l10Pm5m-xOeYOl_37Xw"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://www.youtube.com/channel/UCiR2d9r3QkBwuNVS8nqGNgg"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://www.youtube.com/channel/UCimiUgDLbi6P17BdaCZpVbg"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://www.youtube.com/channel/UCpEI4NuWSISo6LvAUAoa4pg"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://www.youtube.com/channel/UCsn6cjffsvyOZCZxvGoJxGg"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://www.youtube.com/channel/UCwgURKfUA7e0Z7_qE3TvBFQ"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://www.youtube.com/channel/UCyC_4jvPzLiSkJkLIkA7B8g"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://www.youtube.com/feeds/videos.xml?channel_id=UC-XYsDNh4-886rMNLnnwR_w"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2C_jShtL725hvbm1arSV9w"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2bkHVIDjXS7sgrgjFtzOXQ"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://www.youtube.com/feeds/videos.xml?channel_id=UC3KEoMzNz8eYnwBC34RaKCQ"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://www.youtube.com/feeds/videos.xml?channel_id=UC3izYCSBcfi2LfdIr-qg0gQ"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://www.youtube.com/feeds/videos.xml?channel_id=UC3tMH8u6yG3mSxi-qpfmpkA"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4K10PNjqgGLKA3lo5V8KdQ"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://www.youtube.com/feeds/videos.xml?channel_id=UC5_iLVNOt2i0fX57v8AjMEQ"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6107grRI4m0o2-emgoDnAA"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://www.youtube.com/feeds/videos.xml?channel_id=UC67f2Qf7FYhtoUIF4Sf29cA"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6IxnFzHofFJ5X2PycSMsww"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6NY68EiT1430CkWZJ7Yg7Q"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7Edgk9RxP7Fm7vjQ1d-cDA"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7_gcs09iThXybpVgjHZ_7g"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9-y-6csu5WGm29I7JiwpnA"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9PEibgWOqZ-1I1JdxRmr6g"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://www.youtube.com/feeds/videos.xml?channel_id=UCA3nrVC6HlfDs414V_SYlbQ"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://www.youtube.com/feeds/videos.xml?channel_id=UCAAMxPPYxyAE27svqW7zw4A"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://www.youtube.com/feeds/videos.xml?channel_id=UCAuUUnT6oDeKwE6v1NGQxug"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://www.youtube.com/feeds/videos.xml?channel_id=UCBa659QWEk1AI4Tg--mrJ2A"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://www.youtube.com/feeds/videos.xml?channel_id=UCEOXxzW2vU0P-0THehuIIeg"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGCe_sFWL22uFs9f03mSZAA"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGm3CO6LPcN-Y7HIuyE0Rew"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://www.youtube.com/feeds/videos.xml?channel_id=UCH4BNI0-FOK2dMXoFtViWHw"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://www.youtube.com/feeds/videos.xml?channel_id=UCHnyfMqiRRG1u-2MsSQLbXA"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIOqgcoAGI2fycb89gPXMPA"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJ-vHE5CrGaL_ITEg-n3OeA"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJkMlOu7faDgqh4PfzbpLdg"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLNfsUeQm6zU2eBlQbEy4tw"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMu5gPmKp5av0QCAajKTMhw"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://www.youtube.com/feeds/videos.xml?channel_id=UCNYrK4tc5i1-eL8TXesH2pg"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://www.youtube.com/feeds/videos.xml?channel_id=UCOYWgypDktXdb-HfZnSMK6A"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://www.youtube.com/feeds/videos.xml?channel_id=UCWXCrItCF6ZgXrdozUS-Idw"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYO_jab_esuFRV4b17AJtAw"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_cznB5YZZmvAmeq7Y3EriQ"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://www.youtube.com/feeds/videos.xml?channel_id=UCbbQalJ4OaC0oQ0AqRaOJ9g"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://www.youtube.com/feeds/videos.xml?channel_id=UCeVBDgameAI0Qhf7leaPhYw"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://www.youtube.com/feeds/videos.xml?channel_id=UCeiYXex_fwgYDonaTcSIk6w"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfzIl99c9BYVyu97H5ISn7g"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://www.youtube.com/feeds/videos.xml?channel_id=UCgITW_70LNZFkNna7VsXbuQ"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://www.youtube.com/feeds/videos.xml?channel_id=UChT-l10Pm5m-xOeYOl_37Xw"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://www.youtube.com/feeds/videos.xml?channel_id=UCiR2d9r3QkBwuNVS8nqGNgg"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://www.youtube.com/feeds/videos.xml?channel_id=UCimiUgDLbi6P17BdaCZpVbg"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://www.youtube.com/feeds/videos.xml?channel_id=UCpEI4NuWSISo6LvAUAoa4pg"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsXVk37bltHxD1rDPwtNM8Q"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsn6cjffsvyOZCZxvGoJxGg"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://www.youtube.com/feeds/videos.xml?channel_id=UCwgURKfUA7e0Z7_qE3TvBFQ"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://www.youtube.com/feeds/videos.xml?channel_id=UCyC_4jvPzLiSkJkLIkA7B8g"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://www.zylstra.org/blog/"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://www.zylstra.org/blog/feed/"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://xkcd.com/"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://xkcd.com/rss.xml"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://youdo.blog/"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://youdo.blog/feed/"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://zinzolin.fr/"
+        },
+        {
+            "source": "https://danq.uk/blogroll.xml",
+            "target": "https://zinzolin.fr/index.xml"
+        },
+        {
+            "source": "https://danq.uk/comments/feed/",
+            "target": "https://danq.me/"
+        },
+        {
+            "source": "https://danq.uk/feed/",
+            "target": "https://danq.me/"
         },
         {
             "source": "https://darekkay.com/",
@@ -34489,10 +36893,6 @@
         {
             "source": "https://eatthispodcast.com/",
             "target": "https://%40etp@indieweb.social/"
-        },
-        {
-            "source": "https://eatthispodcast.com/",
-            "target": "https://eatthispodcast.com/cdn-cgi/l/email-protection"
         },
         {
             "source": "https://eatthispodcast.com/",
@@ -44255,6 +46655,14 @@
             "target": "https://wiki.joejenett.com/"
         },
         {
+            "source": "https://iwebthings.jenett.org/feed.atom",
+            "target": "https://iwebthings.joejenett.com/"
+        },
+        {
+            "source": "https://iwebthings.jenett.org/iwd.atom",
+            "target": "https://iwebthings.joejenett.com/"
+        },
+        {
             "source": "https://iwebthings.joejenett.com/",
             "target": "https://bsky.app/profile/jenett.bsky.social"
         },
@@ -44369,14 +46777,6 @@
         {
             "source": "https://iwebthings.joejenett.com/",
             "target": "https://wiki.joejenett.com/"
-        },
-        {
-            "source": "https://iwebthings.joejenett.com//feed.atom",
-            "target": "https://iwebthings.joejenett.com/"
-        },
-        {
-            "source": "https://iwebthings.joejenett.com//iwd.atom",
-            "target": "https://iwebthings.joejenett.com/"
         },
         {
             "source": "https://iwebthings.joejenett.com/feed.atom",
@@ -46743,6 +49143,130 @@
             "target": "https://www.threads.net/@joeross.me"
         },
         {
+            "source": "https://joeross.micro.blog/.well-known/recommendations.opml",
+            "target": "http://scripting.com/"
+        },
+        {
+            "source": "https://joeross.micro.blog/.well-known/recommendations.opml",
+            "target": "http://scripting.com/rss.xml"
+        },
+        {
+            "source": "https://joeross.micro.blog/.well-known/recommendations.opml",
+            "target": "https://adactio.com/"
+        },
+        {
+            "source": "https://joeross.micro.blog/.well-known/recommendations.opml",
+            "target": "https://brett.trpstra.net/brettterpstra"
+        },
+        {
+            "source": "https://joeross.micro.blog/.well-known/recommendations.opml",
+            "target": "https://brettterpstra.com/"
+        },
+        {
+            "source": "https://joeross.micro.blog/.well-known/recommendations.opml",
+            "target": "https://chriscoyier.net/"
+        },
+        {
+            "source": "https://joeross.micro.blog/.well-known/recommendations.opml",
+            "target": "https://chriscoyier.net/feed/"
+        },
+        {
+            "source": "https://joeross.micro.blog/.well-known/recommendations.opml",
+            "target": "https://erinkissane.com/"
+        },
+        {
+            "source": "https://joeross.micro.blog/.well-known/recommendations.opml",
+            "target": "https://erinkissane.com/feed.rss"
+        },
+        {
+            "source": "https://joeross.micro.blog/.well-known/recommendations.opml",
+            "target": "https://flohgro.com/"
+        },
+        {
+            "source": "https://joeross.micro.blog/.well-known/recommendations.opml",
+            "target": "https://flohgro.com/feed/"
+        },
+        {
+            "source": "https://joeross.micro.blog/.well-known/recommendations.opml",
+            "target": "https://gregmorris.co.uk/"
+        },
+        {
+            "source": "https://joeross.micro.blog/.well-known/recommendations.opml",
+            "target": "https://jvns.ca/atom.xml"
+        },
+        {
+            "source": "https://joeross.micro.blog/.well-known/recommendations.opml",
+            "target": "https://localghost.dev/"
+        },
+        {
+            "source": "https://joeross.micro.blog/.well-known/recommendations.opml",
+            "target": "https://localghost.dev/feed.xml"
+        },
+        {
+            "source": "https://joeross.micro.blog/.well-known/recommendations.opml",
+            "target": "https://matthewcassinelli.com/"
+        },
+        {
+            "source": "https://joeross.micro.blog/.well-known/recommendations.opml",
+            "target": "https://matthewcassinelli.com/feed/"
+        },
+        {
+            "source": "https://joeross.micro.blog/.well-known/recommendations.opml",
+            "target": "https://notes.neatnik.net/"
+        },
+        {
+            "source": "https://joeross.micro.blog/.well-known/recommendations.opml",
+            "target": "https://notes.neatnik.net/rss.xml"
+        },
+        {
+            "source": "https://joeross.micro.blog/.well-known/recommendations.opml",
+            "target": "https://ohhelloana.blog/"
+        },
+        {
+            "source": "https://joeross.micro.blog/.well-known/recommendations.opml",
+            "target": "https://ohhelloana.blog/feed.xml"
+        },
+        {
+            "source": "https://joeross.micro.blog/.well-known/recommendations.opml",
+            "target": "https://pxlnv.com/"
+        },
+        {
+            "source": "https://joeross.micro.blog/.well-known/recommendations.opml",
+            "target": "https://pxlnv.com/feed/"
+        },
+        {
+            "source": "https://joeross.micro.blog/.well-known/recommendations.opml",
+            "target": "https://tiffwhite.me/"
+        },
+        {
+            "source": "https://joeross.micro.blog/.well-known/recommendations.opml",
+            "target": "https://tiffwhite.me/feed.xml"
+        },
+        {
+            "source": "https://joeross.micro.blog/.well-known/recommendations.opml",
+            "target": "https://werd.io/"
+        },
+        {
+            "source": "https://joeross.micro.blog/.well-known/recommendations.opml",
+            "target": "https://werd.io/?_t=rss"
+        },
+        {
+            "source": "https://joeross.micro.blog/.well-known/recommendations.opml",
+            "target": "https://www.mollywhite.net/feed"
+        },
+        {
+            "source": "https://joeross.micro.blog/.well-known/recommendations.opml",
+            "target": "https://www.mollywhite.net/feed/feed.xml"
+        },
+        {
+            "source": "https://joeross.micro.blog/.well-known/recommendations.opml",
+            "target": "https://www.thisdaysportion.com/"
+        },
+        {
+            "source": "https://joeross.micro.blog/.well-known/recommendations.opml",
+            "target": "https://www.thisdaysportion.com/feed/index.xml"
+        },
+        {
             "source": "https://joeross.neocities.org/",
             "target": "https://bsky.app/profile/joeross.me"
         },
@@ -47437,6 +49961,146 @@
         {
             "source": "https://kevq.uk/",
             "target": "https://social.lol/@kevquirk"
+        },
+        {
+            "source": "https://kevq.uk/blogroll/kevquirk.opml",
+            "target": "https://andy-bell.co.uk/"
+        },
+        {
+            "source": "https://kevq.uk/blogroll/kevquirk.opml",
+            "target": "https://andy-bell.co.uk/feed"
+        },
+        {
+            "source": "https://kevq.uk/blogroll/kevquirk.opml",
+            "target": "https://baty.net/"
+        },
+        {
+            "source": "https://kevq.uk/blogroll/kevquirk.opml",
+            "target": "https://baty.net/everything.rss"
+        },
+        {
+            "source": "https://kevq.uk/blogroll/kevquirk.opml",
+            "target": "https://brandonwrites.xyz/"
+        },
+        {
+            "source": "https://kevq.uk/blogroll/kevquirk.opml",
+            "target": "https://brandonwrites.xyz/feed/"
+        },
+        {
+            "source": "https://kevq.uk/blogroll/kevquirk.opml",
+            "target": "https://btxx.org/"
+        },
+        {
+            "source": "https://kevq.uk/blogroll/kevquirk.opml",
+            "target": "https://btxx.org/index.rss"
+        },
+        {
+            "source": "https://kevq.uk/blogroll/kevquirk.opml",
+            "target": "https://buttondown.email/ownyourweb"
+        },
+        {
+            "source": "https://kevq.uk/blogroll/kevquirk.opml",
+            "target": "https://buttondown.email/ownyourweb/rss"
+        },
+        {
+            "source": "https://kevq.uk/blogroll/kevquirk.opml",
+            "target": "https://chriscoyier.net/"
+        },
+        {
+            "source": "https://kevq.uk/blogroll/kevquirk.opml",
+            "target": "https://chriscoyier.net/feed"
+        },
+        {
+            "source": "https://kevq.uk/blogroll/kevquirk.opml",
+            "target": "https://colinwalker.blog/"
+        },
+        {
+            "source": "https://kevq.uk/blogroll/kevquirk.opml",
+            "target": "https://colinwalker.blog/dailyfeed.xml"
+        },
+        {
+            "source": "https://kevq.uk/blogroll/kevquirk.opml",
+            "target": "https://email-is-good.com/"
+        },
+        {
+            "source": "https://kevq.uk/blogroll/kevquirk.opml",
+            "target": "https://email-is-good.com/feed"
+        },
+        {
+            "source": "https://kevq.uk/blogroll/kevquirk.opml",
+            "target": "https://herman.bearblog.dev/"
+        },
+        {
+            "source": "https://kevq.uk/blogroll/kevquirk.opml",
+            "target": "https://herman.bearblog.dev/feed/?type=rss"
+        },
+        {
+            "source": "https://kevq.uk/blogroll/kevquirk.opml",
+            "target": "https://jlelse.blog/"
+        },
+        {
+            "source": "https://kevq.uk/blogroll/kevquirk.opml",
+            "target": "https://jlelse.blog/index.xml"
+        },
+        {
+            "source": "https://kevq.uk/blogroll/kevquirk.opml",
+            "target": "https://manuelmoreale.com/"
+        },
+        {
+            "source": "https://kevq.uk/blogroll/kevquirk.opml",
+            "target": "https://manuelmoreale.com/feed/rss"
+        },
+        {
+            "source": "https://kevq.uk/blogroll/kevquirk.opml",
+            "target": "https://niqwithq.com/"
+        },
+        {
+            "source": "https://kevq.uk/blogroll/kevquirk.opml",
+            "target": "https://niqwithq.com/feed.xml"
+        },
+        {
+            "source": "https://kevq.uk/blogroll/kevquirk.opml",
+            "target": "https://rknight.me/"
+        },
+        {
+            "source": "https://kevq.uk/blogroll/kevquirk.opml",
+            "target": "https://rknight.me/subscribe"
+        },
+        {
+            "source": "https://kevq.uk/blogroll/kevquirk.opml",
+            "target": "https://robinrendle.com/"
+        },
+        {
+            "source": "https://kevq.uk/blogroll/kevquirk.opml",
+            "target": "https://robinrendle.com/feed.xml"
+        },
+        {
+            "source": "https://kevq.uk/blogroll/kevquirk.opml",
+            "target": "https://thejollyteapot.com/"
+        },
+        {
+            "source": "https://kevq.uk/blogroll/kevquirk.opml",
+            "target": "https://thejollyteapot.com/feed.rss"
+        },
+        {
+            "source": "https://kevq.uk/blogroll/kevquirk.opml",
+            "target": "https://www.eddiedale.com/"
+        },
+        {
+            "source": "https://kevq.uk/blogroll/kevquirk.opml",
+            "target": "https://www.eddiedale.com/blog-feed"
+        },
+        {
+            "source": "https://kevq.uk/blogroll/kevquirk.opml",
+            "target": "https://www.lkhrs.com/"
+        },
+        {
+            "source": "https://kevq.uk/blogroll/kevquirk.opml",
+            "target": "https://www.lkhrs.com/blog/index.xml"
+        },
+        {
+            "source": "https://kevq.uk/feed",
+            "target": "https://kevquirk.com/"
         },
         {
             "source": "https://kevq.uk/feed.xml",
@@ -48791,6 +51455,14 @@
             "target": "https://luroapp.com/feed/"
         },
         {
+            "source": "https://lwj.dev/blog/rss.xml",
+            "target": "https://www.learnwithjason.dev/"
+        },
+        {
+            "source": "https://lwj.dev/episodes/rss.xml",
+            "target": "https://www.learnwithjason.dev/"
+        },
+        {
             "source": "https://lwj.dev/newsletter",
             "target": "https://lwj.dev/blog/rss.xml"
         },
@@ -49165,6 +51837,162 @@
         {
             "source": "https://manton.org/",
             "target": "https://www.manton.org/podcast.xml"
+        },
+        {
+            "source": "https://manton.org/.well-known/recommendations.opml",
+            "target": "http://scripting.com/"
+        },
+        {
+            "source": "https://manton.org/.well-known/recommendations.opml",
+            "target": "http://scripting.com/rss.xml"
+        },
+        {
+            "source": "https://manton.org/.well-known/recommendations.opml",
+            "target": "https://aows.co/blog"
+        },
+        {
+            "source": "https://manton.org/.well-known/recommendations.opml",
+            "target": "https://aows.co/blog?format=rss"
+        },
+        {
+            "source": "https://manton.org/.well-known/recommendations.opml",
+            "target": "https://austinkleon.com/"
+        },
+        {
+            "source": "https://manton.org/.well-known/recommendations.opml",
+            "target": "https://austinkleon.com/feed/"
+        },
+        {
+            "source": "https://manton.org/.well-known/recommendations.opml",
+            "target": "https://bitsplitting.org/"
+        },
+        {
+            "source": "https://manton.org/.well-known/recommendations.opml",
+            "target": "https://bitsplitting.org/feed/"
+        },
+        {
+            "source": "https://manton.org/.well-known/recommendations.opml",
+            "target": "https://dahlstrand.net/"
+        },
+        {
+            "source": "https://manton.org/.well-known/recommendations.opml",
+            "target": "https://dahlstrand.net/feed.xml"
+        },
+        {
+            "source": "https://manton.org/.well-known/recommendations.opml",
+            "target": "https://daringfireball.net/"
+        },
+        {
+            "source": "https://manton.org/.well-known/recommendations.opml",
+            "target": "https://daringfireball.net/feeds/main"
+        },
+        {
+            "source": "https://manton.org/.well-known/recommendations.opml",
+            "target": "https://inessential.com/"
+        },
+        {
+            "source": "https://manton.org/.well-known/recommendations.opml",
+            "target": "https://inessential.com/xml/rss.xml"
+        },
+        {
+            "source": "https://manton.org/.well-known/recommendations.opml",
+            "target": "https://jonhays.me/"
+        },
+        {
+            "source": "https://manton.org/.well-known/recommendations.opml",
+            "target": "https://jonhays.me/feed.xml"
+        },
+        {
+            "source": "https://manton.org/.well-known/recommendations.opml",
+            "target": "https://maique.eu/"
+        },
+        {
+            "source": "https://manton.org/.well-known/recommendations.opml",
+            "target": "https://maique.eu/feed.xml"
+        },
+        {
+            "source": "https://manton.org/.well-known/recommendations.opml",
+            "target": "https://micro.welltempered.net/"
+        },
+        {
+            "source": "https://manton.org/.well-known/recommendations.opml",
+            "target": "https://micro.welltempered.net/feed.xml"
+        },
+        {
+            "source": "https://manton.org/.well-known/recommendations.opml",
+            "target": "https://mjtsai.com/blog/"
+        },
+        {
+            "source": "https://manton.org/.well-known/recommendations.opml",
+            "target": "https://mjtsai.com/blog/feed/"
+        },
+        {
+            "source": "https://manton.org/.well-known/recommendations.opml",
+            "target": "https://ohhelloana.blog/"
+        },
+        {
+            "source": "https://manton.org/.well-known/recommendations.opml",
+            "target": "https://ohhelloana.blog/feed.xml"
+        },
+        {
+            "source": "https://manton.org/.well-known/recommendations.opml",
+            "target": "https://om.co/"
+        },
+        {
+            "source": "https://manton.org/.well-known/recommendations.opml",
+            "target": "https://om.co/feed/"
+        },
+        {
+            "source": "https://manton.org/.well-known/recommendations.opml",
+            "target": "https://pxlnv.com/"
+        },
+        {
+            "source": "https://manton.org/.well-known/recommendations.opml",
+            "target": "https://pxlnv.com/feed/"
+        },
+        {
+            "source": "https://manton.org/.well-known/recommendations.opml",
+            "target": "https://rebeccatoh.co/"
+        },
+        {
+            "source": "https://manton.org/.well-known/recommendations.opml",
+            "target": "https://rebeccatoh.co/feed/"
+        },
+        {
+            "source": "https://manton.org/.well-known/recommendations.opml",
+            "target": "https://social.ayjay.org/"
+        },
+        {
+            "source": "https://manton.org/.well-known/recommendations.opml",
+            "target": "https://social.ayjay.org/feed.xml"
+        },
+        {
+            "source": "https://manton.org/.well-known/recommendations.opml",
+            "target": "https://stratechery.com/"
+        },
+        {
+            "source": "https://manton.org/.well-known/recommendations.opml",
+            "target": "https://vincentritter.com/blog"
+        },
+        {
+            "source": "https://manton.org/.well-known/recommendations.opml",
+            "target": "https://vincentritter.com/feeds/all.rss"
+        },
+        {
+            "source": "https://manton.org/.well-known/recommendations.opml",
+            "target": "https://world.hey.com/jason"
+        },
+        {
+            "source": "https://manton.org/.well-known/recommendations.opml",
+            "target": "https://world.hey.com/jason/feed.atom"
+        },
+        {
+            "source": "https://manton.org/.well-known/recommendations.opml",
+            "target": "https://www.zylstra.org/blog/"
+        },
+        {
+            "source": "https://manton.org/.well-known/recommendations.opml",
+            "target": "https://www.zylstra.org/blog/feed/"
         },
         {
             "source": "https://manuelgrabowski.de/",
@@ -52499,10 +55327,6 @@
             "target": "https://meyerweb.com/eric/thoughts"
         },
         {
-            "source": "https://meyerweb.com/eric/thoughts/feed/?scope=full",
-            "target": "https://meyerweb.com/eric/thoughts"
-        },
-        {
             "source": "https://meyerweb.com/eric/thoughts/rss2/full",
             "target": "https://meyerweb.com/eric/thoughts"
         },
@@ -53943,6 +56767,10 @@
             "target": "https://www.oddbird.net/feed.atom"
         },
         {
+            "source": "https://oglaf.com/feeds/rss/",
+            "target": "https://www.oglaf.com/latest/"
+        },
+        {
             "source": "https://oglaf.com/latest/",
             "target": "https://oglaf.com/feeds/rss/"
         },
@@ -54707,6 +57535,14 @@
             "target": "https://opencost.io/blog/rss.xml"
         },
         {
+            "source": "https://opencost.io/blog/atom.xml",
+            "target": "https://opencost.io/blog"
+        },
+        {
+            "source": "https://opencost.io/blog/rss.xml",
+            "target": "https://opencost.io/blog"
+        },
+        {
             "source": "https://openprivacy.ca/",
             "target": "https://fosstodon.org/@cwtch"
         },
@@ -55113,6 +57949,10 @@
         {
             "source": "https://philna.sh/feed.xml",
             "target": "https://philna.sh/"
+        },
+        {
+            "source": "https://phire.place/@vasta",
+            "target": "https://www.inthemargins.ca/"
         },
         {
             "source": "https://photo.jenett.org/",
@@ -58079,6 +60919,10 @@
             "target": "https://wiki.joejenett.com/"
         },
         {
+            "source": "https://simply.jenett.org/feed.atom",
+            "target": "https://simply.jenett.org/"
+        },
+        {
             "source": "https://simply.joejenett.com/",
             "target": "https://bsky.app/profile/jenett.bsky.social"
         },
@@ -58161,10 +61005,6 @@
         {
             "source": "https://simply.joejenett.com/",
             "target": "https://wiki.joejenett.com/"
-        },
-        {
-            "source": "https://simply.joejenett.com//feed.atom",
-            "target": "https://simply.jenett.org/"
         },
         {
             "source": "https://simply.joejenett.com/feed.atom",
@@ -58259,6 +61099,10 @@
             "target": "https://wiki.joejenett.com/"
         },
         {
+            "source": "https://simply.micro.jenett.org/feed.atom",
+            "target": "https://simply.jenett.org/"
+        },
+        {
             "source": "https://simply.personal.jenett.org/",
             "target": "https://bsky.app/profile/jenett.bsky.social"
         },
@@ -58341,6 +61185,10 @@
         {
             "source": "https://simply.personal.jenett.org/",
             "target": "https://wiki.joejenett.com/"
+        },
+        {
+            "source": "https://simply.personal.jenett.org/feed.atom",
+            "target": "https://simply.jenett.org/"
         },
         {
             "source": "https://sindresorhus.com/",
@@ -62155,6 +65003,10 @@
             "target": "https://theverge.com/rss/index.xml"
         },
         {
+            "source": "https://theverge.com/rss/index.xml",
+            "target": "https://www.theverge.com/"
+        },
+        {
             "source": "https://thomasp.vivaldi.net/",
             "target": "https://social.vivaldi.net/@thomasp"
         },
@@ -63528,10 +66380,6 @@
         },
         {
             "source": "https://visitmy.website/blogroll.opml",
-            "target": "https://neilojwilliams.net/feed/"
-        },
-        {
-            "source": "https://visitmy.website/blogroll.opml",
             "target": "https://paulsmith.site/weeknotes/feed.xml"
         },
         {
@@ -64796,14 +67644,6 @@
         },
         {
             "source": "https://wiki.jenett.org/",
-            "target": "https://wiki.jenett.org/feed.php"
-        },
-        {
-            "source": "https://wiki.jenett.org/",
-            "target": "https://wiki.jenett.org/feed.php?mode=list\u0026ns="
-        },
-        {
-            "source": "https://wiki.jenett.org/",
             "target": "https://wiki.joejenett.com/"
         },
         {
@@ -64881,6 +67721,14 @@
         {
             "source": "https://wiki.joejenett.com/",
             "target": "https://wiki.joejenett.com/"
+        },
+        {
+            "source": "https://wiki.ruk.ca/",
+            "target": "https://wiki.ruk.ca/w/index.php?feed=atom\u0026title=Special%3ARecentChanges"
+        },
+        {
+            "source": "https://wiki.ruk.ca/w/index.php?feed=atom\u0026title=Special%3ARecentChanges",
+            "target": "https://wiki.ruk.ca/wiki/Special:RecentChanges"
         },
         {
             "source": "https://winnielim.org/",
@@ -65827,6 +68675,10 @@
             "target": "https://www.calebhearth.com/atom.xml"
         },
         {
+            "source": "https://www.calebhearth.com/atom.xml",
+            "target": "https://calebhearth.com/"
+        },
+        {
             "source": "https://www.citationneeded.news/",
             "target": "https://bsky.app/profile/molly.wiki"
         },
@@ -65865,6 +68717,10 @@
         {
             "source": "https://www.coleb.blog/",
             "target": "https://www.coleb.blog/posts_feed"
+        },
+        {
+            "source": "https://www.coleb.blog/posts_feed",
+            "target": "https://coleb.blog/"
         },
         {
             "source": "https://www.commitstrip.com/",
@@ -67371,11 +70227,15 @@
             "target": "https://rss.metafilter.com/popular-posts.rss"
         },
         {
-            "source": "https://www.meyerweb.com/eric/thoughts/category/personal/rss2/full/",
+            "source": "https://www.meyerweb.com/eric/thoughts/category/personal/rss2/full",
             "target": "https://meyerweb.com/eric/thoughts"
         },
         {
-            "source": "https://www.meyerweb.com/eric/thoughts/category/tech/rss2/full/",
+            "source": "https://www.meyerweb.com/eric/thoughts/category/tech/rss2/full",
+            "target": "https://meyerweb.com/eric/thoughts"
+        },
+        {
+            "source": "https://www.meyerweb.com/eric/thoughts/rss2/full",
             "target": "https://meyerweb.com/eric/thoughts"
         },
         {
@@ -69461,6 +72321,10 @@
         {
             "source": "https://zachleat.com/@zachleat",
             "target": "https://www.zachleat.com/"
+        },
+        {
+            "source": "https://zachleat.com/follow/",
+            "target": "https://www.zachleat.com/follow.rss"
         },
         {
             "source": "https://zalberico.com/",

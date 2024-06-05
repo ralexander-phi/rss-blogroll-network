@@ -13,7 +13,8 @@ params:
   blogrolls: []
   recommended: []
   recommender: []
-  categories: []
+  categories:
+  - Arts
   relme:
     https://podcasts.social/@neugierig_fm: false
   last_post_title: Die menschliche Seite herauskehren – Sven Saro
@@ -24,7 +25,7 @@ params:
   last_post_link: https://neu-gierig.fm/podcast/die-menschliche-seite-herauskehren-sven-saro
   last_post_categories: []
   score_criteria:
-    cats: 0
+    cats: 1
     description: 3
     postcats: 0
     promoted: 0
@@ -32,6 +33,6 @@ params:
     relme: 1
     title: 3
     website: 2
-  score: 9
+  score: 10
   ispodcast: true
 ---

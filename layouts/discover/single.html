@@ -21,7 +21,7 @@
   {{ if .Params.categories }}
     <div class="tags">
     {{ range (first 10 .Params.categories) }}
-      <span class="tag">{{ . | truncate 25 }}</span>
+      <span class="tag">{{- trim (. | truncate 40) " " -}}</span>
     {{ end }}
     </div>
   {{ end }}
@@ -75,11 +75,17 @@
   </p>
   {{ end }}
   </div>
+</section>
 
+<section class="hero mb-6">
   {{ if .Params.last_post_date }}
     <div class="hero-body">
+
+    <h3 class="subtitle is-3">
+      Recent post
+    </h3>
+
     <p class="is-size-7">
-    Recent post:
     {{ .Params.last_post_date | time.Format ":date_medium" }}
     </p>
     <a href="{{ .Params.last_post_link }}">
@@ -91,7 +97,7 @@
     {{ if .Params.last_post_categories }}
       <div class="tags">
       {{ range .Params.last_post_categories }}
-        <span class="tag">{{ . }}</span>
+        <span class="tag">{{- trim (. | truncate 40) " " -}}</span>
       {{ end }}
       </div>
     {{ end }}

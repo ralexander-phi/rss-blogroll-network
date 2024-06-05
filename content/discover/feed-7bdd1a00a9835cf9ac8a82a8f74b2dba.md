@@ -13,7 +13,8 @@ params:
   recommended: []
   recommender:
   - https://frankmeeuwsen.com/feed.xml
-  categories: []
+  categories:
+  - Blog
   relme:
     https://social.coop/@Rushkoff: false
   last_post_title: 'Team Human ep. 248: I Will Not Be Autotuned – Live from All Tech

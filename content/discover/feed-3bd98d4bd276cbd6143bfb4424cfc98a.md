@@ -15,7 +15,8 @@ params:
   - https://jlelse.blog/.min.rss
   - https://jlelse.blog/.rss
   - https://jlelse.blog/index.xml
-  categories: []
+  categories:
+  - miscellany
   relme: {}
   last_post_title: Comedy series I've watched over and over (and over)
   last_post_description: |-

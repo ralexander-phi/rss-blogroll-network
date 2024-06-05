@@ -12,7 +12,8 @@ params:
   blogrolls: []
   recommended: []
   recommender: []
-  categories: []
+  categories:
+  - Technology
   relme: {}
   last_post_title: 'HECHO CON BLOQUES #53: Escritura mágica de Canva; Merlin; Hoja
     de ruta WordPress 6.6; y mucho más'
@@ -23,7 +24,7 @@ params:
   last_post_link: https://www.blogpocket.com/podcast/hecho-con-bloques-53/
   last_post_categories: []
   score_criteria:
-    cats: 0
+    cats: 1
     description: 3
     postcats: 0
     promoted: 0
@@ -31,6 +32,6 @@ params:
     relme: 0
     title: 3
     website: 1
-  score: 7
+  score: 8
   ispodcast: true
 ---

@@ -3,6 +3,7 @@ package main
 import (
 	"fmt"
 	"slices"
+	"strings"
 
 	"github.com/jmoiron/sqlx"
 	_ "github.com/mattn/go-sqlite3"
@@ -536,6 +537,26 @@ func (a *Analysis) PopulateRecommenders(feed *FeedInfo, blogrolls []string, webs
 	}
 }
 
+func (a *Analysis) FixUp(feed *FeedInfo) {
+	// Hack: when the feed doesn't have categories, but the last post does
+	// use the post categories as the feed categories
+	if len(feed.Params.Categories) == 0 {
+		feed.Params.Categories = feed.Params.LastPostCategories
+	}
+
+	// Something in hugo breaks if there's a trailing slash
+	for i, c := range feed.Params.Categories {
+		if strings.HasSuffix(c, "/") {
+			feed.Params.Categories[i] = c + " "
+		}
+	}
+	for i, c := range feed.Params.LastPostCategories {
+		if strings.HasSuffix(c, "/") {
+			feed.Params.LastPostCategories[i] = c + " "
+		}
+	}
+}
+
 func (a *Analysis) Analyze() {
 	feedRows, err := a.db.Query(`
     SELECT description, date, title, feed_link, feed_id, feed_type, is_podcast
@@ -573,6 +594,11 @@ func (a *Analysis) Analyze() {
 		a.PopulateCategoriesForFeed(feed)
 		a.PopulateLastPostForFeed(feed)
 		a.PopulateScore(feed)
+
+		// Apply some hacks to improve content
+		// but do this after the score is calculated
+		a.FixUp(feed)
+
 		feed.Save()
 	}
 }

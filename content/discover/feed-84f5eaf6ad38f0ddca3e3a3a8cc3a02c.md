@@ -12,7 +12,8 @@ params:
   recommender:
   - http://scripting.com/rss.xml
   - http://scripting.com/rssNightly.xml
-  categories: []
+  categories:
+  - photographs
   relme: {}
   last_post_title: Tree of Mt Tam
   last_post_description: |-

@@ -12,7 +12,8 @@ params:
   blogrolls: []
   recommended: []
   recommender: []
-  categories: []
+  categories:
+  - Society & Culture
   relme:
     https://github.com/jthingelstad: true
     https://mastodon.social/@jamiethingelstad: true
@@ -30,7 +31,7 @@ params:
   last_post_link: https://www.thingelstad.com/2024/05/25/first-coffee-in.html
   last_post_categories: []
   score_criteria:
-    cats: 0
+    cats: 1
     description: 3
     postcats: 0
     promoted: 0
@@ -38,6 +39,6 @@ params:
     relme: 2
     title: 3
     website: 2
-  score: 10
+  score: 11
   ispodcast: true
 ---

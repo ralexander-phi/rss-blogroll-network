@@ -11,11 +11,19 @@ params:
   blogrolls: []
   recommended: []
   recommender:
+  - https://danq.blog/comments/feed/
+  - https://danq.blog/feed/
   - https://danq.me/comments/feed/
   - https://danq.me/feed/
   - https://danq.me/kind/article/feed/
   - https://danq.me/kind/note/feed/
-  categories: []
+  - https://danq.uk/comments/feed/
+  - https://danq.uk/feed/
+  categories:
+  - security
+  - Authenticode
+  - signing
+  - SmartAppControl
   relme: {}
   last_post_title: Authenticode in 2024
   last_post_description: My 2021-2024 Authenticode certificate expired yesterday,

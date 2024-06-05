@@ -14,7 +14,11 @@ params:
   - http://scripting.com/rss.xml
   - http://scripting.com/rssNightly.xml
   - https://chrisburnell.com/feed.xml
-  categories: []
+  categories:
+  - automattic
+  - glamorous
+  - work
+  - Working
   relme:
     https://front-end.social/@zeldman: true
   last_post_title: The gift of a three-month sabbatical

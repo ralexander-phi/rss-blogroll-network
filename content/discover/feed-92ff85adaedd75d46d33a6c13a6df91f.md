@@ -13,7 +13,8 @@ params:
   recommended: []
   recommender:
   - https://visitmy.website/feed.xml
-  categories: []
+  categories:
+  - Uncategorized
   relme: {}
   last_post_title: Fortnote – 27th May
   last_post_description: Hello there. Bloody hell, what a fortnight! And even then

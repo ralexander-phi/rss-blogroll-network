@@ -16,7 +16,7 @@ params:
   categories: []
   relme:
     https://micro.blog/vasta: false
-    https://phire.place/@vasta: false
+    https://phire.place/@vasta: true
     https://twitter.com/vasta: false
   last_post_title: Asparagus season
   last_post_description: |-
@@ -31,9 +31,9 @@ params:
     postcats: 0
     promoted: 5
     promotes: 0
-    relme: 1
+    relme: 2
     title: 3
     website: 2
-  score: 14
+  score: 15
   ispodcast: false
 ---

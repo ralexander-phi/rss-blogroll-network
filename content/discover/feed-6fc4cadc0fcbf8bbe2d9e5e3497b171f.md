@@ -12,7 +12,8 @@ params:
   blogrolls: []
   recommended: []
   recommender: []
-  categories: []
+  categories:
+  - Microblog
   relme:
     https://social.tchncs.de/@kuketzblog: true
   last_post_title: 'Firefox: Data protection breach in Android version – E-Mail an

@@ -12,7 +12,8 @@ params:
   blogrolls: []
   recommended: []
   recommender: []
-  categories: []
+  categories:
+  - Coding Help
   relme: {}
   last_post_title: How do create a whatsapp webhook? for multiagent
   last_post_description: I’m a doctor not a coder but I’m learning. How do I create

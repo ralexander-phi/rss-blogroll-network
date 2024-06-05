@@ -12,7 +12,8 @@ params:
   blogrolls: []
   recommended: []
   recommender: []
-  categories: []
+  categories:
+  - Sports
   relme:
     https://micro.blog/cheesemaker: false
     https://twitter.com/cheesemaker: false
@@ -22,7 +23,7 @@ params:
   last_post_link: ""
   last_post_categories: []
   score_criteria:
-    cats: 0
+    cats: 1
     description: 3
     postcats: 0
     promoted: 0
@@ -30,6 +31,6 @@ params:
     relme: 1
     title: 3
     website: 2
-  score: 9
+  score: 10
   ispodcast: true
 ---

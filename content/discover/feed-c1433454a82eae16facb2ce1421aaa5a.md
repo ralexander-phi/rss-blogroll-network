@@ -12,7 +12,10 @@ params:
   recommended: []
   recommender:
   - https://frankmeeuwsen.com/feed.xml
-  categories: []
+  categories:
+  - Change
+  - Organisatieverandering
+  - Zelforganisatie
   relme: {}
   last_post_title: Klaas Ariaans over ‘de sprong’ naar zelforganisatie bij ABN AMRO
   last_post_description: |-

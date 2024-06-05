@@ -12,11 +12,16 @@ params:
   blogrolls: []
   recommended: []
   recommender:
+  - https://danq.blog/comments/feed/
+  - https://danq.blog/feed/
   - https://danq.me/comments/feed/
   - https://danq.me/feed/
   - https://danq.me/kind/article/feed/
   - https://danq.me/kind/note/feed/
-  categories: []
+  - https://danq.uk/comments/feed/
+  - https://danq.uk/feed/
+  categories:
+  - Health
   relme: {}
   last_post_title: What do unicorn tongues and snails have to do with sex?
   last_post_description: The innovation in sex toys seems exponential. Almost like

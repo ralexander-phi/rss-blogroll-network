@@ -11,11 +11,21 @@ params:
   blogrolls: []
   recommended: []
   recommender:
+  - https://danq.blog/comments/feed/
+  - https://danq.blog/feed/
   - https://danq.me/comments/feed/
   - https://danq.me/feed/
   - https://danq.me/kind/article/feed/
   - https://danq.me/kind/note/feed/
-  categories: []
+  - https://danq.uk/comments/feed/
+  - https://danq.uk/feed/
+  categories:
+  - RSS
+  - accessibility
+  - html
+  - standards
+  - usability
+  - WAI
   relme:
     https://toot.cafe/@aardrian: false
   last_post_title: My Approach to Alt Text

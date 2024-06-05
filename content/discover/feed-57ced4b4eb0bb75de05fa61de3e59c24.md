@@ -11,7 +11,8 @@ params:
   blogrolls: []
   recommended: []
   recommender: []
-  categories: []
+  categories:
+  - TV & Film
   relme:
     https://bugle.lol/@family: false
     https://bugle.lol/@wegotfamily: false
@@ -31,7 +32,7 @@ params:
   last_post_link: https://wegot.family/5/
   last_post_categories: []
   score_criteria:
-    cats: 0
+    cats: 1
     description: 3
     postcats: 0
     promoted: 0
@@ -39,6 +40,6 @@ params:
     relme: 2
     title: 3
     website: 2
-  score: 10
+  score: 11
   ispodcast: true
 ---

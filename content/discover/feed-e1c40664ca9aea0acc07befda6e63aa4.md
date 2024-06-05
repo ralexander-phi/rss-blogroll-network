@@ -13,7 +13,9 @@ params:
   recommender:
   - http://scripting.com/rss.xml
   - http://scripting.com/rssNightly.xml
-  categories: []
+  categories:
+  - Artificial Intelligence
+  - prompting
   relme:
     https://mastodon.cloud/@Paolo: true
   last_post_title: The “think of a number” fallacy

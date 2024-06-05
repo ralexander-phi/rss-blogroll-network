@@ -13,10 +13,14 @@ params:
   recommender:
   - https://colinwalker.blog/dailyfeed.xml
   - https://colinwalker.blog/livefeed.xml
+  - https://danq.blog/comments/feed/
+  - https://danq.blog/feed/
   - https://danq.me/comments/feed/
   - https://danq.me/feed/
   - https://danq.me/kind/article/feed/
   - https://danq.me/kind/note/feed/
+  - https://danq.uk/comments/feed/
+  - https://danq.uk/feed/
   categories: []
   relme:
     https://github.com/colly: true

@@ -12,7 +12,10 @@ params:
   recommended: []
   recommender:
   - https://chrisburnell.com/feed.xml
-  categories: []
+  categories:
+  - Introspection
+  - '#Grief'
+  - '#philosophising'
   relme:
     https://mastodon.social/@lars: true
   last_post_title: Grief is a boulder

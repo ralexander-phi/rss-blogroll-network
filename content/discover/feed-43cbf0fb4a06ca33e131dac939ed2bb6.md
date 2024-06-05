@@ -12,7 +12,8 @@ params:
   recommender:
   - http://scripting.com/rss.xml
   - http://scripting.com/rssNightly.xml
-  categories: []
+  categories:
+  - Arts
   relme: {}
   last_post_title: Nicholson Baker Finds a Likeness
   last_post_description: We’re taking a drawing lesson with Nicholson Baker—yes, the
@@ -26,7 +27,7 @@ params:
   - Shows
   - This Week
   score_criteria:
-    cats: 0
+    cats: 1
     description: 3
     postcats: 3
     promoted: 5
@@ -34,6 +35,6 @@ params:
     relme: 0
     title: 3
     website: 0
-  score: 14
+  score: 15
   ispodcast: true
 ---

@@ -14,7 +14,9 @@ params:
   recommender:
   - http://scripting.com/rss.xml
   - http://scripting.com/rssNightly.xml
-  categories: []
+  categories:
+  - News
+  - Government
   relme: {}
   last_post_title: No freakouts required, Democrats!
   last_post_description: Has the damage already been done with Trump's criminal trial?
@@ -24,7 +26,7 @@ params:
   last_post_link: ""
   last_post_categories: []
   score_criteria:
-    cats: 0
+    cats: 2
     description: 3
     postcats: 0
     promoted: 5
@@ -32,6 +34,6 @@ params:
     relme: 0
     title: 3
     website: 0
-  score: 11
+  score: 13
   ispodcast: true
 ---

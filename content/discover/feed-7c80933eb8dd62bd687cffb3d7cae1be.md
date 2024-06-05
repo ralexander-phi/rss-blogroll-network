@@ -14,7 +14,11 @@ params:
   - https://jlelse.blog/.min.rss
   - https://jlelse.blog/.rss
   - https://jlelse.blog/index.xml
-  categories: []
+  categories:
+  - Tech
+  - mac
+  - macos
+  - spotify
   relme:
     https://mastodon.social/@hesse: true
     https://www.instagram.com/renehesse/: false

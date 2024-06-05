@@ -13,7 +13,8 @@ params:
   recommended: []
   recommender:
   - http://scripting.com/rss.xml
-  categories: []
+  categories:
+  - News
   relme: {}
   last_post_title: Lectric XP Lite 2.0 unveiled as new $799 best-bang-for-your-buck
     folding electric bike

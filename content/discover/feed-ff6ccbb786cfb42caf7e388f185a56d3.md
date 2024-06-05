@@ -30,7 +30,10 @@ params:
   - https://www.theverge.com/rss/index.xml
   recommender:
   - https://alexsci.com/blog/rss.xml
-  categories: []
+  categories:
+  - Life
+  - dogs
+  - nature
   relme: {}
   last_post_title: Dog Park Saturday Mornings
   last_post_description: ""

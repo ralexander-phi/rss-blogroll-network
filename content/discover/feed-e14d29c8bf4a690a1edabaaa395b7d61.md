@@ -12,7 +12,13 @@ params:
   recommender:
   - https://colinwalker.blog/dailyfeed.xml
   - https://colinwalker.blog/livefeed.xml
-  categories: []
+  categories:
+  - Personal
+  - email
+  - geeky
+  - published on gemini
+  - rss
+  - spam
   relme: {}
   last_post_title: '[Article] Somewhat-Effective Spam Filters'
   last_post_description: I've tried a variety of unusual anti-spam solutions. Here's

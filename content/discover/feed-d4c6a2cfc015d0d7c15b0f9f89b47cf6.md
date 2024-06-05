@@ -13,7 +13,51 @@ params:
   recommender:
   - https://jabel.blog/feed.xml
   - https://jabel.blog/podcast.xml
-  categories: []
+  categories:
+  - Ecology
+  - ancestor worship
+  - ancient fossils
+  - biology
+  - blight
+  - chewing
+  - Chicago
+  - climate change
+  - cooking
+  - decline of reptiles
+  - dinosaur
+  - dinosaurs
+  - Emily Monosson
+  - evolution
+  - evolutionary biology
+  - fall of dinosaurs
+  - Fire
+  - fire myths
+  - first mammal
+  - fossils
+  - fungal epidemics
+  - fungal infections
+  - fungal pandemics
+  - fungi
+  - global warming
+  - inner fire
+  - mass extinction
+  - mastication
+  - metabolism
+  - morganucodon
+  - nature
+  - proto-mammal
+  - protomammal
+  - rise of mammals
+  - saprophytic fungi
+  - science
+  - Steve Brussate
+  - teeth
+  - The Field Museum
+  - The Rise and Reign of the Mammals
+  - tooth
+  - warm blood
+  - warm bloodedness
+  - wildlife
   relme: {}
   last_post_title: On the toothy origins of our inner fire.
   last_post_description: With one weird trick, morganucodon kept our kind from being

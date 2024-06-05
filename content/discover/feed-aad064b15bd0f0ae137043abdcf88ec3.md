@@ -12,7 +12,8 @@ params:
   recommended: []
   recommender:
   - https://frankmeeuwsen.com/feed.xml
-  categories: []
+  categories:
+  - zijperpost
   relme: {}
   last_post_title: Bladluis als fatale doorgeefluik
   last_post_description: Een fotograaf wilde onlangs insecten groot brengen op de
