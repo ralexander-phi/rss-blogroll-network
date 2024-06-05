@@ -28,17 +28,13 @@ func (a *Analysis) Close() {
 }
 
 func (a *Analysis) PopulateCategoriesForFeed(feed *FeedInfo) {
-	query, args, err := sqlx.In(`
+	rows, err := a.db.Query(`
     SELECT category
       FROM feeds_by_categories
      WHERE link = ?
     `,
 		feed.Params.FeedLink,
 	)
-	ohno(err)
-
-	query = a.db.Rebind(query)
-	rows, err := a.db.Query(query, args...)
 	ohno(err)
 
 	for rows.Next() {
@@ -49,6 +45,10 @@ func (a *Analysis) PopulateCategoriesForFeed(feed *FeedInfo) {
 			feed.Params.Categories = append(feed.Params.Categories, link)
 		}
 	}
+
+	if len(feed.Params.Categories) == 0 {
+		a.PopulateCategoriesForFeedByHashtag(feed)
+	}
 }
 
 func (a *Analysis) PopulateCategoriesForPost(feed *FeedInfo) {
@@ -56,7 +56,7 @@ func (a *Analysis) PopulateCategoriesForPost(feed *FeedInfo) {
 	if post_link == "" {
 		return
 	}
-	query, args, err := sqlx.In(`
+	rows, err := a.db.Query(`
     SELECT category
       FROM posts_by_categories
      WHERE link = ?
@@ -65,16 +65,44 @@ func (a *Analysis) PopulateCategoriesForPost(feed *FeedInfo) {
 	)
 	ohno(err)
 
-	query = a.db.Rebind(query)
-	rows, err := a.db.Query(query, args...)
-	ohno(err)
-
 	for rows.Next() {
 		var link string
 		err = rows.Scan(&link)
 		ohno(err)
 		if !slices.Contains(feed.Params.LastPostCategories, link) {
 			feed.Params.LastPostCategories = append(feed.Params.LastPostCategories, link)
+		}
+	}
+
+	if len(feed.Params.LastPostCategories) == 0 {
+		a.PopulateCategoriesForPostByHashtag(feed)
+	}
+}
+
+func isHashtag(s string) bool {
+	// looks close enough
+	// TODO: mirror the Twitter approach: https://github.com/twitter/twitter-text
+	return strings.HasPrefix(s, "#") && len(s) > 2 && strings.LastIndex(s, "#") == 0
+}
+
+// Does the feed description have hashtags?
+func (a *Analysis) PopulateCategoriesForFeedByHashtag(feed *FeedInfo) {
+	// Description is already populated (when it exists)
+	parts := strings.Fields(feed.Description)
+	for _, part := range parts {
+		if isHashtag(part) {
+			feed.Params.Categories = append(feed.Params.Categories, part)
+		}
+	}
+}
+
+// Last resort, does the post description have hashtags?
+func (a *Analysis) PopulateCategoriesForPostByHashtag(feed *FeedInfo) {
+	// LastPostDesc is already populated (when it exists)
+	parts := strings.Fields(feed.Params.LastPostDesc)
+	for _, part := range parts {
+		if isHashtag(part) {
+			feed.Params.LastPostCategories = append(feed.Params.LastPostCategories, part)
 		}
 	}
 }

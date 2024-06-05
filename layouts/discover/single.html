@@ -28,21 +28,15 @@
 
   <p class="tags pb-0 mb-0">
 
-  {{ range $url, $validated := (sort .Params.websites "value" "desc") }}
-  <span class="tags has-addons mb-0">
-    <a rel="ugc" href="{{ $url }}" class="tag is-link">
-      {{ if hasPrefix $url "https://bsky.app/" }}
-        Bluesky
-      {{ else }}
-        Website
-      {{ end }}
-    </a>
-    {{ if $validated }}
-    <span title="Validated" class="tag is-success is-light">&#x2714;</span>
-    {{ else }}
-    <span title="Unvalidated" class="tag is-danger is-light">?</span>
-    {{ end }}
-  </span>
+  {{ range $url, $validated := .Params.websites }}
+  {{ if $validated }}
+  {{ partial "website-tag" (dict "url" $url "validated" $validated) }}
+  {{ end }}
+  {{ end }}
+  {{ range $url, $validated := .Params.websites }}
+  {{ if not $validated }}
+  {{ partial "website-tag" (dict "url" $url "validated" $validated) }}
+  {{ end }}
   {{ end }}
 
   <span class="tags has-addons mb-0">

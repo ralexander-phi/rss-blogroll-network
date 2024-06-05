@@ -1,0 +1,14 @@
+<span class="tags has-addons mb-0">
+  <a rel="ugc" href="{{ .url }}" class="tag is-link">
+    {{ if hasPrefix .url "https://bsky.app/" }}
+      Bluesky
+    {{ else }}
+      Website
+    {{ end }}
+  </a>
+  {{ if .validated }}
+  <span title="Validated" class="tag is-success is-light">&#x2714;</span>
+  {{ else }}
+  <span title="Unvalidated" class="tag is-danger is-light">?</span>
+  {{ end }}
+</span>
