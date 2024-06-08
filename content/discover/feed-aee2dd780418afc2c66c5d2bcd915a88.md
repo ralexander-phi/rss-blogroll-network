@@ -8,6 +8,7 @@ params:
   feedid: aee2dd780418afc2c66c5d2bcd915a88
   websites:
     https://jamesvandyne.com/: true
+    https://jamesvandyne.com/runs/: false
   blogrolls: []
   recommended: []
   recommender:

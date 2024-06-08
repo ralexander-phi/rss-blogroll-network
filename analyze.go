@@ -38,11 +38,11 @@ func (a *Analysis) PopulateCategoriesForFeed(feed *FeedInfo) {
 	ohno(err)
 
 	for rows.Next() {
-		var link string
-		err = rows.Scan(&link)
+		var cat string
+		err = rows.Scan(&cat)
 		ohno(err)
-		if !slices.Contains(feed.Params.Categories, link) {
-			feed.Params.Categories = append(feed.Params.Categories, link)
+		if !slices.Contains(feed.Params.Categories, cat) && len(cat) > 1 {
+			feed.Params.Categories = append(feed.Params.Categories, cat)
 		}
 	}
 
@@ -66,11 +66,11 @@ func (a *Analysis) PopulateCategoriesForPost(feed *FeedInfo) {
 	ohno(err)
 
 	for rows.Next() {
-		var link string
-		err = rows.Scan(&link)
+		var cat string
+		err = rows.Scan(&cat)
 		ohno(err)
-		if !slices.Contains(feed.Params.LastPostCategories, link) {
-			feed.Params.LastPostCategories = append(feed.Params.LastPostCategories, link)
+		if !slices.Contains(feed.Params.LastPostCategories, cat) && len(cat) > 1 {
+			feed.Params.LastPostCategories = append(feed.Params.LastPostCategories, cat)
 		}
 	}
 
