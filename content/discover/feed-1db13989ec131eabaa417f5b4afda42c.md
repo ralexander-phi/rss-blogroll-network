@@ -9,6 +9,7 @@ params:
   feedid: 1db13989ec131eabaa417f5b4afda42c
   websites:
     https://www.blogpocket.com/: false
+    https://www.blogpocket.com/podcast: false
     https://www.blogpocket.com/podcast/: false
   blogrolls: []
   recommended: []

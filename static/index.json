@@ -1737,6 +1737,10 @@
             "group": 2
         },
         {
+            "id": "https://bobmonsour.com/",
+            "group": 2
+        },
+        {
             "id": "https://boffosocko.com/",
             "group": 2
         },
@@ -4286,6 +4290,10 @@
         },
         {
             "id": "https://en.pronouns.page/@neatnik",
+            "group": 2
+        },
+        {
+            "id": "https://en.pronouns.page/calendar",
             "group": 2
         },
         {
@@ -7733,6 +7741,10 @@
             "group": 2
         },
         {
+            "id": "https://hawksworx.com/feed.xml",
+            "group": 1
+        },
+        {
             "id": "https://haxim.us/@wyri",
             "group": 2
         },
@@ -7933,11 +7945,19 @@
             "group": 2
         },
         {
+            "id": "https://hub.fosstodon.org/code-of-conduct",
+            "group": 2
+        },
+        {
             "id": "https://hub.fosstodon.org/feed.xml",
             "group": 1
         },
         {
             "id": "https://hub.fosstodon.org/support",
+            "group": 2
+        },
+        {
+            "id": "https://hub.fosstodon.org/support-us",
             "group": 2
         },
         {
@@ -16366,7 +16386,7 @@
         },
         {
             "id": "https://storymin.es/",
-            "group": 2
+            "group": 4
         },
         {
             "id": "https://storymin.es/abonneer/",
@@ -16682,6 +16702,10 @@
         },
         {
             "id": "https://thedruidsgarden.com/comments/feed/",
+            "group": 1
+        },
+        {
+            "id": "https://thedruidsgarden.com/feed/",
             "group": 1
         },
         {
@@ -20106,10 +20130,6 @@
         },
         {
             "id": "https://www.instapaper.com/p/coryd",
-            "group": 2
-        },
-        {
-            "id": "https://www.instructables.com/member/psd",
             "group": 2
         },
         {
@@ -26791,6 +26811,130 @@
             "target": "https://www.threads.net/@joeross.me"
         },
         {
+            "source": "https://blog.joeross.me/.well-known/recommendations.opml",
+            "target": "http://scripting.com/"
+        },
+        {
+            "source": "https://blog.joeross.me/.well-known/recommendations.opml",
+            "target": "http://scripting.com/rss.xml"
+        },
+        {
+            "source": "https://blog.joeross.me/.well-known/recommendations.opml",
+            "target": "https://adactio.com/"
+        },
+        {
+            "source": "https://blog.joeross.me/.well-known/recommendations.opml",
+            "target": "https://brett.trpstra.net/brettterpstra"
+        },
+        {
+            "source": "https://blog.joeross.me/.well-known/recommendations.opml",
+            "target": "https://brettterpstra.com/"
+        },
+        {
+            "source": "https://blog.joeross.me/.well-known/recommendations.opml",
+            "target": "https://chriscoyier.net/"
+        },
+        {
+            "source": "https://blog.joeross.me/.well-known/recommendations.opml",
+            "target": "https://chriscoyier.net/feed/"
+        },
+        {
+            "source": "https://blog.joeross.me/.well-known/recommendations.opml",
+            "target": "https://erinkissane.com/"
+        },
+        {
+            "source": "https://blog.joeross.me/.well-known/recommendations.opml",
+            "target": "https://erinkissane.com/feed.rss"
+        },
+        {
+            "source": "https://blog.joeross.me/.well-known/recommendations.opml",
+            "target": "https://flohgro.com/"
+        },
+        {
+            "source": "https://blog.joeross.me/.well-known/recommendations.opml",
+            "target": "https://flohgro.com/feed/"
+        },
+        {
+            "source": "https://blog.joeross.me/.well-known/recommendations.opml",
+            "target": "https://gregmorris.co.uk/"
+        },
+        {
+            "source": "https://blog.joeross.me/.well-known/recommendations.opml",
+            "target": "https://jvns.ca/atom.xml"
+        },
+        {
+            "source": "https://blog.joeross.me/.well-known/recommendations.opml",
+            "target": "https://localghost.dev/"
+        },
+        {
+            "source": "https://blog.joeross.me/.well-known/recommendations.opml",
+            "target": "https://localghost.dev/feed.xml"
+        },
+        {
+            "source": "https://blog.joeross.me/.well-known/recommendations.opml",
+            "target": "https://matthewcassinelli.com/"
+        },
+        {
+            "source": "https://blog.joeross.me/.well-known/recommendations.opml",
+            "target": "https://matthewcassinelli.com/feed/"
+        },
+        {
+            "source": "https://blog.joeross.me/.well-known/recommendations.opml",
+            "target": "https://notes.neatnik.net/"
+        },
+        {
+            "source": "https://blog.joeross.me/.well-known/recommendations.opml",
+            "target": "https://notes.neatnik.net/rss.xml"
+        },
+        {
+            "source": "https://blog.joeross.me/.well-known/recommendations.opml",
+            "target": "https://ohhelloana.blog/"
+        },
+        {
+            "source": "https://blog.joeross.me/.well-known/recommendations.opml",
+            "target": "https://ohhelloana.blog/feed.xml"
+        },
+        {
+            "source": "https://blog.joeross.me/.well-known/recommendations.opml",
+            "target": "https://pxlnv.com/"
+        },
+        {
+            "source": "https://blog.joeross.me/.well-known/recommendations.opml",
+            "target": "https://pxlnv.com/feed/"
+        },
+        {
+            "source": "https://blog.joeross.me/.well-known/recommendations.opml",
+            "target": "https://tiffwhite.me/"
+        },
+        {
+            "source": "https://blog.joeross.me/.well-known/recommendations.opml",
+            "target": "https://tiffwhite.me/feed.xml"
+        },
+        {
+            "source": "https://blog.joeross.me/.well-known/recommendations.opml",
+            "target": "https://werd.io/"
+        },
+        {
+            "source": "https://blog.joeross.me/.well-known/recommendations.opml",
+            "target": "https://werd.io/?_t=rss"
+        },
+        {
+            "source": "https://blog.joeross.me/.well-known/recommendations.opml",
+            "target": "https://www.mollywhite.net/feed"
+        },
+        {
+            "source": "https://blog.joeross.me/.well-known/recommendations.opml",
+            "target": "https://www.mollywhite.net/feed/feed.xml"
+        },
+        {
+            "source": "https://blog.joeross.me/.well-known/recommendations.opml",
+            "target": "https://www.thisdaysportion.com/"
+        },
+        {
+            "source": "https://blog.joeross.me/.well-known/recommendations.opml",
+            "target": "https://www.thisdaysportion.com/feed/index.xml"
+        },
+        {
             "source": "https://blog.joinmastodon.org/",
             "target": "https://blog.joinmastodon.org/"
         },
@@ -27392,10 +27536,6 @@
         },
         {
             "source": "https://blog.whatfettle.com/",
-            "target": "https://www.instructables.com/member/psd"
-        },
-        {
-            "source": "https://blog.whatfettle.com/",
             "target": "https://www.last.fm/user/pdowney/"
         },
         {
@@ -27593,6 +27733,26 @@
         {
             "source": "https://boardgamearena.com/gamepanel?game=spacebase",
             "target": "https://en.boardgamearena.com/gamepanel?game=spacebase"
+        },
+        {
+            "source": "https://bobmonsour.com/",
+            "target": "https://github.com/bobmonsour"
+        },
+        {
+            "source": "https://bobmonsour.com/",
+            "target": "https://www.bobmonsour.com/"
+        },
+        {
+            "source": "https://bobmonsour.com/",
+            "target": "https://www.bobmonsour.com/feed.xml"
+        },
+        {
+            "source": "https://bobmonsour.com/",
+            "target": "https://www.bobmonsour.com/feed.xml"
+        },
+        {
+            "source": "https://bobmonsour.com/",
+            "target": "https://www.linkedin.com/in/bobmonsour/"
         },
         {
             "source": "https://boffosocko.com/",
@@ -39683,6 +39843,26 @@
             "target": "https://emilymstark.com/"
         },
         {
+            "source": "https://en.pronouns.page/calendar",
+            "target": "https://en.pronouns.page/faq"
+        },
+        {
+            "source": "https://en.pronouns.page/calendar",
+            "target": "https://en.pronouns.page/workshops"
+        },
+        {
+            "source": "https://en.pronouns.page/calendar",
+            "target": "https://shop.pronouns.page/"
+        },
+        {
+            "source": "https://en.pronouns.page/calendar",
+            "target": "https://twitter.com/CalendarQueer"
+        },
+        {
+            "source": "https://en.pronouns.page/calendar",
+            "target": "https://twitter.com/PronounsPage"
+        },
+        {
             "source": "https://en.pronouns.page/calendar/",
             "target": "https://en.pronouns.page/faq"
         },
@@ -49451,6 +49631,10 @@
             "target": "https://hashnode.com/@philnash"
         },
         {
+            "source": "https://hawksworx.com/",
+            "target": "https://hawksworx.com/feed.xml"
+        },
+        {
             "source": "https://haxim.us/@wyri",
             "target": "https://github.com/wyrihaximus/"
         },
@@ -49759,11 +49943,19 @@
             "target": "https://hub.fosstodon.org/feed.xml"
         },
         {
+            "source": "https://hub.fosstodon.org/code-of-conduct",
+            "target": "https://hub.fosstodon.org/feed.xml"
+        },
+        {
             "source": "https://hub.fosstodon.org/feed.xml",
             "target": "https://hub.fosstodon.org/"
         },
         {
             "source": "https://hub.fosstodon.org/support",
+            "target": "https://hub.fosstodon.org/feed.xml"
+        },
+        {
+            "source": "https://hub.fosstodon.org/support-us",
             "target": "https://hub.fosstodon.org/feed.xml"
         },
         {
@@ -50841,6 +51033,10 @@
         {
             "source": "https://jabel.blog/.well-known/recommendations.opml",
             "target": "https://thedruidsgarden.com/"
+        },
+        {
+            "source": "https://jabel.blog/.well-known/recommendations.opml",
+            "target": "https://thedruidsgarden.com/feed/"
         },
         {
             "source": "https://jabel.blog/.well-known/recommendations.opml",
@@ -60851,6 +61047,10 @@
             "target": "https://mastodon.social/@noscript"
         },
         {
+            "source": "https://noscript.net/forum",
+            "target": "https://forums.informaction.com/viewforum.php?f=7"
+        },
+        {
             "source": "https://notes.eatonphil.com/",
             "target": "https://notes.eatonphil.com/"
         },
@@ -70016,6 +70216,10 @@
         },
         {
             "source": "https://storymin.es/",
+            "target": "https://storymin.es/"
+        },
+        {
+            "source": "https://storymin.es/",
             "target": "https://storymin.es/comments/feed/"
         },
         {
@@ -71817,6 +72021,14 @@
         {
             "source": "https://upcoming.yahoo.com/user/808987/",
             "target": "https://www.yahoo.com/"
+        },
+        {
+            "source": "https://usethehumanvoice.com/",
+            "target": "https://mastodon.me.uk/@gilest"
+        },
+        {
+            "source": "https://usethehumanvoice.com/",
+            "target": "https://usethehumanvoice.com/"
         },
         {
             "source": "https://utopia.fyi/",
@@ -74455,6 +74667,18 @@
             "target": "https://www.benrady.com/rss.xml"
         },
         {
+            "source": "https://www.benrady.com/atom.xml",
+            "target": "https://www.benrady.com/"
+        },
+        {
+            "source": "https://www.benrady.com/index.rdf",
+            "target": "https://www.benrady.com/"
+        },
+        {
+            "source": "https://www.benrady.com/rss.xml",
+            "target": "https://www.benrady.com/"
+        },
+        {
             "source": "https://www.better-simple.com/",
             "target": "https://fosstodon.org/@CodenameTim"
         },
@@ -74593,6 +74817,26 @@
         {
             "source": "https://www.blogpocket.com/feed/",
             "target": "https://www.blogpocket.com/"
+        },
+        {
+            "source": "https://www.blogpocket.com/podcast",
+            "target": "https://federate.blogpocket.com/@acambronero"
+        },
+        {
+            "source": "https://www.blogpocket.com/podcast",
+            "target": "https://wptoots.social/@hechoconbloques"
+        },
+        {
+            "source": "https://www.blogpocket.com/podcast",
+            "target": "https://www.blogpocket.com/feed/"
+        },
+        {
+            "source": "https://www.blogpocket.com/podcast",
+            "target": "https://www.blogpocket.com/feed/podcast"
+        },
+        {
+            "source": "https://www.blogpocket.com/podcast",
+            "target": "https://www.blogpocket.com/podcast/"
         },
         {
             "source": "https://www.blogpocket.com/podcast/",

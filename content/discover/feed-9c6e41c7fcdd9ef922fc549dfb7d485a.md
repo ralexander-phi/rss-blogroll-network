@@ -4905,7 +4905,6 @@ params:
   - Excel Art and Framing Store
   - Express Thali
   - Eye Beauty Spa
-  - F
   - FAB Festival
   - Fab 208
   - Fabulous Fanny's
@@ -6568,7 +6567,6 @@ params:
   - ': 13th Street'
   - ': 38-48 Second Ave.'
   - ': East River Park'
-  - A
   - A Day Without Immigrants
   - A Walk Around the Block
   - A-1 Music
@@ -7597,7 +7595,6 @@ params:
   - Guss' Pickles
   - Gym NYC
   - Gyu-Kaku
-  - H
   - HBO
   - Hair of the Dog
   - Haiti
@@ -9257,7 +9254,6 @@ params:
   - Vivi Bubble Tea
   - VolaVida Gallery
   - Vortexity Books
-  - W
   - W magazine
   - WOOf deck
   - WPA
@@ -9622,7 +9618,6 @@ params:
   - curbside
   - curious decisions
   - cussing
-  - d
   - d.b.a. DBA
   - dancers
   - dares

@@ -13,7 +13,6 @@ params:
   - http://scripting.com/rss.xml
   - http://scripting.com/rssNightly.xml
   categories:
-  - "1"
   - copyright
   - death
   - ownership
@@ -28,7 +27,6 @@ params:
   last_post_date: "2024-06-04T03:09:00Z"
   last_post_link: https://www.techdirt.com/2024/06/03/you-dont-own-the-video-games-youve-bought-the-death-edition/
   last_post_categories:
-  - "1"
   - copyright
   - death
   - ownership
