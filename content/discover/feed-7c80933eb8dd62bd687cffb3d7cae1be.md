@@ -21,7 +21,6 @@ params:
   - spotify
   relme:
     https://mastodon.social/@hesse: true
-    https://www.instagram.com/renehesse/: false
   last_post_title: SoundSeer packt Spotify-Songs in die macOS-Menüleiste
   last_post_description: SoundSeer ist eine App für die MacOS-Menüleiste, die dir
     anzeigt, welcher Spotify-Song gerade läuft. Mit dieser App kannst du einen Titel

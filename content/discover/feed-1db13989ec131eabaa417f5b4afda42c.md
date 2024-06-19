@@ -10,7 +10,6 @@ params:
   websites:
     https://www.blogpocket.com/: false
     https://www.blogpocket.com/podcast: false
-    https://www.blogpocket.com/podcast/: false
   blogrolls: []
   recommended: []
   recommender: []

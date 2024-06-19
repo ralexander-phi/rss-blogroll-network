@@ -22,6 +22,8 @@ params:
   - https://jabel.blog/feed.xml
   - https://jabel.blog/podcast.xml
   - https://maique.eu/feed.xml
+  - https://miraz.me/feed.xml
+  - https://miraz.me/podcast.xml
   - https://www.manton.org/feed
   - https://www.manton.org/feed.xml
   - https://www.manton.org/podcast.xml

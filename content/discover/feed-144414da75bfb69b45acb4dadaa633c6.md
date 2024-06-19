@@ -7,7 +7,6 @@ params:
   feedtype: atom
   feedid: 144414da75bfb69b45acb4dadaa633c6
   websites:
-    https://foss.heptapod.net/fluiddyn: true
     https://foss.heptapod.net/fluiddyn/: false
   blogrolls: []
   recommended: []
@@ -33,7 +32,7 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 2
-  score: 5
+    website: 1
+  score: 4
   ispodcast: false
 ---

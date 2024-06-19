@@ -47,10 +47,10 @@ params:
     https://www.flickr.com/people/adactio: false
     https://www.linkedin.com/in/adactio/: false
     https://www.youtube.com/adactio: false
-  last_post_title: ""
-  last_post_description: ""
-  last_post_date: ""
-  last_post_link: ""
+  last_post_title: Reading Europe At Midnight by Dave Hutchinson.
+  last_post_description: Reading Europe At Midnight by Dave Hutchinson.
+  last_post_date: "2024-06-03T17:23:17Z"
+  last_post_link: https://adactio.com/notes/21181
   last_post_categories: []
   score_criteria:
     cats: 0

@@ -20,7 +20,7 @@ params:
   - emancipatie
   - literatuur
   relme:
-    https://deepthought.infullflow.net/@elmine: true
+    https://deepthought.infullflow.net/@elmine: false
     https://m.tzyl.nl/@elmine: false
   last_post_title: 'Gelezen: Lessen in chemie'
   last_post_description: Mensen, wat heb ik gelachen om deze roman. Hardop. Dat doe
@@ -41,9 +41,9 @@ params:
     postcats: 3
     promoted: 5
     promotes: 0
-    relme: 2
+    relme: 1
     title: 3
     website: 2
-  score: 15
+  score: 14
   ispodcast: false
 ---

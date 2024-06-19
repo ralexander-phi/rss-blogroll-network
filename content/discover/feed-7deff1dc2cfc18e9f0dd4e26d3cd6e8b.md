@@ -9,7 +9,6 @@ params:
   feedtype: rss
   feedid: 7deff1dc2cfc18e9f0dd4e26d3cd6e8b
   websites:
-    https://www.are.na/vincent-pickering: true
     https://www.are.na/vincent-pickering/channels: false
   blogrolls: []
   recommended: []
@@ -29,7 +28,7 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 2
-  score: 8
+    website: 1
+  score: 7
   ispodcast: false
 ---

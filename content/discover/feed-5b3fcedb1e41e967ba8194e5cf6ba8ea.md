@@ -17,7 +17,6 @@ params:
     https://gigold.me/: true
     https://github.com/gigold01: true
     https://mastodon.social/@gigold: false
-    https://www.instagram.com/gigold: false
     https://www.threads.net/@gigold: false
   last_post_title: ""
   last_post_description: ""

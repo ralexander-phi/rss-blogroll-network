@@ -17,7 +17,6 @@ params:
     https://mastodon.social/: false
     https://twitter.com/thejaymo: false
     https://www.flickr.com/people/thejaymo: false
-    https://www.instagram.com/thejaymo/: false
   last_post_title: ""
   last_post_description: ""
   last_post_date: ""

@@ -19,6 +19,8 @@ remove_old_content: False
 block_domains:
   # I don't need avatars
   - gravatar.com
+  # Login wall
+  - www.instagram.com
 
 crawl_threads: 8
 

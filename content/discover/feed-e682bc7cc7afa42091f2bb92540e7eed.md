@@ -31,7 +31,6 @@ params:
     https://eldritch.cafe/@LaLuneMauve: true
     https://twitter.com/LaLuneMauve: false
     https://www.facebook.com/lalunemauve/: false
-    https://www.instagram.com/lalunemauve/: false
   last_post_title: Interview de Mathyld (under the pyramids), artisane-créatrice de
     bijoux en argent
   last_post_description: En ce solstice d’hiver, j’ai la joie de publier l’interview

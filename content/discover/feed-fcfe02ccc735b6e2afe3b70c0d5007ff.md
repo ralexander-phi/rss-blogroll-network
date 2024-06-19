@@ -16,7 +16,6 @@ params:
   relme:
     https://micro.blog/philbowell: false
     https://twitter.com/philbowell: false
-    https://www.instagram.com/philbowell: false
   last_post_title: For the love of the game
   last_post_description: Thereâ€™s a strange pressure that comes with blogging which
     is created entirely by me. When I first started blogging, I used to post whatever

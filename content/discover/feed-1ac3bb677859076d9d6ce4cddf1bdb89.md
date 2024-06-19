@@ -13,7 +13,7 @@ params:
   recommender: []
   categories: []
   relme:
-    https://sarasoueidan.com/: true
+    https://sarasoueidan.com/: false
     https://sarasoueidan.com/newsletter: true
   last_post_title: ""
   last_post_description: ""

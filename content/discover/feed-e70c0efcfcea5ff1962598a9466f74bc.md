@@ -15,7 +15,7 @@ params:
   relme:
     https://club.macstories.net/: true
     https://macstories.net/: true
-    https://unapologetic.io/: true
+    https://unapologetic.io/: false
   last_post_title: ""
   last_post_description: ""
   last_post_date: ""

@@ -8,7 +8,6 @@ params:
   feedid: 05ae1f66adce40abab59e60816b7d9b0
   websites:
     https://beardystarstuff.net/: true
-    https://denny.micro.blog/: false
   blogrolls: []
   recommended: []
   recommender:
@@ -17,7 +16,7 @@ params:
   categories: []
   relme:
     https://micro.blog/Denny: false
-    https://social.coop/@dennyhenke: true
+    https://social.coop/@dennyhenke: false
   last_post_title: The myth of the over-powered iPad
   last_post_description: 'I came upon iPad enthusist Riley Hill’s website Slate Pad
     a couple days ago via his post about the new M4 iPad Pro. He asks: What Does iPad
@@ -31,9 +30,9 @@ params:
     postcats: 0
     promoted: 5
     promotes: 0
-    relme: 2
+    relme: 1
     title: 3
     website: 2
-  score: 12
+  score: 11
   ispodcast: false
 ---

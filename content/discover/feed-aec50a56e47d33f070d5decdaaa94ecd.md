@@ -13,7 +13,7 @@ params:
   recommender: []
   categories: []
   relme:
-    https://buttondown.email/: true
+    https://buttondown.email/: false
   last_post_title: ""
   last_post_description: ""
   last_post_date: ""
@@ -25,9 +25,9 @@ params:
     postcats: 0
     promoted: 0
     promotes: 0
-    relme: 2
+    relme: 1
     title: 3
     website: 2
-  score: 10
+  score: 9
   ispodcast: false
 ---
