@@ -1,0 +1,122 @@
+{{ define "extratitle" }}
+<nav class="breadcrumb" aria-label="breadcrumbs">
+  <ul>
+    <li><a href="/">Home</a></li>
+    <li class="is-active"><a href="#" aria-current="page">Category</a></li>
+  </ul>
+</nav>
+{{ end }}
+
+{{ define "main" }}
+
+<h1 class="subtitle is-3">Categories</h1>
+
+<div id="listing"></div>
+
+<noscript>
+  <p class="is-3">
+  Sorry, this page is using JavaScript.
+  Maybe try view source?
+  The data is packed there.
+  </p>
+</noscript>
+
+<script>
+var urlized = {
+{{ range .Site.RegularPages -}}
+  {{- range (first 40 .Params.categories) -}}
+    "{{ . }}": "{{ . | urlize }}",
+  {{- end -}}
+{{- end -}}
+};
+
+var data = [
+{{ range .Site.RegularPages -}}
+  {{- if .Params.categories -}}
+  {{ $title := .Title }}
+  {{ if not $title }}
+    {{ $title = .Params.feedlink }}
+  {{ end }}
+  {{ $urlized := ($title | urlize) }}
+  {
+      "t": "{{ $title }}",
+      "s": {{ .Params.score }},
+      "l": "{{ .Permalink }}",
+      "u": "{{ $urlized }}",
+      "c": [
+  {{- range (first 40 .Params.categories) -}}
+          "{{ . }}",
+  {{- end -}}
+      ],
+  },
+  {{- end -}}
+{{- end }}
+];
+
+  // Collect the items
+  var cats = {};
+  var listing = document.getElementById("listing");
+  for (var feed of data) {
+    var p = document.createElement("p");
+    for (var cat of feed.c) {
+      if (!(cat in cats)) {
+        cats[cat] = [];
+      }
+      cats[cat].push({
+          "title": feed.t,
+          "score": feed.s,
+          "link": feed.l,
+      })
+    }
+  }
+
+  // Sort by feeds in cat, then cat name
+  var cats = Object.keys(cats).map(function(key) {
+    return [key, cats[key]];
+  });
+  cats.sort(function(a, b) {
+    var d = b[1].length - a[1].length;
+    if (d == 0) {
+        d = a[0] - b[0];
+    }
+    return d;
+  });
+
+  for (cat of cats) {
+    var details = document.createElement("details");
+    details.classList.add("mb-0");
+    details.classList.add("mt-4");
+    var summary = document.createElement("summary");
+    var h = document.createElement("h2");
+      h.innerText = cat[0] + " (" + cat[1].length + ")";
+    h.classList.add("subtitle");
+    h.classList.add("is-5");
+    h.classList.add("is-inline");
+    h.id = urlized[cat[0]];
+
+    // Highest score, then alphabetical by title
+    cat[1].sort(function(a, b) {
+        var d = b.score - a.score;
+        if (d == 0) {
+          d = a.title - b.title;
+        }
+        return d;
+    });
+
+    for (var page of cat[1]) {
+      var a = document.createElement("a");
+      a.innerText = page.title;
+      a.href = page.link;
+      details.appendChild(document.createElement("br"));
+      details.appendChild(a);
+    }
+    details.appendChild(summary);
+    var bottom = document.createElement("div");
+    bottom.classList.add("p-4");
+    details.appendChild(bottom);
+    summary.appendChild(h);
+    listing.appendChild(details);
+  }
+</script>
+
+{{ end }}

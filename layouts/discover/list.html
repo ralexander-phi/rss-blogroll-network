@@ -16,6 +16,7 @@
 
 <p class="block">
 {{ $feeds | len }} web feeds are discoverable through the blogroll network.
+You may also browse by <a href="/cats/">category</a>.
 </p>
 
 <p class="block">
@@ -59,9 +60,11 @@ Feeds are ordered by their <a href="/scoring/">score</a>.
     <div class="p-3">
     <span>Categories:</span>
     {{ range (first 40 .Params.categories) }}
+      <a href="{{ absURL (printf "/cats/#%s" (. | urlize)) }}">
       <span class="tag">
         {{- trim (. | truncate 40) " " -}}
       </span>
+      </a>
     {{ end }}
     </div>
   {{ end }}
