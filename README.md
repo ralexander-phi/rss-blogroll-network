@@ -15,10 +15,11 @@ This project uses the [Feed2Pages-action crawler](https://github.com/ralexander-
 
 The best way to join the network is for a blog already in the network to add your blog to their blogroll.
 This may happen organically over time if you have content that's interesting to others in the network.
+There are no restrictions on what sites can join the network organically, as the network is decentralized.
 
-To help the network get bootstrapped, and discover disjoint parts of the network, you can open a GitHub Issue to add you blog.
+To help the network get bootstrapped, and discover disjoint parts of the network, you can open a GitHub Issue (or PR) to add you blog.
 Please first check to see if your site is listed to avoid maintainance overhead.
-You'll qualify if:
+Since manually added sites are semi-endorsed, the following qualification criteria is used:
 
 * You have an RSS feed
 * You have an OPML blogroll

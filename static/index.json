@@ -373,10 +373,6 @@
             "group": 4
         },
         {
-            "id": "https://adactio.tumblelog.xyz/rss",
-            "group": 1
-        },
-        {
             "id": "https://adactio.tumblr.com/",
             "group": 2
         },
@@ -1061,6 +1057,10 @@
             "group": 2
         },
         {
+            "id": "https://baty.blog/feed.rss",
+            "group": 1
+        },
+        {
             "id": "https://baty.net/",
             "group": 2
         },
@@ -1071,6 +1071,10 @@
         {
             "id": "https://baty.net/rss/",
             "group": 1
+        },
+        {
+            "id": "https://beardyguycreative.com/",
+            "group": 2
         },
         {
             "id": "https://beardystarstuff.net/",
@@ -1821,6 +1825,10 @@
             "group": 2
         },
         {
+            "id": "https://bookwyrm.social/user/jacky/rss",
+            "group": 1
+        },
+        {
             "id": "https://botmakers.org/",
             "group": 2
         },
@@ -1886,6 +1894,14 @@
         },
         {
             "id": "https://brianjdevries.com/feed.xml",
+            "group": 1
+        },
+        {
+            "id": "https://brickset.com/",
+            "group": 4
+        },
+        {
+            "id": "https://brickset.com/feed/",
             "group": 1
         },
         {
@@ -2065,7 +2081,15 @@
             "group": 1
         },
         {
+            "id": "https://bsky.app/profile/did:plc:jrzyao2holfkgrsfbq2tue27/rss",
+            "group": 1
+        },
+        {
             "id": "https://bsky.app/profile/did:plc:kx4iyjyzm53cdndhnp6r6ykf/rss",
+            "group": 1
+        },
+        {
+            "id": "https://bsky.app/profile/did:plc:lndvlw6ga4bwq7wj7eapktjn/rss",
             "group": 1
         },
         {
@@ -2177,6 +2201,10 @@
             "group": 2
         },
         {
+            "id": "https://bsky.app/profile/londonwebstandards.org",
+            "group": 2
+        },
+        {
             "id": "https://bsky.app/profile/marcthiele.bsky.social",
             "group": 2
         },
@@ -2218,6 +2246,10 @@
         },
         {
             "id": "https://bsky.app/profile/rsdoiel.bsky.social",
+            "group": 2
+        },
+        {
+            "id": "https://bsky.app/profile/sjoy.lol",
             "group": 2
         },
         {
@@ -2287,6 +2319,18 @@
         {
             "id": "https://burk.io/",
             "group": 2
+        },
+        {
+            "id": "https://burk.io/atom.xml",
+            "group": 1
+        },
+        {
+            "id": "https://burk.io/proven.lol/c9b953",
+            "group": 2
+        },
+        {
+            "id": "https://burk.io/rss.xml",
+            "group": 1
         },
         {
             "id": "https://burk.photos/",
@@ -2611,6 +2655,10 @@
         {
             "id": "https://cciwa.com/",
             "group": 2
+        },
+        {
+            "id": "https://cciwa.com/feed/",
+            "group": 1
         },
         {
             "id": "https://cdevroe.com/",
@@ -3229,6 +3277,10 @@
             "group": 1
         },
         {
+            "id": "https://cranlana.org.au/the-colloquium/",
+            "group": 4
+        },
+        {
             "id": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
             "group": 2
         },
@@ -3327,6 +3379,10 @@
         {
             "id": "https://dahlstrand.net/podcast.xml",
             "group": 1
+        },
+        {
+            "id": "https://daily.baty.net/",
+            "group": 2
         },
         {
             "id": "https://dan-q.github.io/",
@@ -3661,6 +3717,10 @@
             "group": 2
         },
         {
+            "id": "https://deepthought.infullflow.net/@elmine.rss",
+            "group": 1
+        },
+        {
             "id": "https://degreed.com/chrisaldrich",
             "group": 2
         },
@@ -3691,6 +3751,10 @@
         {
             "id": "https://delta.chat/feed.xml",
             "group": 1
+        },
+        {
+            "id": "https://denny.micro.blog/",
+            "group": 2
         },
         {
             "id": "https://derekkedziora.com/",
@@ -3833,10 +3897,6 @@
             "group": 1
         },
         {
-            "id": "https://digitalcourage.social/@nicobruenjes",
-            "group": 2
-        },
-        {
             "id": "https://dimspire.me/",
             "group": 2
         },
@@ -3867,10 +3927,6 @@
         {
             "id": "https://discord.com/invite/mzdB2ug",
             "group": 4
-        },
-        {
-            "id": "https://discord.com/users/hacdias",
-            "group": 2
         },
         {
             "id": "https://discord.gg/MxgfAMXwFS",
@@ -4553,6 +4609,10 @@
             "group": 2
         },
         {
+            "id": "https://fed.brid.gy/r/https:/gregorlove.com/",
+            "group": 2
+        },
+        {
             "id": "https://fed.brid.gy/r/https:/snarfed.org/",
             "group": 2
         },
@@ -4845,8 +4905,24 @@
             "group": 2
         },
         {
+            "id": "https://feldfoto.com/feed.xml",
+            "group": 1
+        },
+        {
+            "id": "https://feldfoto.com/podcast.xml",
+            "group": 1
+        },
+        {
             "id": "https://feldnotes.com/",
             "group": 2
+        },
+        {
+            "id": "https://feldnotes.com/feed.xml",
+            "group": 1
+        },
+        {
+            "id": "https://feldnotes.com/podcast.xml",
+            "group": 1
         },
         {
             "id": "https://fennifith.bandcamp.com/",
@@ -5705,6 +5781,18 @@
             "group": 2
         },
         {
+            "id": "https://git.garrido.io/gabriel.atom",
+            "group": 1
+        },
+        {
+            "id": "https://git.garrido.io/gabriel.rss",
+            "group": 1
+        },
+        {
+            "id": "https://git.hq.ggpsv.com/gabriel",
+            "group": 2
+        },
+        {
             "id": "https://git.merveilles.town/jbauer",
             "group": 2
         },
@@ -6097,11 +6185,19 @@
             "group": 2
         },
         {
+            "id": "https://github.com/fennifith",
+            "group": 4
+        },
+        {
             "id": "https://github.com/flamedfury",
             "group": 4
         },
         {
             "id": "https://github.com/flamedfury/",
+            "group": 2
+        },
+        {
+            "id": "https://github.com/gRegorLove",
             "group": 2
         },
         {
@@ -6134,6 +6230,10 @@
         },
         {
             "id": "https://github.com/gr36",
+            "group": 2
+        },
+        {
+            "id": "https://github.com/gregorlove",
             "group": 2
         },
         {
@@ -6642,6 +6742,10 @@
         },
         {
             "id": "https://github.com/sophiekoonin",
+            "group": 2
+        },
+        {
+            "id": "https://github.com/splitbrain",
             "group": 2
         },
         {
@@ -8394,18 +8498,14 @@
         },
         {
             "id": "https://intothecast.online/",
-            "group": 2
+            "group": 4
         },
         {
             "id": "https://inventorybase.co.uk/",
-            "group": 2
+            "group": 4
         },
         {
             "id": "https://ireaderinokun.com/",
-            "group": 2
-        },
-        {
-            "id": "https://is.a.horrific.dev/@fennifith",
             "group": 2
         },
         {
@@ -9197,6 +9297,10 @@
             "group": 2
         },
         {
+            "id": "https://keybase.io/gregorlove",
+            "group": 2
+        },
+        {
             "id": "https://keybase.io/jeroensangers",
             "group": 2
         },
@@ -9301,7 +9405,15 @@
             "group": 2
         },
         {
+            "id": "https://ko-fi.com/bekah20124",
+            "group": 2
+        },
+        {
             "id": "https://ko-fi.com/canion",
+            "group": 2
+        },
+        {
+            "id": "https://ko-fi.com/coleb",
             "group": 2
         },
         {
@@ -10233,6 +10345,10 @@
             "group": 1
         },
         {
+            "id": "https://martinfeld.info/",
+            "group": 2
+        },
+        {
             "id": "https://martinfeld.info/now",
             "group": 2
         },
@@ -10253,6 +10369,10 @@
             "group": 2
         },
         {
+            "id": "https://mas.to/@coleb.rss",
+            "group": 1
+        },
+        {
             "id": "https://mas.to/@obsidian",
             "group": 2
         },
@@ -10267,6 +10387,10 @@
         {
             "id": "https://mast.hpc.social/@ndanes",
             "group": 2
+        },
+        {
+            "id": "https://mast.hpc.social/@ndanes.rss",
+            "group": 1
         },
         {
             "id": "https://masto.ai/@cybeardjm",
@@ -10455,10 +10579,6 @@
         {
             "id": "https://mastodon.me.uk/@gilest.rss",
             "group": 1
-        },
-        {
-            "id": "https://mastodon.nl/@erikvisser",
-            "group": 2
         },
         {
             "id": "https://mastodon.online/@ia",
@@ -11733,6 +11853,10 @@
             "group": 2
         },
         {
+            "id": "https://micro.blog/FeldFoto",
+            "group": 2
+        },
+        {
             "id": "https://micro.blog/JohnBrady",
             "group": 2
         },
@@ -11862,6 +11986,10 @@
         },
         {
             "id": "https://micro.blog/frank",
+            "group": 2
+        },
+        {
+            "id": "https://micro.blog/gRegorLove",
             "group": 2
         },
         {
@@ -12269,6 +12397,14 @@
             "group": 1
         },
         {
+            "id": "https://music.jfenn.me/",
+            "group": 2
+        },
+        {
+            "id": "https://music.jfenn.me/feed.rss",
+            "group": 1
+        },
+        {
             "id": "https://mutable.gallery/",
             "group": 2
         },
@@ -12501,6 +12637,10 @@
             "group": 4
         },
         {
+            "id": "https://newsfeed.zeit.de/index",
+            "group": 1
+        },
+        {
             "id": "https://newsie.social/@ProPublica",
             "group": 2
         },
@@ -12635,6 +12775,10 @@
         {
             "id": "https://norden.social/@pwa",
             "group": 2
+        },
+        {
+            "id": "https://norden.social/@pwa.rss",
+            "group": 1
         },
         {
             "id": "https://noscript.net/",
@@ -12879,6 +13023,10 @@
         {
             "id": "https://octodon.social/@splitbrain",
             "group": 2
+        },
+        {
+            "id": "https://octodon.social/@splitbrain.rss",
+            "group": 1
         },
         {
             "id": "https://octopuns.blogspot.com/feeds/posts/",
@@ -13381,6 +13529,14 @@
             "group": 1
         },
         {
+            "id": "https://philipps.photos/",
+            "group": 2
+        },
+        {
+            "id": "https://philipps.photos/feed",
+            "group": 1
+        },
+        {
             "id": "https://philna.sh/",
             "group": 2
         },
@@ -13406,7 +13562,11 @@
         },
         {
             "id": "https://photos.ashfurrow.com/",
-            "group": 2
+            "group": 4
+        },
+        {
+            "id": "https://photos.ashfurrow.com/feed.rss",
+            "group": 1
         },
         {
             "id": "https://photos.darekkay.com/",
@@ -14007,6 +14167,10 @@
         {
             "id": "https://radweb.co.uk/",
             "group": 2
+        },
+        {
+            "id": "https://radweb.com/",
+            "group": 4
         },
         {
             "id": "https://raider.io/characters/us/khazgoroth/Lunchcuttah",
@@ -14613,6 +14777,10 @@
             "group": 2
         },
         {
+            "id": "https://sara.omg.lol/now",
+            "group": 2
+        },
+        {
             "id": "https://sarahjamielewis.com/",
             "group": 2
         },
@@ -14621,8 +14789,16 @@
             "group": 2
         },
         {
+            "id": "https://sarajoy.dev/basic",
+            "group": 2
+        },
+        {
             "id": "https://sarajoy.dev/rss.xml",
             "group": 1
+        },
+        {
+            "id": "https://sarajoy.dev/wips/",
+            "group": 2
         },
         {
             "id": "https://sarasoueidan.com/",
@@ -15077,6 +15253,10 @@
             "group": 1
         },
         {
+            "id": "https://snug.moe/@FrugalGamer",
+            "group": 2
+        },
+        {
             "id": "https://social.ayjay.org/",
             "group": 2
         },
@@ -15107,6 +15287,10 @@
         {
             "id": "https://social.coop/@dennyhenke",
             "group": 2
+        },
+        {
+            "id": "https://social.coop/@dennyhenke.rss",
+            "group": 1
         },
         {
             "id": "https://social.coop/@ggpsv",
@@ -15337,6 +15521,14 @@
             "group": 1
         },
         {
+            "id": "https://social.lol/@jbaty",
+            "group": 2
+        },
+        {
+            "id": "https://social.lol/@jbaty.rss",
+            "group": 1
+        },
+        {
             "id": "https://social.lol/@keenan",
             "group": 2
         },
@@ -15481,6 +15673,10 @@
             "group": 2
         },
         {
+            "id": "https://social.nodered.org/@nodered.rss",
+            "group": 1
+        },
+        {
             "id": "https://social.security.plumbing/@freddy",
             "group": 2
         },
@@ -15491,6 +15687,10 @@
         {
             "id": "https://social.tchncs.de/@kuketzblog",
             "group": 2
+        },
+        {
+            "id": "https://social.tchncs.de/@kuketzblog.rss",
+            "group": 1
         },
         {
             "id": "https://social.tedium.co/@tedium",
@@ -15869,6 +16069,10 @@
             "group": 4
         },
         {
+            "id": "https://soundcloud.com/fennifith",
+            "group": 4
+        },
+        {
             "id": "https://soundcloud.com/stefanbohacek",
             "group": 2
         },
@@ -15995,6 +16199,10 @@
         {
             "id": "https://staffeng.com/",
             "group": 2
+        },
+        {
+            "id": "https://staffeng.com/rss",
+            "group": 1
         },
         {
             "id": "https://staging.bsky.app/profile/eay.social",
@@ -16322,6 +16530,26 @@
         },
         {
             "id": "https://stitcher.io/rss",
+            "group": 1
+        },
+        {
+            "id": "https://storymin.es/",
+            "group": 4
+        },
+        {
+            "id": "https://storymin.es/abonneer/",
+            "group": 4
+        },
+        {
+            "id": "https://storymin.es/abonneer/feed/",
+            "group": 1
+        },
+        {
+            "id": "https://storymin.es/comments/feed/",
+            "group": 1
+        },
+        {
+            "id": "https://storymin.es/feed/",
             "group": 1
         },
         {
@@ -16714,7 +16942,11 @@
         },
         {
             "id": "https://thomasp.vivaldi.net/",
-            "group": 2
+            "group": 4
+        },
+        {
+            "id": "https://thomasp.vivaldi.net/author/thomasp/",
+            "group": 4
         },
         {
             "id": "https://threads.net/@barryf",
@@ -17373,6 +17605,10 @@
             "group": 2
         },
         {
+            "id": "https://twitter.com/benrady",
+            "group": 2
+        },
+        {
             "id": "https://twitter.com/blakewatson",
             "group": 2
         },
@@ -17494,6 +17730,10 @@
         },
         {
             "id": "https://twitter.com/fennifith",
+            "group": 2
+        },
+        {
+            "id": "https://twitter.com/gRegorLove",
             "group": 2
         },
         {
@@ -17650,6 +17890,10 @@
         },
         {
             "id": "https://twitter.com/marksuth",
+            "group": 2
+        },
+        {
+            "id": "https://twitter.com/martinfeld",
             "group": 2
         },
         {
@@ -17994,7 +18238,7 @@
         },
         {
             "id": "https://usethehumanvoice.com/",
-            "group": 2
+            "group": 4
         },
         {
             "id": "https://utopia.fyi/",
@@ -18426,7 +18670,7 @@
         },
         {
             "id": "https://whatfettle.com/",
-            "group": 2
+            "group": 4
         },
         {
             "id": "https://wheretofind.me/",
@@ -18445,6 +18689,10 @@
             "group": 2
         },
         {
+            "id": "https://wiki.baty.net/",
+            "group": 2
+        },
+        {
             "id": "https://wiki.chrisaldrich.net/Main_Page",
             "group": 2
         },
@@ -18458,6 +18706,14 @@
         },
         {
             "id": "https://wiki.ruk.ca/",
+            "group": 2
+        },
+        {
+            "id": "https://wiki.ruk.ca/w/index.php?feed=atom\u0026title=Special%3ARecentChanges",
+            "group": 1
+        },
+        {
+            "id": "https://wiki.ruk.ca/wiki/Special:RecentChanges",
             "group": 2
         },
         {
@@ -18693,12 +18949,20 @@
             "group": 1
         },
         {
+            "id": "https://www.adventuremice.com/",
+            "group": 2
+        },
+        {
             "id": "https://www.adventurousway.com/",
             "group": 2
         },
         {
+            "id": "https://www.aicd.com.au/content/aicd.html",
+            "group": 4
+        },
+        {
             "id": "https://www.aigroup.com.au/",
-            "group": 2
+            "group": 4
         },
         {
             "id": "https://www.alchemists.io/",
@@ -18861,6 +19125,10 @@
             "group": 2
         },
         {
+            "id": "https://www.beeminder.com/home",
+            "group": 4
+        },
+        {
             "id": "https://www.behindthesource.co.uk/",
             "group": 2
         },
@@ -18890,6 +19158,22 @@
         },
         {
             "id": "https://www.benjystanton.co.uk/feed.xml",
+            "group": 1
+        },
+        {
+            "id": "https://www.benrady.com/",
+            "group": 4
+        },
+        {
+            "id": "https://www.benrady.com/atom.xml",
+            "group": 1
+        },
+        {
+            "id": "https://www.benrady.com/index.rdf",
+            "group": 1
+        },
+        {
+            "id": "https://www.benrady.com/rss.xml",
             "group": 1
         },
         {
@@ -19061,6 +19345,10 @@
             "group": 1
         },
         {
+            "id": "https://www.cbh.com.au/",
+            "group": 4
+        },
+        {
             "id": "https://www.cheribaker.com/",
             "group": 2
         },
@@ -19090,6 +19378,10 @@
         },
         {
             "id": "https://www.codeschool.com/users/chrisaldrich",
+            "group": 2
+        },
+        {
+            "id": "https://www.coleb.blog/",
             "group": 2
         },
         {
@@ -19170,7 +19462,19 @@
         },
         {
             "id": "https://www.curtin.edu.au/",
-            "group": 2
+            "group": 4
+        },
+        {
+            "id": "https://www.curtin.edu.au/comments/feed/",
+            "group": 1
+        },
+        {
+            "id": "https://www.curtin.edu.au/feed/",
+            "group": 1
+        },
+        {
+            "id": "https://www.curtin.edu.au/feed/atom/",
+            "group": 1
         },
         {
             "id": "https://www.curtisfamily.org.uk/",
@@ -19194,7 +19498,7 @@
         },
         {
             "id": "https://www.dannyvankooten.com/",
-            "group": 2
+            "group": 4
         },
         {
             "id": "https://www.dannyvankooten.com/feed.xml",
@@ -19261,6 +19565,10 @@
             "group": 2
         },
         {
+            "id": "https://www.drupal.org/u/reinvented",
+            "group": 4
+        },
+        {
             "id": "https://www.drupal.org/u/voxpelli",
             "group": 4
         },
@@ -19322,7 +19630,7 @@
         },
         {
             "id": "https://www.emmakr.ca/",
-            "group": 2
+            "group": 4
         },
         {
             "id": "https://www.engineersneedart.com/",
@@ -19362,7 +19670,7 @@
         },
         {
             "id": "https://www.extremerobots.co.uk/",
-            "group": 2
+            "group": 4
         },
         {
             "id": "https://www.f5to.run/",
@@ -19535,6 +19843,10 @@
         {
             "id": "https://www.friendfeed.com/chrisaldrich",
             "group": 2
+        },
+        {
+            "id": "https://www.fromcole.com/",
+            "group": 4
         },
         {
             "id": "https://www.geekmap.co.uk/people/00bf-paul-downey",
@@ -19873,6 +20185,10 @@
             "group": 2
         },
         {
+            "id": "https://www.jasperfforde.com/",
+            "group": 2
+        },
+        {
             "id": "https://www.jemjabella.co.uk/",
             "group": 4
         },
@@ -19938,7 +20254,7 @@
         },
         {
             "id": "https://www.khanacademy.org/profile/christopheraldrich",
-            "group": 2
+            "group": 4
         },
         {
             "id": "https://www.kickstarter.com/profile/chrisaldrich",
@@ -19997,8 +20313,16 @@
             "group": 1
         },
         {
+            "id": "https://www.kuketz-blog.de/chat/",
+            "group": 4
+        },
+        {
             "id": "https://www.kuketz-blog.de/feed/",
             "group": 1
+        },
+        {
+            "id": "https://www.kuketz-forum.de/",
+            "group": 4
         },
         {
             "id": "https://www.kytta.dev/blog/",
@@ -20602,6 +20926,14 @@
         },
         {
             "id": "https://www.michalzelazny.com/feed/",
+            "group": 1
+        },
+        {
+            "id": "https://www.midlas.org.au/",
+            "group": 4
+        },
+        {
+            "id": "https://www.midlas.org.au/feed/",
             "group": 1
         },
         {
@@ -21222,7 +21554,11 @@
         },
         {
             "id": "https://www.rsspod.net/",
-            "group": 2
+            "group": 4
+        },
+        {
+            "id": "https://www.rsspod.net/rss",
+            "group": 1
         },
         {
             "id": "https://www.rummble.com/pauld",
@@ -21822,7 +22158,7 @@
         },
         {
             "id": "https://www.uwa.edu.au/",
-            "group": 2
+            "group": 4
         },
         {
             "id": "https://www.vasser.no/",
@@ -21858,7 +22194,7 @@
         },
         {
             "id": "https://www.wa.gov.au/organisation/department-of-the-premier-and-cabinet",
-            "group": 2
+            "group": 4
         },
         {
             "id": "https://www.wapcyc.com.au/",
@@ -22333,6 +22669,10 @@
             "group": 2
         },
         {
+            "id": "https://www.youtube.com/channel/UCjUwaonD9QVeDzEdSqwrGmA",
+            "group": 4
+        },
+        {
             "id": "https://www.youtube.com/channel/UCmNP2uiKQBN2ae0V1Xs6Hwg",
             "group": 4
         },
@@ -22669,6 +23009,10 @@
             "group": 1
         },
         {
+            "id": "https://www.youtube.com/feeds/videos.xml?channel_id=UCjUwaonD9QVeDzEdSqwrGmA",
+            "group": 1
+        },
+        {
             "id": "https://www.youtube.com/feeds/videos.xml?channel_id=UCmNP2uiKQBN2ae0V1Xs6Hwg",
             "group": 1
         },
@@ -22793,6 +23137,14 @@
             "group": 1
         },
         {
+            "id": "https://www.zeit.de/",
+            "group": 2
+        },
+        {
+            "id": "https://www.zeit.de/index",
+            "group": 4
+        },
+        {
             "id": "https://www.zotero.org/chrisaldrich",
             "group": 2
         },
@@ -22831,6 +23183,10 @@
         {
             "id": "https://xania.org/",
             "group": 2
+        },
+        {
+            "id": "https://xania.org/feed.atom",
+            "group": 1
         },
         {
             "id": "https://xavd.id/",
@@ -23305,6 +23661,26 @@
         {
             "source": "https://18f.gsa.gov/feed.xml",
             "target": "https://18f.gsa.gov/"
+        },
+        {
+            "source": "https://2024.stateofthebrowser.com/",
+            "target": "https://2024.stateofthebrowser.com/"
+        },
+        {
+            "source": "https://2024.stateofthebrowser.com/",
+            "target": "https://bsky.app/profile/londonwebstandards.org"
+        },
+        {
+            "source": "https://2024.stateofthebrowser.com/",
+            "target": "https://github.com/londonwebstandards"
+        },
+        {
+            "source": "https://2024.stateofthebrowser.com/",
+            "target": "https://mastodon.world/@webstandards"
+        },
+        {
+            "source": "https://2024.stateofthebrowser.com/",
+            "target": "https://twitter.com/webstandards"
         },
         {
             "source": "https://3x2.pics/",
@@ -24059,10 +24435,6 @@
             "target": "https://adactio.tumblelog.xyz/"
         },
         {
-            "source": "https://adactio.tumblr.com/",
-            "target": "https://adactio.tumblelog.xyz/rss"
-        },
-        {
             "source": "https://adam.omg.lol/",
             "target": "https://adam.newbold.is/"
         },
@@ -24255,12 +24627,24 @@
             "target": "https://social.lol/@bw"
         },
         {
+            "source": "https://agilecommshandbook.com/",
+            "target": "https://agilecommshandbook.com/"
+        },
+        {
+            "source": "https://agilecommshandbook.com/",
+            "target": "https://mastodon.me.uk/@gilest"
+        },
+        {
             "source": "https://ahf.me/",
             "target": "https://mastodon.social/@ahf"
         },
         {
             "source": "https://ahf.me/contact/",
             "target": "https://mastodon.social/@ahf"
+        },
+        {
+            "source": "https://aicd.com.au/",
+            "target": "https://www.aicd.com.au/content/aicd.html"
         },
         {
             "source": "https://alanralph.co.uk/index.xml",
@@ -25479,6 +25863,18 @@
             "target": "https://battellemedia.com/"
         },
         {
+            "source": "https://baty.blog/",
+            "target": "https://baty.blog/feed.rss"
+        },
+        {
+            "source": "https://baty.blog/",
+            "target": "https://social.lol/@jbaty"
+        },
+        {
+            "source": "https://baty.blog/feed.rss",
+            "target": "https://baty.blog/"
+        },
+        {
             "source": "https://baty.net/",
             "target": "https://baty.net/"
         },
@@ -25493,6 +25889,10 @@
         {
             "source": "https://baty.net/rss/",
             "target": "https://baty.net/"
+        },
+        {
+            "source": "https://beardyguycreative.com/",
+            "target": "https://social.coop/@dennyhenke"
         },
         {
             "source": "https://beardystarstuff.net/",
@@ -28467,6 +28867,14 @@
             "target": "https://booktwo.org/"
         },
         {
+            "source": "https://bookwyrm.social/user/jacky",
+            "target": "https://bookwyrm.social/user/jacky/rss"
+        },
+        {
+            "source": "https://bookwyrm.social/user/jacky/rss",
+            "target": "https://bookwyrm.social/user/jacky"
+        },
+        {
             "source": "https://botwiki.org/",
             "target": "https://botwiki.org/feed"
         },
@@ -28589,6 +28997,26 @@
         {
             "source": "https://brianjdevries.com/",
             "target": "https://github.com/techcarpenter"
+        },
+        {
+            "source": "https://brickset.com/",
+            "target": "https://brickset.com/"
+        },
+        {
+            "source": "https://brickset.com/",
+            "target": "https://brickset.com/feed/"
+        },
+        {
+            "source": "https://brickset.com/feed/",
+            "target": "https://brickset.com/"
+        },
+        {
+            "source": "https://brickset.com/sets/40220-1/London-Bus",
+            "target": "https://brickset.com/feed/"
+        },
+        {
+            "source": "https://brickset.com/sets/40220-1/London-Bus",
+            "target": "https://brickset.com/sets/40220-1/London-Bus"
         },
         {
             "source": "https://briefs.video/",
@@ -28779,8 +29207,16 @@
             "target": "https://bsky.app/profile/otavio.cc"
         },
         {
+            "source": "https://bsky.app/profile/did:plc:jrzyao2holfkgrsfbq2tue27/rss",
+            "target": "https://bsky.app/profile/sjoy.lol"
+        },
+        {
             "source": "https://bsky.app/profile/did:plc:kx4iyjyzm53cdndhnp6r6ykf/rss",
             "target": "https://bsky.app/profile/kayserifserif.place"
+        },
+        {
+            "source": "https://bsky.app/profile/did:plc:lndvlw6ga4bwq7wj7eapktjn/rss",
+            "target": "https://bsky.app/profile/londonwebstandards.org"
         },
         {
             "source": "https://bsky.app/profile/did:plc:myart6nwee7w4kgmlubv5szg/rss",
@@ -28891,6 +29327,10 @@
             "target": "https://bsky.app/profile/did:plc:ikhamm6zxx2jptsa45lxomqm/rss"
         },
         {
+            "source": "https://bsky.app/profile/londonwebstandards.org",
+            "target": "https://bsky.app/profile/did:plc:lndvlw6ga4bwq7wj7eapktjn/rss"
+        },
+        {
             "source": "https://bsky.app/profile/marcthiele.bsky.social",
             "target": "https://bsky.app/profile/did:plc:54psnzd24pxw6lij3pxthrpn/rss"
         },
@@ -28933,6 +29373,10 @@
         {
             "source": "https://bsky.app/profile/rsdoiel.bsky.social",
             "target": "https://bsky.app/profile/did:plc:nbdlhw2imk2m2yqhwxb5ycgy/rss"
+        },
+        {
+            "source": "https://bsky.app/profile/sjoy.lol",
+            "target": "https://bsky.app/profile/did:plc:jrzyao2holfkgrsfbq2tue27/rss"
         },
         {
             "source": "https://bsky.app/profile/snarfed.org",
@@ -29065,6 +29509,30 @@
         {
             "source": "https://bulltown.2022.joejenett.com/",
             "target": "https://wiki.joejenett.com/"
+        },
+        {
+            "source": "https://burk.io/",
+            "target": "https://burk.io/atom.xml"
+        },
+        {
+            "source": "https://burk.io/",
+            "target": "https://burk.io/proven.lol/c9b953"
+        },
+        {
+            "source": "https://burk.io/",
+            "target": "https://burk.io/rss.xml"
+        },
+        {
+            "source": "https://burk.io/",
+            "target": "https://github.com/jasonburk"
+        },
+        {
+            "source": "https://burk.io/",
+            "target": "https://social.lol/@jason"
+        },
+        {
+            "source": "https://burk.io/rss.xml",
+            "target": "https://grepjason.sh/"
         },
         {
             "source": "https://burk.photos/",
@@ -29897,6 +30365,22 @@
         {
             "source": "https://causasyazares.substack.com/feed",
             "target": "https://causasyazares.substack.com/"
+        },
+        {
+            "source": "https://cbh.com.au/",
+            "target": "https://www.cbh.com.au/"
+        },
+        {
+            "source": "https://cciwa.com/",
+            "target": "https://cciwa.com/"
+        },
+        {
+            "source": "https://cciwa.com/",
+            "target": "https://cciwa.com/feed/"
+        },
+        {
+            "source": "https://cciwa.com/feed/",
+            "target": "https://cciwa.com/"
         },
         {
             "source": "https://cdevroe.com/",
@@ -33195,10 +33679,6 @@
             "target": "https://couchblog.de/feed/"
         },
         {
-            "source": "https://couchblog.de/",
-            "target": "https://digitalcourage.social/@nicobruenjes"
-        },
-        {
             "source": "https://coverage.readthedocs.io/en/latest/",
             "target": "https://hachyderm.io/@coveragepy"
         },
@@ -33413,6 +33893,10 @@
         {
             "source": "https://dahlstrand.net/podcast.xml",
             "target": "https://dahlstrand.net/"
+        },
+        {
+            "source": "https://daily.baty.net/",
+            "target": "https://social.lol/@jbaty"
         },
         {
             "source": "https://dan-q.github.io/",
@@ -38287,6 +38771,22 @@
             "target": "https://decentralizedthoughts.github.io/"
         },
         {
+            "source": "https://deepthought.infullflow.net/@elmine",
+            "target": "https://deepthought.infullflow.net/@elmine.rss"
+        },
+        {
+            "source": "https://deepthought.infullflow.net/@elmine",
+            "target": "https://infullflow.net/"
+        },
+        {
+            "source": "https://deepthought.infullflow.net/@elmine",
+            "target": "https://storymin.es/abonneer/"
+        },
+        {
+            "source": "https://deepthought.infullflow.net/@elmine.rss",
+            "target": "https://deepthought.infullflow.net/@elmine"
+        },
+        {
             "source": "https://degruchy.org/",
             "target": "https://degruchy.org/comments/feed/"
         },
@@ -38309,6 +38809,22 @@
         {
             "source": "https://delta.chat/feed.xml",
             "target": "https://delta.chat/"
+        },
+        {
+            "source": "https://denny.micro.blog/",
+            "target": "https://beardystarstuff.net/"
+        },
+        {
+            "source": "https://denny.micro.blog/",
+            "target": "https://beardystarstuff.net/feed.xml"
+        },
+        {
+            "source": "https://denny.micro.blog/",
+            "target": "https://micro.blog/Denny"
+        },
+        {
+            "source": "https://denny.micro.blog/",
+            "target": "https://social.coop/@dennyhenke"
         },
         {
             "source": "https://derekkedziora.com/",
@@ -38659,6 +39175,10 @@
             "target": "https://wiki.joejenett.com/"
         },
         {
+            "source": "https://discord.com/invite/FMcvc6T",
+            "target": "https://discord.com/invite/FMcvc6T"
+        },
+        {
             "source": "https://discord.gg/MxgfAMXwFS",
             "target": "https://discord.com/invite/MxgfAMXwFS"
         },
@@ -38945,6 +39465,10 @@
         {
             "source": "https://drikkmarks.glitch.me/",
             "target": "https://mastodon.social/@drikkes"
+        },
+        {
+            "source": "https://drupal.org/user/17600",
+            "target": "https://www.drupal.org/u/reinvented"
         },
         {
             "source": "https://dsp.stackexchange.com/users/559/chris-aldrich",
@@ -41823,6 +42347,70 @@
             "target": "https://austinkleon.com/"
         },
         {
+            "source": "https://feldfoto.com/",
+            "target": "https://feldfoto.com/"
+        },
+        {
+            "source": "https://feldfoto.com/",
+            "target": "https://feldfoto.com/feed.xml"
+        },
+        {
+            "source": "https://feldfoto.com/",
+            "target": "https://feldfoto.com/podcast.xml"
+        },
+        {
+            "source": "https://feldfoto.com/",
+            "target": "https://micro.blog/FeldFoto"
+        },
+        {
+            "source": "https://feldfoto.com/feed.xml",
+            "target": "https://feldfoto.com/"
+        },
+        {
+            "source": "https://feldfoto.com/podcast.xml",
+            "target": "https://feldfoto.com/"
+        },
+        {
+            "source": "https://feldnotes.com/",
+            "target": "https://feldnotes.com/feed.xml"
+        },
+        {
+            "source": "https://feldnotes.com/",
+            "target": "https://feldnotes.com/podcast.xml"
+        },
+        {
+            "source": "https://feldnotes.com/",
+            "target": "https://micro.blog/martinfeld"
+        },
+        {
+            "source": "https://feldnotes.com/",
+            "target": "https://social.lol/@martinfeld"
+        },
+        {
+            "source": "https://feldnotes.com/",
+            "target": "https://twitter.com/martinfeld"
+        },
+        {
+            "source": "https://feldnotes.com/feed.xml",
+            "target": "https://feldnotes.com/"
+        },
+        {
+            "source": "https://feldnotes.com/podcast.xml",
+            "target": "https://feldnotes.com/"
+        },
+        {
+            "source": "https://fennifith.bandcamp.com/",
+            "target": "https://jfenn.me/"
+        },
+        {
+            "source": "https://fennifith.bandcamp.com/",
+            "target": "https://soundcloud.com/fennifith"
+        },
+        {
+            "source": "https://fennifith.bandcamp.com/",
+            "target": "https://www.youtube.com/@fennifith"
+        },
+        {
             "source": "https://feross.org/",
             "target": "https://feross.org/"
         },
@@ -43675,6 +44263,22 @@
             "target": "https://mastodon.me.uk/@gilest"
         },
         {
+            "source": "https://git.garrido.io/gabriel",
+            "target": "https://garrido.io/"
+        },
+        {
+            "source": "https://git.garrido.io/gabriel",
+            "target": "https://git.garrido.io/gabriel.atom"
+        },
+        {
+            "source": "https://git.garrido.io/gabriel",
+            "target": "https://git.garrido.io/gabriel.rss"
+        },
+        {
+            "source": "https://git.garrido.io/gabriel.rss",
+            "target": "https://git.hq.ggpsv.com/gabriel"
+        },
+        {
             "source": "https://git.merveilles.town/jbauer",
             "target": "https://git.merveilles.town/jbauer.atom"
         },
@@ -44611,12 +45215,32 @@
             "target": "https://indieweb.social/@evert"
         },
         {
+            "source": "https://github.com/fennifith",
+            "target": "https://github.com/fennifith"
+        },
+        {
+            "source": "https://github.com/fennifith",
+            "target": "https://jfenn.me/"
+        },
+        {
+            "source": "https://github.com/fennifith",
+            "target": "https://twitter.com/fennifith"
+        },
+        {
             "source": "https://github.com/flamedfury/",
             "target": "https://flamedfury.com/"
         },
         {
             "source": "https://github.com/flamedfury/",
             "target": "https://github.com/flamedfury"
+        },
+        {
+            "source": "https://github.com/gRegorLove",
+            "target": "https://github.com/gRegorLove"
+        },
+        {
+            "source": "https://github.com/gRegorLove",
+            "target": "https://gregorlove.com/"
         },
         {
             "source": "https://github.com/garrettc",
@@ -44697,6 +45321,14 @@
         {
             "source": "https://github.com/gr36",
             "target": "https://gregmorris.co.uk/"
+        },
+        {
+            "source": "https://github.com/gregorlove",
+            "target": "https://github.com/gregorlove"
+        },
+        {
+            "source": "https://github.com/gregorlove",
+            "target": "https://gregorlove.com/"
         },
         {
             "source": "https://github.com/hacdias",
@@ -46067,6 +46699,18 @@
             "target": "https://localghost.dev/"
         },
         {
+            "source": "https://github.com/splitbrain",
+            "target": "https://github.com/splitbrain"
+        },
+        {
+            "source": "https://github.com/splitbrain",
+            "target": "https://octodon.social/@splitbrain"
+        },
+        {
+            "source": "https://github.com/splitbrain",
+            "target": "https://www.splitbrain.org/"
+        },
+        {
             "source": "https://github.com/sporksmith/",
             "target": "https://github.com/sporksmith"
         },
@@ -46815,6 +47459,38 @@
             "target": "https://gregmorris.co.uk/"
         },
         {
+            "source": "https://gregorlove.com/",
+            "target": "https://fed.brid.gy/r/https:/gregorlove.com/"
+        },
+        {
+            "source": "https://gregorlove.com/",
+            "target": "https://github.com/gRegorLove"
+        },
+        {
+            "source": "https://gregorlove.com/",
+            "target": "https://gregorlove.com/"
+        },
+        {
+            "source": "https://gregorlove.com/",
+            "target": "https://gregorlove.com/articles.atom"
+        },
+        {
+            "source": "https://gregorlove.com/",
+            "target": "https://keybase.io/gregorlove"
+        },
+        {
+            "source": "https://gregorlove.com/",
+            "target": "https://micro.blog/gRegorLove"
+        },
+        {
+            "source": "https://gregorlove.com/",
+            "target": "https://twitter.com/gRegorLove"
+        },
+        {
+            "source": "https://gregorlove.com/articles.atom",
+            "target": "https://gregorlove.com/"
+        },
+        {
             "source": "https://grepjason.sh/",
             "target": "https://github.com/jasonburk"
         },
@@ -46881,10 +47557,6 @@
         {
             "source": "https://hacdias.com/",
             "target": "https://bsky.app/profile/hacdias.com"
-        },
-        {
-            "source": "https://hacdias.com/",
-            "target": "https://discord.com/users/hacdias"
         },
         {
             "source": "https://hacdias.com/",
@@ -49879,6 +50551,14 @@
             "target": "https://interconnected.org/home"
         },
         {
+            "source": "https://intothecast.online/",
+            "target": "https://intothecast.online/"
+        },
+        {
+            "source": "https://inventorybase.co.uk/",
+            "target": "https://inventorybase.co.uk/"
+        },
+        {
             "source": "https://ireaderinokun.com/",
             "target": "https://front-end.social/@ire"
         },
@@ -51321,10 +52001,6 @@
         {
             "source": "https://jfenn.me/",
             "target": "https://fennifith.bandcamp.com/"
-        },
-        {
-            "source": "https://jfenn.me/",
-            "target": "https://is.a.horrific.dev/@fennifith"
         },
         {
             "source": "https://jfenn.me/",
@@ -53815,6 +54491,14 @@
             "target": "https://github.com/ggpsv"
         },
         {
+            "source": "https://keybase.io/gregorlove",
+            "target": "https://github.com/gregorlove"
+        },
+        {
+            "source": "https://keybase.io/gregorlove",
+            "target": "https://gregorlove.com/"
+        },
+        {
             "source": "https://keybase.io/jeroensangers",
             "target": "https://canasto.es/"
         },
@@ -55943,6 +56627,98 @@
             "target": "https://markusholtermann.eu/"
         },
         {
+            "source": "https://martinfeld.info/",
+            "target": "https://3x2.pics/"
+        },
+        {
+            "source": "https://martinfeld.info/",
+            "target": "https://bsky.app/profile/martinfeld.bsky.social"
+        },
+        {
+            "source": "https://martinfeld.info/",
+            "target": "https://burk.io/"
+        },
+        {
+            "source": "https://martinfeld.info/",
+            "target": "https://canion.omg.lol/"
+        },
+        {
+            "source": "https://martinfeld.info/",
+            "target": "https://feldfoto.com/"
+        },
+        {
+            "source": "https://martinfeld.info/",
+            "target": "https://feldnotes.com/"
+        },
+        {
+            "source": "https://martinfeld.info/",
+            "target": "https://glass.photo/martinfeld"
+        },
+        {
+            "source": "https://martinfeld.info/",
+            "target": "https://hemisphericviews.com/"
+        },
+        {
+            "source": "https://martinfeld.info/",
+            "target": "https://loungeruminator.net/"
+        },
+        {
+            "source": "https://martinfeld.info/",
+            "target": "https://martinfeld.info/now"
+        },
+        {
+            "source": "https://martinfeld.info/",
+            "target": "https://micro.blog/martinfeld"
+        },
+        {
+            "source": "https://martinfeld.info/",
+            "target": "https://oneprimeplus.com/"
+        },
+        {
+            "source": "https://martinfeld.info/",
+            "target": "https://social.lol/@martinfeld"
+        },
+        {
+            "source": "https://martinfeld.info/",
+            "target": "https://www.bluescope.com/life-at-bluescope/voices-of-bluescope-podcast/"
+        },
+        {
+            "source": "https://martinfeld.info/",
+            "target": "https://www.flickr.com/photos/martinfeld"
+        },
+        {
+            "source": "https://martinfeld.info/",
+            "target": "https://www.linkedin.com/in/martinfeld/"
+        },
+        {
+            "source": "https://martinfeld.info/",
+            "target": "https://www.polywork.com/martinfeld"
+        },
+        {
+            "source": "https://martinfeld.info/",
+            "target": "https://www.rsspod.net/"
+        },
+        {
+            "source": "https://martinfeld.info/",
+            "target": "https://www.youtube.com/@mjwfeld"
+        },
+        {
+            "source": "https://martinfeld.info/now",
+            "target": "https://martinfeld.info/"
+        },
+        {
+            "source": "https://martinfeld.info/now",
+            "target": "https://nownownow.com/about"
+        },
+        {
+            "source": "https://martinfeld.info/now",
+            "target": "https://www.rsspod.net/"
+        },
+        {
+            "source": "https://martinfeld.info/now",
+            "target": "https://www.youtube.com/channel/UCjUwaonD9QVeDzEdSqwrGmA"
+        },
+        {
             "source": "https://martinfeld.omg.lol/",
             "target": "https://3x2.pics/"
         },
@@ -56035,6 +56811,26 @@
             "target": "https://mas.to/@HeyDingus"
         },
         {
+            "source": "https://mas.to/@coleb",
+            "target": "https://ko-fi.com/coleb"
+        },
+        {
+            "source": "https://mas.to/@coleb",
+            "target": "https://mas.to/@coleb.rss"
+        },
+        {
+            "source": "https://mas.to/@coleb",
+            "target": "https://www.coleb.blog/"
+        },
+        {
+            "source": "https://mas.to/@coleb",
+            "target": "https://www.fromcole.com/"
+        },
+        {
+            "source": "https://mas.to/@coleb.rss",
+            "target": "https://mas.to/@coleb"
+        },
+        {
             "source": "https://mas.to/@obsidian",
             "target": "https://mas.to/@obsidian.rss"
         },
@@ -56045,6 +56841,18 @@
         {
             "source": "https://mas.to/@obsidian.rss",
             "target": "https://mas.to/@obsidian"
+        },
+        {
+            "source": "https://mast.hpc.social/@ndanes",
+            "target": "https://mast.hpc.social/@ndanes.rss"
+        },
+        {
+            "source": "https://mast.hpc.social/@ndanes",
+            "target": "https://ndanes.com/"
+        },
+        {
+            "source": "https://mast.hpc.social/@ndanes.rss",
+            "target": "https://mast.hpc.social/@ndanes"
         },
         {
             "source": "https://masto.ai/@cybeardjm",
@@ -59099,6 +59907,14 @@
             "target": "https://micropublish.blog/"
         },
         {
+            "source": "https://midlas.org.au/",
+            "target": "https://www.midlas.org.au/"
+        },
+        {
+            "source": "https://midlas.org.au/",
+            "target": "https://www.midlas.org.au/feed/"
+        },
+        {
             "source": "https://midrange.tedium.co/",
             "target": "https://feed.tedium.co/"
         },
@@ -59563,6 +60379,14 @@
             "target": "https://mtlynch.io/"
         },
         {
+            "source": "https://music.jfenn.me/",
+            "target": "https://music.jfenn.me/feed.rss"
+        },
+        {
+            "source": "https://music.jfenn.me/feed.rss",
+            "target": "https://music.jfenn.me/"
+        },
+        {
             "source": "https://mxb.dev/",
             "target": "https://front-end.social/@mxbck"
         },
@@ -59903,6 +60727,10 @@
             "target": "https://news.ycombinator.com/user?id=zerojames"
         },
         {
+            "source": "https://newsfeed.zeit.de/index",
+            "target": "https://www.zeit.de/index"
+        },
+        {
             "source": "https://newsie.social/@ProPublica",
             "target": "https://newsie.social/@ProPublica.rss"
         },
@@ -60149,6 +60977,22 @@
         {
             "source": "https://nojack.easydns.ca/@ttscoff/",
             "target": "https://nojack.easydns.ca/@ttscoff.rss"
+        },
+        {
+            "source": "https://norden.social/@pwa",
+            "target": "https://knuspermagier.de/"
+        },
+        {
+            "source": "https://norden.social/@pwa",
+            "target": "https://norden.social/@pwa.rss"
+        },
+        {
+            "source": "https://norden.social/@pwa",
+            "target": "https://philipps.photos/"
+        },
+        {
+            "source": "https://norden.social/@pwa.rss",
+            "target": "https://norden.social/@pwa"
         },
         {
             "source": "https://noscript.net/",
@@ -60753,6 +61597,22 @@
         {
             "source": "https://ochtendgrijs.be/index.php",
             "target": "https://ochtendgrijs.be/feed/"
+        },
+        {
+            "source": "https://octodon.social/@splitbrain",
+            "target": "https://github.com/splitbrain"
+        },
+        {
+            "source": "https://octodon.social/@splitbrain",
+            "target": "https://octodon.social/@splitbrain.rss"
+        },
+        {
+            "source": "https://octodon.social/@splitbrain",
+            "target": "https://www.splitbrain.org/"
+        },
+        {
+            "source": "https://octodon.social/@splitbrain.rss",
+            "target": "https://octodon.social/@splitbrain"
         },
         {
             "source": "https://oddbird.net/authors/miriam/",
@@ -61879,6 +62739,18 @@
             "target": "https://solo.otavio.cc/"
         },
         {
+            "source": "https://oulipo.social/@ruario",
+            "target": "https://oulipo.social/@ruario"
+        },
+        {
+            "source": "https://oulipo.social/@ruario",
+            "target": "https://social.vivaldi.net/@ruario"
+        },
+        {
+            "source": "https://oulipo.social/@ruario",
+            "target": "https://velocipederider.com/@ruari"
+        },
+        {
             "source": "https://overcast.fm/",
             "target": "https://mastodon.social/@overcastfm"
         },
@@ -62171,6 +63043,22 @@
             "target": "https://philbowell.com/"
         },
         {
+            "source": "https://philipps.photos/",
+            "target": "https://github.com/pwaldhauer"
+        },
+        {
+            "source": "https://philipps.photos/",
+            "target": "https://norden.social/@pwa"
+        },
+        {
+            "source": "https://philipps.photos/",
+            "target": "https://philipps.photos/feed"
+        },
+        {
+            "source": "https://philipps.photos/feed",
+            "target": "https://philipps.photos/"
+        },
+        {
             "source": "https://philna.sh/",
             "target": "https://bsky.app/profile/philna.sh"
         },
@@ -62229,6 +63117,10 @@
         {
             "source": "https://philna.sh/feed.xml",
             "target": "https://philna.sh/"
+        },
+        {
+            "source": "https://phire.place/@vasta",
+            "target": "https://www.inthemargins.ca/"
         },
         {
             "source": "https://photo.jenett.org/",
@@ -62305,6 +63197,18 @@
         {
             "source": "https://photography.trysmudford.com/",
             "target": "https://photography.trysmudford.com/"
+        },
+        {
+            "source": "https://photos.ashfurrow.com/",
+            "target": "https://photos.ashfurrow.com/"
+        },
+        {
+            "source": "https://photos.ashfurrow.com/",
+            "target": "https://photos.ashfurrow.com/feed.rss"
+        },
+        {
+            "source": "https://photos.ashfurrow.com/feed.rss",
+            "target": "https://photos.ashfurrow.com/"
         },
         {
             "source": "https://photos.darekkay.com/",
@@ -63363,6 +64267,10 @@
             "target": "https://radioopensource.org/"
         },
         {
+            "source": "https://radweb.co.uk/",
+            "target": "https://radweb.com/"
+        },
+        {
             "source": "https://raider.io/characters/us/khazgoroth/Lunchcuttah",
             "target": "https://raider.io/characters/us/khazgoroth/Lunchcuttah"
         },
@@ -64192,10 +65100,6 @@
         },
         {
             "source": "https://rkvssr.nl/",
-            "target": "https://mastodon.nl/@erikvisser"
-        },
-        {
-            "source": "https://rkvssr.nl/",
             "target": "https://micro.blog/erikvisser"
         },
         {
@@ -64727,6 +65631,50 @@
             "target": "https://samdavies.me/"
         },
         {
+            "source": "https://sara.omg.lol/",
+            "target": "https://bsky.app/profile/sjoy.lol"
+        },
+        {
+            "source": "https://sara.omg.lol/",
+            "target": "https://front-end.social/@sarajw"
+        },
+        {
+            "source": "https://sara.omg.lol/",
+            "target": "https://sara.omg.lol/now"
+        },
+        {
+            "source": "https://sara.omg.lol/",
+            "target": "https://sarajoy.dev/"
+        },
+        {
+            "source": "https://sara.omg.lol/",
+            "target": "https://sarajoy.dev/basic"
+        },
+        {
+            "source": "https://sara.omg.lol/now",
+            "target": "https://nownownow.com/about"
+        },
+        {
+            "source": "https://sara.omg.lol/now",
+            "target": "https://sara.omg.lol/"
+        },
+        {
+            "source": "https://sara.omg.lol/now",
+            "target": "https://sara.omg.lol/now"
+        },
+        {
+            "source": "https://sara.omg.lol/now",
+            "target": "https://sarajoy.dev/wips/"
+        },
+        {
+            "source": "https://sara.omg.lol/now",
+            "target": "https://www.adventuremice.com/"
+        },
+        {
+            "source": "https://sara.omg.lol/now",
+            "target": "https://www.jasperfforde.com/"
+        },
+        {
             "source": "https://sarahjamielewis.com/",
             "target": "https://mastodon.social/@sarahjamielewis"
         },
@@ -64743,8 +65691,24 @@
             "target": "https://sarajoy.dev/rss.xml"
         },
         {
+            "source": "https://sarajoy.dev/basic",
+            "target": "https://front-end.social/@sarajw"
+        },
+        {
+            "source": "https://sarajoy.dev/basic",
+            "target": "https://sarajoy.dev/rss.xml"
+        },
+        {
             "source": "https://sarajoy.dev/rss.xml",
             "target": "https://sarajoy.dev/"
+        },
+        {
+            "source": "https://sarajoy.dev/wips/",
+            "target": "https://front-end.social/@sarajw"
+        },
+        {
+            "source": "https://sarajoy.dev/wips/",
+            "target": "https://sarajoy.dev/rss.xml"
         },
         {
             "source": "https://sarasoueidan.com/newsletter",
@@ -66099,6 +67063,14 @@
             "target": "https://snook.ca/"
         },
         {
+            "source": "https://snug.moe/@FrugalGamer",
+            "target": "https://ko-fi.com/bekah20124"
+        },
+        {
+            "source": "https://snug.moe/@FrugalGamer",
+            "target": "https://www.thefrugalgamer.net/"
+        },
+        {
             "source": "https://social.ayjay.org/",
             "target": "https://instagram.com/ayjay"
         },
@@ -66153,6 +67125,26 @@
         {
             "source": "https://social.coop/@Rushkoff.rss",
             "target": "https://social.coop/@Rushkoff"
+        },
+        {
+            "source": "https://social.coop/@dennyhenke",
+            "target": "https://beardyguycreative.com/"
+        },
+        {
+            "source": "https://social.coop/@dennyhenke",
+            "target": "https://beardystarstuff.net/"
+        },
+        {
+            "source": "https://social.coop/@dennyhenke",
+            "target": "https://denny.micro.blog/"
+        },
+        {
+            "source": "https://social.coop/@dennyhenke",
+            "target": "https://social.coop/@dennyhenke.rss"
+        },
+        {
+            "source": "https://social.coop/@dennyhenke.rss",
+            "target": "https://social.coop/@dennyhenke"
         },
         {
             "source": "https://social.coop/@ggpsv",
@@ -66679,6 +67671,30 @@
             "target": "https://social.lol/@jason"
         },
         {
+            "source": "https://social.lol/@jbaty",
+            "target": "https://baty.blog/"
+        },
+        {
+            "source": "https://social.lol/@jbaty",
+            "target": "https://baty.net/"
+        },
+        {
+            "source": "https://social.lol/@jbaty",
+            "target": "https://daily.baty.net/"
+        },
+        {
+            "source": "https://social.lol/@jbaty",
+            "target": "https://social.lol/@jbaty.rss"
+        },
+        {
+            "source": "https://social.lol/@jbaty",
+            "target": "https://wiki.baty.net/"
+        },
+        {
+            "source": "https://social.lol/@jbaty.rss",
+            "target": "https://social.lol/@jbaty"
+        },
+        {
             "source": "https://social.lol/@keenan",
             "target": "https://gkeenan.co/"
         },
@@ -66975,6 +67991,18 @@
             "target": "https://www.explodingcomma.com/"
         },
         {
+            "source": "https://social.nodered.org/@nodered",
+            "target": "https://nodered.org/"
+        },
+        {
+            "source": "https://social.nodered.org/@nodered",
+            "target": "https://social.nodered.org/@nodered.rss"
+        },
+        {
+            "source": "https://social.nodered.org/@nodered.rss",
+            "target": "https://social.nodered.org/@nodered"
+        },
+        {
             "source": "https://social.security.plumbing/@freddy",
             "target": "https://frederik-braun.com/"
         },
@@ -66985,6 +68013,26 @@
         {
             "source": "https://social.security.plumbing/@freddy.rss",
             "target": "https://social.security.plumbing/@freddy"
+        },
+        {
+            "source": "https://social.tchncs.de/@kuketzblog",
+            "target": "https://social.tchncs.de/@kuketzblog.rss"
+        },
+        {
+            "source": "https://social.tchncs.de/@kuketzblog",
+            "target": "https://www.kuketz-blog.de/"
+        },
+        {
+            "source": "https://social.tchncs.de/@kuketzblog",
+            "target": "https://www.kuketz-blog.de/chat/"
+        },
+        {
+            "source": "https://social.tchncs.de/@kuketzblog",
+            "target": "https://www.kuketz-forum.de/"
+        },
+        {
+            "source": "https://social.tchncs.de/@kuketzblog.rss",
+            "target": "https://social.tchncs.de/@kuketzblog"
         },
         {
             "source": "https://social.tedium.co/@tedium",
@@ -67587,6 +68635,10 @@
             "target": "https://soundcloud.com/dave_letorey"
         },
         {
+            "source": "https://soundcloud.com/fennifith",
+            "target": "https://soundcloud.com/fennifith"
+        },
+        {
             "source": "https://soundcloud.com/stefanbohacek",
             "target": "https://soundcloud.com/stefanbohacek"
         },
@@ -67707,6 +68759,10 @@
             "target": "https://seirdy.one/"
         },
         {
+            "source": "https://sr.ht/~timharek",
+            "target": "https://timharek.no/"
+        },
+        {
             "source": "https://stackexchange.com/users/512226/chris-aldrich",
             "target": "https://stackexchange.com/users/512226/chris-aldrich"
         },
@@ -67789,6 +68845,14 @@
         {
             "source": "https://stackoverflow.com/users/602588/jackyalcine",
             "target": "https://stackoverflow.com/users/602588/jackyalcine"
+        },
+        {
+            "source": "https://staffeng.com/",
+            "target": "https://staffeng.com/rss"
+        },
+        {
+            "source": "https://staffeng.com/rss",
+            "target": "https://staffeng.com/"
         },
         {
             "source": "https://staging.bsky.app/profile/eay.social",
@@ -69283,6 +70347,46 @@
             "target": "https://stickerspotter.com/"
         },
         {
+            "source": "https://storymin.es/",
+            "target": "https://storymin.es/"
+        },
+        {
+            "source": "https://storymin.es/",
+            "target": "https://storymin.es/comments/feed/"
+        },
+        {
+            "source": "https://storymin.es/",
+            "target": "https://storymin.es/feed/"
+        },
+        {
+            "source": "https://storymin.es/abonneer/",
+            "target": "https://storymin.es/abonneer/"
+        },
+        {
+            "source": "https://storymin.es/abonneer/",
+            "target": "https://storymin.es/abonneer/feed/"
+        },
+        {
+            "source": "https://storymin.es/abonneer/",
+            "target": "https://storymin.es/comments/feed/"
+        },
+        {
+            "source": "https://storymin.es/abonneer/",
+            "target": "https://storymin.es/feed/"
+        },
+        {
+            "source": "https://storymin.es/abonneer/feed/",
+            "target": "https://storymin.es/"
+        },
+        {
+            "source": "https://storymin.es/comments/feed/",
+            "target": "https://storymin.es/"
+        },
+        {
+            "source": "https://storymin.es/feed/",
+            "target": "https://storymin.es/"
+        },
+        {
             "source": "https://strandlines.blog/",
             "target": "https://micro.blog/@strandlines"
         },
@@ -69965,6 +71069,30 @@
         {
             "source": "https://theverge.com/rss/index.xml",
             "target": "https://www.theverge.com/"
+        },
+        {
+            "source": "https://thomasp.vivaldi.net/",
+            "target": "https://social.vivaldi.net/@thomasp"
+        },
+        {
+            "source": "https://thomasp.vivaldi.net/",
+            "target": "https://thomasp.vivaldi.net/"
+        },
+        {
+            "source": "https://thomasp.vivaldi.net/",
+            "target": "https://thomasp.vivaldi.net/author/thomasp/"
+        },
+        {
+            "source": "https://thomasp.vivaldi.net/author/thomasp/",
+            "target": "https://social.vivaldi.net/@thomasp"
+        },
+        {
+            "source": "https://thomasp.vivaldi.net/author/thomasp/",
+            "target": "https://thomasp.vivaldi.net/author/thomasp/"
+        },
+        {
+            "source": "https://thomasp.vivaldi.net/author/thomasp/",
+            "target": "https://thomasp.vivaldi.net/author/thomasp/"
         },
         {
             "source": "https://thunderbird.net/",
@@ -70951,6 +72079,10 @@
             "target": "https://tyler.io/"
         },
         {
+            "source": "https://unapologetic.io/",
+            "target": "https://mastodon.macstories.net/@alex"
+        },
+        {
             "source": "https://unsplash.com/@nhoizey",
             "target": "https://unsplash.com/@nhoizey"
         },
@@ -70969,6 +72101,14 @@
         {
             "source": "https://uregina.ca/~slb861/about.html",
             "target": "https://mastodon.social/@sundogplanets"
+        },
+        {
+            "source": "https://usethehumanvoice.com/",
+            "target": "https://mastodon.me.uk/@gilest"
+        },
+        {
+            "source": "https://usethehumanvoice.com/",
+            "target": "https://usethehumanvoice.com/"
         },
         {
             "source": "https://utopia.fyi/",
@@ -72763,6 +73903,14 @@
             "target": "https://whatever.scalzi.com/"
         },
         {
+            "source": "https://whatfettle.com/",
+            "target": "https://blog.whatfettle.com/about/"
+        },
+        {
+            "source": "https://whatfettle.com/",
+            "target": "https://whatfettle.com/"
+        },
+        {
             "source": "https://whimsical.club/",
             "target": "https://whimsical.club/"
         },
@@ -72933,6 +74081,14 @@
         {
             "source": "https://wiki.joejenett.com/",
             "target": "https://wiki.joejenett.com/"
+        },
+        {
+            "source": "https://wiki.ruk.ca/",
+            "target": "https://wiki.ruk.ca/w/index.php?feed=atom\u0026title=Special%3ARecentChanges"
+        },
+        {
+            "source": "https://wiki.ruk.ca/w/index.php?feed=atom\u0026title=Special%3ARecentChanges",
+            "target": "https://wiki.ruk.ca/wiki/Special:RecentChanges"
         },
         {
             "source": "https://winnielim.org/",
@@ -73359,6 +74515,10 @@
             "target": "https://www.admin-magazine.com/rss/feed/news"
         },
         {
+            "source": "https://www.aigroup.com.au/",
+            "target": "https://www.aigroup.com.au/"
+        },
+        {
             "source": "https://www.alchemists.io/",
             "target": "https://www.alchemists.io/feeds/articles.xml"
         },
@@ -73531,6 +74691,10 @@
             "target": "https://www.arp242.net/"
         },
         {
+            "source": "https://www.beeminder.com/chrisaldrich",
+            "target": "https://www.beeminder.com/home"
+        },
+        {
             "source": "https://www.behindthesource.co.uk/",
             "target": "https://feeds.acast.com/public/shows/62d9b3f5f39c44001194bc1e"
         },
@@ -73571,6 +74735,38 @@
             "target": "https://www.ben-evans.com/benedictevans/"
         },
         {
+            "source": "https://www.benrady.com/",
+            "target": "https://twitter.com/benrady"
+        },
+        {
+            "source": "https://www.benrady.com/",
+            "target": "https://www.benrady.com/"
+        },
+        {
+            "source": "https://www.benrady.com/",
+            "target": "https://www.benrady.com/atom.xml"
+        },
+        {
+            "source": "https://www.benrady.com/",
+            "target": "https://www.benrady.com/index.rdf"
+        },
+        {
+            "source": "https://www.benrady.com/",
+            "target": "https://www.benrady.com/rss.xml"
+        },
+        {
+            "source": "https://www.benrady.com/atom.xml",
+            "target": "https://www.benrady.com/"
+        },
+        {
+            "source": "https://www.benrady.com/index.rdf",
+            "target": "https://www.benrady.com/"
+        },
+        {
+            "source": "https://www.benrady.com/rss.xml",
+            "target": "https://www.benrady.com/"
+        },
+        {
             "source": "https://www.better-simple.com/",
             "target": "https://fosstodon.org/@CodenameTim"
         },
@@ -73601,6 +74797,10 @@
         {
             "source": "https://www.bjornfranke.nl/feed/",
             "target": "https://www.bjornfranke.nl/"
+        },
+        {
+            "source": "https://www.blakewatson.com/",
+            "target": "https://social.lol/@bw"
         },
         {
             "source": "https://www.blast-o-rama.com/",
@@ -74131,6 +75331,10 @@
             "target": "https://seocommunity.social/@simoncox"
         },
         {
+            "source": "https://www.cranlana.org.au/programs/the-colloquium/",
+            "target": "https://cranlana.org.au/the-colloquium/"
+        },
+        {
             "source": "https://www.crossingthethreshold.net/",
             "target": "https://micro.blog/crossingthethreshold"
         },
@@ -74223,6 +75427,38 @@
             "target": "https://www.ctrl.blog/"
         },
         {
+            "source": "https://www.curtin.edu.au/",
+            "target": "https://www.curtin.edu.au/"
+        },
+        {
+            "source": "https://www.curtin.edu.au/",
+            "target": "https://www.curtin.edu.au/"
+        },
+        {
+            "source": "https://www.curtin.edu.au/",
+            "target": "https://www.curtin.edu.au/comments/feed/"
+        },
+        {
+            "source": "https://www.curtin.edu.au/",
+            "target": "https://www.curtin.edu.au/feed/"
+        },
+        {
+            "source": "https://www.curtin.edu.au/",
+            "target": "https://www.curtin.edu.au/feed/atom/"
+        },
+        {
+            "source": "https://www.curtin.edu.au/comments/feed/",
+            "target": "https://www.curtin.edu.au/"
+        },
+        {
+            "source": "https://www.curtin.edu.au/feed/",
+            "target": "https://www.curtin.edu.au/"
+        },
+        {
+            "source": "https://www.curtin.edu.au/feed/atom/",
+            "target": "https://www.curtin.edu.au/"
+        },
+        {
             "source": "https://www.curtisfamily.org.uk/",
             "target": "https://www.curtisfamily.org.uk/comments/feed/"
         },
@@ -74253,6 +75489,22 @@
         {
             "source": "https://www.daniel.priv.no/",
             "target": "https://www.daniel.priv.no/"
+        },
+        {
+            "source": "https://www.dannyvankooten.com/",
+            "target": "https://github.com/dannyvankooten/"
+        },
+        {
+            "source": "https://www.dannyvankooten.com/",
+            "target": "https://toot.re/@dvk"
+        },
+        {
+            "source": "https://www.dannyvankooten.com/",
+            "target": "https://www.dannyvankooten.com/"
+        },
+        {
+            "source": "https://www.dannyvankooten.com/",
+            "target": "https://www.dannyvankooten.com/feed.xml"
         },
         {
             "source": "https://www.dannyvankooten.com/feed.xml",
@@ -74611,6 +75863,10 @@
             "target": "https://www.elsua.net/"
         },
         {
+            "source": "https://www.emmakr.ca/",
+            "target": "https://www.emmakr.ca/"
+        },
+        {
             "source": "https://www.engineersneedart.com/",
             "target": "https://www.engineersneedart.com/rss.xml"
         },
@@ -74659,6 +75915,10 @@
             "target": "https://social.lol/@petebrown"
         },
         {
+            "source": "https://www.extremerobots.co.uk/",
+            "target": "https://www.extremerobots.co.uk/"
+        },
+        {
             "source": "https://www.f5to.run/",
             "target": "https://www.f5to.run/"
         },
@@ -74669,6 +75929,10 @@
         {
             "source": "https://www.f5to.run/index.xml",
             "target": "https://www.f5to.run/"
+        },
+        {
+            "source": "https://www.fromcole.com/",
+            "target": "https://www.fromcole.com/"
         },
         {
             "source": "https://www.github.com/dletorey",
@@ -75315,6 +76579,10 @@
             "target": "https://www.jvt.me/kind/articles/"
         },
         {
+            "source": "https://www.khanacademy.org/profile/christopheraldrich",
+            "target": "https://www.khanacademy.org/profile/christopheraldrich"
+        },
+        {
             "source": "https://www.kiva.org/lender/andrew38734158",
             "target": "https://www.kiva.org/lender/andrew38734158"
         },
@@ -75375,8 +76643,36 @@
             "target": "https://www.kuketz-blog.de/"
         },
         {
+            "source": "https://www.kuketz-blog.de/chat/",
+            "target": "https://social.tchncs.de/@kuketzblog"
+        },
+        {
+            "source": "https://www.kuketz-blog.de/chat/",
+            "target": "https://www.kuketz-blog.de/category/artikel/feed/"
+        },
+        {
+            "source": "https://www.kuketz-blog.de/chat/",
+            "target": "https://www.kuketz-blog.de/category/microblog/feed/"
+        },
+        {
+            "source": "https://www.kuketz-blog.de/chat/",
+            "target": "https://www.kuketz-blog.de/chat/"
+        },
+        {
+            "source": "https://www.kuketz-blog.de/chat/",
+            "target": "https://www.kuketz-blog.de/feed/"
+        },
+        {
             "source": "https://www.kuketz-blog.de/feed/",
             "target": "https://www.kuketz-blog.de/"
+        },
+        {
+            "source": "https://www.kuketz-forum.de/",
+            "target": "https://social.tchncs.de/@kuketzblog"
+        },
+        {
+            "source": "https://www.kuketz-forum.de/",
+            "target": "https://www.kuketz-forum.de/"
         },
         {
             "source": "https://www.kytta.dev/blog/",
@@ -75997,6 +77293,10 @@
         {
             "source": "https://www.michaelmoore.com/feed",
             "target": "https://www.michaelmoore.com/"
+        },
+        {
+            "source": "https://www.midlas.org.au/feed/",
+            "target": "https://www.midlas.org.au/"
         },
         {
             "source": "https://www.mikestreety.co.uk/",
@@ -76823,6 +78123,22 @@
             "target": "https://github.com/robalexdev/"
         },
         {
+            "source": "https://www.rsspod.net/",
+            "target": "https://social.lol/@martinfeld"
+        },
+        {
+            "source": "https://www.rsspod.net/",
+            "target": "https://www.rsspod.net/"
+        },
+        {
+            "source": "https://www.rsspod.net/",
+            "target": "https://www.rsspod.net/rss"
+        },
+        {
+            "source": "https://www.rsspod.net/rss",
+            "target": "https://www.rsspod.net/"
+        },
+        {
             "source": "https://www.rushkoff.com/blog/",
             "target": "https://rushkoff.com/blog/"
         },
@@ -77215,6 +78531,14 @@
             "target": "https://www.theframelab.org/"
         },
         {
+            "source": "https://www.thefrugalgamer.net/",
+            "target": "https://snug.moe/@FrugalGamer"
+        },
+        {
+            "source": "https://www.thefrugalgamer.net/rss.xml",
+            "target": "https://www.thefrugalgamer.net/"
+        },
+        {
             "source": "https://www.thejaymo.net/",
             "target": "https://bsky.app/profile/@thejaymo.net"
         },
@@ -77523,6 +78847,10 @@
             "target": "https://www.twostepsfromhell.com/"
         },
         {
+            "source": "https://www.uwa.edu.au/",
+            "target": "https://www.uwa.edu.au/"
+        },
+        {
             "source": "https://www.vasser.no/",
             "target": "https://www.vasser.no/"
         },
@@ -77553,6 +78881,10 @@
         {
             "source": "https://www.vimeo.com/pdowney",
             "target": "https://vimeo.com/pdowney/videos/rss"
+        },
+        {
+            "source": "https://www.wa.gov.au/organisation/department-of-the-premier-and-cabinet",
+            "target": "https://www.wa.gov.au/organisation/department-of-the-premier-and-cabinet"
         },
         {
             "source": "https://www.welivesecurity.com/",
@@ -78175,6 +79507,14 @@
             "target": "https://www.youtube.com/feeds/videos.xml?channel_id=UCimiUgDLbi6P17BdaCZpVbg"
         },
         {
+            "source": "https://www.youtube.com/channel/UCjUwaonD9QVeDzEdSqwrGmA",
+            "target": "https://www.youtube.com/channel/UCjUwaonD9QVeDzEdSqwrGmA"
+        },
+        {
+            "source": "https://www.youtube.com/channel/UCjUwaonD9QVeDzEdSqwrGmA",
+            "target": "https://www.youtube.com/feeds/videos.xml?channel_id=UCjUwaonD9QVeDzEdSqwrGmA"
+        },
+        {
             "source": "https://www.youtube.com/channel/UCpEI4NuWSISo6LvAUAoa4pg",
             "target": "https://www.youtube.com/channel/UCpEI4NuWSISo6LvAUAoa4pg"
         },
@@ -78335,6 +79675,14 @@
             "target": "https://www.zachseward.com/"
         },
         {
+            "source": "https://www.zeit.de/",
+            "target": "https://newsfeed.zeit.de/index"
+        },
+        {
+            "source": "https://www.zeit.de/",
+            "target": "https://www.zeit.de/index"
+        },
+        {
             "source": "https://www.zylstra.org/blog",
             "target": "https://github.com/tonzyl"
         },
@@ -78417,6 +79765,14 @@
         {
             "source": "https://xandra.cc/",
             "target": "https://tilde.zone/@xandra"
+        },
+        {
+            "source": "https://xania.org/",
+            "target": "https://hachyderm.io/@mattgodbolt"
+        },
+        {
+            "source": "https://xania.org/",
+            "target": "https://xania.org/feed.atom"
         },
         {
             "source": "https://xavd.id/",

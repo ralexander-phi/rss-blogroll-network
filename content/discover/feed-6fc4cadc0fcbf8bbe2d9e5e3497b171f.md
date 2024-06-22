@@ -8,13 +8,14 @@ params:
   feedid: 6fc4cadc0fcbf8bbe2d9e5e3497b171f
   websites:
     https://www.kuketz-blog.de/: true
+    https://www.kuketz-blog.de/chat/: false
   blogrolls: []
   recommended: []
   recommender: []
   categories:
   - Microblog
   relme:
-    https://social.tchncs.de/@kuketzblog: false
+    https://social.tchncs.de/@kuketzblog: true
   last_post_title: 'Firefox: Data protection breach in Android version – E-Mail an
     Mozilla'
   last_post_description: 'Aufgrund der Datenschutzverstöße in der aktuellen Android-Version
@@ -30,9 +31,9 @@ params:
     postcats: 1
     promoted: 0
     promotes: 0
-    relme: 1
+    relme: 2
     title: 3
     website: 2
-  score: 10
+  score: 11
   ispodcast: false
 ---
