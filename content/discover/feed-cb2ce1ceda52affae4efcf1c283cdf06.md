@@ -1,21 +1,18 @@
 ---
-title: brendon bigley
+title: rachel
 date: "1970-01-01T00:00:00Z"
-description: Public posts from @brendon@idlethumbs.social
+description: Public posts from @rjkwon@mastodon.social
 params:
-  feedlink: https://idlethumbs.social/@brendon.rss
+  feedlink: https://mastodon.social/@rjkwon.rss
   feedtype: rss
-  feedid: 19a17f454f16b288c536bb9d93aef8e6
+  feedid: cb2ce1ceda52affae4efcf1c283cdf06
   websites:
-    https://idlethumbs.social/@brendon: true
+    https://mastodon.social/@rjkwon: true
   blogrolls: []
   recommended: []
   recommender: []
   categories: []
-  relme:
-    https://intothecast.online/: false
-    https://wavelengths.online/: true
-    https://www.macstories.net/npc/: false
+  relme: {}
   last_post_title: ""
   last_post_description: ""
   last_post_date: ""
@@ -27,9 +24,9 @@ params:
     postcats: 0
     promoted: 0
     promotes: 0
-    relme: 2
+    relme: 0
     title: 3
     website: 2
-  score: 10
+  score: 8
   ispodcast: false
 ---

@@ -1,5 +1,23 @@
 feed_urls:
   - file:///seeds.opml
+  - https://blogs.openstreetmap.org/opml.xml
+
+  # BROKEN - Missing a <body>
+  # Reached out over Mastodon
+  #- https://dndblogs.com/rpg_blogroll.opml
+
+  # Blocked by robots.txt
+  # Reached out over email
+  #- https://campaignwiki.org/indie/indie.opml
+  #- https://campaignwiki.org/jdr/jdr.opml
+  #- https://campaignwiki.org/osr/osr.opml
+  #- https://campaignwiki.org/podcast-de/podcast-de.opml
+  #- https://campaignwiki.org/podcast-fr/podcast-fr.opml
+  #- https://campaignwiki.org/podcast/podcast.opml
+  #- https://campaignwiki.org/rpg/indie.opml
+  #- https://campaignwiki.org/rpg/osr.opml
+  #- https://campaignwiki.org/rpg/other.opml
+
 
 output_mode:
   - "SQL"

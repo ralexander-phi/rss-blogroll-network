@@ -313,6 +313,10 @@
             "group": 1
         },
         {
+            "id": "https://account.xbox.com/en-us/Profile?gamertag=jayygravv",
+            "group": 2
+        },
+        {
             "id": "https://actualwebsite.org/",
             "group": 2
         },
@@ -685,8 +689,16 @@
             "group": 1
         },
         {
+            "id": "https://andreas.scherbaum.la/blog/categories/77-OpenStreetMap",
+            "group": 1
+        },
+        {
             "id": "https://andrewcanion.com/",
             "group": 2
+        },
+        {
+            "id": "https://andrewharvey4.wordpress.com/tag/osm/",
+            "group": 1
         },
         {
             "id": "https://andrewkelley.me/",
@@ -1449,6 +1461,14 @@
             "group": 2
         },
         {
+            "id": "https://blog.gegg.us/category/openstreetmap/",
+            "group": 1
+        },
+        {
+            "id": "https://blog.geofabrik.de/",
+            "group": 1
+        },
+        {
             "id": "https://blog.gitea.com/",
             "group": 4
         },
@@ -1475,6 +1495,10 @@
         {
             "id": "https://blog.glitch.com/",
             "group": 2
+        },
+        {
+            "id": "https://blog.gravitystorm.co.uk/",
+            "group": 1
         },
         {
             "id": "https://blog.grotenhuis.info/",
@@ -1533,6 +1557,10 @@
             "group": 1
         },
         {
+            "id": "https://blog.jochentopf.com/",
+            "group": 1
+        },
+        {
             "id": "https://blog.joemoreno.com/",
             "group": 2
         },
@@ -1549,11 +1577,51 @@
             "group": 3
         },
         {
+            "id": "https://blog.johnmckerrell.com/",
+            "group": 1
+        },
+        {
             "id": "https://blog.joinmastodon.org/",
             "group": 2
         },
         {
             "id": "https://blog.joinmastodon.org/index.xml",
+            "group": 1
+        },
+        {
+            "id": "https://blog.mageia.org/en",
+            "group": 2
+        },
+        {
+            "id": "https://blog.mageia.org/en/",
+            "group": 2
+        },
+        {
+            "id": "https://blog.mageia.org/en/?feed=rss2",
+            "group": 1
+        },
+        {
+            "id": "https://blog.mageia.org/en/comments/feed/",
+            "group": 1
+        },
+        {
+            "id": "https://blog.mageia.org/en/feed/",
+            "group": 1
+        },
+        {
+            "id": "https://blog.mageia.org/fr",
+            "group": 2
+        },
+        {
+            "id": "https://blog.mageia.org/fr/",
+            "group": 2
+        },
+        {
+            "id": "https://blog.mageia.org/fr/comments/feed/",
+            "group": 1
+        },
+        {
+            "id": "https://blog.mageia.org/fr/feed/",
             "group": 1
         },
         {
@@ -1582,6 +1650,22 @@
         },
         {
             "id": "https://blog.numericcitizen.me/podcast.xml",
+            "group": 1
+        },
+        {
+            "id": "https://blog.opencagedata.com/tagged/osminterview",
+            "group": 1
+        },
+        {
+            "id": "https://blog.openrailwaymap.org/",
+            "group": 1
+        },
+        {
+            "id": "https://blog.opensnowmap.org/",
+            "group": 1
+        },
+        {
+            "id": "https://blog.openstreetmap.org/",
             "group": 1
         },
         {
@@ -1629,6 +1713,10 @@
             "group": 1
         },
         {
+            "id": "https://blog.shaunmcdonald.me.uk/",
+            "group": 1
+        },
+        {
             "id": "https://blog.strategicedge.co.uk/",
             "group": 2
         },
@@ -1642,6 +1730,10 @@
         },
         {
             "id": "https://blog.strategicedge.co.uk/rss.xml",
+            "group": 1
+        },
+        {
+            "id": "https://blog.systemed.net/",
             "group": 1
         },
         {
@@ -1743,6 +1835,10 @@
         {
             "id": "https://blogs.law.harvard.edu/doc",
             "group": 2
+        },
+        {
+            "id": "https://blogs.openstreetmap.org/opml.xml",
+            "group": 3
         },
         {
             "id": "https://blogs.opera.com/news/",
@@ -2729,6 +2825,10 @@
             "group": 4
         },
         {
+            "id": "https://chris-osm.blogspot.com/",
+            "group": 1
+        },
+        {
             "id": "https://chrisaldrich.kinja.com/",
             "group": 2
         },
@@ -2810,6 +2910,10 @@
         },
         {
             "id": "https://chriscoyier.net/feed/",
+            "group": 1
+        },
+        {
+            "id": "https://chrisfleming.org/",
             "group": 1
         },
         {
@@ -3769,6 +3873,10 @@
             "group": 1
         },
         {
+            "id": "https://derickrethans.nl/",
+            "group": 1
+        },
+        {
             "id": "https://dev.lemmy.ml/u/kixiQu",
             "group": 2
         },
@@ -4417,6 +4525,10 @@
             "group": 2
         },
         {
+            "id": "https://epsg4253.wordpress.com/",
+            "group": 1
+        },
+        {
             "id": "https://ericwbailey.website/",
             "group": 2
         },
@@ -4562,6 +4674,10 @@
         },
         {
             "id": "https://explog.in/rss.xml",
+            "group": 1
+        },
+        {
+            "id": "https://f.zz.de/tags/osm/",
             "group": 1
         },
         {
@@ -5086,6 +5202,10 @@
         },
         {
             "id": "https://flohgro.com/feed/",
+            "group": 1
+        },
+        {
+            "id": "https://florian.lainez.fr/",
             "group": 1
         },
         {
@@ -5637,6 +5757,10 @@
             "group": 2
         },
         {
+            "id": "https://gagravarr.livejournal.com/",
+            "group": 1
+        },
+        {
             "id": "https://games.sia.codes/",
             "group": 2
         },
@@ -5714,6 +5838,10 @@
         },
         {
             "id": "https://georgelakoff.substack.com/feed",
+            "group": 1
+        },
+        {
+            "id": "https://geothought.blogspot.com/",
             "group": 1
         },
         {
@@ -9381,10 +9509,6 @@
             "group": 1
         },
         {
-            "id": "https://klout.com/",
-            "group": 2
-        },
-        {
             "id": "https://kmaasrud.com/",
             "group": 2
         },
@@ -9493,16 +9617,16 @@
             "group": 2
         },
         {
+            "id": "https://ksmapper.blogspot.com/",
+            "group": 1
+        },
+        {
             "id": "https://kushaldas.in/",
             "group": 2
         },
         {
             "id": "https://kushaldas.in/rss.xml",
             "group": 1
-        },
-        {
-            "id": "https://kwon.nyc/",
-            "group": 2
         },
         {
             "id": "https://kwon.nyc/index.xml",
@@ -11249,6 +11373,14 @@
             "group": 1
         },
         {
+            "id": "https://mastodon.social/@rjkwon",
+            "group": 2
+        },
+        {
+            "id": "https://mastodon.social/@rjkwon.rss",
+            "group": 1
+        },
+        {
             "id": "https://mastodon.social/@robin",
             "group": 2
         },
@@ -12521,6 +12653,10 @@
             "group": 2
         },
         {
+            "id": "https://neis-one.org/",
+            "group": 1
+        },
+        {
             "id": "https://neliosoftware.com/",
             "group": 2
         },
@@ -12773,6 +12909,10 @@
             "group": 2
         },
         {
+            "id": "https://nominatim.org/blog/",
+            "group": 1
+        },
+        {
             "id": "https://norden.social/@pwa",
             "group": 2
         },
@@ -12782,6 +12922,10 @@
         },
         {
             "id": "https://noscript.net/",
+            "group": 2
+        },
+        {
+            "id": "https://noscript.net/donate",
             "group": 2
         },
         {
@@ -13225,6 +13369,10 @@
             "group": 1
         },
         {
+            "id": "https://openstreetmap.be/",
+            "group": 1
+        },
+        {
             "id": "https://openwebpodcast.de/",
             "group": 2
         },
@@ -13278,6 +13426,18 @@
         },
         {
             "id": "https://oscarbenedito.com/blog/index.xml",
+            "group": 1
+        },
+        {
+            "id": "https://osm2pgsql.org/news/",
+            "group": 1
+        },
+        {
+            "id": "https://osmand.net/blog",
+            "group": 1
+        },
+        {
+            "id": "https://osmtreeathlon.blogspot.com/",
             "group": 1
         },
         {
@@ -13673,6 +13833,10 @@
             "group": 2
         },
         {
+            "id": "https://planet.mageia.org/en/custom/people.opml",
+            "group": 3
+        },
+        {
             "id": "https://planning.barcampbangalore.com/",
             "group": 2
         },
@@ -13903,6 +14067,10 @@
         {
             "id": "https://pouretrebelle.com/",
             "group": 4
+        },
+        {
+            "id": "https://povesham.wordpress.com/tag/openstreetmap/",
+            "group": 1
         },
         {
             "id": "https://pownce.com/psd/",
@@ -14150,6 +14318,10 @@
         },
         {
             "id": "https://rachsmith.com/rss/",
+            "group": 1
+        },
+        {
+            "id": "https://radio.osmz.ru/",
             "group": 1
         },
         {
@@ -14849,6 +15021,10 @@
             "group": 1
         },
         {
+            "id": "https://scanningpages.wordpress.com/category/openstreetmap/",
+            "group": 1
+        },
+        {
             "id": "https://schollz.com/",
             "group": 2
         },
@@ -15077,6 +15253,10 @@
             "group": 4
         },
         {
+            "id": "https://shtosm.ru/",
+            "group": 1
+        },
+        {
             "id": "https://sia.codes/",
             "group": 2
         },
@@ -15195,6 +15375,10 @@
         {
             "id": "https://sixcolors.com/",
             "group": 2
+        },
+        {
+            "id": "https://sk53-osm.blogspot.com/",
+            "group": 1
         },
         {
             "id": "https://skitch.com/chrisaldrich/",
@@ -16061,6 +16245,10 @@
             "group": 1
         },
         {
+            "id": "https://sosm.ch/",
+            "group": 1
+        },
+        {
             "id": "https://soundcloud.com/chrisaldrich",
             "group": 2
         },
@@ -16825,6 +17013,14 @@
             "group": 2
         },
         {
+            "id": "https://theartofmastery.com/",
+            "group": 4
+        },
+        {
+            "id": "https://theartofmastery.com/feed/",
+            "group": 1
+        },
+        {
             "id": "https://thedreammachine.substack.com/",
             "group": 2
         },
@@ -16938,6 +17134,10 @@
         },
         {
             "id": "https://theverge.com/rss/index.xml",
+            "group": 1
+        },
+        {
+            "id": "https://thinkwhere.wordpress.com/category/openstreetmap/",
             "group": 1
         },
         {
@@ -17110,6 +17310,10 @@
         },
         {
             "id": "https://tiramisu.bearblog.dev/feed/?type=rss",
+            "group": 1
+        },
+        {
+            "id": "https://tlatet.blogspot.co.uk/",
             "group": 1
         },
         {
@@ -18517,6 +18721,10 @@
             "group": 2
         },
         {
+            "id": "https://wavelengths.online/posts_feed",
+            "group": 1
+        },
+        {
             "id": "https://waxy.org/",
             "group": 2
         },
@@ -19357,6 +19565,10 @@
             "group": 2
         },
         {
+            "id": "https://www.christeck.de/wp/category/openstreetmap/",
+            "group": 1
+        },
+        {
             "id": "https://www.citationneeded.news/",
             "group": 4
         },
@@ -19489,12 +19701,20 @@
             "group": 1
         },
         {
+            "id": "https://www.cyclestreets.org/news/",
+            "group": 1
+        },
+        {
             "id": "https://www.dandyid.org/id/chrisaldrich",
             "group": 2
         },
         {
             "id": "https://www.daniel.priv.no/",
             "group": 4
+        },
+        {
+            "id": "https://www.dankarran.com/categories/geographic/",
+            "group": 1
         },
         {
             "id": "https://www.dannyvankooten.com/",
@@ -20051,6 +20271,10 @@
         {
             "id": "https://www.google.com/reader/shared/paul.s.downey",
             "group": 2
+        },
+        {
+            "id": "https://www.grulic.org.ar/~mdione/glob/tags/openstreetmap/",
+            "group": 1
         },
         {
             "id": "https://www.gyford.com/",
@@ -20785,6 +21009,14 @@
             "group": 1
         },
         {
+            "id": "https://www.mappa-mercia.org/blog",
+            "group": 1
+        },
+        {
+            "id": "https://www.maptiler.com/news",
+            "group": 1
+        },
+        {
             "id": "https://www.mariechen.org/",
             "group": 2
         },
@@ -20975,6 +21207,10 @@
         {
             "id": "https://www.mixcloud.com/dletorey/",
             "group": 2
+        },
+        {
+            "id": "https://www.mkgmap.org.uk/news/",
+            "group": 1
         },
         {
             "id": "https://www.mobileread.com/forums/member.php?u=155791",
@@ -21186,6 +21422,10 @@
         },
         {
             "id": "https://www.opencost.io/blog/rss.xml",
+            "group": 1
+        },
+        {
+            "id": "https://www.openstreetmap.org/diary/",
             "group": 1
         },
         {
@@ -22203,6 +22443,10 @@
         {
             "id": "https://www.watsonbrosgames.com/",
             "group": 2
+        },
+        {
+            "id": "https://www.weeklyosm.eu/",
+            "group": 1
         },
         {
             "id": "https://www.welivesecurity.com/",
@@ -27007,6 +27251,58 @@
             "target": "https://blog.joinmastodon.org/"
         },
         {
+            "source": "https://blog.mageia.org/en",
+            "target": "https://blog.mageia.org/en/comments/feed/"
+        },
+        {
+            "source": "https://blog.mageia.org/en",
+            "target": "https://blog.mageia.org/en/feed/"
+        },
+        {
+            "source": "https://blog.mageia.org/en/",
+            "target": "https://blog.mageia.org/en/comments/feed/"
+        },
+        {
+            "source": "https://blog.mageia.org/en/",
+            "target": "https://blog.mageia.org/en/feed/"
+        },
+        {
+            "source": "https://blog.mageia.org/en/?feed=rss2",
+            "target": "https://blog.mageia.org/en"
+        },
+        {
+            "source": "https://blog.mageia.org/en/comments/feed/",
+            "target": "https://blog.mageia.org/en"
+        },
+        {
+            "source": "https://blog.mageia.org/en/feed/",
+            "target": "https://blog.mageia.org/en"
+        },
+        {
+            "source": "https://blog.mageia.org/fr",
+            "target": "https://blog.mageia.org/fr/comments/feed/"
+        },
+        {
+            "source": "https://blog.mageia.org/fr",
+            "target": "https://blog.mageia.org/fr/feed/"
+        },
+        {
+            "source": "https://blog.mageia.org/fr/",
+            "target": "https://blog.mageia.org/fr/comments/feed/"
+        },
+        {
+            "source": "https://blog.mageia.org/fr/",
+            "target": "https://blog.mageia.org/fr/feed/"
+        },
+        {
+            "source": "https://blog.mageia.org/fr/comments/feed/",
+            "target": "https://blog.mageia.org/fr"
+        },
+        {
+            "source": "https://blog.mageia.org/fr/feed/",
+            "target": "https://blog.mageia.org/fr"
+        },
+        {
             "source": "https://blog.martin-haehnel.de/",
             "target": "https://blog.martin-haehnel.de/feed.xml"
         },
@@ -27803,6 +28099,186 @@
             "target": "https://doc.searls.com/feed/"
         },
         {
+            "source": "https://blogs.openstreetmap.org/opml.xml",
+            "target": "https://andreas.scherbaum.la/blog/categories/77-OpenStreetMap"
+        },
+        {
+            "source": "https://blogs.openstreetmap.org/opml.xml",
+            "target": "https://andrewharvey4.wordpress.com/tag/osm/"
+        },
+        {
+            "source": "https://blogs.openstreetmap.org/opml.xml",
+            "target": "https://blog.gegg.us/category/openstreetmap/"
+        },
+        {
+            "source": "https://blogs.openstreetmap.org/opml.xml",
+            "target": "https://blog.geofabrik.de/"
+        },
+        {
+            "source": "https://blogs.openstreetmap.org/opml.xml",
+            "target": "https://blog.gravitystorm.co.uk/"
+        },
+        {
+            "source": "https://blogs.openstreetmap.org/opml.xml",
+            "target": "https://blog.jochentopf.com/"
+        },
+        {
+            "source": "https://blogs.openstreetmap.org/opml.xml",
+            "target": "https://blog.johnmckerrell.com/"
+        },
+        {
+            "source": "https://blogs.openstreetmap.org/opml.xml",
+            "target": "https://blog.opencagedata.com/tagged/osminterview"
+        },
+        {
+            "source": "https://blogs.openstreetmap.org/opml.xml",
+            "target": "https://blog.openrailwaymap.org/"
+        },
+        {
+            "source": "https://blogs.openstreetmap.org/opml.xml",
+            "target": "https://blog.opensnowmap.org/"
+        },
+        {
+            "source": "https://blogs.openstreetmap.org/opml.xml",
+            "target": "https://blog.openstreetmap.org/"
+        },
+        {
+            "source": "https://blogs.openstreetmap.org/opml.xml",
+            "target": "https://blog.shaunmcdonald.me.uk/"
+        },
+        {
+            "source": "https://blogs.openstreetmap.org/opml.xml",
+            "target": "https://blog.systemed.net/"
+        },
+        {
+            "source": "https://blogs.openstreetmap.org/opml.xml",
+            "target": "https://chris-osm.blogspot.com/"
+        },
+        {
+            "source": "https://blogs.openstreetmap.org/opml.xml",
+            "target": "https://chrisfleming.org/"
+        },
+        {
+            "source": "https://blogs.openstreetmap.org/opml.xml",
+            "target": "https://derickrethans.nl/"
+        },
+        {
+            "source": "https://blogs.openstreetmap.org/opml.xml",
+            "target": "https://epsg4253.wordpress.com/"
+        },
+        {
+            "source": "https://blogs.openstreetmap.org/opml.xml",
+            "target": "https://f.zz.de/tags/osm/"
+        },
+        {
+            "source": "https://blogs.openstreetmap.org/opml.xml",
+            "target": "https://florian.lainez.fr/"
+        },
+        {
+            "source": "https://blogs.openstreetmap.org/opml.xml",
+            "target": "https://gagravarr.livejournal.com/"
+        },
+        {
+            "source": "https://blogs.openstreetmap.org/opml.xml",
+            "target": "https://geothought.blogspot.com/"
+        },
+        {
+            "source": "https://blogs.openstreetmap.org/opml.xml",
+            "target": "https://ksmapper.blogspot.com/"
+        },
+        {
+            "source": "https://blogs.openstreetmap.org/opml.xml",
+            "target": "https://neis-one.org/"
+        },
+        {
+            "source": "https://blogs.openstreetmap.org/opml.xml",
+            "target": "https://nominatim.org/blog/"
+        },
+        {
+            "source": "https://blogs.openstreetmap.org/opml.xml",
+            "target": "https://openstreetmap.be/"
+        },
+        {
+            "source": "https://blogs.openstreetmap.org/opml.xml",
+            "target": "https://osm2pgsql.org/news/"
+        },
+        {
+            "source": "https://blogs.openstreetmap.org/opml.xml",
+            "target": "https://osmand.net/blog"
+        },
+        {
+            "source": "https://blogs.openstreetmap.org/opml.xml",
+            "target": "https://osmtreeathlon.blogspot.com/"
+        },
+        {
+            "source": "https://blogs.openstreetmap.org/opml.xml",
+            "target": "https://povesham.wordpress.com/tag/openstreetmap/"
+        },
+        {
+            "source": "https://blogs.openstreetmap.org/opml.xml",
+            "target": "https://radio.osmz.ru/"
+        },
+        {
+            "source": "https://blogs.openstreetmap.org/opml.xml",
+            "target": "https://scanningpages.wordpress.com/category/openstreetmap/"
+        },
+        {
+            "source": "https://blogs.openstreetmap.org/opml.xml",
+            "target": "https://shtosm.ru/"
+        },
+        {
+            "source": "https://blogs.openstreetmap.org/opml.xml",
+            "target": "https://sk53-osm.blogspot.com/"
+        },
+        {
+            "source": "https://blogs.openstreetmap.org/opml.xml",
+            "target": "https://sosm.ch/"
+        },
+        {
+            "source": "https://blogs.openstreetmap.org/opml.xml",
+            "target": "https://thinkwhere.wordpress.com/category/openstreetmap/"
+        },
+        {
+            "source": "https://blogs.openstreetmap.org/opml.xml",
+            "target": "https://tlatet.blogspot.co.uk/"
+        },
+        {
+            "source": "https://blogs.openstreetmap.org/opml.xml",
+            "target": "https://www.christeck.de/wp/category/openstreetmap/"
+        },
+        {
+            "source": "https://blogs.openstreetmap.org/opml.xml",
+            "target": "https://www.cyclestreets.org/news/"
+        },
+        {
+            "source": "https://blogs.openstreetmap.org/opml.xml",
+            "target": "https://www.dankarran.com/categories/geographic/"
+        },
+        {
+            "source": "https://blogs.openstreetmap.org/opml.xml",
+            "target": "https://www.grulic.org.ar/~mdione/glob/tags/openstreetmap/"
+        },
+        {
+            "source": "https://blogs.openstreetmap.org/opml.xml",
+            "target": "https://www.mappa-mercia.org/blog"
+        },
+        {
+            "source": "https://blogs.openstreetmap.org/opml.xml",
+            "target": "https://www.maptiler.com/news"
+        },
+        {
+            "source": "https://blogs.openstreetmap.org/opml.xml",
+            "target": "https://www.mkgmap.org.uk/news/"
+        },
+        {
+            "source": "https://blogs.openstreetmap.org/opml.xml",
+            "target": "https://www.openstreetmap.org/diary/"
+        },
+        {
+            "source": "https://blogs.openstreetmap.org/opml.xml",
+            "target": "https://www.weeklyosm.eu/"
+        },
+        {
             "source": "https://boardgamearena.com/",
             "target": "https://en.boardgamearena.com/"
         },
@@ -28393,10 +28869,6 @@
         {
             "source": "https://boffosocko.com/about/social-media-accounts-and-links/",
             "target": "https://keybase.io/chrisaldrich"
-        },
-        {
-            "source": "https://boffosocko.com/about/social-media-accounts-and-links/",
-            "target": "https://klout.com/"
         },
         {
             "source": "https://boffosocko.com/about/social-media-accounts-and-links/",
@@ -31815,6 +32287,10 @@
             "target": "https://www.tiktok.com/@molly0xfff"
         },
         {
+            "source": "https://cjchilvers.com/blog?format=rss",
+            "target": "https://www.cjchilvers.com/"
+        },
+        {
             "source": "https://clearleft.com/",
             "target": "https://clearleft.com/"
         },
@@ -32449,10 +32925,6 @@
         {
             "source": "https://colinwalker.blog/feeds.opml",
             "target": "https://kevquirk.com/"
-        },
-        {
-            "source": "https://colinwalker.blog/feeds.opml",
-            "target": "https://kwon.nyc/"
         },
         {
             "source": "https://colinwalker.blog/feeds.opml",
@@ -42643,6 +43115,14 @@
             "target": "https://flyknifecomics.com/"
         },
         {
+            "source": "https://fold.cm/profile/chrisaldrich",
+            "target": "https://theartofmastery.com/"
+        },
+        {
+            "source": "https://fold.cm/profile/chrisaldrich",
+            "target": "https://theartofmastery.com/feed/"
+        },
+        {
             "source": "https://folio.red/",
             "target": "https://folio.red/feed.atom"
         },
@@ -51108,6 +51588,10 @@
         },
         {
             "source": "https://jacky.wtf/about",
+            "target": "https://account.xbox.com/en-us/Profile?gamertag=jayygravv"
+        },
+        {
+            "source": "https://jacky.wtf/about",
             "target": "https://angel.co/u/jackyalcine"
         },
         {
@@ -58568,6 +59052,10 @@
         },
         {
             "source": "https://mastodon.social/@noscript",
+            "target": "https://noscript.net/donate"
+        },
+        {
+            "source": "https://mastodon.social/@noscript",
             "target": "https://noscript.net/forum"
         },
         {
@@ -58697,6 +59185,14 @@
         {
             "source": "https://mastodon.social/@rgdd.rss",
             "target": "https://mastodon.social/@rgdd"
+        },
+        {
+            "source": "https://mastodon.social/@rjkwon",
+            "target": "https://mastodon.social/@rjkwon.rss"
+        },
+        {
+            "source": "https://mastodon.social/@rjkwon.rss",
+            "target": "https://mastodon.social/@rjkwon"
         },
         {
             "source": "https://mastodon.social/@robin",
@@ -63345,6 +63841,14 @@
         {
             "source": "https://pixpet.net/u/DarylSun",
             "target": "https://pixpet.net/rss/rss.php"
+        },
+        {
+            "source": "https://planet.mageia.org/en/custom/people.opml",
+            "target": "https://blog.mageia.org/en/?feed=rss2"
+        },
+        {
+            "source": "https://planet.mageia.org/en/custom/people.opml",
+            "target": "https://blog.mageia.org/fr"
         },
         {
             "source": "https://planning.barcampbangalore.com/",
@@ -70895,6 +71399,10 @@
             "target": "https://textslashplain.com/"
         },
         {
+            "source": "https://theartofmastery.com/feed/",
+            "target": "https://theartofmastery.com/"
+        },
+        {
             "source": "https://thedreammachine.substack.com/",
             "target": "https://thedreammachine.substack.com/"
         },
@@ -73423,6 +73931,18 @@
             "target": "https://www.wapcyc.com.au/"
         },
         {
+            "source": "https://wavelengths.online/",
+            "target": "https://idlethumbs.social/@brendon"
+        },
+        {
+            "source": "https://wavelengths.online/",
+            "target": "https://wavelengths.online/posts_feed"
+        },
+        {
+            "source": "https://wavelengths.online/posts_feed",
+            "target": "https://wavelengths.online/"
+        },
+        {
             "source": "https://waxy.org/",
             "target": "https://waxy.org/"
         },
@@ -73621,10 +74141,6 @@
         {
             "source": "https://weidok.al/.well-known/recommendations.opml",
             "target": "https://jothamlim.com/"
-        },
-        {
-            "source": "https://weidok.al/.well-known/recommendations.opml",
-            "target": "https://kwon.nyc/"
         },
         {
             "source": "https://weidok.al/.well-known/recommendations.opml",

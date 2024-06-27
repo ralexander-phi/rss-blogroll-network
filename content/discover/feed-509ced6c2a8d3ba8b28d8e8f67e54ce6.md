@@ -8,7 +8,6 @@ params:
   feedid: 509ced6c2a8d3ba8b28d8e8f67e54ce6
   websites:
     https://fold.cm/profile/chrisaldrich: false
-    https://theartofmastery.com/: true
   blogrolls: []
   recommended: []
   recommender: []
@@ -48,7 +47,7 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 2
-  score: 11
+    website: 1
+  score: 10
   ispodcast: false
 ---
