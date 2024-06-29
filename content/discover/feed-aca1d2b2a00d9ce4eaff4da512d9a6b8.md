@@ -24,6 +24,7 @@ params:
   last_post_date: "2024-06-03T19:08:18Z"
   last_post_link: https://barryfrost.com/2024/06/week-145-robot
   last_post_categories: []
+  last_post_guid: 6a39ffef6a496c5dc031793a0f2c12b8
   score_criteria:
     cats: 0
     description: 3
@@ -35,4 +36,5 @@ params:
     website: 2
   score: 10
   ispodcast: false
+  isnoarchive: false
 ---

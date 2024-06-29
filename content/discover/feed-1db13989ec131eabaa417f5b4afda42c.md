@@ -24,6 +24,7 @@ params:
   last_post_date: "2024-05-24T06:55:51Z"
   last_post_link: https://www.blogpocket.com/podcast/hecho-con-bloques-53/
   last_post_categories: []
+  last_post_guid: 17ba8dc8b43bf86062738833a20c612a
   score_criteria:
     cats: 1
     description: 3
@@ -35,4 +36,5 @@ params:
     website: 1
   score: 8
   ispodcast: true
+  isnoarchive: false
 ---

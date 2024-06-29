@@ -1,3 +1,9 @@
+{{ define "extrahead" }}
+{{ if .Params.isnoarchive }}
+<meta name="robots" content="noarchive">
+{{ end }}
+{{ end }}
+
 {{ define "extratitle" }}
 <nav class="breadcrumb" aria-label="breadcrumbs">
   <ul>

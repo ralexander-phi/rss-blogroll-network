@@ -20,6 +20,7 @@ params:
   last_post_date: "2008-09-30T01:07:45Z"
   last_post_link: https://www.patrickrhone.net/my-manifesto-thrive-in-the-present-2/#comment-352
   last_post_categories: []
+  last_post_guid: d6e2e73dab4d78d04f33f1044c82e719
   score_criteria:
     cats: 0
     description: 3
@@ -31,4 +32,5 @@ params:
     website: 2
   score: 9
   ispodcast: false
+  isnoarchive: false
 ---

@@ -28,6 +28,7 @@ params:
   last_post_link: https://luijten.org/sport/2024/02/20/rsnl-clubkampioenschappen.html
   last_post_categories:
   - sport
+  last_post_guid: 6b81a8a5d276a3f766968196531f760b
   score_criteria:
     cats: 0
     description: 3
@@ -39,4 +40,5 @@ params:
     website: 2
   score: 16
   ispodcast: false
+  isnoarchive: false
 ---

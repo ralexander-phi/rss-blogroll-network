@@ -22,6 +22,7 @@ params:
   last_post_date: "2024-05-24T00:00:00Z"
   last_post_link: https://drewdevault.com/2024/05/24/2024-05-24-Bunnix.html
   last_post_categories: []
+  last_post_guid: 1bc4c1a5c5210937ee5f43eef39dfd8e
   score_criteria:
     cats: 0
     description: 3
@@ -33,4 +34,5 @@ params:
     website: 2
   score: 13
   ispodcast: false
+  isnoarchive: false
 ---

@@ -9,5 +9,6 @@ disableKinds:
 outputs:
   home:
     - html
-  visualize:
-    - html
+outputFormats:
+  xml:
+    mediaType: application/xml

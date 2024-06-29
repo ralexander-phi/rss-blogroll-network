@@ -21,6 +21,7 @@ params:
   last_post_date: "2024-05-25T18:45:27+05:30"
   last_post_link: https://www.amitgawande.com/2024/05/25/today-i-pushed.html
   last_post_categories: []
+  last_post_guid: 12b42fc8d9d5d38de2cc22b7cb113995
   score_criteria:
     cats: 0
     description: 0
@@ -32,4 +33,5 @@ params:
     website: 0
   score: 8
   ispodcast: false
+  isnoarchive: false
 ---

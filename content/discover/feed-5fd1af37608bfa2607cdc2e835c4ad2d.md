@@ -28,6 +28,7 @@ params:
   last_post_date: "2024-02-19T00:00:00Z"
   last_post_link: https://mijndertstuij.nl/posts/default-apps-2024/
   last_post_categories: []
+  last_post_guid: 1c4a4b4f9d6dd0cb6b3c81de522101dc
   score_criteria:
     cats: 0
     description: 3
@@ -39,4 +40,5 @@ params:
     website: 2
   score: 13
   ispodcast: false
+  isnoarchive: false
 ---

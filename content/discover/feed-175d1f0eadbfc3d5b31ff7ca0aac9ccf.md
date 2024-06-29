@@ -27,6 +27,7 @@ params:
   - Uncategorized
   - career
   - Figma
+  last_post_guid: edfa9e4f1babfb106baee93b54cf8f2a
   score_criteria:
     cats: 0
     description: 3
@@ -38,4 +39,5 @@ params:
     website: 2
   score: 16
   ispodcast: false
+  isnoarchive: false
 ---

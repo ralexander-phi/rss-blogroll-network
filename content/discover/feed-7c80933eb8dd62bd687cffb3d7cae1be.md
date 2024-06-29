@@ -32,6 +32,7 @@ params:
   - mac
   - macos
   - spotify
+  last_post_guid: 8348d6aff9199d7c6ccd0a069c5962f9
   score_criteria:
     cats: 0
     description: 3
@@ -43,4 +44,5 @@ params:
     website: 2
   score: 18
   ispodcast: false
+  isnoarchive: false
 ---

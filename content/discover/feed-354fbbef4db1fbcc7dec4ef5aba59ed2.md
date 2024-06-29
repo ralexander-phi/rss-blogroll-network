@@ -24,6 +24,7 @@ params:
   last_post_date: "2024-03-18T10:48:51+08:00"
   last_post_link: https://chenhuijing.com/blog/generating-a-weekly-calendar-from-json-data/
   last_post_categories: []
+  last_post_guid: 9da34ad7d3d6b1505027630d64d75e9e
   score_criteria:
     cats: 0
     description: 3
@@ -35,4 +36,5 @@ params:
     website: 2
   score: 15
   ispodcast: false
+  isnoarchive: false
 ---

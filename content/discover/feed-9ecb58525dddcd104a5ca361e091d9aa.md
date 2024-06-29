@@ -26,6 +26,7 @@ params:
   - weeknotes
   - indiepass
   - indieweb
+  last_post_guid: 130ea39246e166975bac427d591f0199
   score_criteria:
     cats: 0
     description: 3
@@ -37,4 +38,5 @@ params:
     website: 2
   score: 12
   ispodcast: false
+  isnoarchive: false
 ---

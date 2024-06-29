@@ -37,6 +37,7 @@ params:
   last_post_date: "2024-06-03T22:02:00Z"
   last_post_link: https://feedpress.me/link/23795/16702641/integrating-a-somewhat-custom-cms-with-eleventy
   last_post_categories: []
+  last_post_guid: 2de89877a7aa5f2fbab83100e4e47bf8
   score_criteria:
     cats: 0
     description: 3
@@ -48,4 +49,5 @@ params:
     website: 2
   score: 15
   ispodcast: false
+  isnoarchive: false
 ---

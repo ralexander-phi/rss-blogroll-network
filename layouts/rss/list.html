@@ -1,0 +1,52 @@
+{{ define "extratitle" }}
+<nav class="breadcrumb" aria-label="breadcrumbs">
+  <ul>
+    <li><a href="/">Home</a></li>
+    <li class="is-active"><a href="#" aria-current="page">Aggregate Feeds</a></li>
+  </ul>
+</nav>
+{{ end }}
+
+{{ define "main" }}
+<h2 class="subtitle is-4">Aggregate Feeds</h2>
+
+<p class="block">
+For compatibility with existing tools, several aggregate feeds are available.
+You may import these into RSS feed readers, although they contain many feeds across a variety of topics, so you probably won't want to.
+</p>
+
+<p class="block">
+Feeds are available in two variants.
+The first is a full feed, which contains all feeds that have been discovered in the Blogroll Network.
+The second is feed excludes any feeds which have been served with a `X-Robots-Tag: noarchive`.
+As such, the second feed is suitable for building a feed archive while respecting the `noarchive` tag.
+</p>
+
+<h3 class="title is-4">RSS Feeds</h2>
+
+<div class="content">
+<ul>
+  <li>Full feed: <a href="{{ absURL "/rss.xml" }}">
+    {{ absURL "/rss.xml" }}
+  </a></li>
+  <li>Feed for archive: <a href="{{ absURL "/rss-archive.xml" }}">
+    {{ absURL "/rss-archive.xml" }}
+  </a></li>
+</ul>
+</div>
+
+<h3 class="title is-4">RSS Feeds</h2>
+
+<div class="content">
+<ul>
+  <li>Full feed: <a href="{{ absURL "/rss.xml" }}">
+    {{ absURL "/rss.xml" }}
+  </a></li>
+  <li>Feed for archive: <a href="{{ absURL "/rss-archive.xml" }}">
+    {{ absURL "/rss-archive.xml" }}
+  </a></li>
+</ul>
+</div>
+
+
+{{ end }}

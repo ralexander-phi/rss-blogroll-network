@@ -22,6 +22,7 @@ params:
   last_post_date: "2024-05-31T17:10:06Z"
   last_post_link: https://a.wholelottanothing.org/its-been/
   last_post_categories: []
+  last_post_guid: 716be2bf237a7b9cbdabafdacae7c9b2
   score_criteria:
     cats: 0
     description: 3
@@ -33,4 +34,5 @@ params:
     website: 2
   score: 13
   ispodcast: false
+  isnoarchive: false
 ---

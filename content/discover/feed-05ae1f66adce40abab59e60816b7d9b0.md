@@ -25,6 +25,7 @@ params:
   last_post_date: "2024-06-01T15:51:15-05:00"
   last_post_link: https://beardystarstuff.net/2024/06/01/i-came-upon.html
   last_post_categories: []
+  last_post_guid: 8b8fc3d470b7a69cd0a5a861c4cdb4d1
   score_criteria:
     cats: 0
     description: 0
@@ -36,4 +37,5 @@ params:
     website: 2
   score: 12
   ispodcast: false
+  isnoarchive: false
 ---

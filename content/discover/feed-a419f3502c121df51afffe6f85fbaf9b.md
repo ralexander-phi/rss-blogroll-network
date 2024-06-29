@@ -23,6 +23,7 @@ params:
   last_post_link: https://support.glitch.com/t/how-do-create-a-whatsapp-webhook-for-multiagent/67549
   last_post_categories:
   - Coding Help
+  last_post_guid: 273f7f5d727921813e0df59f416b48d7
   score_criteria:
     cats: 0
     description: 3
@@ -34,4 +35,5 @@ params:
     website: 2
   score: 9
   ispodcast: false
+  isnoarchive: false
 ---

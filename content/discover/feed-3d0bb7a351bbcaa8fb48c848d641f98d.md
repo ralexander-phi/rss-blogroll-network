@@ -13,11 +13,12 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: ""
+  last_post_title: directory notes 04-13-23
   last_post_description: ""
-  last_post_date: ""
-  last_post_link: ""
+  last_post_date: "2023-04-13T18:03:06Z"
+  last_post_link: https://iwebthings.joejenett.com/directory-notes-04-13-23/
   last_post_categories: []
+  last_post_guid: 5f708ceb23870a71b141cabf2851dad3
   score_criteria:
     cats: 0
     description: 0
@@ -29,4 +30,5 @@ params:
     website: 1
   score: 4
   ispodcast: false
+  isnoarchive: false
 ---

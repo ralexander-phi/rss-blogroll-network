@@ -40,6 +40,7 @@ params:
   - gender
   - fiction
   - nonfiction
+  last_post_guid: caea0006781b33bfe9d2c6539fcc0ff9
   score_criteria:
     cats: 0
     description: 3
@@ -51,4 +52,5 @@ params:
     website: 1
   score: 15
   ispodcast: false
+  isnoarchive: false
 ---

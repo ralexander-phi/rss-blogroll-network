@@ -118,6 +118,7 @@ params:
   last_post_date: "2024-05-29T21:55:33+02:00"
   last_post_link: https://frankmeeuwsen.com/2024/05/29/digitale-autonomie-een.html
   last_post_categories: []
+  last_post_guid: 55553feca15c3eb8e7e53032d626173a
   score_criteria:
     cats: 0
     description: 0
@@ -129,4 +130,5 @@ params:
     website: 2
   score: 22
   ispodcast: false
+  isnoarchive: false
 ---

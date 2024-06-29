@@ -19,6 +19,7 @@ params:
   last_post_date: "2024-06-01T20:51:35-07:00"
   last_post_link: https://tracydurnell.com/2024/05/31/weeknotes-may-25-31-2024/#comment-8820
   last_post_categories: []
+  last_post_guid: ce62090b982cf6c7281e76ced7a80acc
   score_criteria:
     cats: 0
     description: 0
@@ -30,4 +31,5 @@ params:
     website: 2
   score: 5
   ispodcast: false
+  isnoarchive: false
 ---

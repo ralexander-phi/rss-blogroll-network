@@ -19,6 +19,7 @@ params:
   last_post_date: "2023-08-25T12:51:10Z"
   last_post_link: https://electrek.co/web-stories/nanrobot-n6-review/
   last_post_categories: []
+  last_post_guid: 623ee4eab4cb2ce22a5049bc977dbe15
   score_criteria:
     cats: 0
     description: 3
@@ -30,4 +31,5 @@ params:
     website: 2
   score: 8
   ispodcast: false
+  isnoarchive: false
 ---

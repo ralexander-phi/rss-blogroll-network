@@ -24,6 +24,7 @@ params:
   last_post_categories:
   - Ceramics
   - Pottery
+  last_post_guid: 2b55c306e7c270e25241253ad7f2e0e5
   score_criteria:
     cats: 0
     description: 3
@@ -35,4 +36,5 @@ params:
     website: 2
   score: 10
   ispodcast: false
+  isnoarchive: false
 ---

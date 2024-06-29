@@ -25,6 +25,7 @@ params:
   last_post_date: "2024-04-19T22:37:39Z"
   last_post_link: https://jerz.us/micro/97
   last_post_categories: []
+  last_post_guid: 60bcd911027899c96df1a79d2070acbd
   score_criteria:
     cats: 0
     description: 3
@@ -36,4 +37,5 @@ params:
     website: 0
   score: 11
   ispodcast: false
+  isnoarchive: false
 ---

@@ -20,6 +20,7 @@ params:
   last_post_date: "2024-04-17T00:00:00Z"
   last_post_link: https://advent-of-code.xavd.id/writeups/2023/day/21/
   last_post_categories: []
+  last_post_guid: 805e7dc28133f084b0590736cbf7b296
   score_criteria:
     cats: 0
     description: 3
@@ -31,4 +32,5 @@ params:
     website: 2
   score: 10
   ispodcast: false
+  isnoarchive: false
 ---

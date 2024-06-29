@@ -30,6 +30,7 @@ params:
   - images
   - Herefordshire (UK)
   - Relocating to Herefordshire
+  last_post_guid: aeb982fa51dbea389c7b393e26740f6c
   score_criteria:
     cats: 0
     description: 0
@@ -41,4 +42,5 @@ params:
     website: 2
   score: 8
   ispodcast: false
+  isnoarchive: false
 ---

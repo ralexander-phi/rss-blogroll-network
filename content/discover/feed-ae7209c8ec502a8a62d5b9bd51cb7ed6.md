@@ -20,6 +20,7 @@ params:
   last_post_date: "2024-06-04T10:17:14-05:00"
   last_post_link: https://opensourcejobhub.com/job/16325/enterprise-account-executive-dach-remote-germany/
   last_post_categories: []
+  last_post_guid: ccd8db70423c131a7851cee64e1f8b3e
   score_criteria:
     cats: 0
     description: 3
@@ -31,4 +32,5 @@ params:
     website: 2
   score: 8
   ispodcast: false
+  isnoarchive: false
 ---

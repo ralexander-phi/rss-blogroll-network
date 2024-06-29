@@ -27,6 +27,7 @@ params:
   last_post_date: "2024-06-04T00:00:00Z"
   last_post_link: https://www.trysmudford.com/blog/data-all-the-way-down/
   last_post_categories: []
+  last_post_guid: 8c8621412715ec6481aa036c10b61229
   score_criteria:
     cats: 0
     description: 3
@@ -38,4 +39,5 @@ params:
     website: 2
   score: 9
   ispodcast: false
+  isnoarchive: false
 ---

@@ -10737,6 +10737,7 @@ params:
   last_post_link: http://evgrieve.com/2024/06/greenmarket-season-begins-on-astor-place.html
   last_post_categories:
   - Astor Place Greenmarket
+  last_post_guid: ef6ff11635b9109795d9dd09e424e382
   score_criteria:
     cats: 5
     description: 3
@@ -10748,4 +10749,5 @@ params:
     website: 2
   score: 19
   ispodcast: false
+  isnoarchive: false
 ---

@@ -27,6 +27,7 @@ params:
   last_post_date: "2024-01-15T00:00:00Z"
   last_post_link: https://ashfurrow.com/blog/new-year-new-me/
   last_post_categories: []
+  last_post_guid: 02152e314dd0c52e1ba13df6d35b5d4f
   score_criteria:
     cats: 0
     description: 3
@@ -38,4 +39,5 @@ params:
     website: 2
   score: 15
   ispodcast: false
+  isnoarchive: false
 ---

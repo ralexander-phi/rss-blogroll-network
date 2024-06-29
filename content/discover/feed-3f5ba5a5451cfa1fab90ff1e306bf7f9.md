@@ -23,6 +23,7 @@ params:
   last_post_date: "2024-05-29T20:00:00-04:00"
   last_post_link: https://blog.carlana.net/post/2024/spotlight-pa-jamstack-history/
   last_post_categories: []
+  last_post_guid: 731f38a184bc2dbcc4cbd0c74dd762b6
   score_criteria:
     cats: 0
     description: 3
@@ -34,4 +35,5 @@ params:
     website: 2
   score: 9
   ispodcast: false
+  isnoarchive: false
 ---

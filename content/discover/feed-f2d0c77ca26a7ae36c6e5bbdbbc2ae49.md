@@ -32,6 +32,7 @@ params:
   - GitHub Actions
   - GitHub Mobile
   - How GitHub builds GitHub
+  last_post_guid: c1588909bd0b410d8e5f3fde7d5e7e3a
   score_criteria:
     cats: 0
     description: 3
@@ -43,4 +44,5 @@ params:
     website: 2
   score: 16
   ispodcast: false
+  isnoarchive: false
 ---

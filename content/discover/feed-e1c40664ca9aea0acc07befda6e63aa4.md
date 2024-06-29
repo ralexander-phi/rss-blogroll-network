@@ -27,6 +27,7 @@ params:
   last_post_categories:
   - Artificial Intelligence
   - prompting
+  last_post_guid: e3dce404234744b688a73dfef21a13cf
   score_criteria:
     cats: 0
     description: 3
@@ -38,4 +39,5 @@ params:
     website: 2
   score: 17
   ispodcast: false
+  isnoarchive: false
 ---

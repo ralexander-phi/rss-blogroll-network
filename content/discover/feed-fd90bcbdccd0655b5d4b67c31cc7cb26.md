@@ -18,13 +18,12 @@ params:
   relme:
     https://hachyderm.io/@mattgodbolt: true
     https://hachyderm.io/@twoscomplement: true
-  last_post_title: Is Optimization Refactoring?
-  last_post_description: In flagrant violation of Betteridge's Law, Ben and Matt consider
-    the question 'Is Optimization Refactoring?' and conclude that the answer is 'probably'.
-    Ben warns our listener about overspecifying in
-  last_post_date: "2024-05-14T23:00:00-06:00"
+  last_post_title: ""
+  last_post_description: ""
+  last_post_date: ""
   last_post_link: ""
   last_post_categories: []
+  last_post_guid: ""
   score_criteria:
     cats: 1
     description: 3
@@ -36,4 +35,5 @@ params:
     website: 2
   score: 11
   ispodcast: true
+  isnoarchive: false
 ---

@@ -32,6 +32,7 @@ params:
   - published on gemini
   - rss
   - spam
+  last_post_guid: 8105539ae9a190162a91f8c4896c5fdc
   score_criteria:
     cats: 0
     description: 3
@@ -43,4 +44,5 @@ params:
     website: 0
   score: 14
   ispodcast: false
+  isnoarchive: false
 ---

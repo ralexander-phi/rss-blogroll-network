@@ -14,11 +14,12 @@ params:
   categories: []
   relme:
     https://ryanjerz.com/: false
-  last_post_title: ""
+  last_post_title: Donald Trump is convicted of 34 felonies
   last_post_description: ""
-  last_post_date: ""
-  last_post_link: ""
+  last_post_date: "2024-05-31T18:15:32Z"
+  last_post_link: https://jerz.us/saves/99
   last_post_categories: []
+  last_post_guid: 341ebcf8afa243d6e47f939ad7883397
   score_criteria:
     cats: 0
     description: 3
@@ -30,4 +31,5 @@ params:
     website: 2
   score: 9
   ispodcast: false
+  isnoarchive: false
 ---

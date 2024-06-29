@@ -25,6 +25,7 @@ params:
   last_post_date: "2024-04-13T09:27:00-04:00"
   last_post_link: https://notes.pault.ag/debugfs/
   last_post_categories: []
+  last_post_guid: 785e089f6770626ff08ff454f7c8358f
   score_criteria:
     cats: 0
     description: 3
@@ -36,4 +37,5 @@ params:
     website: 2
   score: 14
   ispodcast: false
+  isnoarchive: false
 ---

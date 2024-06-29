@@ -29,6 +29,7 @@ params:
   - Nelio Content
   - Plugins
   - Release
+  last_post_guid: 1e70d9beb86f0771bac22a1eca3a1656
   score_criteria:
     cats: 0
     description: 3
@@ -40,4 +41,5 @@ params:
     website: 0
   score: 14
   ispodcast: false
+  isnoarchive: false
 ---

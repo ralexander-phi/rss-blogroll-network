@@ -23,6 +23,7 @@ params:
   last_post_date: "2024-06-04T10:29:22Z"
   last_post_link: https://mjtsai.com/blog/2024/06/03/lightning-headphones-that-require-bluetooth/#comment-4099359
   last_post_categories: []
+  last_post_guid: ae4f7feff72fbb65c94a2182dbff29f9
   score_criteria:
     cats: 0
     description: 0
@@ -34,4 +35,5 @@ params:
     website: 2
   score: 6
   ispodcast: false
+  isnoarchive: false
 ---

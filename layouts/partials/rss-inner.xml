@@ -1,0 +1,44 @@
+{{- printf "<?xml version=\"1.0\" encoding=\"utf-8\"?>" | safeHTML }}
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:source="http://source.scripting.com/">
+  <channel>
+    <title>{{ .Title }}</title>
+    <link>https://alexsci.com/rss-blogroll-network/</link>
+    <generator>Hugo</generator>
+    <description>{{ .Description }}</description>
+    <source:blogroll>https://alexsci.com/rss-blogroll-network/opml{{ if .Params.isArchiveOnly }}-archive{{ end }}.xml</source:blogroll>
+    <category>Aggregator</category>
+
+    <lastBuildDate>{{ time.Now.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</lastBuildDate>
+    <pubDate>{{ time.Now.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</pubDate>
+    <atom:link href="https://alexsci.com/rss-blogroll-network/rss{{ if .Params.isArchiveOnly }}-archive{{ end }}.xml" rel="self" type="application/rss+xml" />
+
+    {{ $seenLinks := slice }}
+
+    {{ $ctx := . }}
+    {{- range .Site.RegularPages }}
+    {{ $link := .Params.last_post_link }}
+    {{ if and ($link) (not (in $seenLinks $link) ) }}
+    {{ if or (not $ctx.Params.isArchiveOnly) (not .Params.isnoarchive) }}
+    {{ $seenLinks = $seenLinks | append $link }}
+    <item>
+      <title>{{ transform.XMLEscape .Params.last_post_title }}</title>
+      <link>{{ transform.XMLEscape .Params.last_post_link }}</link>
+
+      {{ if .Params.last_post_date }}
+      <pubDate>{{ (time.AsTime .Params.last_post_date).Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</pubDate>
+      {{ end }}
+      <guid isPermaLink="false">{{ transform.XMLEscape .Params.last_post_guid }}</guid>
+
+      {{ if .Params.last_post_description }}
+      <description>{{ transform.XMLEscape .Params.last_post_description }}</description>
+      {{- end }}
+
+      {{- range .Params.last_post_categories }}
+      <category>{{ transform.XMLEscape . }}</category>
+      {{- end }}
+    </item>
+    {{- end }}
+    {{- end }}
+    {{- end }}
+  </channel>
+</rss>

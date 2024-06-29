@@ -33,6 +33,7 @@ params:
   - video game library
   - video game preservation
   - video games
+  last_post_guid: 709c969d8ece758cb7fb845f070f65b4
   score_criteria:
     cats: 0
     description: 0
@@ -44,4 +45,5 @@ params:
     website: 0
   score: 11
   ispodcast: false
+  isnoarchive: false
 ---

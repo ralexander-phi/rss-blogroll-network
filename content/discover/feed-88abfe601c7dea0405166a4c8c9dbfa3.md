@@ -58,6 +58,7 @@ params:
   last_post_date: "2024-05-30T09:03:42-05:00"
   last_post_link: https://www.manton.org/2024/05/29/podcast-hosting-for.html
   last_post_categories: []
+  last_post_guid: 6a168292a4271fabd3f950ff901ae758
   score_criteria:
     cats: 1
     description: 3
@@ -69,4 +70,5 @@ params:
     website: 2
   score: 20
   ispodcast: true
+  isnoarchive: false
 ---

@@ -20,6 +20,7 @@ params:
   last_post_date: "2024-06-01T00:00:00Z"
   last_post_link: https://kittygiraudel.com/2024/06/01/from-eslint-and-prettier-to-biome/
   last_post_categories: []
+  last_post_guid: dd796373b64f3bcd004cff3bb8f9b091
   score_criteria:
     cats: 0
     description: 3
@@ -31,4 +32,5 @@ params:
     website: 2
   score: 13
   ispodcast: false
+  isnoarchive: false
 ---

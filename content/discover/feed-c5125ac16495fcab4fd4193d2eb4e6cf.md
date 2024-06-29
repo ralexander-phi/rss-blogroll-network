@@ -21,6 +21,7 @@ params:
   last_post_date: "2023-11-21T16:55:29Z"
   last_post_link: https://chat.openai.com/share/cfc1eefe-7c8c-4281-8ea9-4258bc980387/
   last_post_categories: []
+  last_post_guid: 118a2d5e5fe895027d4e717dc78393b5
   score_criteria:
     cats: 0
     description: 3
@@ -32,4 +33,5 @@ params:
     website: 0
   score: 11
   ispodcast: false
+  isnoarchive: false
 ---

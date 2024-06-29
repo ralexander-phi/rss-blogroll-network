@@ -14,7 +14,11 @@ params:
   blogrolls: []
   recommended: []
   recommender: []
-  categories: []
+  categories:
+  - Hacks
+  - JavaScript
+  - Tools
+  - Web
   relme:
     https://codepen.io/meyerweb: false
     https://dribbble.com/meyerweb: false
@@ -22,20 +26,26 @@ params:
     https://github.com/meyerweb: false
     https://mastodon.social/@meyerweb: false
     https://www.linkedin.com/in/meyerweb: false
-  last_post_title: ""
-  last_post_description: ""
-  last_post_date: ""
-  last_post_link: ""
-  last_post_categories: []
+  last_post_title: 'Bookmarklet: Load All GitHub Comments'
+  last_post_description: A quick way to load all the comments on a GitHub issue.
+  last_post_date: "2024-02-05T14:49:46Z"
+  last_post_link: https://meyerweb.com/eric/thoughts/2024/02/05/bookmarklet-load-all-github-comments/
+  last_post_categories:
+  - Hacks
+  - JavaScript
+  - Tools
+  - Web
+  last_post_guid: 12b659133495cb7ecbaeb5cb27993f0d
   score_criteria:
     cats: 0
     description: 3
-    postcats: 0
+    postcats: 3
     promoted: 0
     promotes: 0
     relme: 1
     title: 3
     website: 2
-  score: 9
+  score: 12
   ispodcast: false
+  isnoarchive: false
 ---

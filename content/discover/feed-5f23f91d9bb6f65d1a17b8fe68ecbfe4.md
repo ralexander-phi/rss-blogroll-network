@@ -15,9 +15,10 @@ params:
   relme: {}
   last_post_title: Bakerloo 40
   last_post_description: ""
-  last_post_date: "2024-06-04T07:00:00+01:00"
+  last_post_date: "2024-06-04T00:09:17+01:00"
   last_post_link: http://diamondgeezer.blogspot.com/2024/06/bakerloo-40.html
   last_post_categories: []
+  last_post_guid: 2f8e439ff2dad280d09cb7110fe5e5eb
   score_criteria:
     cats: 0
     description: 3
@@ -29,4 +30,5 @@ params:
     website: 0
   score: 11
   ispodcast: false
+  isnoarchive: false
 ---

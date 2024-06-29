@@ -26,6 +26,7 @@ params:
   last_post_link: https://rushkoff.com/team-human-ep-248-i-will-not-be-autotuned-live-from-all-tech-is-humans-responsible-tech-mixer/
   last_post_categories:
   - Blog
+  last_post_guid: ccb1f37d8aaaa9b515148e7677ad25fa
   score_criteria:
     cats: 0
     description: 3
@@ -37,4 +38,5 @@ params:
     website: 2
   score: 15
   ispodcast: false
+  isnoarchive: false
 ---

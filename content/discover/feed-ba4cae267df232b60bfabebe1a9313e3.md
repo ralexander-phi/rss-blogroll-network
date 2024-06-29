@@ -23,6 +23,7 @@ params:
   last_post_categories:
   - Videos Sótano
   - WordPress
+  last_post_guid: 53f9864fc4fea31a0f006750242e394b
   score_criteria:
     cats: 0
     description: 3
@@ -34,4 +35,5 @@ params:
     website: 0
   score: 8
   ispodcast: false
+  isnoarchive: false
 ---

@@ -20,13 +20,14 @@ params:
   relme: {}
   last_post_title: Introducing OpenCost Plugins
   last_post_description: OpenCost banner
-  last_post_date: "1970-01-01T00:00:00Z"
+  last_post_date: "2024-04-30T00:00:00Z"
   last_post_link: https://opencost.io/blog/introducing-opencost-plugins
   last_post_categories:
   - external costs
   - IT cost monitoring
   - Datadog costs
   - IT costs
+  last_post_guid: 66f99645d6623f2e1cf9ebc6bdbe7beb
   score_criteria:
     cats: 0
     description: 3
@@ -38,4 +39,5 @@ params:
     website: 1
   score: 10
   ispodcast: false
+  isnoarchive: false
 ---

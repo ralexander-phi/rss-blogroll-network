@@ -27,8 +27,10 @@ params:
   relme:
     https://www.blogger.com/profile/16008171792811719945: true
   last_post_title: Upcoming Polyamory Events,next 12 months
-  last_post_description: ""
-  last_post_date: "2024-05-24T13:01:00Z"
+  last_post_description: "Any I missed?  Fixes needed?\n        \n        \n          Write
+    me at  alan7388 (at) gmail.com\n        \n        \n          —Alan M.,  Polyamory
+    in the News\n        \n        \n        \n         "
+  last_post_date: "2024-06-03T09:07:05-04:00"
   last_post_link: https://polyevents.blogspot.com/2014/08/upcoming-events.html
   last_post_categories:
   - '#ENMconventions'
@@ -43,6 +45,7 @@ params:
   - polyamory conference
   - polyamory convention
   - polyamory event
+  last_post_guid: 0a5e3bcdece705ecd00154aaeebe09b3
   score_criteria:
     cats: 5
     description: 3
@@ -54,4 +57,5 @@ params:
     website: 2
   score: 18
   ispodcast: false
+  isnoarchive: false
 ---

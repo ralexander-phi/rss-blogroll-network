@@ -21,6 +21,7 @@ params:
   last_post_date: "2024-05-04T18:44:33Z"
   last_post_link: https://zijperspace.nl/optellen/#comment-14039
   last_post_categories: []
+  last_post_guid: 505e0793413fb5690bd54119b36f4eb1
   score_criteria:
     cats: 0
     description: 3
@@ -32,4 +33,5 @@ params:
     website: 2
   score: 8
   ispodcast: false
+  isnoarchive: false
 ---

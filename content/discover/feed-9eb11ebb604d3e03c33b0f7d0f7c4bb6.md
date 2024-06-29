@@ -25,6 +25,7 @@ params:
   - News
   - dev
   - ThisMonthInFluiddyn
+  last_post_guid: 71b421747063b9450138336dbdc6f3df
   score_criteria:
     cats: 0
     description: 0
@@ -36,4 +37,5 @@ params:
     website: 2
   score: 10
   ispodcast: false
+  isnoarchive: false
 ---

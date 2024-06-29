@@ -40,9 +40,10 @@ params:
     https://github.com/ttntm: false
   last_post_title: Week 22, 2024
   last_post_description: ""
-  last_post_date: "1970-01-01T00:00:00Z"
+  last_post_date: "2024-05-29T00:00:00Z"
   last_post_link: https://ttntm.me/likes/2024-w22/
   last_post_categories: []
+  last_post_guid: c41f88cc5be38deaeec2a34588b28e80
   score_criteria:
     cats: 0
     description: 3
@@ -54,4 +55,5 @@ params:
     website: 2
   score: 17
   ispodcast: false
+  isnoarchive: false
 ---

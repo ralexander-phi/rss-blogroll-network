@@ -30,6 +30,7 @@ params:
   last_post_link: https://derekkedziora.com/notes/2024-06-01-complexity-vs-simplicity
   last_post_categories:
   - notes
+  last_post_guid: 5bf2643725083fdb1c680a749ceb8f8a
   score_criteria:
     cats: 0
     description: 3
@@ -41,4 +42,5 @@ params:
     website: 2
   score: 16
   ispodcast: false
+  isnoarchive: false
 ---

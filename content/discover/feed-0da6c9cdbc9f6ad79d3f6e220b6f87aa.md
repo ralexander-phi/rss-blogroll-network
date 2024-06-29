@@ -24,6 +24,7 @@ params:
   last_post_link: https://www.platformer.news/openai-altman-investments-conflicts-wsj/
   last_post_categories:
   - OpenAI
+  last_post_guid: 7aa01fbdb8ca8daee0848f36132eba90
   score_criteria:
     cats: 0
     description: 3
@@ -35,4 +36,5 @@ params:
     website: 2
   score: 14
   ispodcast: false
+  isnoarchive: false
 ---

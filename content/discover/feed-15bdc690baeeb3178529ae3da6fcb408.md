@@ -21,6 +21,7 @@ params:
   last_post_date: "2023-04-08T19:12:07Z"
   last_post_link: https://www.techdirt.com/2023/01/04/journalists-and-others-should-leave-twitter-heres-how-they-can-get-started/#comment-2947840
   last_post_categories: []
+  last_post_guid: 0e1f7e6af532b33bcc05d9433928cf02
   score_criteria:
     cats: 0
     description: 0
@@ -32,4 +33,5 @@ params:
     website: 2
   score: 5
   ispodcast: false
+  isnoarchive: false
 ---

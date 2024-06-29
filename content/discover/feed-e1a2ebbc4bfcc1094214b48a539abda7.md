@@ -21,9 +21,10 @@ params:
     https://mxb.dev/: true
   last_post_title: Upgrading to Eleventy v3
   last_post_description: ""
-  last_post_date: "1970-01-01T00:00:00Z"
+  last_post_date: "2024-06-01T00:00:00Z"
   last_post_link: https://mxb.dev/blog/eleventy-v3-update/
   last_post_categories: []
+  last_post_guid: 16d9d541c135b6c4e0700dcd4b43f376
   score_criteria:
     cats: 0
     description: 3
@@ -35,4 +36,5 @@ params:
     website: 2
   score: 15
   ispodcast: false
+  isnoarchive: false
 ---

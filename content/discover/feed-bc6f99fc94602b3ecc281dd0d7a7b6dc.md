@@ -16,9 +16,10 @@ params:
   last_post_title: Just jobs
   last_post_description: S.E. Smith writes in YES! about the intersections of remote
     work and accessibility.
-  last_post_date: "1970-01-01T00:00:00Z"
+  last_post_date: "2024-05-29T14:27:00-04:00"
   last_post_link: https://everythingchanges.us/blog/just-jobs/
   last_post_categories: []
+  last_post_guid: 50e4a4ec645493767184d34651cf3d5c
   score_criteria:
     cats: 0
     description: 3
@@ -30,4 +31,5 @@ params:
     website: 2
   score: 8
   ispodcast: false
+  isnoarchive: false
 ---

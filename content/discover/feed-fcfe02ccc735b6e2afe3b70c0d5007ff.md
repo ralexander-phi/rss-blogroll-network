@@ -24,6 +24,7 @@ params:
   last_post_link: https://philbowell.com/for-the-love-of-the-game/
   last_post_categories:
   - Articles
+  last_post_guid: 189a5d027e0ab89149977b97942f9c39
   score_criteria:
     cats: 0
     description: 3
@@ -35,4 +36,5 @@ params:
     website: 2
   score: 10
   ispodcast: false
+  isnoarchive: false
 ---

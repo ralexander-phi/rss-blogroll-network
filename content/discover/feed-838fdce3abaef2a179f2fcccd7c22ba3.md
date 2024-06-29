@@ -32,6 +32,7 @@ params:
   last_post_date: "2024-04-29T23:48:03Z"
   last_post_link: https://buttondown.email/ownyourweb/archive/issue-14/
   last_post_categories: []
+  last_post_guid: 32456807da746a9c5a052467153a94ae
   score_criteria:
     cats: 0
     description: 3
@@ -43,4 +44,5 @@ params:
     website: 2
   score: 13
   ispodcast: false
+  isnoarchive: false
 ---

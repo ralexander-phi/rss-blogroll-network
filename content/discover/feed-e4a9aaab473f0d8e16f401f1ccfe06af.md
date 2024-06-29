@@ -17,13 +17,12 @@ params:
   categories:
   - News
   relme: {}
-  last_post_title: GOP Fury At Trump Verdict Just Got Scarier. This Dem Sees An Opening.
-  last_post_description: In the wake of Donald Trump’s conviction on 34 felony counts,
-    Republican anger at the verdict is getting darker, with GOP leaders talking about
-    holding hearings and even defunding other
-  last_post_date: "2024-06-04T09:00:00Z"
+  last_post_title: ""
+  last_post_description: ""
+  last_post_date: ""
   last_post_link: ""
   last_post_categories: []
+  last_post_guid: ""
   score_criteria:
     cats: 1
     description: 3
@@ -35,4 +34,5 @@ params:
     website: 0
   score: 12
   ispodcast: true
+  isnoarchive: false
 ---

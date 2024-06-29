@@ -25,6 +25,7 @@ params:
   last_post_link: https://electrek.co/2024/06/04/lectric-xp-lite-2-0-unveiled-as-new-799-best-bang-for-your-buck-folding-electric-bike/
   last_post_categories:
   - News
+  last_post_guid: 3276d30440c14a1aaf1c8df4d7226248
   score_criteria:
     cats: 0
     description: 3
@@ -36,4 +37,5 @@ params:
     website: 2
   score: 14
   ispodcast: false
+  isnoarchive: false
 ---

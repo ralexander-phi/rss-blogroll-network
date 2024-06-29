@@ -25,6 +25,7 @@ params:
   last_post_link: https://www.kuketz-blog.de/firefox-data-protection-breach-in-android-version-e-mail-an-mozilla/
   last_post_categories:
   - Microblog
+  last_post_guid: 340020d432178cdb40d3324979a4f81d
   score_criteria:
     cats: 0
     description: 3
@@ -36,4 +37,5 @@ params:
     website: 2
   score: 11
   ispodcast: false
+  isnoarchive: false
 ---

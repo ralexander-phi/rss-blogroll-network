@@ -13,11 +13,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: ""
-  last_post_description: ""
-  last_post_date: ""
-  last_post_link: ""
+  last_post_title: C++ development setup in 2024
+  last_post_description: |-
+    I've been doing a lot of C and C++ programming lately. After trying
+    a myriad of editors and related tooling, it seems I've finally settled on a
+    satisfactory set-up that is both performant, reliable
+  last_post_date: "2024-04-06T00:00:00Z"
+  last_post_link: https://www.dannyvankooten.com/blog/2024/cpp-development-setup/
   last_post_categories: []
+  last_post_guid: 768e352ca13b849bc9cbb3c75ee33a0a
   score_criteria:
     cats: 0
     description: 0
@@ -29,4 +33,5 @@ params:
     website: 1
   score: 4
   ispodcast: false
+  isnoarchive: false
 ---

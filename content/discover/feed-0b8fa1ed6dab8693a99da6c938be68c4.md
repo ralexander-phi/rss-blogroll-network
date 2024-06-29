@@ -20,6 +20,7 @@ params:
   last_post_date: "2024-06-03T19:10:00+01:00"
   last_post_link: https://clearleft.com/thinking/a-modern-approach-to-browser-support
   last_post_categories: []
+  last_post_guid: 582318ec9429d327eeb3a78941c64cd9
   score_criteria:
     cats: 0
     description: 3
@@ -31,4 +32,5 @@ params:
     website: 0
   score: 11
   ispodcast: false
+  isnoarchive: false
 ---

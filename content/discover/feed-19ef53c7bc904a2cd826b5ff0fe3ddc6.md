@@ -21,6 +21,7 @@ params:
   last_post_date: "2023-04-17T00:00:00Z"
   last_post_link: https://dataplane.org/jtk/blog/2023/04/run-parts/
   last_post_categories: []
+  last_post_guid: 8fb0ea4351ae7b7f76ea7cd44463fe2b
   score_criteria:
     cats: 0
     description: 3
@@ -32,4 +33,5 @@ params:
     website: 2
   score: 13
   ispodcast: false
+  isnoarchive: false
 ---

@@ -5,6 +5,10 @@
     {{ block "extrahead" . }}
     {{ end }}
     {{ partial "analytics" . }}
+
+    <link rel="blogroll" type="text/xml" href="{{ absURL "/opml.xml" }}">
+    <link rel=alternate type=application/rss+xml title="Most recent posts from the across the Blogroll Network" href="{{ absURL "/rss.xml" }}">
+
     <script>
       document.addEventListener('DOMContentLoaded', () => {
         const $navbarBurgers = Array.prototype.slice.call(document.querySelectorAll('.navbar-burger'), 0);
@@ -38,6 +42,9 @@
       <div class="navbar-start">
         <a class="navbar-item" href="/discover/">
           Feeds
+        </a>
+        <a class="navbar-item" href="/aggregate-feeds/">
+          Aggregate Feeds
         </a>
         <a class="navbar-item" href="https://github.com/ralexander-phi/rss-blogroll-network">
           GitHub Repo

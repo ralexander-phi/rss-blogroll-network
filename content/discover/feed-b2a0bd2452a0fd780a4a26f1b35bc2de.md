@@ -32,6 +32,7 @@ params:
   last_post_date: "2024-06-02T12:00:00+01:00"
   last_post_link: https://colly.com/stream/delia-s-third-happening
   last_post_categories: []
+  last_post_guid: e3ac7d1718f9914ab65d09a0de9f6ef9
   score_criteria:
     cats: 0
     description: 3
@@ -43,4 +44,5 @@ params:
     website: 2
   score: 15
   ispodcast: false
+  isnoarchive: false
 ---

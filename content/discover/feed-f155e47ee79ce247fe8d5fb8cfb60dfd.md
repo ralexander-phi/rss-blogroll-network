@@ -21,6 +21,7 @@ params:
   last_post_date: "2021-01-30T00:00:00Z"
   last_post_link: https://blog.rumyra.com/2021-01-30-laser-cutting-a-jigsaw-puzzle
   last_post_categories: []
+  last_post_guid: 70886d551913ac34a6dd20dfe390230a
   score_criteria:
     cats: 0
     description: 3
@@ -32,4 +33,5 @@ params:
     website: 2
   score: 13
   ispodcast: false
+  isnoarchive: false
 ---

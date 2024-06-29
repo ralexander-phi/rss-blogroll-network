@@ -19,11 +19,12 @@ params:
     https://indieweb.org/User:Calumryan.com: false
     https://micro.blog/calumryan: false
     https://toot.cafe/@calumryan: false
-  last_post_title: ""
+  last_post_title: Weeknote 82
   last_post_description: ""
-  last_post_date: ""
-  last_post_link: ""
+  last_post_date: "2024-05-27T22:00:00Z"
+  last_post_link: https://calumryan.com/articles/weeknote-82
   last_post_categories: []
+  last_post_guid: 5589a318c8e9bd2eebe7028e2cd46c6c
   score_criteria:
     cats: 1
     description: 0
@@ -35,4 +36,5 @@ params:
     website: 2
   score: 8
   ispodcast: false
+  isnoarchive: false
 ---

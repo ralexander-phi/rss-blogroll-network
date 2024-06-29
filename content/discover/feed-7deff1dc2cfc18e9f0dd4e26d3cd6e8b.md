@@ -20,6 +20,7 @@ params:
   last_post_date: "2024-02-06T10:56:13Z"
   last_post_link: https://www.are.na/block/1588901
   last_post_categories: []
+  last_post_guid: b7e1d9b82daa1527302f1655340e6a5f
   score_criteria:
     cats: 0
     description: 3
@@ -31,4 +32,5 @@ params:
     website: 1
   score: 7
   ispodcast: false
+  isnoarchive: false
 ---

@@ -17,9 +17,10 @@ params:
   relme: {}
   last_post_title: SDL and C++ on Windows 95
   last_post_description: ""
-  last_post_date: "1970-01-01T00:00:00Z"
+  last_post_date: "2022-09-12T21:13:25+02:00"
   last_post_link: https://mew.tv/tech/sdl95.html
   last_post_categories: []
+  last_post_guid: 0d0c4a4e84fc9ec5e6470fcc5c41234a
   score_criteria:
     cats: 0
     description: 3
@@ -31,4 +32,5 @@ params:
     website: 2
   score: 13
   ispodcast: false
+  isnoarchive: false
 ---

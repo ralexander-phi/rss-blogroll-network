@@ -21,6 +21,7 @@ params:
   last_post_date: "2024-06-04T15:25:05+02:00"
   last_post_link: https://www.security.nl/posting/844201/Staatssecretaris%3A+impact+ddos-aanvallen+vaak+beperkt+en+symbolisch+van+aard?channel=rss
   last_post_categories: []
+  last_post_guid: edb41f4e852214785a37c5940fc705bc
   score_criteria:
     cats: 0
     description: 3
@@ -32,4 +33,5 @@ params:
     website: 2
   score: 13
   ispodcast: false
+  isnoarchive: false
 ---

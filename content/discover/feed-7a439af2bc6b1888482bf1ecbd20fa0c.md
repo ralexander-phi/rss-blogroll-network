@@ -22,6 +22,7 @@ params:
   last_post_date: "2024-06-03T17:01:41Z"
   last_post_link: http://metatalk.metafilter.com/26445/Is-please-no-name-calling-a-big-ask#1424993
   last_post_categories: []
+  last_post_guid: 11177046efd971903b738b381c8ec3e6
   score_criteria:
     cats: 0
     description: 3
@@ -33,4 +34,5 @@ params:
     website: 2
   score: 8
   ispodcast: false
+  isnoarchive: false
 ---

@@ -44,6 +44,7 @@ params:
   last_post_link: https://simply.joejenett.com/whataya-mean-pulled-a-jack/
   last_post_categories:
   - '["personal"]'
+  last_post_guid: a9b5f30b7b4b1e1e51002707ef64d2bb
   score_criteria:
     cats: 0
     description: 3
@@ -55,4 +56,5 @@ params:
     website: 2
   score: 11
   ispodcast: false
+  isnoarchive: false
 ---

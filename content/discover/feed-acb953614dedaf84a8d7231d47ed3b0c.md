@@ -23,6 +23,7 @@ params:
   last_post_date: "2023-12-28T13:00:00+01:00"
   last_post_link: https://k9mail.app/2023/12/28/When-will-Thunderbird-for-Android-be-released.html
   last_post_categories: []
+  last_post_guid: b6388c5968a7550cc1741cfe99819889
   score_criteria:
     cats: 0
     description: 3
@@ -34,4 +35,5 @@ params:
     website: 2
   score: 14
   ispodcast: false
+  isnoarchive: false
 ---

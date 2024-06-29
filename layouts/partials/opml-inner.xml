@@ -1,0 +1,27 @@
+{{- printf "<?xml version=\"1.0\" encoding=\"utf-8\"?>" | safeHTML }}
+<opml version="2.0">
+	<head>
+    <title>{{ .Title }}</title>
+    <description>{{ .Description }}</description>
+    <dateModified>
+    {{- time.Now.Format "02 Jan 2006 15:04:05 UT" -}}
+    </dateModified>
+  </head>
+	<body>
+    {{ $ctx := . }}
+    {{- range .Site.RegularPages -}}
+      <outline
+        {{ if .Title }}
+            text="{{ transform.XMLEscape .Title }}"
+        {{ else }}
+            text="{{ transform.XMLEscape .Params.feedlink }}"
+        {{ end }}
+        {{ if .Params.categories }}
+            category="{{ delimit (apply (first 40 .Params.categories) "transform.XMLEscape" ".") "," }}"
+        {{ end }}
+            type="rss"
+            xmlUrl="{{ transform.XMLEscape .Params.feedlink }}"
+        />
+    {{- end -}}
+  </body>
+</opml>

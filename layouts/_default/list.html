@@ -1,0 +1,23 @@
+{{ define "extratitle" }}
+<nav class="breadcrumb" aria-label="breadcrumbs">
+  <ul>
+    <li><a href="/">Home</a></li>
+    <li class="is-active"><a href="#" aria-current="page">{{ .Title }}</a></li>
+  </ul>
+</nav>
+{{ end }}
+
+{{ define "main" }}
+
+<style>
+h2, h3 {
+  padding-top: 2em;
+}
+</style>
+
+<div class="content">
+<h1>{{ .Title }}</h1>
+{{ .Content }}
+</div>
+
+{{ end }}

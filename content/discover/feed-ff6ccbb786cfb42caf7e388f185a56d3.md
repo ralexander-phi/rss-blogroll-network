@@ -43,6 +43,7 @@ params:
   - Life
   - dogs
   - nature
+  last_post_guid: 751bd0de1d1577f01b6d7a12e20ef3d4
   score_criteria:
     cats: 0
     description: 3
@@ -54,4 +55,5 @@ params:
     website: 0
   score: 23
   ispodcast: false
+  isnoarchive: false
 ---

@@ -23,6 +23,7 @@ params:
   last_post_link: https://aows.co/blog/2024/6/3/tree-of-mt-tam
   last_post_categories:
   - photographs
+  last_post_guid: f056a754cd8daac62e4f7119f603e590
   score_criteria:
     cats: 0
     description: 3
@@ -34,4 +35,5 @@ params:
     website: 0
   score: 12
   ispodcast: false
+  isnoarchive: false
 ---

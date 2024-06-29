@@ -20,6 +20,7 @@ params:
   last_post_date: "2024-05-08T06:30:00-08:00"
   last_post_link: https://www.allthingsdistributed.com/2024/05/hacking-our-way-to-better-team-meetings.html?utm_campaign=inbound&utm_source=rss
   last_post_categories: []
+  last_post_guid: 05bf026a99b468a8ca4c851072507411
   score_criteria:
     cats: 0
     description: 3
@@ -31,4 +32,5 @@ params:
     website: 0
   score: 11
   ispodcast: false
+  isnoarchive: false
 ---

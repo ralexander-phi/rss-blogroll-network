@@ -32,6 +32,7 @@ params:
   - glamorous
   - work
   - Working
+  last_post_guid: 64c6b950fb94734417132ff4e1584e43
   score_criteria:
     cats: 0
     description: 3
@@ -43,4 +44,5 @@ params:
     website: 2
   score: 18
   ispodcast: false
+  isnoarchive: false
 ---

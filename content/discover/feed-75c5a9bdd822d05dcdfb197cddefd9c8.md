@@ -22,6 +22,7 @@ params:
   last_post_date: "2024-06-04T01:11:10Z"
   last_post_link: https://newsletter.werd.io/archive/this-weeks-notable-links-june-3-2024-9835/
   last_post_categories: []
+  last_post_guid: 12d1f62542e5f08bd9838354a0c3f428
   score_criteria:
     cats: 0
     description: 3
@@ -33,4 +34,5 @@ params:
     website: 2
   score: 8
   ispodcast: false
+  isnoarchive: false
 ---

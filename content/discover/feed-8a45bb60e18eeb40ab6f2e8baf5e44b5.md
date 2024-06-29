@@ -31,6 +31,7 @@ params:
   last_post_date: "2021-07-16T00:00:00Z"
   last_post_link: https://remysharp.com/devlog/marbles2/2021-07-16
   last_post_categories: []
+  last_post_guid: 1bd6858ee0e89d1832b4988234afee29
   score_criteria:
     cats: 0
     description: 3
@@ -42,4 +43,5 @@ params:
     website: 2
   score: 10
   ispodcast: false
+  isnoarchive: false
 ---

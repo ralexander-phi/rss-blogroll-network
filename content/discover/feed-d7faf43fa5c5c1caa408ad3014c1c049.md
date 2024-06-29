@@ -18,10 +18,13 @@ params:
   categories: []
   relme: {}
   last_post_title: reaching for stability
-  last_post_description: ""
+  last_post_description: At a graduation party, I was talking to someone about my
+    life and how I found an aim outside of my academic career to give me something
+    achievable. She replied that it sounded like I found some
   last_post_date: "2024-05-26T17:50:45Z"
   last_post_link: https://lili.bearblog.dev/reaching-for-stability/
   last_post_categories: []
+  last_post_guid: f762aaff3c9768d2648f0c12c5e59255
   score_criteria:
     cats: 0
     description: 3
@@ -33,4 +36,5 @@ params:
     website: 2
   score: 13
   ispodcast: false
+  isnoarchive: false
 ---

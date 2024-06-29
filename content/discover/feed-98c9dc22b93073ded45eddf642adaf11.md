@@ -20,9 +20,10 @@ params:
     https://www.linkedin.com/in/paulrobertlloyd: false
   last_post_title: Protocols, platforms and priorities
   last_post_description: ""
-  last_post_date: "1970-01-01T00:00:00Z"
+  last_post_date: "2024-05-22T23:40:00+01:00"
   last_post_link: https://paulrobertlloyd.com/2024/143/a1/protocols/
   last_post_categories: []
+  last_post_guid: fcdcb37772e9371eddd14ec25a0a815d
   score_criteria:
     cats: 0
     description: 0
@@ -34,4 +35,5 @@ params:
     website: 2
   score: 12
   ispodcast: false
+  isnoarchive: false
 ---

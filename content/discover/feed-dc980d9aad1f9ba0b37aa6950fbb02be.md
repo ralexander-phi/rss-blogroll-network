@@ -52,6 +52,7 @@ params:
   last_post_date: "2024-06-03T17:23:17Z"
   last_post_link: https://adactio.com/notes/21181
   last_post_categories: []
+  last_post_guid: bbd9e902971dafe0e705bbf3c7067241
   score_criteria:
     cats: 0
     description: 3
@@ -63,4 +64,5 @@ params:
     website: 2
   score: 15
   ispodcast: false
+  isnoarchive: false
 ---

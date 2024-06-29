@@ -21,6 +21,7 @@ params:
   last_post_date: "2024-05-27T18:23:50Z"
   last_post_link: https://digitalbydefault.com/2024/05/19/the-unproduct-person/#comment-6571
   last_post_categories: []
+  last_post_guid: 11a35faaf5d0d0b5473181e8033d8386
   score_criteria:
     cats: 0
     description: 0
@@ -32,4 +33,5 @@ params:
     website: 2
   score: 5
   ispodcast: false
+  isnoarchive: false
 ---

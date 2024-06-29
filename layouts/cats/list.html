@@ -24,8 +24,10 @@
 <script>
 var urlized = {
 {{ range .Site.RegularPages -}}
+  {{- if .Params.categories -}}
   {{- range (first 40 .Params.categories) -}}
     "{{ . }}": "{{ . | urlize }}",
+  {{- end -}}
   {{- end -}}
 {{- end -}}
 };

@@ -17,12 +17,11 @@ params:
   categories: []
   relme: {}
   last_post_title: 2024 - Year of Acceptance // Accountability
-  last_post_description: At the end of my 2023 theme review I mentioned how I started
-    the year thinking this would be the Year of Foundation Repair. A redo of my 2022
-    theme, fixing all the cracks and damage done over 2023.
-  last_post_date: "2024-06-02T00:00:00Z"
+  last_post_description: ""
+  last_post_date: "2024-06-02T06:45:01Z"
   last_post_link: https://nicky.bearblog.dev/2024-year-of-acceptance-accountability/
   last_post_categories: []
+  last_post_guid: ef7d89b6aae890bc0233d77388a63be4
   score_criteria:
     cats: 0
     description: 3
@@ -34,4 +33,5 @@ params:
     website: 2
   score: 13
   ispodcast: false
+  isnoarchive: false
 ---

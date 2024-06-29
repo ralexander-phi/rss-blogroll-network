@@ -38,6 +38,7 @@ params:
   - diary
   - weeknotes
   - garden
+  last_post_guid: dd54c4d07d8653faa9a1674d2ca15637
   score_criteria:
     cats: 5
     description: 3
@@ -49,4 +50,5 @@ params:
     website: 0
   score: 19
   ispodcast: false
+  isnoarchive: false
 ---

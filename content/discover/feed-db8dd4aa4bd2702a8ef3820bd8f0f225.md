@@ -26,6 +26,7 @@ params:
   - wordpress
   - timehop
   - on-this-day
+  last_post_guid: ef5f719a7dc21322d23e9a34ce2f4f3d
   score_criteria:
     cats: 0
     description: 3
@@ -37,4 +38,5 @@ params:
     website: 2
   score: 12
   ispodcast: false
+  isnoarchive: false
 ---

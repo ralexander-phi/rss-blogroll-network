@@ -25,9 +25,10 @@ params:
 
 
     API: Add 936 - Tones
-  last_post_date: "1970-01-01T00:00:00Z"
+  last_post_date: "2024-06-02T20:49:39Z"
   last_post_link: https://gitlab.com/mikestreety-sites/ale-house-rock/-/commit/c65269b6a431bf0584773df0f91df66519d648d1
   last_post_categories: []
+  last_post_guid: 3c4aa53e1e2189577aada18fbb58124f
   score_criteria:
     cats: 0
     description: 0
@@ -39,4 +40,5 @@ params:
     website: 2
   score: 7
   ispodcast: false
+  isnoarchive: false
 ---

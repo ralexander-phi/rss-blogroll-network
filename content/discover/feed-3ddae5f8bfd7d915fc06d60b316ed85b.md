@@ -14,11 +14,12 @@ params:
   - https://blog.numericcitizen.me/podcast.xml
   categories: []
   relme: {}
-  last_post_title: ""
+  last_post_title: Why I retired from the tech crusades
   last_post_description: ""
-  last_post_date: ""
-  last_post_link: ""
+  last_post_date: "2024-06-03T17:32:58Z"
+  last_post_link: https://world.hey.com/dhh/why-i-retired-from-the-tech-crusades-107a51ea
   last_post_categories: []
+  last_post_guid: eb61745786e6577daeff1799e96107a8
   score_criteria:
     cats: 0
     description: 0
@@ -30,4 +31,5 @@ params:
     website: 0
   score: 8
   ispodcast: false
+  isnoarchive: false
 ---

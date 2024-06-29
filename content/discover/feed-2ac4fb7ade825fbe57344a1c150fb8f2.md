@@ -22,6 +22,7 @@ params:
   last_post_date: "2024-05-27T16:33:56Z"
   last_post_link: https://storymin.es/2021/11/waarom-stijgen-de-huizenprijzen/#comment-12182
   last_post_categories: []
+  last_post_guid: a70f5838f41ba3e1a8d2df23f377c38e
   score_criteria:
     cats: 0
     description: 0
@@ -33,4 +34,5 @@ params:
     website: 2
   score: 5
   ispodcast: false
+  isnoarchive: false
 ---

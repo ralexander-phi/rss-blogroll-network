@@ -21,6 +21,7 @@ params:
   last_post_date: "2023-10-16T16:00:00Z"
   last_post_link: https://paulstamatiou.com/stocketa/
   last_post_categories: []
+  last_post_guid: e76dbb256169725044abe53dba2fed23
   score_criteria:
     cats: 0
     description: 0
@@ -32,4 +33,5 @@ params:
     website: 2
   score: 12
   ispodcast: false
+  isnoarchive: false
 ---

@@ -18,20 +18,23 @@ params:
   categories:
   - screencasts
   relme: {}
-  last_post_title: ""
+  last_post_title: Shell Exa Screencast
   last_post_description: ""
-  last_post_date: ""
-  last_post_link: ""
-  last_post_categories: []
+  last_post_date: "2021-02-15T13:39:41Z"
+  last_post_link: https://alchemists.io/screencasts/shell_exa
+  last_post_categories:
+  - screencasts
+  last_post_guid: e8bfb4e605c54227a05713f7f79f8b0c
   score_criteria:
     cats: 1
     description: 3
-    postcats: 0
+    postcats: 1
     promoted: 0
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 9
+  score: 10
   ispodcast: false
+  isnoarchive: false
 ---

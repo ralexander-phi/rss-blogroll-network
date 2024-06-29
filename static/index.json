@@ -313,26 +313,6 @@
             "group": 1
         },
         {
-            "id": "https://account.xbox.com/en-us/Profile?gamertag=jayygravv",
-            "group": 2
-        },
-        {
-            "id": "https://actualwebsite.org/",
-            "group": 2
-        },
-        {
-            "id": "https://actualwebsite.org/index.html",
-            "group": 4
-        },
-        {
-            "id": "https://actualwebsite.org/proven.lol/f5e8f7",
-            "group": 2
-        },
-        {
-            "id": "https://actualwebsite.org/rss.xml",
-            "group": 1
-        },
-        {
             "id": "https://ada.is/",
             "group": 2
         },
@@ -785,10 +765,6 @@
             "group": 2
         },
         {
-            "id": "https://anniemueller.com/comments/feed/",
-            "group": 1
-        },
-        {
             "id": "https://anniemueller.com/feed/",
             "group": 1
         },
@@ -1006,10 +982,6 @@
         },
         {
             "id": "https://bandcamp.com/adactio",
-            "group": 2
-        },
-        {
-            "id": "https://bandcamp.com/starbreaker5150",
             "group": 2
         },
         {
@@ -1349,10 +1321,6 @@
             "group": 1
         },
         {
-            "id": "https://blip.fm/feed/psd",
-            "group": 1
-        },
-        {
             "id": "https://blip.fm/psd",
             "group": 2
         },
@@ -1586,42 +1554,6 @@
         },
         {
             "id": "https://blog.joinmastodon.org/index.xml",
-            "group": 1
-        },
-        {
-            "id": "https://blog.mageia.org/en",
-            "group": 2
-        },
-        {
-            "id": "https://blog.mageia.org/en/",
-            "group": 2
-        },
-        {
-            "id": "https://blog.mageia.org/en/?feed=rss2",
-            "group": 1
-        },
-        {
-            "id": "https://blog.mageia.org/en/comments/feed/",
-            "group": 1
-        },
-        {
-            "id": "https://blog.mageia.org/en/feed/",
-            "group": 1
-        },
-        {
-            "id": "https://blog.mageia.org/fr",
-            "group": 2
-        },
-        {
-            "id": "https://blog.mageia.org/fr/",
-            "group": 2
-        },
-        {
-            "id": "https://blog.mageia.org/fr/comments/feed/",
-            "group": 1
-        },
-        {
-            "id": "https://blog.mageia.org/fr/feed/",
             "group": 1
         },
         {
@@ -2173,10 +2105,6 @@
             "group": 1
         },
         {
-            "id": "https://bsky.app/profile/did:plc:jb2vxkcdmlyhj4olizn7ebcz/rss",
-            "group": 1
-        },
-        {
             "id": "https://bsky.app/profile/did:plc:jrzyao2holfkgrsfbq2tue27/rss",
             "group": 1
         },
@@ -2229,10 +2157,6 @@
             "group": 1
         },
         {
-            "id": "https://bsky.app/profile/did:plc:yrn37porfmz7u3lwbhecyumt/rss",
-            "group": 1
-        },
-        {
             "id": "https://bsky.app/profile/did:plc:ywso5zb7zpnxtyk5hpqetiwh/rss",
             "group": 1
         },
@@ -2242,10 +2166,6 @@
         },
         {
             "id": "https://bsky.app/profile/edent.tel",
-            "group": 2
-        },
-        {
-            "id": "https://bsky.app/profile/epictalestavern.com",
             "group": 2
         },
         {
@@ -2322,10 +2242,6 @@
         },
         {
             "id": "https://bsky.app/profile/ohhelloana.blog",
-            "group": 2
-        },
-        {
-            "id": "https://bsky.app/profile/otavio.cc",
             "group": 2
         },
         {
@@ -3005,10 +2921,6 @@
             "group": 1
         },
         {
-            "id": "https://cloudpeople1.bandcamp.com/album/simulacra",
-            "group": 2
-        },
-        {
             "id": "https://club.macstories.net/",
             "group": 2
         },
@@ -3223,10 +3135,6 @@
         {
             "id": "https://colly.com/articles/feed",
             "group": 1
-        },
-        {
-            "id": "https://colossusmetal.bandcamp.com/album/showdown",
-            "group": 2
         },
         {
             "id": "https://community.hachyderm.io/",
@@ -4409,10 +4317,6 @@
             "group": 1
         },
         {
-            "id": "https://emberbelladonna.bandcamp.com/album/the-grove",
-            "group": 2
-        },
-        {
             "id": "https://emilymstark.com/",
             "group": 2
         },
@@ -4465,18 +4369,6 @@
             "group": 1
         },
         {
-            "id": "https://en.wikipedia.org/wiki/Cyteen",
-            "group": 2
-        },
-        {
-            "id": "https://en.wikipedia.org/wiki/Declare",
-            "group": 2
-        },
-        {
-            "id": "https://en.wikipedia.org/wiki/Devil_to_the_Belt",
-            "group": 2
-        },
-        {
             "id": "https://en.wikipedia.org/wiki/Frieren",
             "group": 4
         },
@@ -4514,14 +4406,6 @@
         },
         {
             "id": "https://enhance.dev/discord",
-            "group": 2
-        },
-        {
-            "id": "https://epictalestavern.com/",
-            "group": 2
-        },
-        {
-            "id": "https://epictalestavern.com/feed.xml",
             "group": 2
         },
         {
@@ -5961,18 +5845,6 @@
             "group": 1
         },
         {
-            "id": "https://git.sr.ht/~starbreaker/",
-            "group": 2
-        },
-        {
-            "id": "https://git.sr.ht/~starbreaker/matthewgraybosch.com/",
-            "group": 2
-        },
-        {
-            "id": "https://git.sr.ht/~starbreaker/matthewgraybosch.com/log/main/rss.xml",
-            "group": 1
-        },
-        {
             "id": "https://git.sr.ht/~timharek",
             "group": 2
         },
@@ -6698,10 +6570,6 @@
         },
         {
             "id": "https://github.com/oscarbenedito",
-            "group": 2
-        },
-        {
-            "id": "https://github.com/otaviocc",
             "group": 2
         },
         {
@@ -8097,10 +7965,6 @@
             "group": 2
         },
         {
-            "id": "https://home.omg.lol/keychain/otaviocc/pgp",
-            "group": 2
-        },
-        {
             "id": "https://home.omg.lol/referred-by/c",
             "group": 2
         },
@@ -9473,6 +9337,10 @@
             "group": 2
         },
         {
+            "id": "https://khoros.com/platform/klout",
+            "group": 4
+        },
+        {
             "id": "https://kilianvalkhof.com/",
             "group": 2
         },
@@ -9507,6 +9375,10 @@
         {
             "id": "https://kld.dev/rss.xml",
             "group": 1
+        },
+        {
+            "id": "https://klout.com/",
+            "group": 2
         },
         {
             "id": "https://kmaasrud.com/",
@@ -9558,10 +9430,6 @@
         },
         {
             "id": "https://ko-fi.com/mattstein",
-            "group": 2
-        },
-        {
-            "id": "https://ko-fi.com/otaviocc",
             "group": 2
         },
         {
@@ -9921,10 +9789,6 @@
             "group": 2
         },
         {
-            "id": "https://links.otavio.cc/",
-            "group": 2
-        },
-        {
             "id": "https://linkscatter.jenett.org/",
             "group": 2
         },
@@ -10147,10 +10011,6 @@
         {
             "id": "https://louplummer.lol/",
             "group": 2
-        },
-        {
-            "id": "https://louplummer.lol/feed.atom",
-            "group": 1
         },
         {
             "id": "https://lu.ma/toolsforthought",
@@ -11661,18 +11521,6 @@
             "group": 1
         },
         {
-            "id": "https://matthewgraybosch.com/",
-            "group": 2
-        },
-        {
-            "id": "https://matthewgraybosch.com/index.html",
-            "group": 4
-        },
-        {
-            "id": "https://matthewgraybosch.com/proven.lol/e9f6ea",
-            "group": 2
-        },
-        {
             "id": "https://matthiasott.com/",
             "group": 2
         },
@@ -11875,10 +11723,6 @@
         {
             "id": "https://meejah.ca/atom.xml",
             "group": 1
-        },
-        {
-            "id": "https://meltedfaces.com/",
-            "group": 2
         },
         {
             "id": "https://meme.yahoo.com/psd/",
@@ -12245,10 +12089,6 @@
             "group": 2
         },
         {
-            "id": "https://micro.blog/otaviocc",
-            "group": 2
-        },
-        {
             "id": "https://micro.blog/patrickrhone",
             "group": 2
         },
@@ -12347,14 +12187,6 @@
         {
             "id": "https://microformats.org/wiki/index.php?feed=atom\u0026title=Special%3ARecentChanges",
             "group": 1
-        },
-        {
-            "id": "https://micropublish.blog/",
-            "group": 2
-        },
-        {
-            "id": "https://micropublish.blog/feed.xml",
-            "group": 2
         },
         {
             "id": "https://midlas.org.au/",
@@ -12575,22 +12407,6 @@
         {
             "id": "https://mzla.link/eoy23_masto",
             "group": 2
-        },
-        {
-            "id": "https://na.finalfantasyxiv.com/lodestone/",
-            "group": 2
-        },
-        {
-            "id": "https://na.finalfantasyxiv.com/lodestone/character/40706699/",
-            "group": 2
-        },
-        {
-            "id": "https://na.finalfantasyxiv.com/lodestone/news/news.xml",
-            "group": 1
-        },
-        {
-            "id": "https://na.finalfantasyxiv.com/lodestone/news/topics.xml",
-            "group": 1
         },
         {
             "id": "https://nanowrimo.org/participants/chrisaldrich",
@@ -13449,18 +13265,6 @@
             "group": 1
         },
         {
-            "id": "https://otavio.lol/",
-            "group": 2
-        },
-        {
-            "id": "https://otaviocc.itch.io/",
-            "group": 2
-        },
-        {
-            "id": "https://otaviocc.proven.lol/",
-            "group": 2
-        },
-        {
             "id": "https://oulipo.social/@ruario",
             "group": 2
         },
@@ -13833,10 +13637,6 @@
             "group": 2
         },
         {
-            "id": "https://planet.mageia.org/en/custom/people.opml",
-            "group": 3
-        },
-        {
             "id": "https://planning.barcampbangalore.com/",
             "group": 2
         },
@@ -14177,31 +13977,11 @@
             "group": 2
         },
         {
-            "id": "https://proven.lol/810656",
-            "group": 2
-        },
-        {
-            "id": "https://proven.lol/a5cfa6",
-            "group": 2
-        },
-        {
             "id": "https://proven.lol/de2be6",
             "group": 2
         },
         {
             "id": "https://proven.lol/e64391",
-            "group": 2
-        },
-        {
-            "id": "https://proven.lol/e9e24c",
-            "group": 2
-        },
-        {
-            "id": "https://proven.lol/e9f6ea",
-            "group": 2
-        },
-        {
-            "id": "https://proven.lol/f5e8f7",
             "group": 2
         },
         {
@@ -15009,10 +14789,6 @@
             "group": 1
         },
         {
-            "id": "https://satanuk.bandcamp.com/album/earth-infernal",
-            "group": 2
-        },
-        {
             "id": "https://sbarnea.com/",
             "group": 2
         },
@@ -15657,14 +15433,6 @@
             "group": 1
         },
         {
-            "id": "https://social.lol/@epictalestavern",
-            "group": 2
-        },
-        {
-            "id": "https://social.lol/@epictalestavern.rss",
-            "group": 1
-        },
-        {
             "id": "https://social.lol/@flamed",
             "group": 2
         },
@@ -15770,14 +15538,6 @@
         },
         {
             "id": "https://social.lol/@omgdotlol.rss",
-            "group": 1
-        },
-        {
-            "id": "https://social.lol/@otaviocc",
-            "group": 2
-        },
-        {
-            "id": "https://social.lol/@otaviocc.rss",
             "group": 1
         },
         {
@@ -16237,14 +15997,6 @@
             "group": 2
         },
         {
-            "id": "https://solo.otavio.cc/",
-            "group": 4
-        },
-        {
-            "id": "https://solo.otavio.cc/feed.xml",
-            "group": 1
-        },
-        {
             "id": "https://sosm.ch/",
             "group": 1
         },
@@ -16278,10 +16030,6 @@
         },
         {
             "id": "https://spacebar.jcink.net/index.php?showuser=21",
-            "group": 2
-        },
-        {
-            "id": "https://spacehey.com/starbreaker",
             "group": 2
         },
         {
@@ -16433,187 +16181,11 @@
             "group": 1
         },
         {
-            "id": "https://starbreaker.omg.lol/",
-            "group": 2
-        },
-        {
-            "id": "https://starbreaker.omg.lol/now",
-            "group": 2
-        },
-        {
             "id": "https://starbreaker.org/",
             "group": 2
         },
         {
-            "id": "https://starbreaker.org/blog/everything.html",
-            "group": 4
-        },
-        {
-            "id": "https://starbreaker.org/blog/latest.html",
-            "group": 2
-        },
-        {
-            "id": "https://starbreaker.org/blog/lewd/index.html",
-            "group": 4
-        },
-        {
-            "id": "https://starbreaker.org/blog/lewd/proven.lol/a5cfa6",
-            "group": 2
-        },
-        {
-            "id": "https://starbreaker.org/blog/links/index.html",
-            "group": 4
-        },
-        {
-            "id": "https://starbreaker.org/blog/links/proven.lol/a5cfa6",
-            "group": 2
-        },
-        {
-            "id": "https://starbreaker.org/blog/misc/index.html",
-            "group": 4
-        },
-        {
-            "id": "https://starbreaker.org/blog/misc/proven.lol/a5cfa6",
-            "group": 2
-        },
-        {
-            "id": "https://starbreaker.org/blog/personal/index.html",
-            "group": 4
-        },
-        {
-            "id": "https://starbreaker.org/blog/personal/proven.lol/a5cfa6",
-            "group": 2
-        },
-        {
-            "id": "https://starbreaker.org/blog/proven.lol/a5cfa6",
-            "group": 2
-        },
-        {
-            "id": "https://starbreaker.org/blog/rants/index.html",
-            "group": 4
-        },
-        {
-            "id": "https://starbreaker.org/blog/rants/proven.lol/a5cfa6",
-            "group": 2
-        },
-        {
-            "id": "https://starbreaker.org/blog/recent.html",
-            "group": 4
-        },
-        {
-            "id": "https://starbreaker.org/blog/recommended.html",
-            "group": 4
-        },
-        {
-            "id": "https://starbreaker.org/blog/tech/index.html",
-            "group": 4
-        },
-        {
-            "id": "https://starbreaker.org/blog/tech/proven.lol/a5cfa6",
-            "group": 2
-        },
-        {
-            "id": "https://starbreaker.org/blog/writing/index.html",
-            "group": 4
-        },
-        {
-            "id": "https://starbreaker.org/blog/writing/proven.lol/a5cfa6",
-            "group": 2
-        },
-        {
-            "id": "https://starbreaker.org/feeds/entertainment.xml",
-            "group": 1
-        },
-        {
-            "id": "https://starbreaker.org/feeds/everything.xml",
-            "group": 1
-        },
-        {
-            "id": "https://starbreaker.org/feeds/headlines.xml",
-            "group": 1
-        },
-        {
-            "id": "https://starbreaker.org/feeds/latest.xml",
-            "group": 1
-        },
-        {
-            "id": "https://starbreaker.org/feeds/lewd.xml",
-            "group": 1
-        },
-        {
-            "id": "https://starbreaker.org/feeds/links.xml",
-            "group": 1
-        },
-        {
-            "id": "https://starbreaker.org/feeds/misc.xml",
-            "group": 1
-        },
-        {
-            "id": "https://starbreaker.org/feeds/personal.xml",
-            "group": 1
-        },
-        {
-            "id": "https://starbreaker.org/feeds/rants.xml",
-            "group": 1
-        },
-        {
             "id": "https://starbreaker.org/feeds/recent.xml",
-            "group": 1
-        },
-        {
-            "id": "https://starbreaker.org/feeds/recommended.xml",
-            "group": 1
-        },
-        {
-            "id": "https://starbreaker.org/feeds/tech.xml",
-            "group": 1
-        },
-        {
-            "id": "https://starbreaker.org/feeds/writing.xml",
-            "group": 1
-        },
-        {
-            "id": "https://starbreaker.org/fiction/novels/silent-clarion/index.html",
-            "group": 4
-        },
-        {
-            "id": "https://starbreaker.org/fiction/novels/silent-clarion/proven.lol/a5cfa6",
-            "group": 2
-        },
-        {
-            "id": "https://starbreaker.org/fiction/novels/without-bloodshed/index.html",
-            "group": 4
-        },
-        {
-            "id": "https://starbreaker.org/fiction/novels/without-bloodshed/proven.lol/a5cfa6",
-            "group": 2
-        },
-        {
-            "id": "https://starbreaker.org/fiction/stories/limited-liability/index.html",
-            "group": 4
-        },
-        {
-            "id": "https://starbreaker.org/fiction/stories/limited-liability/proven.lol/a5cfa6",
-            "group": 2
-        },
-        {
-            "id": "https://starbreaker.org/fiction/stories/milgram-battery/index.html",
-            "group": 4
-        },
-        {
-            "id": "https://starbreaker.org/fiction/stories/milgram-battery/proven.lol/a5cfa6",
-            "group": 2
-        },
-        {
-            "id": "https://starbreaker.org/index.html",
-            "group": 4
-        },
-        {
-            "id": "https://starbreaker.org/proven.lol/a5cfa6",
-            "group": 2
-        },
-        {
-            "id": "https://starbreaker.status.lol/feed",
             "group": 1
         },
         {
@@ -16634,10 +16206,6 @@
         },
         {
             "id": "https://status.lol/joeross",
-            "group": 2
-        },
-        {
-            "id": "https://status.lol/starbreaker",
             "group": 2
         },
         {
@@ -16906,10 +16474,6 @@
         },
         {
             "id": "https://tamanotchi.world/u/5594",
-            "group": 2
-        },
-        {
-            "id": "https://tanithnyc.bandcamp.com/album/voyage",
             "group": 2
         },
         {
@@ -17910,10 +17474,6 @@
         },
         {
             "id": "https://twitter.com/eleven_ty",
-            "group": 2
-        },
-        {
-            "id": "https://twitter.com/emberbelladonna",
             "group": 2
         },
         {
@@ -19849,10 +19409,6 @@
             "group": 1
         },
         {
-            "id": "https://www.emmakr.ca/",
-            "group": 4
-        },
-        {
             "id": "https://www.engineersneedart.com/",
             "group": 2
         },
@@ -19917,10 +19473,6 @@
             "group": 2
         },
         {
-            "id": "https://www.facebook.com/EmberBelladonnaMusic",
-            "group": 2
-        },
-        {
             "id": "https://www.facebook.com/LFL8424",
             "group": 2
         },
@@ -19930,10 +19482,6 @@
         },
         {
             "id": "https://www.facebook.com/PittsburghRacialJusticeSummit",
-            "group": 2
-        },
-        {
-            "id": "https://www.facebook.com/TanithNYC",
             "group": 2
         },
         {
@@ -20105,10 +19653,6 @@
             "group": 2
         },
         {
-            "id": "https://www.goodreads.com/author/show/7144002.Matthew_Graybosch",
-            "group": 4
-        },
-        {
             "id": "https://www.goodreads.com/friend/user/3250760",
             "group": 2
         },
@@ -20135,10 +19679,6 @@
         {
             "id": "https://www.goodreads.com/review/list/3250760?shelf=itbio",
             "group": 2
-        },
-        {
-            "id": "https://www.goodreads.com/review/list_rss/125254359",
-            "group": 1
         },
         {
             "id": "https://www.goodreads.com/review/list_rss/3250760",
@@ -20199,14 +19739,6 @@
         {
             "id": "https://www.goodreads.com/user/sign_up",
             "group": 4
-        },
-        {
-            "id": "https://www.goodreads.com/user/updates_rss/125254359",
-            "group": 1
-        },
-        {
-            "id": "https://www.goodreads.com/user/updates_rss/125254359?v=as",
-            "group": 1
         },
         {
             "id": "https://www.goodreads.com/user/updates_rss/3250760",
@@ -20607,10 +20139,6 @@
         {
             "id": "https://www.last.fm/user/snark35/",
             "group": 2
-        },
-        {
-            "id": "https://www.last.fm/user/starbreaker5150",
-            "group": 4
         },
         {
             "id": "https://www.leaningforward.com/blog",
@@ -22258,10 +21786,6 @@
         },
         {
             "id": "https://www.tiddlywiki.org/wiki/User:Psd",
-            "group": 2
-        },
-        {
-            "id": "https://www.tiktok.com/@emberbelladonna",
             "group": 2
         },
         {
@@ -24463,26 +23987,6 @@
             "target": "https://abyssdomain.expert/@filippo"
         },
         {
-            "source": "https://actualwebsite.org/",
-            "target": "https://actualwebsite.org/index.html"
-        },
-        {
-            "source": "https://actualwebsite.org/",
-            "target": "https://actualwebsite.org/proven.lol/f5e8f7"
-        },
-        {
-            "source": "https://actualwebsite.org/",
-            "target": "https://actualwebsite.org/rss.xml"
-        },
-        {
-            "source": "https://actualwebsite.org/",
-            "target": "https://matthewgraybosch.com/"
-        },
-        {
-            "source": "https://actualwebsite.org/",
-            "target": "https://starbreaker.org/"
-        },
-        {
             "source": "https://ada.is/",
             "target": "https://ada.is/feed"
         },
@@ -25707,26 +25211,6 @@
             "target": "https://annie.micro.blog/"
         },
         {
-            "source": "https://anniemueller.com/",
-            "target": "https://anniemueller.com/"
-        },
-        {
-            "source": "https://anniemueller.com/",
-            "target": "https://anniemueller.com/comments/feed/"
-        },
-        {
-            "source": "https://anniemueller.com/",
-            "target": "https://anniemueller.com/feed/"
-        },
-        {
-            "source": "https://anniemueller.com/comments/feed/",
-            "target": "https://anniemueller.com/"
-        },
-        {
-            "source": "https://anniemueller.com/feed/",
-            "target": "https://anniemueller.com/"
-        },
-        {
             "source": "https://annoying.technology/",
             "target": "https://annoying.technology/"
         },
@@ -26667,18 +26151,6 @@
             "target": "https://blast-o-rama.com/"
         },
         {
-            "source": "https://blip.fm/feed/psd",
-            "target": "https://blip.fm/psd"
-        },
-        {
-            "source": "https://blip.fm/psd",
-            "target": "https://blip.fm/feed/psd"
-        },
-        {
-            "source": "https://blip.fm/psd",
-            "target": "https://blog.whatfettle.com/"
-        },
-        {
             "source": "https://blog.acolyer.org/",
             "target": "https://blog.acolyer.org/comments/feed/"
         },
@@ -27249,58 +26721,6 @@
         {
             "source": "https://blog.joinmastodon.org/index.xml",
             "target": "https://blog.joinmastodon.org/"
-        },
-        {
-            "source": "https://blog.mageia.org/en",
-            "target": "https://blog.mageia.org/en/comments/feed/"
-        },
-        {
-            "source": "https://blog.mageia.org/en",
-            "target": "https://blog.mageia.org/en/feed/"
-        },
-        {
-            "source": "https://blog.mageia.org/en/",
-            "target": "https://blog.mageia.org/en/comments/feed/"
-        },
-        {
-            "source": "https://blog.mageia.org/en/",
-            "target": "https://blog.mageia.org/en/feed/"
-        },
-        {
-            "source": "https://blog.mageia.org/en/?feed=rss2",
-            "target": "https://blog.mageia.org/en"
-        },
-        {
-            "source": "https://blog.mageia.org/en/comments/feed/",
-            "target": "https://blog.mageia.org/en"
-        },
-        {
-            "source": "https://blog.mageia.org/en/feed/",
-            "target": "https://blog.mageia.org/en"
-        },
-        {
-            "source": "https://blog.mageia.org/fr",
-            "target": "https://blog.mageia.org/fr/comments/feed/"
-        },
-        {
-            "source": "https://blog.mageia.org/fr",
-            "target": "https://blog.mageia.org/fr/feed/"
-        },
-        {
-            "source": "https://blog.mageia.org/fr/",
-            "target": "https://blog.mageia.org/fr/comments/feed/"
-        },
-        {
-            "source": "https://blog.mageia.org/fr/",
-            "target": "https://blog.mageia.org/fr/feed/"
-        },
-        {
-            "source": "https://blog.mageia.org/fr/comments/feed/",
-            "target": "https://blog.mageia.org/fr"
-        },
-        {
-            "source": "https://blog.mageia.org/fr/feed/",
-            "target": "https://blog.mageia.org/fr"
         },
         {
             "source": "https://blog.martin-haehnel.de/",
@@ -28872,6 +28292,10 @@
         },
         {
             "source": "https://boffosocko.com/about/social-media-accounts-and-links/",
+            "target": "https://klout.com/"
+        },
+        {
+            "source": "https://boffosocko.com/about/social-media-accounts-and-links/",
             "target": "https://letterboxd.com/chrisaldrich/"
         },
         {
@@ -29675,10 +29099,6 @@
             "target": "https://bsky.app/profile/robin.berjon.com"
         },
         {
-            "source": "https://bsky.app/profile/did:plc:jb2vxkcdmlyhj4olizn7ebcz/rss",
-            "target": "https://bsky.app/profile/otavio.cc"
-        },
-        {
             "source": "https://bsky.app/profile/did:plc:jrzyao2holfkgrsfbq2tue27/rss",
             "target": "https://bsky.app/profile/sjoy.lol"
         },
@@ -29731,10 +29151,6 @@
             "target": "https://bsky.app/profile/joeross.me"
         },
         {
-            "source": "https://bsky.app/profile/did:plc:yrn37porfmz7u3lwbhecyumt/rss",
-            "target": "https://bsky.app/profile/epictalestavern.com"
-        },
-        {
             "source": "https://bsky.app/profile/did:plc:ywso5zb7zpnxtyk5hpqetiwh/rss",
             "target": "https://bsky.app/profile/ohhelloana.blog"
         },
@@ -29745,10 +29161,6 @@
         {
             "source": "https://bsky.app/profile/edent.tel",
             "target": "https://bsky.app/profile/did:plc:i6misxex577k4q6o7gloen4s/rss"
-        },
-        {
-            "source": "https://bsky.app/profile/epictalestavern.com",
-            "target": "https://bsky.app/profile/did:plc:yrn37porfmz7u3lwbhecyumt/rss"
         },
         {
             "source": "https://bsky.app/profile/filippo.abyssdomain.expert",
@@ -29825,10 +29237,6 @@
         {
             "source": "https://bsky.app/profile/ohhelloana.blog",
             "target": "https://bsky.app/profile/did:plc:ywso5zb7zpnxtyk5hpqetiwh/rss"
-        },
-        {
-            "source": "https://bsky.app/profile/otavio.cc",
-            "target": "https://bsky.app/profile/did:plc:jb2vxkcdmlyhj4olizn7ebcz/rss"
         },
         {
             "source": "https://bsky.app/profile/pftnhr.blue",
@@ -30989,14 +30397,6 @@
         {
             "source": "https://cheri.omg.lol/",
             "target": "https://www.cheribaker.com/news"
-        },
-        {
-            "source": "https://cheribaker.com/",
-            "target": "https://cheribaker.com/"
-        },
-        {
-            "source": "https://cheribaker.com/",
-            "target": "https://writing.exchange/@cheribaker"
         },
         {
             "source": "https://chrisaldrich.neocities.org/",
@@ -32411,10 +31811,6 @@
             "target": "https://seirdy.one/"
         },
         {
-            "source": "https://codeberg.org/Seirdy.rss",
-            "target": "https://codeberg.org/Seirdy"
-        },
-        {
             "source": "https://codeberg.org/kitten/app",
             "target": "https://codeberg.org/kitten/app.atom"
         },
@@ -32425,10 +31821,6 @@
         {
             "source": "https://codeberg.org/kitten/app",
             "target": "https://mastodon.ar.al/@aral"
-        },
-        {
-            "source": "https://codeberg.org/kitten/app.rss",
-            "target": "https://codeberg.org/kitten/app"
         },
         {
             "source": "https://codeberg.org/ttntm",
@@ -32445,10 +31837,6 @@
         {
             "source": "https://codeberg.org/ttntm",
             "target": "https://ttntm.me/"
-        },
-        {
-            "source": "https://codeberg.org/ttntm.rss",
-            "target": "https://codeberg.org/ttntm"
         },
         {
             "source": "https://codepen.io/MHLut",
@@ -33241,10 +32629,6 @@
         {
             "source": "https://colly.com/articles/feed",
             "target": "https://colly.com/"
-        },
-        {
-            "source": "https://colossusmetal.bandcamp.com/album/showdown",
-            "target": "https://meltedfaces.com/"
         },
         {
             "source": "https://community.hachyderm.io/",
@@ -40367,22 +39751,6 @@
             "target": "https://emanuelpina.pt/"
         },
         {
-            "source": "https://emberbelladonna.bandcamp.com/album/the-grove",
-            "target": "https://twitter.com/emberbelladonna"
-        },
-        {
-            "source": "https://emberbelladonna.bandcamp.com/album/the-grove",
-            "target": "https://www.emmakr.ca/"
-        },
-        {
-            "source": "https://emberbelladonna.bandcamp.com/album/the-grove",
-            "target": "https://www.facebook.com/EmberBelladonnaMusic"
-        },
-        {
-            "source": "https://emberbelladonna.bandcamp.com/album/the-grove",
-            "target": "https://www.tiktok.com/@emberbelladonna"
-        },
-        {
             "source": "https://emilymstark.com/",
             "target": "https://emilymstark.com/"
         },
@@ -40475,30 +39843,6 @@
             "target": "https://twitter.com/PronounsPage"
         },
         {
-            "source": "https://en.wikipedia.org/wiki/Cyteen",
-            "target": "https://en.wikipedia.org/w/index.php?feed=atom\u0026title=Special%3ARecentChanges"
-        },
-        {
-            "source": "https://en.wikipedia.org/wiki/Cyteen",
-            "target": "https://en.wikipedia.org/wiki/Cyteen"
-        },
-        {
-            "source": "https://en.wikipedia.org/wiki/Declare",
-            "target": "https://en.wikipedia.org/w/index.php?feed=atom\u0026title=Special%3ARecentChanges"
-        },
-        {
-            "source": "https://en.wikipedia.org/wiki/Declare",
-            "target": "https://en.wikipedia.org/wiki/Declare"
-        },
-        {
-            "source": "https://en.wikipedia.org/wiki/Devil_to_the_Belt",
-            "target": "https://en.wikipedia.org/w/index.php?feed=atom\u0026title=Special%3ARecentChanges"
-        },
-        {
-            "source": "https://en.wikipedia.org/wiki/Devil_to_the_Belt",
-            "target": "https://en.wikipedia.org/wiki/Devil_to_the_Belt"
-        },
-        {
             "source": "https://en.wikipedia.org/wiki/Frieren",
             "target": "https://en.wikipedia.org/w/index.php?feed=atom\u0026title=Special%3ARecentChanges"
         },
@@ -40537,30 +39881,6 @@
         {
             "source": "https://enhance.dev/discord",
             "target": "https://discord.com/invite/J8bUSfKs8W"
-        },
-        {
-            "source": "https://epictalestavern.com/",
-            "target": "https://epictalestavern.com/"
-        },
-        {
-            "source": "https://epictalestavern.com/",
-            "target": "https://epictalestavern.com/feed.xml"
-        },
-        {
-            "source": "https://epictalestavern.com/",
-            "target": "https://github.com/otaviocc"
-        },
-        {
-            "source": "https://epictalestavern.com/",
-            "target": "https://micro.blog/otaviocc"
-        },
-        {
-            "source": "https://epictalestavern.com/",
-            "target": "https://social.lol/@epictalestavern"
-        },
-        {
-            "source": "https://epictalestavern.com/feed.xml",
-            "target": "https://epictalestavern.com/"
         },
         {
             "source": "https://ericwbailey.website/",
@@ -44807,10 +44127,6 @@
             "target": "https://git.sr.ht/~emersion/soju/refs"
         },
         {
-            "source": "https://git.sr.ht/~starbreaker/",
-            "target": "https://starbreaker.org/"
-        },
-        {
             "source": "https://git.sr.ht/~timharek",
             "target": "https://timharek.no/"
         },
@@ -46697,22 +46013,6 @@
         {
             "source": "https://github.com/oscarbenedito",
             "target": "https://oscarbenedito.com/"
-        },
-        {
-            "source": "https://github.com/otaviocc",
-            "target": "https://github.com/otaviocc"
-        },
-        {
-            "source": "https://github.com/otaviocc",
-            "target": "https://otavio.lol/"
-        },
-        {
-            "source": "https://github.com/otaviocc",
-            "target": "https://proven.lol/810656"
-        },
-        {
-            "source": "https://github.com/otaviocc",
-            "target": "https://social.lol/@otaviocc"
         },
         {
             "source": "https://github.com/paulrobertlloyd",
@@ -51588,10 +50888,6 @@
         },
         {
             "source": "https://jacky.wtf/about",
-            "target": "https://account.xbox.com/en-us/Profile?gamertag=jayygravv"
-        },
-        {
-            "source": "https://jacky.wtf/about",
             "target": "https://angel.co/u/jackyalcine"
         },
         {
@@ -55139,6 +54435,10 @@
             "target": "https://kld.dev/"
         },
         {
+            "source": "https://klout.com/",
+            "target": "https://khoros.com/platform/klout"
+        },
+        {
             "source": "https://knuspermagier.de/",
             "target": "https://github.com/pwaldhauer"
         },
@@ -56149,18 +55449,6 @@
         {
             "source": "https://loungeruminator.net/feed/",
             "target": "https://loungeruminator.net/"
-        },
-        {
-            "source": "https://louplummer.lol/",
-            "target": "https://louplummer.lol/feed.atom"
-        },
-        {
-            "source": "https://louplummer.lol/",
-            "target": "https://social.lol/@amerpie"
-        },
-        {
-            "source": "https://louplummer.lol/feed.atom",
-            "target": "https://louplummer.lol/"
         },
         {
             "source": "https://lucybellwood.com/",
@@ -59767,30 +59055,6 @@
             "target": "https://matthewcassinelli.com/"
         },
         {
-            "source": "https://matthewgraybosch.com/",
-            "target": "https://actualwebsite.org/"
-        },
-        {
-            "source": "https://matthewgraybosch.com/",
-            "target": "https://git.sr.ht/~starbreaker/matthewgraybosch.com/"
-        },
-        {
-            "source": "https://matthewgraybosch.com/",
-            "target": "https://git.sr.ht/~starbreaker/matthewgraybosch.com/log/main/rss.xml"
-        },
-        {
-            "source": "https://matthewgraybosch.com/",
-            "target": "https://matthewgraybosch.com/index.html"
-        },
-        {
-            "source": "https://matthewgraybosch.com/",
-            "target": "https://matthewgraybosch.com/proven.lol/e9f6ea"
-        },
-        {
-            "source": "https://matthewgraybosch.com/",
-            "target": "https://starbreaker.org/"
-        },
-        {
             "source": "https://matthiasott.com/",
             "target": "https://de.linkedin.com/in/matthiasott"
         },
@@ -60383,26 +59647,6 @@
             "target": "https://microformats.org/wiki/Special:RecentChanges"
         },
         {
-            "source": "https://micropublish.blog/",
-            "target": "https://github.com/otaviocc"
-        },
-        {
-            "source": "https://micropublish.blog/",
-            "target": "https://micro.blog/otaviocc"
-        },
-        {
-            "source": "https://micropublish.blog/",
-            "target": "https://micropublish.blog/"
-        },
-        {
-            "source": "https://micropublish.blog/",
-            "target": "https://micropublish.blog/feed.xml"
-        },
-        {
-            "source": "https://micropublish.blog/feed.xml",
-            "target": "https://micropublish.blog/"
-        },
-        {
             "source": "https://midlas.org.au/",
             "target": "https://www.midlas.org.au/"
         },
@@ -60961,30 +60205,6 @@
         {
             "source": "https://mzla.link/eoy23_masto",
             "target": "https://www.youtube.com/@ThunderbirdProject"
-        },
-        {
-            "source": "https://na.finalfantasyxiv.com/lodestone/",
-            "target": "https://na.finalfantasyxiv.com/lodestone/news/news.xml"
-        },
-        {
-            "source": "https://na.finalfantasyxiv.com/lodestone/",
-            "target": "https://na.finalfantasyxiv.com/lodestone/news/topics.xml"
-        },
-        {
-            "source": "https://na.finalfantasyxiv.com/lodestone/character/40706699/",
-            "target": "https://na.finalfantasyxiv.com/lodestone/news/news.xml"
-        },
-        {
-            "source": "https://na.finalfantasyxiv.com/lodestone/character/40706699/",
-            "target": "https://na.finalfantasyxiv.com/lodestone/news/topics.xml"
-        },
-        {
-            "source": "https://na.finalfantasyxiv.com/lodestone/news/news.xml",
-            "target": "https://na.finalfantasyxiv.com/lodestone/"
-        },
-        {
-            "source": "https://na.finalfantasyxiv.com/lodestone/news/topics.xml",
-            "target": "https://na.finalfantasyxiv.com/lodestone/"
         },
         {
             "source": "https://ndanes.com/",
@@ -63095,146 +62315,6 @@
             "target": "https://oscarbenedito.com/blog/"
         },
         {
-            "source": "https://otavio.cc/",
-            "target": "https://github.com/otaviocc"
-        },
-        {
-            "source": "https://otavio.cc/",
-            "target": "https://micro.blog/otaviocc"
-        },
-        {
-            "source": "https://otavio.cc/",
-            "target": "https://otavio.cc/"
-        },
-        {
-            "source": "https://otavio.cc/",
-            "target": "https://otavio.cc/feed.xml"
-        },
-        {
-            "source": "https://otavio.cc/feed.xml",
-            "target": "https://otavio.cc/"
-        },
-        {
-            "source": "https://otavio.lol/",
-            "target": "https://bsky.app/profile/epictalestavern.com"
-        },
-        {
-            "source": "https://otavio.lol/",
-            "target": "https://bsky.app/profile/otavio.cc"
-        },
-        {
-            "source": "https://otavio.lol/",
-            "target": "https://epictalestavern.com/"
-        },
-        {
-            "source": "https://otavio.lol/",
-            "target": "https://epictalestavern.com/feed.xml"
-        },
-        {
-            "source": "https://otavio.lol/",
-            "target": "https://github.com/otaviocc"
-        },
-        {
-            "source": "https://otavio.lol/",
-            "target": "https://home.omg.lol/keychain/otaviocc/pgp"
-        },
-        {
-            "source": "https://otavio.lol/",
-            "target": "https://ko-fi.com/otaviocc"
-        },
-        {
-            "source": "https://otavio.lol/",
-            "target": "https://micro.blog/otaviocc"
-        },
-        {
-            "source": "https://otavio.lol/",
-            "target": "https://micropublish.blog/"
-        },
-        {
-            "source": "https://otavio.lol/",
-            "target": "https://micropublish.blog/feed.xml"
-        },
-        {
-            "source": "https://otavio.lol/",
-            "target": "https://otavio.cc/"
-        },
-        {
-            "source": "https://otavio.lol/",
-            "target": "https://otavio.cc/feed.xml"
-        },
-        {
-            "source": "https://otavio.lol/",
-            "target": "https://otaviocc.proven.lol/"
-        },
-        {
-            "source": "https://otavio.lol/",
-            "target": "https://social.lol/@epictalestavern"
-        },
-        {
-            "source": "https://otavio.lol/",
-            "target": "https://social.lol/@otaviocc"
-        },
-        {
-            "source": "https://otavio.lol/",
-            "target": "https://solo.otavio.cc/"
-        },
-        {
-            "source": "https://otavio.lol/",
-            "target": "https://solo.otavio.cc/feed.xml"
-        },
-        {
-            "source": "https://otaviocc.proven.lol/",
-            "target": "https://bsky.app/profile/epictalestavern.com"
-        },
-        {
-            "source": "https://otaviocc.proven.lol/",
-            "target": "https://bsky.app/profile/otavio.cc"
-        },
-        {
-            "source": "https://otaviocc.proven.lol/",
-            "target": "https://epictalestavern.com/"
-        },
-        {
-            "source": "https://otaviocc.proven.lol/",
-            "target": "https://github.com/otaviocc"
-        },
-        {
-            "source": "https://otaviocc.proven.lol/",
-            "target": "https://links.otavio.cc/"
-        },
-        {
-            "source": "https://otaviocc.proven.lol/",
-            "target": "https://micropublish.blog/"
-        },
-        {
-            "source": "https://otaviocc.proven.lol/",
-            "target": "https://otavio.cc/"
-        },
-        {
-            "source": "https://otaviocc.proven.lol/",
-            "target": "https://otavio.lol/"
-        },
-        {
-            "source": "https://otaviocc.proven.lol/",
-            "target": "https://otaviocc.itch.io/"
-        },
-        {
-            "source": "https://otaviocc.proven.lol/",
-            "target": "https://social.lol/@epictalestavern"
-        },
-        {
-            "source": "https://otaviocc.proven.lol/",
-            "target": "https://social.lol/@otaviocc"
-        },
-        {
-            "source": "https://otaviocc.proven.lol/",
-            "target": "https://social.lol/@prami"
-        },
-        {
-            "source": "https://otaviocc.proven.lol/",
-            "target": "https://solo.otavio.cc/"
-        },
-        {
             "source": "https://oulipo.social/@ruario",
             "target": "https://oulipo.social/@ruario"
         },
@@ -63841,14 +62921,6 @@
         {
             "source": "https://pixpet.net/u/DarylSun",
             "target": "https://pixpet.net/rss/rss.php"
-        },
-        {
-            "source": "https://planet.mageia.org/en/custom/people.opml",
-            "target": "https://blog.mageia.org/en/?feed=rss2"
-        },
-        {
-            "source": "https://planet.mageia.org/en/custom/people.opml",
-            "target": "https://blog.mageia.org/fr"
         },
         {
             "source": "https://planning.barcampbangalore.com/",
@@ -64555,22 +63627,6 @@
             "target": "https://social.lol/@prami"
         },
         {
-            "source": "https://proven.lol/810656",
-            "target": "https://github.com/otaviocc"
-        },
-        {
-            "source": "https://proven.lol/810656",
-            "target": "https://social.lol/@prami"
-        },
-        {
-            "source": "https://proven.lol/a5cfa6",
-            "target": "https://social.lol/@prami"
-        },
-        {
-            "source": "https://proven.lol/a5cfa6",
-            "target": "https://starbreaker.org/"
-        },
-        {
             "source": "https://proven.lol/de2be6",
             "target": "https://maique.eu/"
         },
@@ -64584,30 +63640,6 @@
         },
         {
             "source": "https://proven.lol/e64391",
-            "target": "https://social.lol/@prami"
-        },
-        {
-            "source": "https://proven.lol/e9e24c",
-            "target": "https://social.lol/@epictalestavern"
-        },
-        {
-            "source": "https://proven.lol/e9e24c",
-            "target": "https://social.lol/@prami"
-        },
-        {
-            "source": "https://proven.lol/e9f6ea",
-            "target": "https://matthewgraybosch.com/"
-        },
-        {
-            "source": "https://proven.lol/e9f6ea",
-            "target": "https://social.lol/@prami"
-        },
-        {
-            "source": "https://proven.lol/f5e8f7",
-            "target": "https://actualwebsite.org/"
-        },
-        {
-            "source": "https://proven.lol/f5e8f7",
             "target": "https://social.lol/@prami"
         },
         {
@@ -65009,46 +64041,6 @@
         {
             "source": "https://remkus.devries.frl/feed/",
             "target": "https://remkusdevries.com/"
-        },
-        {
-            "source": "https://remkusdevries.com/",
-            "target": "https://instagram.com/remkusdevries"
-        },
-        {
-            "source": "https://remkusdevries.com/",
-            "target": "https://profiles.wordpress.org/DeFries"
-        },
-        {
-            "source": "https://remkusdevries.com/",
-            "target": "https://remkusdevries.com/"
-        },
-        {
-            "source": "https://remkusdevries.com/",
-            "target": "https://remkusdevries.com/about/"
-        },
-        {
-            "source": "https://remkusdevries.com/",
-            "target": "https://remkusdevries.com/feed/"
-        },
-        {
-            "source": "https://remkusdevries.com/",
-            "target": "https://remkusdevries.com/feed/podcast"
-        },
-        {
-            "source": "https://remkusdevries.com/",
-            "target": "https://social.devries.frl/@remkus"
-        },
-        {
-            "source": "https://remkusdevries.com/",
-            "target": "https://twitter.com/remkusdevries"
-        },
-        {
-            "source": "https://remkusdevries.com/",
-            "target": "https://www.linkedin.com/in/jrdevries"
-        },
-        {
-            "source": "https://remkusdevries.com/",
-            "target": "https://www.youtube.com/@remkusdevries"
         },
         {
             "source": "https://remkusdevries.com/about/",
@@ -68063,26 +67055,6 @@
             "target": "https://social.lol/@emanuel"
         },
         {
-            "source": "https://social.lol/@epictalestavern",
-            "target": "https://epictalestavern.com/"
-        },
-        {
-            "source": "https://social.lol/@epictalestavern",
-            "target": "https://proven.lol/e9e24c"
-        },
-        {
-            "source": "https://social.lol/@epictalestavern",
-            "target": "https://social.lol/@epictalestavern.rss"
-        },
-        {
-            "source": "https://social.lol/@epictalestavern",
-            "target": "https://social.lol/@otaviocc"
-        },
-        {
-            "source": "https://social.lol/@epictalestavern.rss",
-            "target": "https://social.lol/@epictalestavern"
-        },
-        {
             "source": "https://social.lol/@flamed",
             "target": "https://32bit.cafe/"
         },
@@ -68333,30 +67305,6 @@
         {
             "source": "https://social.lol/@omgdotlol.rss",
             "target": "https://social.lol/@omgdotlol"
-        },
-        {
-            "source": "https://social.lol/@otaviocc",
-            "target": "https://github.com/otaviocc"
-        },
-        {
-            "source": "https://social.lol/@otaviocc",
-            "target": "https://otavio.cc/"
-        },
-        {
-            "source": "https://social.lol/@otaviocc",
-            "target": "https://otavio.lol/"
-        },
-        {
-            "source": "https://social.lol/@otaviocc",
-            "target": "https://social.lol/@epictalestavern"
-        },
-        {
-            "source": "https://social.lol/@otaviocc",
-            "target": "https://social.lol/@otaviocc.rss"
-        },
-        {
-            "source": "https://social.lol/@otaviocc.rss",
-            "target": "https://social.lol/@otaviocc"
         },
         {
             "source": "https://social.lol/@petebrown",
@@ -69111,26 +68059,6 @@
             "target": "https://sohwatt.com/"
         },
         {
-            "source": "https://solo.otavio.cc/",
-            "target": "https://github.com/otaviocc"
-        },
-        {
-            "source": "https://solo.otavio.cc/",
-            "target": "https://micro.blog/otaviocc"
-        },
-        {
-            "source": "https://solo.otavio.cc/",
-            "target": "https://solo.otavio.cc/"
-        },
-        {
-            "source": "https://solo.otavio.cc/",
-            "target": "https://solo.otavio.cc/feed.xml"
-        },
-        {
-            "source": "https://solo.otavio.cc/feed.xml",
-            "target": "https://solo.otavio.cc/"
-        },
-        {
             "source": "https://soundcloud.com/chrisaldrich",
             "target": "https://soundcloud.com/chrisaldrich"
         },
@@ -69165,18 +68093,6 @@
         {
             "source": "https://soylent.green/@paul.rss",
             "target": "https://soylent.green/@paul"
-        },
-        {
-            "source": "https://spacehey.com/starbreaker",
-            "target": "https://spacehey.com/starbreaker"
-        },
-        {
-            "source": "https://spacehey.com/starbreaker",
-            "target": "https://starbreaker.org/"
-        },
-        {
-            "source": "https://spacehey.com/starbreaker",
-            "target": "https://www.last.fm/user/starbreaker5150"
         },
         {
             "source": "https://speakerdeck.com/aaronpk",
@@ -69407,1246 +68323,6 @@
             "target": "https://stantonharcourtschool.org.uk/"
         },
         {
-            "source": "https://starbreaker.omg.lol/",
-            "target": "https://actualwebsite.org/"
-        },
-        {
-            "source": "https://starbreaker.omg.lol/",
-            "target": "https://bandcamp.com/starbreaker5150"
-        },
-        {
-            "source": "https://starbreaker.omg.lol/",
-            "target": "https://git.sr.ht/~starbreaker/"
-        },
-        {
-            "source": "https://starbreaker.omg.lol/",
-            "target": "https://matthewgraybosch.com/"
-        },
-        {
-            "source": "https://starbreaker.omg.lol/",
-            "target": "https://na.finalfantasyxiv.com/lodestone/character/40706699/"
-        },
-        {
-            "source": "https://starbreaker.omg.lol/",
-            "target": "https://proven.lol/a5cfa6"
-        },
-        {
-            "source": "https://starbreaker.omg.lol/",
-            "target": "https://proven.lol/e9f6ea"
-        },
-        {
-            "source": "https://starbreaker.omg.lol/",
-            "target": "https://proven.lol/f5e8f7"
-        },
-        {
-            "source": "https://starbreaker.omg.lol/",
-            "target": "https://spacehey.com/starbreaker"
-        },
-        {
-            "source": "https://starbreaker.omg.lol/",
-            "target": "https://starbreaker.omg.lol/now"
-        },
-        {
-            "source": "https://starbreaker.omg.lol/",
-            "target": "https://starbreaker.org/"
-        },
-        {
-            "source": "https://starbreaker.omg.lol/",
-            "target": "https://starbreaker.org/fiction/novels/silent-clarion/index.html"
-        },
-        {
-            "source": "https://starbreaker.omg.lol/",
-            "target": "https://starbreaker.org/fiction/novels/without-bloodshed/index.html"
-        },
-        {
-            "source": "https://starbreaker.omg.lol/",
-            "target": "https://starbreaker.org/fiction/stories/limited-liability/index.html"
-        },
-        {
-            "source": "https://starbreaker.omg.lol/",
-            "target": "https://starbreaker.org/fiction/stories/milgram-battery/index.html"
-        },
-        {
-            "source": "https://starbreaker.omg.lol/",
-            "target": "https://status.lol/starbreaker"
-        },
-        {
-            "source": "https://starbreaker.omg.lol/",
-            "target": "https://www.goodreads.com/author/show/7144002.Matthew_Graybosch"
-        },
-        {
-            "source": "https://starbreaker.omg.lol/",
-            "target": "https://www.last.fm/user/starbreaker5150"
-        },
-        {
-            "source": "https://starbreaker.omg.lol/now",
-            "target": "https://cloudpeople1.bandcamp.com/album/simulacra"
-        },
-        {
-            "source": "https://starbreaker.omg.lol/now",
-            "target": "https://colossusmetal.bandcamp.com/album/showdown"
-        },
-        {
-            "source": "https://starbreaker.omg.lol/now",
-            "target": "https://emberbelladonna.bandcamp.com/album/the-grove"
-        },
-        {
-            "source": "https://starbreaker.omg.lol/now",
-            "target": "https://en.wikipedia.org/wiki/Cyteen"
-        },
-        {
-            "source": "https://starbreaker.omg.lol/now",
-            "target": "https://en.wikipedia.org/wiki/Declare"
-        },
-        {
-            "source": "https://starbreaker.omg.lol/now",
-            "target": "https://en.wikipedia.org/wiki/Devil_to_the_Belt"
-        },
-        {
-            "source": "https://starbreaker.omg.lol/now",
-            "target": "https://nownownow.com/about"
-        },
-        {
-            "source": "https://starbreaker.omg.lol/now",
-            "target": "https://satanuk.bandcamp.com/album/earth-infernal"
-        },
-        {
-            "source": "https://starbreaker.omg.lol/now",
-            "target": "https://starbreaker.omg.lol/"
-        },
-        {
-            "source": "https://starbreaker.omg.lol/now",
-            "target": "https://tanithnyc.bandcamp.com/album/voyage"
-        },
-        {
-            "source": "https://starbreaker.org/",
-            "target": "https://actualwebsite.org/"
-        },
-        {
-            "source": "https://starbreaker.org/",
-            "target": "https://matthewgraybosch.com/"
-        },
-        {
-            "source": "https://starbreaker.org/",
-            "target": "https://starbreaker.omg.lol/"
-        },
-        {
-            "source": "https://starbreaker.org/",
-            "target": "https://starbreaker.org/feeds/entertainment.xml"
-        },
-        {
-            "source": "https://starbreaker.org/",
-            "target": "https://starbreaker.org/feeds/everything.xml"
-        },
-        {
-            "source": "https://starbreaker.org/",
-            "target": "https://starbreaker.org/feeds/headlines.xml"
-        },
-        {
-            "source": "https://starbreaker.org/",
-            "target": "https://starbreaker.org/feeds/latest.xml"
-        },
-        {
-            "source": "https://starbreaker.org/",
-            "target": "https://starbreaker.org/feeds/lewd.xml"
-        },
-        {
-            "source": "https://starbreaker.org/",
-            "target": "https://starbreaker.org/feeds/links.xml"
-        },
-        {
-            "source": "https://starbreaker.org/",
-            "target": "https://starbreaker.org/feeds/misc.xml"
-        },
-        {
-            "source": "https://starbreaker.org/",
-            "target": "https://starbreaker.org/feeds/personal.xml"
-        },
-        {
-            "source": "https://starbreaker.org/",
-            "target": "https://starbreaker.org/feeds/rants.xml"
-        },
-        {
-            "source": "https://starbreaker.org/",
-            "target": "https://starbreaker.org/feeds/recent.xml"
-        },
-        {
-            "source": "https://starbreaker.org/",
-            "target": "https://starbreaker.org/feeds/recommended.xml"
-        },
-        {
-            "source": "https://starbreaker.org/",
-            "target": "https://starbreaker.org/feeds/tech.xml"
-        },
-        {
-            "source": "https://starbreaker.org/",
-            "target": "https://starbreaker.org/feeds/writing.xml"
-        },
-        {
-            "source": "https://starbreaker.org/",
-            "target": "https://starbreaker.org/index.html"
-        },
-        {
-            "source": "https://starbreaker.org/",
-            "target": "https://starbreaker.org/proven.lol/a5cfa6"
-        },
-        {
-            "source": "https://starbreaker.org/blog/everything.html",
-            "target": "https://actualwebsite.org/"
-        },
-        {
-            "source": "https://starbreaker.org/blog/everything.html",
-            "target": "https://matthewgraybosch.com/"
-        },
-        {
-            "source": "https://starbreaker.org/blog/everything.html",
-            "target": "https://starbreaker.omg.lol/"
-        },
-        {
-            "source": "https://starbreaker.org/blog/everything.html",
-            "target": "https://starbreaker.org/blog/everything.html"
-        },
-        {
-            "source": "https://starbreaker.org/blog/everything.html",
-            "target": "https://starbreaker.org/blog/proven.lol/a5cfa6"
-        },
-        {
-            "source": "https://starbreaker.org/blog/everything.html",
-            "target": "https://starbreaker.org/feeds/entertainment.xml"
-        },
-        {
-            "source": "https://starbreaker.org/blog/everything.html",
-            "target": "https://starbreaker.org/feeds/everything.xml"
-        },
-        {
-            "source": "https://starbreaker.org/blog/everything.html",
-            "target": "https://starbreaker.org/feeds/headlines.xml"
-        },
-        {
-            "source": "https://starbreaker.org/blog/everything.html",
-            "target": "https://starbreaker.org/feeds/latest.xml"
-        },
-        {
-            "source": "https://starbreaker.org/blog/everything.html",
-            "target": "https://starbreaker.org/feeds/lewd.xml"
-        },
-        {
-            "source": "https://starbreaker.org/blog/everything.html",
-            "target": "https://starbreaker.org/feeds/links.xml"
-        },
-        {
-            "source": "https://starbreaker.org/blog/everything.html",
-            "target": "https://starbreaker.org/feeds/misc.xml"
-        },
-        {
-            "source": "https://starbreaker.org/blog/everything.html",
-            "target": "https://starbreaker.org/feeds/personal.xml"
-        },
-        {
-            "source": "https://starbreaker.org/blog/everything.html",
-            "target": "https://starbreaker.org/feeds/rants.xml"
-        },
-        {
-            "source": "https://starbreaker.org/blog/everything.html",
-            "target": "https://starbreaker.org/feeds/recent.xml"
-        },
-        {
-            "source": "https://starbreaker.org/blog/everything.html",
-            "target": "https://starbreaker.org/feeds/recommended.xml"
-        },
-        {
-            "source": "https://starbreaker.org/blog/everything.html",
-            "target": "https://starbreaker.org/feeds/tech.xml"
-        },
-        {
-            "source": "https://starbreaker.org/blog/everything.html",
-            "target": "https://starbreaker.org/feeds/writing.xml"
-        },
-        {
-            "source": "https://starbreaker.org/blog/lewd/index.html",
-            "target": "https://actualwebsite.org/"
-        },
-        {
-            "source": "https://starbreaker.org/blog/lewd/index.html",
-            "target": "https://matthewgraybosch.com/"
-        },
-        {
-            "source": "https://starbreaker.org/blog/lewd/index.html",
-            "target": "https://starbreaker.omg.lol/"
-        },
-        {
-            "source": "https://starbreaker.org/blog/lewd/index.html",
-            "target": "https://starbreaker.org/blog/lewd/index.html"
-        },
-        {
-            "source": "https://starbreaker.org/blog/lewd/index.html",
-            "target": "https://starbreaker.org/blog/lewd/proven.lol/a5cfa6"
-        },
-        {
-            "source": "https://starbreaker.org/blog/lewd/index.html",
-            "target": "https://starbreaker.org/feeds/entertainment.xml"
-        },
-        {
-            "source": "https://starbreaker.org/blog/lewd/index.html",
-            "target": "https://starbreaker.org/feeds/everything.xml"
-        },
-        {
-            "source": "https://starbreaker.org/blog/lewd/index.html",
-            "target": "https://starbreaker.org/feeds/headlines.xml"
-        },
-        {
-            "source": "https://starbreaker.org/blog/lewd/index.html",
-            "target": "https://starbreaker.org/feeds/latest.xml"
-        },
-        {
-            "source": "https://starbreaker.org/blog/lewd/index.html",
-            "target": "https://starbreaker.org/feeds/lewd.xml"
-        },
-        {
-            "source": "https://starbreaker.org/blog/lewd/index.html",
-            "target": "https://starbreaker.org/feeds/links.xml"
-        },
-        {
-            "source": "https://starbreaker.org/blog/lewd/index.html",
-            "target": "https://starbreaker.org/feeds/misc.xml"
-        },
-        {
-            "source": "https://starbreaker.org/blog/lewd/index.html",
-            "target": "https://starbreaker.org/feeds/personal.xml"
-        },
-        {
-            "source": "https://starbreaker.org/blog/lewd/index.html",
-            "target": "https://starbreaker.org/feeds/rants.xml"
-        },
-        {
-            "source": "https://starbreaker.org/blog/lewd/index.html",
-            "target": "https://starbreaker.org/feeds/recent.xml"
-        },
-        {
-            "source": "https://starbreaker.org/blog/lewd/index.html",
-            "target": "https://starbreaker.org/feeds/recommended.xml"
-        },
-        {
-            "source": "https://starbreaker.org/blog/lewd/index.html",
-            "target": "https://starbreaker.org/feeds/tech.xml"
-        },
-        {
-            "source": "https://starbreaker.org/blog/lewd/index.html",
-            "target": "https://starbreaker.org/feeds/writing.xml"
-        },
-        {
-            "source": "https://starbreaker.org/blog/links/index.html",
-            "target": "https://actualwebsite.org/"
-        },
-        {
-            "source": "https://starbreaker.org/blog/links/index.html",
-            "target": "https://matthewgraybosch.com/"
-        },
-        {
-            "source": "https://starbreaker.org/blog/links/index.html",
-            "target": "https://starbreaker.omg.lol/"
-        },
-        {
-            "source": "https://starbreaker.org/blog/links/index.html",
-            "target": "https://starbreaker.org/blog/links/index.html"
-        },
-        {
-            "source": "https://starbreaker.org/blog/links/index.html",
-            "target": "https://starbreaker.org/blog/links/proven.lol/a5cfa6"
-        },
-        {
-            "source": "https://starbreaker.org/blog/links/index.html",
-            "target": "https://starbreaker.org/feeds/entertainment.xml"
-        },
-        {
-            "source": "https://starbreaker.org/blog/links/index.html",
-            "target": "https://starbreaker.org/feeds/everything.xml"
-        },
-        {
-            "source": "https://starbreaker.org/blog/links/index.html",
-            "target": "https://starbreaker.org/feeds/headlines.xml"
-        },
-        {
-            "source": "https://starbreaker.org/blog/links/index.html",
-            "target": "https://starbreaker.org/feeds/latest.xml"
-        },
-        {
-            "source": "https://starbreaker.org/blog/links/index.html",
-            "target": "https://starbreaker.org/feeds/lewd.xml"
-        },
-        {
-            "source": "https://starbreaker.org/blog/links/index.html",
-            "target": "https://starbreaker.org/feeds/links.xml"
-        },
-        {
-            "source": "https://starbreaker.org/blog/links/index.html",
-            "target": "https://starbreaker.org/feeds/misc.xml"
-        },
-        {
-            "source": "https://starbreaker.org/blog/links/index.html",
-            "target": "https://starbreaker.org/feeds/personal.xml"
-        },
-        {
-            "source": "https://starbreaker.org/blog/links/index.html",
-            "target": "https://starbreaker.org/feeds/rants.xml"
-        },
-        {
-            "source": "https://starbreaker.org/blog/links/index.html",
-            "target": "https://starbreaker.org/feeds/recent.xml"
-        },
-        {
-            "source": "https://starbreaker.org/blog/links/index.html",
-            "target": "https://starbreaker.org/feeds/recommended.xml"
-        },
-        {
-            "source": "https://starbreaker.org/blog/links/index.html",
-            "target": "https://starbreaker.org/feeds/tech.xml"
-        },
-        {
-            "source": "https://starbreaker.org/blog/links/index.html",
-            "target": "https://starbreaker.org/feeds/writing.xml"
-        },
-        {
-            "source": "https://starbreaker.org/blog/misc/index.html",
-            "target": "https://actualwebsite.org/"
-        },
-        {
-            "source": "https://starbreaker.org/blog/misc/index.html",
-            "target": "https://matthewgraybosch.com/"
-        },
-        {
-            "source": "https://starbreaker.org/blog/misc/index.html",
-            "target": "https://starbreaker.omg.lol/"
-        },
-        {
-            "source": "https://starbreaker.org/blog/misc/index.html",
-            "target": "https://starbreaker.org/blog/misc/index.html"
-        },
-        {
-            "source": "https://starbreaker.org/blog/misc/index.html",
-            "target": "https://starbreaker.org/blog/misc/proven.lol/a5cfa6"
-        },
-        {
-            "source": "https://starbreaker.org/blog/misc/index.html",
-            "target": "https://starbreaker.org/feeds/entertainment.xml"
-        },
-        {
-            "source": "https://starbreaker.org/blog/misc/index.html",
-            "target": "https://starbreaker.org/feeds/everything.xml"
-        },
-        {
-            "source": "https://starbreaker.org/blog/misc/index.html",
-            "target": "https://starbreaker.org/feeds/headlines.xml"
-        },
-        {
-            "source": "https://starbreaker.org/blog/misc/index.html",
-            "target": "https://starbreaker.org/feeds/latest.xml"
-        },
-        {
-            "source": "https://starbreaker.org/blog/misc/index.html",
-            "target": "https://starbreaker.org/feeds/lewd.xml"
-        },
-        {
-            "source": "https://starbreaker.org/blog/misc/index.html",
-            "target": "https://starbreaker.org/feeds/links.xml"
-        },
-        {
-            "source": "https://starbreaker.org/blog/misc/index.html",
-            "target": "https://starbreaker.org/feeds/misc.xml"
-        },
-        {
-            "source": "https://starbreaker.org/blog/misc/index.html",
-            "target": "https://starbreaker.org/feeds/personal.xml"
-        },
-        {
-            "source": "https://starbreaker.org/blog/misc/index.html",
-            "target": "https://starbreaker.org/feeds/rants.xml"
-        },
-        {
-            "source": "https://starbreaker.org/blog/misc/index.html",
-            "target": "https://starbreaker.org/feeds/recent.xml"
-        },
-        {
-            "source": "https://starbreaker.org/blog/misc/index.html",
-            "target": "https://starbreaker.org/feeds/recommended.xml"
-        },
-        {
-            "source": "https://starbreaker.org/blog/misc/index.html",
-            "target": "https://starbreaker.org/feeds/tech.xml"
-        },
-        {
-            "source": "https://starbreaker.org/blog/misc/index.html",
-            "target": "https://starbreaker.org/feeds/writing.xml"
-        },
-        {
-            "source": "https://starbreaker.org/blog/personal/index.html",
-            "target": "https://actualwebsite.org/"
-        },
-        {
-            "source": "https://starbreaker.org/blog/personal/index.html",
-            "target": "https://matthewgraybosch.com/"
-        },
-        {
-            "source": "https://starbreaker.org/blog/personal/index.html",
-            "target": "https://starbreaker.omg.lol/"
-        },
-        {
-            "source": "https://starbreaker.org/blog/personal/index.html",
-            "target": "https://starbreaker.org/blog/personal/index.html"
-        },
-        {
-            "source": "https://starbreaker.org/blog/personal/index.html",
-            "target": "https://starbreaker.org/blog/personal/proven.lol/a5cfa6"
-        },
-        {
-            "source": "https://starbreaker.org/blog/personal/index.html",
-            "target": "https://starbreaker.org/feeds/entertainment.xml"
-        },
-        {
-            "source": "https://starbreaker.org/blog/personal/index.html",
-            "target": "https://starbreaker.org/feeds/everything.xml"
-        },
-        {
-            "source": "https://starbreaker.org/blog/personal/index.html",
-            "target": "https://starbreaker.org/feeds/headlines.xml"
-        },
-        {
-            "source": "https://starbreaker.org/blog/personal/index.html",
-            "target": "https://starbreaker.org/feeds/latest.xml"
-        },
-        {
-            "source": "https://starbreaker.org/blog/personal/index.html",
-            "target": "https://starbreaker.org/feeds/lewd.xml"
-        },
-        {
-            "source": "https://starbreaker.org/blog/personal/index.html",
-            "target": "https://starbreaker.org/feeds/links.xml"
-        },
-        {
-            "source": "https://starbreaker.org/blog/personal/index.html",
-            "target": "https://starbreaker.org/feeds/misc.xml"
-        },
-        {
-            "source": "https://starbreaker.org/blog/personal/index.html",
-            "target": "https://starbreaker.org/feeds/personal.xml"
-        },
-        {
-            "source": "https://starbreaker.org/blog/personal/index.html",
-            "target": "https://starbreaker.org/feeds/rants.xml"
-        },
-        {
-            "source": "https://starbreaker.org/blog/personal/index.html",
-            "target": "https://starbreaker.org/feeds/recent.xml"
-        },
-        {
-            "source": "https://starbreaker.org/blog/personal/index.html",
-            "target": "https://starbreaker.org/feeds/recommended.xml"
-        },
-        {
-            "source": "https://starbreaker.org/blog/personal/index.html",
-            "target": "https://starbreaker.org/feeds/tech.xml"
-        },
-        {
-            "source": "https://starbreaker.org/blog/personal/index.html",
-            "target": "https://starbreaker.org/feeds/writing.xml"
-        },
-        {
-            "source": "https://starbreaker.org/blog/rants/index.html",
-            "target": "https://actualwebsite.org/"
-        },
-        {
-            "source": "https://starbreaker.org/blog/rants/index.html",
-            "target": "https://matthewgraybosch.com/"
-        },
-        {
-            "source": "https://starbreaker.org/blog/rants/index.html",
-            "target": "https://starbreaker.omg.lol/"
-        },
-        {
-            "source": "https://starbreaker.org/blog/rants/index.html",
-            "target": "https://starbreaker.org/blog/rants/index.html"
-        },
-        {
-            "source": "https://starbreaker.org/blog/rants/index.html",
-            "target": "https://starbreaker.org/blog/rants/proven.lol/a5cfa6"
-        },
-        {
-            "source": "https://starbreaker.org/blog/rants/index.html",
-            "target": "https://starbreaker.org/feeds/entertainment.xml"
-        },
-        {
-            "source": "https://starbreaker.org/blog/rants/index.html",
-            "target": "https://starbreaker.org/feeds/everything.xml"
-        },
-        {
-            "source": "https://starbreaker.org/blog/rants/index.html",
-            "target": "https://starbreaker.org/feeds/headlines.xml"
-        },
-        {
-            "source": "https://starbreaker.org/blog/rants/index.html",
-            "target": "https://starbreaker.org/feeds/latest.xml"
-        },
-        {
-            "source": "https://starbreaker.org/blog/rants/index.html",
-            "target": "https://starbreaker.org/feeds/lewd.xml"
-        },
-        {
-            "source": "https://starbreaker.org/blog/rants/index.html",
-            "target": "https://starbreaker.org/feeds/links.xml"
-        },
-        {
-            "source": "https://starbreaker.org/blog/rants/index.html",
-            "target": "https://starbreaker.org/feeds/misc.xml"
-        },
-        {
-            "source": "https://starbreaker.org/blog/rants/index.html",
-            "target": "https://starbreaker.org/feeds/personal.xml"
-        },
-        {
-            "source": "https://starbreaker.org/blog/rants/index.html",
-            "target": "https://starbreaker.org/feeds/rants.xml"
-        },
-        {
-            "source": "https://starbreaker.org/blog/rants/index.html",
-            "target": "https://starbreaker.org/feeds/recent.xml"
-        },
-        {
-            "source": "https://starbreaker.org/blog/rants/index.html",
-            "target": "https://starbreaker.org/feeds/recommended.xml"
-        },
-        {
-            "source": "https://starbreaker.org/blog/rants/index.html",
-            "target": "https://starbreaker.org/feeds/tech.xml"
-        },
-        {
-            "source": "https://starbreaker.org/blog/rants/index.html",
-            "target": "https://starbreaker.org/feeds/writing.xml"
-        },
-        {
-            "source": "https://starbreaker.org/blog/recent.html",
-            "target": "https://actualwebsite.org/"
-        },
-        {
-            "source": "https://starbreaker.org/blog/recent.html",
-            "target": "https://matthewgraybosch.com/"
-        },
-        {
-            "source": "https://starbreaker.org/blog/recent.html",
-            "target": "https://starbreaker.omg.lol/"
-        },
-        {
-            "source": "https://starbreaker.org/blog/recent.html",
-            "target": "https://starbreaker.org/blog/proven.lol/a5cfa6"
-        },
-        {
-            "source": "https://starbreaker.org/blog/recent.html",
-            "target": "https://starbreaker.org/blog/recent.html"
-        },
-        {
-            "source": "https://starbreaker.org/blog/recent.html",
-            "target": "https://starbreaker.org/feeds/entertainment.xml"
-        },
-        {
-            "source": "https://starbreaker.org/blog/recent.html",
-            "target": "https://starbreaker.org/feeds/everything.xml"
-        },
-        {
-            "source": "https://starbreaker.org/blog/recent.html",
-            "target": "https://starbreaker.org/feeds/headlines.xml"
-        },
-        {
-            "source": "https://starbreaker.org/blog/recent.html",
-            "target": "https://starbreaker.org/feeds/latest.xml"
-        },
-        {
-            "source": "https://starbreaker.org/blog/recent.html",
-            "target": "https://starbreaker.org/feeds/lewd.xml"
-        },
-        {
-            "source": "https://starbreaker.org/blog/recent.html",
-            "target": "https://starbreaker.org/feeds/links.xml"
-        },
-        {
-            "source": "https://starbreaker.org/blog/recent.html",
-            "target": "https://starbreaker.org/feeds/misc.xml"
-        },
-        {
-            "source": "https://starbreaker.org/blog/recent.html",
-            "target": "https://starbreaker.org/feeds/personal.xml"
-        },
-        {
-            "source": "https://starbreaker.org/blog/recent.html",
-            "target": "https://starbreaker.org/feeds/rants.xml"
-        },
-        {
-            "source": "https://starbreaker.org/blog/recent.html",
-            "target": "https://starbreaker.org/feeds/recent.xml"
-        },
-        {
-            "source": "https://starbreaker.org/blog/recent.html",
-            "target": "https://starbreaker.org/feeds/recommended.xml"
-        },
-        {
-            "source": "https://starbreaker.org/blog/recent.html",
-            "target": "https://starbreaker.org/feeds/tech.xml"
-        },
-        {
-            "source": "https://starbreaker.org/blog/recent.html",
-            "target": "https://starbreaker.org/feeds/writing.xml"
-        },
-        {
-            "source": "https://starbreaker.org/blog/recommended.html",
-            "target": "https://actualwebsite.org/"
-        },
-        {
-            "source": "https://starbreaker.org/blog/recommended.html",
-            "target": "https://matthewgraybosch.com/"
-        },
-        {
-            "source": "https://starbreaker.org/blog/recommended.html",
-            "target": "https://starbreaker.omg.lol/"
-        },
-        {
-            "source": "https://starbreaker.org/blog/recommended.html",
-            "target": "https://starbreaker.org/blog/proven.lol/a5cfa6"
-        },
-        {
-            "source": "https://starbreaker.org/blog/recommended.html",
-            "target": "https://starbreaker.org/blog/recommended.html"
-        },
-        {
-            "source": "https://starbreaker.org/blog/recommended.html",
-            "target": "https://starbreaker.org/feeds/entertainment.xml"
-        },
-        {
-            "source": "https://starbreaker.org/blog/recommended.html",
-            "target": "https://starbreaker.org/feeds/everything.xml"
-        },
-        {
-            "source": "https://starbreaker.org/blog/recommended.html",
-            "target": "https://starbreaker.org/feeds/headlines.xml"
-        },
-        {
-            "source": "https://starbreaker.org/blog/recommended.html",
-            "target": "https://starbreaker.org/feeds/latest.xml"
-        },
-        {
-            "source": "https://starbreaker.org/blog/recommended.html",
-            "target": "https://starbreaker.org/feeds/lewd.xml"
-        },
-        {
-            "source": "https://starbreaker.org/blog/recommended.html",
-            "target": "https://starbreaker.org/feeds/links.xml"
-        },
-        {
-            "source": "https://starbreaker.org/blog/recommended.html",
-            "target": "https://starbreaker.org/feeds/misc.xml"
-        },
-        {
-            "source": "https://starbreaker.org/blog/recommended.html",
-            "target": "https://starbreaker.org/feeds/personal.xml"
-        },
-        {
-            "source": "https://starbreaker.org/blog/recommended.html",
-            "target": "https://starbreaker.org/feeds/rants.xml"
-        },
-        {
-            "source": "https://starbreaker.org/blog/recommended.html",
-            "target": "https://starbreaker.org/feeds/recent.xml"
-        },
-        {
-            "source": "https://starbreaker.org/blog/recommended.html",
-            "target": "https://starbreaker.org/feeds/recommended.xml"
-        },
-        {
-            "source": "https://starbreaker.org/blog/recommended.html",
-            "target": "https://starbreaker.org/feeds/tech.xml"
-        },
-        {
-            "source": "https://starbreaker.org/blog/recommended.html",
-            "target": "https://starbreaker.org/feeds/writing.xml"
-        },
-        {
-            "source": "https://starbreaker.org/blog/tech/index.html",
-            "target": "https://actualwebsite.org/"
-        },
-        {
-            "source": "https://starbreaker.org/blog/tech/index.html",
-            "target": "https://matthewgraybosch.com/"
-        },
-        {
-            "source": "https://starbreaker.org/blog/tech/index.html",
-            "target": "https://starbreaker.omg.lol/"
-        },
-        {
-            "source": "https://starbreaker.org/blog/tech/index.html",
-            "target": "https://starbreaker.org/blog/tech/index.html"
-        },
-        {
-            "source": "https://starbreaker.org/blog/tech/index.html",
-            "target": "https://starbreaker.org/blog/tech/proven.lol/a5cfa6"
-        },
-        {
-            "source": "https://starbreaker.org/blog/tech/index.html",
-            "target": "https://starbreaker.org/feeds/entertainment.xml"
-        },
-        {
-            "source": "https://starbreaker.org/blog/tech/index.html",
-            "target": "https://starbreaker.org/feeds/everything.xml"
-        },
-        {
-            "source": "https://starbreaker.org/blog/tech/index.html",
-            "target": "https://starbreaker.org/feeds/headlines.xml"
-        },
-        {
-            "source": "https://starbreaker.org/blog/tech/index.html",
-            "target": "https://starbreaker.org/feeds/latest.xml"
-        },
-        {
-            "source": "https://starbreaker.org/blog/tech/index.html",
-            "target": "https://starbreaker.org/feeds/lewd.xml"
-        },
-        {
-            "source": "https://starbreaker.org/blog/tech/index.html",
-            "target": "https://starbreaker.org/feeds/links.xml"
-        },
-        {
-            "source": "https://starbreaker.org/blog/tech/index.html",
-            "target": "https://starbreaker.org/feeds/misc.xml"
-        },
-        {
-            "source": "https://starbreaker.org/blog/tech/index.html",
-            "target": "https://starbreaker.org/feeds/personal.xml"
-        },
-        {
-            "source": "https://starbreaker.org/blog/tech/index.html",
-            "target": "https://starbreaker.org/feeds/rants.xml"
-        },
-        {
-            "source": "https://starbreaker.org/blog/tech/index.html",
-            "target": "https://starbreaker.org/feeds/recent.xml"
-        },
-        {
-            "source": "https://starbreaker.org/blog/tech/index.html",
-            "target": "https://starbreaker.org/feeds/recommended.xml"
-        },
-        {
-            "source": "https://starbreaker.org/blog/tech/index.html",
-            "target": "https://starbreaker.org/feeds/tech.xml"
-        },
-        {
-            "source": "https://starbreaker.org/blog/tech/index.html",
-            "target": "https://starbreaker.org/feeds/writing.xml"
-        },
-        {
-            "source": "https://starbreaker.org/blog/writing/index.html",
-            "target": "https://actualwebsite.org/"
-        },
-        {
-            "source": "https://starbreaker.org/blog/writing/index.html",
-            "target": "https://matthewgraybosch.com/"
-        },
-        {
-            "source": "https://starbreaker.org/blog/writing/index.html",
-            "target": "https://starbreaker.omg.lol/"
-        },
-        {
-            "source": "https://starbreaker.org/blog/writing/index.html",
-            "target": "https://starbreaker.org/blog/writing/index.html"
-        },
-        {
-            "source": "https://starbreaker.org/blog/writing/index.html",
-            "target": "https://starbreaker.org/blog/writing/proven.lol/a5cfa6"
-        },
-        {
-            "source": "https://starbreaker.org/blog/writing/index.html",
-            "target": "https://starbreaker.org/feeds/entertainment.xml"
-        },
-        {
-            "source": "https://starbreaker.org/blog/writing/index.html",
-            "target": "https://starbreaker.org/feeds/everything.xml"
-        },
-        {
-            "source": "https://starbreaker.org/blog/writing/index.html",
-            "target": "https://starbreaker.org/feeds/headlines.xml"
-        },
-        {
-            "source": "https://starbreaker.org/blog/writing/index.html",
-            "target": "https://starbreaker.org/feeds/latest.xml"
-        },
-        {
-            "source": "https://starbreaker.org/blog/writing/index.html",
-            "target": "https://starbreaker.org/feeds/lewd.xml"
-        },
-        {
-            "source": "https://starbreaker.org/blog/writing/index.html",
-            "target": "https://starbreaker.org/feeds/links.xml"
-        },
-        {
-            "source": "https://starbreaker.org/blog/writing/index.html",
-            "target": "https://starbreaker.org/feeds/misc.xml"
-        },
-        {
-            "source": "https://starbreaker.org/blog/writing/index.html",
-            "target": "https://starbreaker.org/feeds/personal.xml"
-        },
-        {
-            "source": "https://starbreaker.org/blog/writing/index.html",
-            "target": "https://starbreaker.org/feeds/rants.xml"
-        },
-        {
-            "source": "https://starbreaker.org/blog/writing/index.html",
-            "target": "https://starbreaker.org/feeds/recent.xml"
-        },
-        {
-            "source": "https://starbreaker.org/blog/writing/index.html",
-            "target": "https://starbreaker.org/feeds/recommended.xml"
-        },
-        {
-            "source": "https://starbreaker.org/blog/writing/index.html",
-            "target": "https://starbreaker.org/feeds/tech.xml"
-        },
-        {
-            "source": "https://starbreaker.org/blog/writing/index.html",
-            "target": "https://starbreaker.org/feeds/writing.xml"
-        },
-        {
-            "source": "https://starbreaker.org/feeds/everything.xml",
-            "target": "https://starbreaker.org/blog/everything.html"
-        },
-        {
-            "source": "https://starbreaker.org/feeds/headlines.xml",
-            "target": "https://starbreaker.org/blog/everything.html"
-        },
-        {
-            "source": "https://starbreaker.org/feeds/latest.xml",
-            "target": "https://starbreaker.org/blog/latest.html"
-        },
-        {
-            "source": "https://starbreaker.org/feeds/lewd.xml",
-            "target": "https://starbreaker.org/blog/lewd/index.html"
-        },
-        {
-            "source": "https://starbreaker.org/feeds/links.xml",
-            "target": "https://starbreaker.org/blog/links/index.html"
-        },
-        {
-            "source": "https://starbreaker.org/feeds/misc.xml",
-            "target": "https://starbreaker.org/blog/misc/index.html"
-        },
-        {
-            "source": "https://starbreaker.org/feeds/personal.xml",
-            "target": "https://starbreaker.org/blog/personal/index.html"
-        },
-        {
-            "source": "https://starbreaker.org/feeds/rants.xml",
-            "target": "https://starbreaker.org/blog/rants/index.html"
-        },
-        {
-            "source": "https://starbreaker.org/feeds/recent.xml",
-            "target": "https://starbreaker.org/blog/recent.html"
-        },
-        {
-            "source": "https://starbreaker.org/feeds/recommended.xml",
-            "target": "https://starbreaker.org/blog/recommended.html"
-        },
-        {
-            "source": "https://starbreaker.org/feeds/tech.xml",
-            "target": "https://starbreaker.org/blog/tech/index.html"
-        },
-        {
-            "source": "https://starbreaker.org/feeds/writing.xml",
-            "target": "https://starbreaker.org/blog/writing/index.html"
-        },
-        {
-            "source": "https://starbreaker.org/fiction/novels/silent-clarion/index.html",
-            "target": "https://actualwebsite.org/"
-        },
-        {
-            "source": "https://starbreaker.org/fiction/novels/silent-clarion/index.html",
-            "target": "https://matthewgraybosch.com/"
-        },
-        {
-            "source": "https://starbreaker.org/fiction/novels/silent-clarion/index.html",
-            "target": "https://starbreaker.omg.lol/"
-        },
-        {
-            "source": "https://starbreaker.org/fiction/novels/silent-clarion/index.html",
-            "target": "https://starbreaker.org/feeds/entertainment.xml"
-        },
-        {
-            "source": "https://starbreaker.org/fiction/novels/silent-clarion/index.html",
-            "target": "https://starbreaker.org/feeds/everything.xml"
-        },
-        {
-            "source": "https://starbreaker.org/fiction/novels/silent-clarion/index.html",
-            "target": "https://starbreaker.org/feeds/headlines.xml"
-        },
-        {
-            "source": "https://starbreaker.org/fiction/novels/silent-clarion/index.html",
-            "target": "https://starbreaker.org/feeds/latest.xml"
-        },
-        {
-            "source": "https://starbreaker.org/fiction/novels/silent-clarion/index.html",
-            "target": "https://starbreaker.org/feeds/lewd.xml"
-        },
-        {
-            "source": "https://starbreaker.org/fiction/novels/silent-clarion/index.html",
-            "target": "https://starbreaker.org/feeds/links.xml"
-        },
-        {
-            "source": "https://starbreaker.org/fiction/novels/silent-clarion/index.html",
-            "target": "https://starbreaker.org/feeds/misc.xml"
-        },
-        {
-            "source": "https://starbreaker.org/fiction/novels/silent-clarion/index.html",
-            "target": "https://starbreaker.org/feeds/personal.xml"
-        },
-        {
-            "source": "https://starbreaker.org/fiction/novels/silent-clarion/index.html",
-            "target": "https://starbreaker.org/feeds/rants.xml"
-        },
-        {
-            "source": "https://starbreaker.org/fiction/novels/silent-clarion/index.html",
-            "target": "https://starbreaker.org/feeds/recent.xml"
-        },
-        {
-            "source": "https://starbreaker.org/fiction/novels/silent-clarion/index.html",
-            "target": "https://starbreaker.org/feeds/recommended.xml"
-        },
-        {
-            "source": "https://starbreaker.org/fiction/novels/silent-clarion/index.html",
-            "target": "https://starbreaker.org/feeds/tech.xml"
-        },
-        {
-            "source": "https://starbreaker.org/fiction/novels/silent-clarion/index.html",
-            "target": "https://starbreaker.org/feeds/writing.xml"
-        },
-        {
-            "source": "https://starbreaker.org/fiction/novels/silent-clarion/index.html",
-            "target": "https://starbreaker.org/fiction/novels/silent-clarion/index.html"
-        },
-        {
-            "source": "https://starbreaker.org/fiction/novels/silent-clarion/index.html",
-            "target": "https://starbreaker.org/fiction/novels/silent-clarion/proven.lol/a5cfa6"
-        },
-        {
-            "source": "https://starbreaker.org/fiction/novels/without-bloodshed/index.html",
-            "target": "https://actualwebsite.org/"
-        },
-        {
-            "source": "https://starbreaker.org/fiction/novels/without-bloodshed/index.html",
-            "target": "https://matthewgraybosch.com/"
-        },
-        {
-            "source": "https://starbreaker.org/fiction/novels/without-bloodshed/index.html",
-            "target": "https://starbreaker.omg.lol/"
-        },
-        {
-            "source": "https://starbreaker.org/fiction/novels/without-bloodshed/index.html",
-            "target": "https://starbreaker.org/feeds/entertainment.xml"
-        },
-        {
-            "source": "https://starbreaker.org/fiction/novels/without-bloodshed/index.html",
-            "target": "https://starbreaker.org/feeds/everything.xml"
-        },
-        {
-            "source": "https://starbreaker.org/fiction/novels/without-bloodshed/index.html",
-            "target": "https://starbreaker.org/feeds/headlines.xml"
-        },
-        {
-            "source": "https://starbreaker.org/fiction/novels/without-bloodshed/index.html",
-            "target": "https://starbreaker.org/feeds/latest.xml"
-        },
-        {
-            "source": "https://starbreaker.org/fiction/novels/without-bloodshed/index.html",
-            "target": "https://starbreaker.org/feeds/lewd.xml"
-        },
-        {
-            "source": "https://starbreaker.org/fiction/novels/without-bloodshed/index.html",
-            "target": "https://starbreaker.org/feeds/links.xml"
-        },
-        {
-            "source": "https://starbreaker.org/fiction/novels/without-bloodshed/index.html",
-            "target": "https://starbreaker.org/feeds/misc.xml"
-        },
-        {
-            "source": "https://starbreaker.org/fiction/novels/without-bloodshed/index.html",
-            "target": "https://starbreaker.org/feeds/personal.xml"
-        },
-        {
-            "source": "https://starbreaker.org/fiction/novels/without-bloodshed/index.html",
-            "target": "https://starbreaker.org/feeds/rants.xml"
-        },
-        {
-            "source": "https://starbreaker.org/fiction/novels/without-bloodshed/index.html",
-            "target": "https://starbreaker.org/feeds/recent.xml"
-        },
-        {
-            "source": "https://starbreaker.org/fiction/novels/without-bloodshed/index.html",
-            "target": "https://starbreaker.org/feeds/recommended.xml"
-        },
-        {
-            "source": "https://starbreaker.org/fiction/novels/without-bloodshed/index.html",
-            "target": "https://starbreaker.org/feeds/tech.xml"
-        },
-        {
-            "source": "https://starbreaker.org/fiction/novels/without-bloodshed/index.html",
-            "target": "https://starbreaker.org/feeds/writing.xml"
-        },
-        {
-            "source": "https://starbreaker.org/fiction/novels/without-bloodshed/index.html",
-            "target": "https://starbreaker.org/fiction/novels/without-bloodshed/index.html"
-        },
-        {
-            "source": "https://starbreaker.org/fiction/novels/without-bloodshed/index.html",
-            "target": "https://starbreaker.org/fiction/novels/without-bloodshed/proven.lol/a5cfa6"
-        },
-        {
-            "source": "https://starbreaker.org/fiction/stories/limited-liability/index.html",
-            "target": "https://actualwebsite.org/"
-        },
-        {
-            "source": "https://starbreaker.org/fiction/stories/limited-liability/index.html",
-            "target": "https://matthewgraybosch.com/"
-        },
-        {
-            "source": "https://starbreaker.org/fiction/stories/limited-liability/index.html",
-            "target": "https://starbreaker.omg.lol/"
-        },
-        {
-            "source": "https://starbreaker.org/fiction/stories/limited-liability/index.html",
-            "target": "https://starbreaker.org/feeds/entertainment.xml"
-        },
-        {
-            "source": "https://starbreaker.org/fiction/stories/limited-liability/index.html",
-            "target": "https://starbreaker.org/feeds/everything.xml"
-        },
-        {
-            "source": "https://starbreaker.org/fiction/stories/limited-liability/index.html",
-            "target": "https://starbreaker.org/feeds/headlines.xml"
-        },
-        {
-            "source": "https://starbreaker.org/fiction/stories/limited-liability/index.html",
-            "target": "https://starbreaker.org/feeds/latest.xml"
-        },
-        {
-            "source": "https://starbreaker.org/fiction/stories/limited-liability/index.html",
-            "target": "https://starbreaker.org/feeds/lewd.xml"
-        },
-        {
-            "source": "https://starbreaker.org/fiction/stories/limited-liability/index.html",
-            "target": "https://starbreaker.org/feeds/links.xml"
-        },
-        {
-            "source": "https://starbreaker.org/fiction/stories/limited-liability/index.html",
-            "target": "https://starbreaker.org/feeds/misc.xml"
-        },
-        {
-            "source": "https://starbreaker.org/fiction/stories/limited-liability/index.html",
-            "target": "https://starbreaker.org/feeds/personal.xml"
-        },
-        {
-            "source": "https://starbreaker.org/fiction/stories/limited-liability/index.html",
-            "target": "https://starbreaker.org/feeds/rants.xml"
-        },
-        {
-            "source": "https://starbreaker.org/fiction/stories/limited-liability/index.html",
-            "target": "https://starbreaker.org/feeds/recent.xml"
-        },
-        {
-            "source": "https://starbreaker.org/fiction/stories/limited-liability/index.html",
-            "target": "https://starbreaker.org/feeds/recommended.xml"
-        },
-        {
-            "source": "https://starbreaker.org/fiction/stories/limited-liability/index.html",
-            "target": "https://starbreaker.org/feeds/tech.xml"
-        },
-        {
-            "source": "https://starbreaker.org/fiction/stories/limited-liability/index.html",
-            "target": "https://starbreaker.org/feeds/writing.xml"
-        },
-        {
-            "source": "https://starbreaker.org/fiction/stories/limited-liability/index.html",
-            "target": "https://starbreaker.org/fiction/stories/limited-liability/index.html"
-        },
-        {
-            "source": "https://starbreaker.org/fiction/stories/limited-liability/index.html",
-            "target": "https://starbreaker.org/fiction/stories/limited-liability/proven.lol/a5cfa6"
-        },
-        {
-            "source": "https://starbreaker.org/fiction/stories/milgram-battery/index.html",
-            "target": "https://actualwebsite.org/"
-        },
-        {
-            "source": "https://starbreaker.org/fiction/stories/milgram-battery/index.html",
-            "target": "https://matthewgraybosch.com/"
-        },
-        {
-            "source": "https://starbreaker.org/fiction/stories/milgram-battery/index.html",
-            "target": "https://starbreaker.omg.lol/"
-        },
-        {
-            "source": "https://starbreaker.org/fiction/stories/milgram-battery/index.html",
-            "target": "https://starbreaker.org/feeds/entertainment.xml"
-        },
-        {
-            "source": "https://starbreaker.org/fiction/stories/milgram-battery/index.html",
-            "target": "https://starbreaker.org/feeds/everything.xml"
-        },
-        {
-            "source": "https://starbreaker.org/fiction/stories/milgram-battery/index.html",
-            "target": "https://starbreaker.org/feeds/headlines.xml"
-        },
-        {
-            "source": "https://starbreaker.org/fiction/stories/milgram-battery/index.html",
-            "target": "https://starbreaker.org/feeds/latest.xml"
-        },
-        {
-            "source": "https://starbreaker.org/fiction/stories/milgram-battery/index.html",
-            "target": "https://starbreaker.org/feeds/lewd.xml"
-        },
-        {
-            "source": "https://starbreaker.org/fiction/stories/milgram-battery/index.html",
-            "target": "https://starbreaker.org/feeds/links.xml"
-        },
-        {
-            "source": "https://starbreaker.org/fiction/stories/milgram-battery/index.html",
-            "target": "https://starbreaker.org/feeds/misc.xml"
-        },
-        {
-            "source": "https://starbreaker.org/fiction/stories/milgram-battery/index.html",
-            "target": "https://starbreaker.org/feeds/personal.xml"
-        },
-        {
-            "source": "https://starbreaker.org/fiction/stories/milgram-battery/index.html",
-            "target": "https://starbreaker.org/feeds/rants.xml"
-        },
-        {
-            "source": "https://starbreaker.org/fiction/stories/milgram-battery/index.html",
-            "target": "https://starbreaker.org/feeds/recent.xml"
-        },
-        {
-            "source": "https://starbreaker.org/fiction/stories/milgram-battery/index.html",
-            "target": "https://starbreaker.org/feeds/recommended.xml"
-        },
-        {
-            "source": "https://starbreaker.org/fiction/stories/milgram-battery/index.html",
-            "target": "https://starbreaker.org/feeds/tech.xml"
-        },
-        {
-            "source": "https://starbreaker.org/fiction/stories/milgram-battery/index.html",
-            "target": "https://starbreaker.org/feeds/writing.xml"
-        },
-        {
-            "source": "https://starbreaker.org/fiction/stories/milgram-battery/index.html",
-            "target": "https://starbreaker.org/fiction/stories/milgram-battery/index.html"
-        },
-        {
-            "source": "https://starbreaker.org/fiction/stories/milgram-battery/index.html",
-            "target": "https://starbreaker.org/fiction/stories/milgram-battery/proven.lol/a5cfa6"
-        },
-        {
             "source": "https://status.darylsun.page/",
             "target": "https://darylsun.status.lol/feed"
         },
@@ -70665,18 +68341,6 @@
         {
             "source": "https://status.lol/joeross",
             "target": "https://joeross.status.lol/feed"
-        },
-        {
-            "source": "https://status.lol/starbreaker",
-            "target": "https://starbreaker.omg.lol/"
-        },
-        {
-            "source": "https://status.lol/starbreaker",
-            "target": "https://starbreaker.org/"
-        },
-        {
-            "source": "https://status.lol/starbreaker",
-            "target": "https://starbreaker.status.lol/feed"
         },
         {
             "source": "https://steele.blue/",
@@ -71185,10 +68849,6 @@
         {
             "source": "https://tamanotchi.world/u/5594",
             "target": "https://toot.melonland.net/@tamaNOTchi"
-        },
-        {
-            "source": "https://tanithnyc.bandcamp.com/album/voyage",
-            "target": "https://www.facebook.com/TanithNYC"
         },
         {
             "source": "https://tantek.com/",
@@ -76379,10 +74039,6 @@
             "target": "https://www.elsua.net/"
         },
         {
-            "source": "https://www.emmakr.ca/",
-            "target": "https://www.emmakr.ca/"
-        },
-        {
             "source": "https://www.engineersneedart.com/",
             "target": "https://www.engineersneedart.com/rss.xml"
         },
@@ -76509,22 +74165,6 @@
         {
             "source": "https://www.github.com/vipickering",
             "target": "https://vincentp.me/"
-        },
-        {
-            "source": "https://www.goodreads.com/author/show/7144002.Matthew_Graybosch",
-            "target": "https://www.goodreads.com/author/show/7144002.Matthew_Graybosch"
-        },
-        {
-            "source": "https://www.goodreads.com/author/show/7144002.Matthew_Graybosch",
-            "target": "https://www.goodreads.com/review/list_rss/125254359"
-        },
-        {
-            "source": "https://www.goodreads.com/author/show/7144002.Matthew_Graybosch",
-            "target": "https://www.goodreads.com/user/updates_rss/125254359"
-        },
-        {
-            "source": "https://www.goodreads.com/author/show/7144002.Matthew_Graybosch",
-            "target": "https://www.goodreads.com/user/updates_rss/125254359?v=as"
         },
         {
             "source": "https://www.goodreads.com/friend/user/3250760",
@@ -77241,10 +74881,6 @@
         {
             "source": "https://www.last.fm/user/snark35/",
             "target": "https://www.last.fm/user/snark35"
-        },
-        {
-            "source": "https://www.last.fm/user/starbreaker5150",
-            "target": "https://www.last.fm/user/starbreaker5150"
         },
         {
             "source": "https://www.leaningforward.com/blog",

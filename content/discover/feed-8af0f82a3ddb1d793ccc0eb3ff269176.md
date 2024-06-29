@@ -25,6 +25,7 @@ params:
   last_post_date: "2024-05-23T12:45:00-04:00"
   last_post_link: https://www.inthemargins.ca/asparagus
   last_post_categories: []
+  last_post_guid: 8effd9984e1724f52ac631acc1b119ed
   score_criteria:
     cats: 0
     description: 3
@@ -36,4 +37,5 @@ params:
     website: 2
   score: 15
   ispodcast: false
+  isnoarchive: false
 ---

@@ -34,6 +34,7 @@ params:
   last_post_categories:
   - Games
   - Uncategorized
+  last_post_guid: 8a035833ef83371fc9af08c22fcdeec4
   score_criteria:
     cats: 0
     description: 3
@@ -45,4 +46,5 @@ params:
     website: 2
   score: 16
   ispodcast: false
+  isnoarchive: false
 ---

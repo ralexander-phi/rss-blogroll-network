@@ -36,6 +36,7 @@ params:
   - JavaScript
   - Tools
   - Web
+  last_post_guid: 1d648230f84d725af692f11efe3a5b29
   score_criteria:
     cats: 0
     description: 3
@@ -47,4 +48,5 @@ params:
     website: 2
   score: 17
   ispodcast: false
+  isnoarchive: false
 ---

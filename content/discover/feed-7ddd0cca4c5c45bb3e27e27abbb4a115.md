@@ -25,6 +25,7 @@ params:
   last_post_date: "2024-06-03T12:32:50+10:00"
   last_post_link: https://lmika.org/2024/06/03/some-more-thoughts.html
   last_post_categories: []
+  last_post_guid: 7163e01c463f0a439b0e2d3ef003853d
   score_criteria:
     cats: 1
     description: 3
@@ -36,4 +37,5 @@ params:
     website: 2
   score: 10
   ispodcast: true
+  isnoarchive: false
 ---

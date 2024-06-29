@@ -21,9 +21,10 @@ params:
 
     at
     04 Jun 14:22
-  last_post_date: "1970-01-01T00:00:00Z"
+  last_post_date: "2024-06-04T14:22:21Z"
   last_post_link: https://foss.heptapod.net/fluiddyn/fluiddyn/-/commits/topic/default/pixi-image-add-ssh
   last_post_categories: []
+  last_post_guid: 28ea9ece4e1ba8b0a1afd3248d5b0d61
   score_criteria:
     cats: 0
     description: 0
@@ -35,4 +36,5 @@ params:
     website: 1
   score: 4
   ispodcast: false
+  isnoarchive: false
 ---

@@ -69,6 +69,7 @@ params:
   - د. عبدالله المدني
   - د.أحمد الخميسى
   - عماد الدين حسين
+  last_post_guid: 6f8542236e97dd6f1f675daecda4dabf
   score_criteria:
     cats: 0
     description: 3
@@ -80,4 +81,5 @@ params:
     website: 2
   score: 16
   ispodcast: false
+  isnoarchive: false
 ---

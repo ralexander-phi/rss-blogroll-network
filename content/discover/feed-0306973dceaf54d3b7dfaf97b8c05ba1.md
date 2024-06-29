@@ -35,6 +35,7 @@ params:
   last_post_date: "2024-03-01T00:00:00Z"
   last_post_link: https://remysharp.com/books/2024/what-about-men
   last_post_categories: []
+  last_post_guid: 6a992327b1ee08118d07a866c8c4bf89
   score_criteria:
     cats: 0
     description: 3
@@ -46,4 +47,5 @@ params:
     website: 2
   score: 10
   ispodcast: false
+  isnoarchive: false
 ---

@@ -18,6 +18,7 @@ params:
   last_post_date: "2024-02-08T02:14:06Z"
   last_post_link: https://danielbachhuber.com/70-confident/#comment-314519
   last_post_categories: []
+  last_post_guid: 9eb4a0e13f69f90d4366bf7114127a16
   score_criteria:
     cats: 0
     description: 3
@@ -29,4 +30,5 @@ params:
     website: 2
   score: 8
   ispodcast: false
+  isnoarchive: false
 ---

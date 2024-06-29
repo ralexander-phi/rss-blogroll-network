@@ -109,7 +109,7 @@ func (a *Analysis) PopulateCategoriesForPostByHashtag(feed *FeedInfo) {
 
 func (a *Analysis) PopulateLastPostForFeed(feed *FeedInfo) {
 	rows, err := a.db.Query(`
-       SELECT date, description, title, post_link
+       SELECT date, description, title, post_link, guid
          FROM posts
         WHERE feed_id = ?
      ORDER BY date DESC
@@ -123,14 +123,16 @@ func (a *Analysis) PopulateLastPostForFeed(feed *FeedInfo) {
 	var description string
 	var title string
 	var link string
+	var guid string
 	for rows.Next() {
-		err = rows.Scan(&date, &description, &title, &link)
+		err = rows.Scan(&date, &description, &title, &link, &guid)
 		ohno(err)
 	}
 	feed.Params.LastPostTitle = title
 	feed.Params.LastPostDesc = description
 	feed.Params.LastPostDate = date
 	feed.Params.LastPostLink = link
+	feed.Params.LastPostGuid = guid
 
 	a.PopulateCategoriesForPost(feed)
 }
@@ -587,7 +589,7 @@ func (a *Analysis) FixUp(feed *FeedInfo) {
 
 func (a *Analysis) Analyze() {
 	feedRows, err := a.db.Query(`
-    SELECT description, date, title, feed_link, feed_id, feed_type, is_podcast
+    SELECT description, date, title, feed_link, feed_id, feed_type, is_podcast, is_noarchive
       FROM feeds;`,
 	)
 	ohno(err)
@@ -601,6 +603,7 @@ func (a *Analysis) Analyze() {
 			&row.FeedID,
 			&row.FeedType,
 			&row.IsPodcast,
+			&row.IsNoarchive,
 		)
 		ohno(err)
 		feed := NewFeedInfo(row)

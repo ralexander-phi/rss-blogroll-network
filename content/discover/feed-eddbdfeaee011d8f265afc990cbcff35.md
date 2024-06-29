@@ -13,11 +13,14 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: ""
-  last_post_description: ""
-  last_post_date: ""
-  last_post_link: ""
+  last_post_title: 'Mastodon: June 3, 2024 at 4:33:11 PM UTC'
+  last_post_description: "\U0001F195 New on the docs: Using TypeScript, JSX, and MDX
+    with Eleventy 3.0:1️⃣ `.ts` and `.tsx`: https://www.11ty.dev/docs/languages/typescript/
+    (TypeScript configuration too)2️⃣ `.jsx`: https"
+  last_post_date: "2024-06-03T16:33:11Z"
+  last_post_link: https://fosstodon.org/@eleventy/112553649232905707
   last_post_categories: []
+  last_post_guid: 5a0371210a37a8fe5f89bd02310ed0d3
   score_criteria:
     cats: 0
     description: 3
@@ -29,4 +32,5 @@ params:
     website: 1
   score: 7
   ispodcast: false
+  isnoarchive: false
 ---

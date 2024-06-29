@@ -26,6 +26,7 @@ params:
   last_post_categories:
   - Personal
   - Reflection
+  last_post_guid: 6bfd8b29e8a6282e4f75b748fb69e27e
   score_criteria:
     cats: 0
     description: 3
@@ -37,4 +38,5 @@ params:
     website: 2
   score: 12
   ispodcast: false
+  isnoarchive: false
 ---

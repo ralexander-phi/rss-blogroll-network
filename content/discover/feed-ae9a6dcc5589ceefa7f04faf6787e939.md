@@ -22,6 +22,7 @@ params:
   last_post_link: https://set.studio/the-index-issue-26/
   last_post_categories:
   - The Index
+  last_post_guid: 89975373a7ee4c0f81140819eb18288d
   score_criteria:
     cats: 0
     description: 0
@@ -33,4 +34,5 @@ params:
     website: 0
   score: 9
   ispodcast: false
+  isnoarchive: false
 ---

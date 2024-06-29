@@ -24,6 +24,7 @@ params:
   last_post_date: "2024-03-18T16:50:14Z"
   last_post_link: https://logicmag.io/policy/unjust-termination-and-the-preservation-of-black-families
   last_post_categories: []
+  last_post_guid: ee8c61032f063a286ea83c152638430e
   score_criteria:
     cats: 0
     description: 3
@@ -35,4 +36,5 @@ params:
     website: 2
   score: 13
   ispodcast: false
+  isnoarchive: false
 ---

@@ -28,6 +28,7 @@ params:
   - Video Highlight
   - beginner
   - graphic
+  last_post_guid: 425186ad1c0663555326c04d9cfc6b4b
   score_criteria:
     cats: 0
     description: 0
@@ -39,4 +40,5 @@ params:
     website: 2
   score: 8
   ispodcast: false
+  isnoarchive: false
 ---

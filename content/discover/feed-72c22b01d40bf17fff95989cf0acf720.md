@@ -17,6 +17,7 @@ params:
   last_post_date: ""
   last_post_link: ""
   last_post_categories: []
+  last_post_guid: ""
   score_criteria:
     cats: 0
     description: 3
@@ -28,4 +29,5 @@ params:
     website: 0
   score: 6
   ispodcast: false
+  isnoarchive: false
 ---

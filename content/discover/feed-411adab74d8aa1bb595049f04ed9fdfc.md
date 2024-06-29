@@ -24,6 +24,7 @@ params:
   last_post_date: "2024-06-03T00:00:00Z"
   last_post_link: https://frills.dev/collections/art/
   last_post_categories: []
+  last_post_guid: 72f63a7af38557a4320b50a040d14bd6
   score_criteria:
     cats: 0
     description: 3
@@ -35,4 +36,5 @@ params:
     website: 2
   score: 10
   ispodcast: false
+  isnoarchive: false
 ---

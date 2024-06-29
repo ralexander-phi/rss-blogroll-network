@@ -57,11 +57,14 @@ params:
     https://kevquirk.com/72ja@qrk.one: false
     https://kevquirk.com/feed: false
     https://social.lol/@kevquirk: true
-  last_post_title: ""
-  last_post_description: ""
-  last_post_date: ""
-  last_post_link: ""
+  last_post_title: We Already Have a Digital Currency
+  last_post_description: |-
+    Bitcoin and their ilk really aren't my thing, but many talk about the need for a digital currency. But here's the thing - we already have one, don't we?
+    I'm not the right person to talk about crypto
+  last_post_date: "2024-05-29T11:30:00+01:00"
+  last_post_link: https://kevquirk.com/we-already-have-a-digital-currency
   last_post_categories: []
+  last_post_guid: 55a9a95db040611382f49f97849169af
   score_criteria:
     cats: 0
     description: 3
@@ -73,4 +76,5 @@ params:
     website: 2
   score: 25
   ispodcast: false
+  isnoarchive: false
 ---

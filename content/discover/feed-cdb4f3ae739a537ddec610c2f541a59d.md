@@ -20,6 +20,7 @@ params:
   last_post_date: "2023-12-08T12:12:02Z"
   last_post_link: https://www.curtisfamily.org.uk/technology/banktivity-revisited/#comment-6
   last_post_categories: []
+  last_post_guid: 9ba0da47da480827226d93a08e83217f
   score_criteria:
     cats: 0
     description: 3
@@ -31,4 +32,5 @@ params:
     website: 2
   score: 8
   ispodcast: false
+  isnoarchive: false
 ---

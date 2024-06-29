@@ -1,0 +1,3 @@
+{{- define "main" -}}
+{{ partial "opml-inner.xml" . }}
+{{ end }}

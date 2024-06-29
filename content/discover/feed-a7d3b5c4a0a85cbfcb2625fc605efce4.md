@@ -41,6 +41,7 @@ params:
   - standards
   - usability
   - WAI
+  last_post_guid: eb4e68f6b656b7da19491fbac95fe352
   score_criteria:
     cats: 0
     description: 3
@@ -52,4 +53,5 @@ params:
     website: 2
   score: 17
   ispodcast: false
+  isnoarchive: false
 ---

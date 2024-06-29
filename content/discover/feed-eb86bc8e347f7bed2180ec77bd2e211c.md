@@ -20,6 +20,7 @@ params:
   last_post_date: "2024-05-22T05:17:39-07:00"
   last_post_link: https://lifeofpablo.com/blog/the-multilingualness-of-call-me-by-your-name
   last_post_categories: []
+  last_post_guid: 1eb4ae133ed1b859e3686b4ec978f665
   score_criteria:
     cats: 0
     description: 3
@@ -31,4 +32,5 @@ params:
     website: 0
   score: 11
   ispodcast: false
+  isnoarchive: false
 ---

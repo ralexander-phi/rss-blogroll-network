@@ -38,6 +38,7 @@ params:
   - AfroJazz
   - Jazz
   - South Africa
+  last_post_guid: 1cf2dc035ac3d4e22c54b058dbe4d653
   score_criteria:
     cats: 0
     description: 3
@@ -49,4 +50,5 @@ params:
     website: 2
   score: 18
   ispodcast: false
+  isnoarchive: false
 ---

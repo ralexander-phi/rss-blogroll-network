@@ -252,6 +252,7 @@ params:
   last_post_date: "2024-06-02T15:53:45+01:00"
   last_post_link: https://danq.me/2024/06/02/woke-kids/#comment-249520
   last_post_categories: []
+  last_post_guid: ac8816316cf5a4d9bb2f759bd19b18ff
   score_criteria:
     cats: 0
     description: 3
@@ -263,4 +264,5 @@ params:
     website: 2
   score: 20
   ispodcast: false
+  isnoarchive: false
 ---

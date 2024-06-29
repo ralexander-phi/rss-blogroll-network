@@ -25,9 +25,10 @@ params:
 
 
     Upload all
-  last_post_date: "1970-01-01T00:00:00Z"
+  last_post_date: "2024-06-04T13:54:33Z"
   last_post_link: https://gitlab.com/edent/emf-infrared/-/commit/5a695ad3eefc78f486e945851444686d64ca72c1
   last_post_categories: []
+  last_post_guid: bf870b5e06f4c26e60649c2fb18e8212
   score_criteria:
     cats: 0
     description: 0
@@ -39,4 +40,5 @@ params:
     website: 2
   score: 7
   ispodcast: false
+  isnoarchive: false
 ---

@@ -39,6 +39,7 @@ params:
   - PracticalTips
   - RealisticGoals
   - TimeManagement
+  last_post_guid: c1e7b60648e62d9703b6c7cf24186c26
   score_criteria:
     cats: 0
     description: 3
@@ -50,4 +51,5 @@ params:
     website: 1
   score: 10
   ispodcast: false
+  isnoarchive: false
 ---

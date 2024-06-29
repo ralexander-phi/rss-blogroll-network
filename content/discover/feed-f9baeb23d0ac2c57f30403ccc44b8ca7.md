@@ -32,6 +32,7 @@ params:
   - Pesticides
   - PesticideUse
   - Spiders
+  last_post_guid: 6d0659fb51f7be40bf15961041573f07
   score_criteria:
     cats: 0
     description: 3
@@ -43,4 +44,5 @@ params:
     website: 2
   score: 11
   ispodcast: false
+  isnoarchive: false
 ---

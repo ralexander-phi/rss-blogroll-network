@@ -30,6 +30,7 @@ params:
   last_post_date: "2024-05-25T15:41:43-05:00"
   last_post_link: https://www.thingelstad.com/2024/05/25/first-coffee-in.html
   last_post_categories: []
+  last_post_guid: 5d46ca0f1adc84b181b0d54408ee78fa
   score_criteria:
     cats: 1
     description: 3
@@ -41,4 +42,5 @@ params:
     website: 2
   score: 11
   ispodcast: true
+  isnoarchive: false
 ---

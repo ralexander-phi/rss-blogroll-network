@@ -20,6 +20,7 @@ params:
   last_post_date: "2024-05-02T16:39:22Z"
   last_post_link: https://www.zachseward.com/ai-is-not-a-person/
   last_post_categories: []
+  last_post_guid: 38383fab5acffc4ec728f2e707ab30da
   score_criteria:
     cats: 0
     description: 3
@@ -31,4 +32,5 @@ params:
     website: 2
   score: 13
   ispodcast: false
+  isnoarchive: false
 ---

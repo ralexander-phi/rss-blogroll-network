@@ -14,11 +14,12 @@ params:
   - https://chrisburnell.com/feed.xml
   categories: []
   relme: {}
-  last_post_title: Why I blog again
+  last_post_title: The unclear case of usability widgets on your website
   last_post_description: ""
-  last_post_date: "1970-01-01T00:00:00Z"
-  last_post_link: https://www.erikkroes.nl/blog/why-i-blog-again/
+  last_post_date: "2024-06-03T22:00:00Z"
+  last_post_link: https://www.erikkroes.nl/blog/The-unclear-case-of-usability-widgets-on-your-website/
   last_post_categories: []
+  last_post_guid: 98295d51603e58cd83fbfbedb0ffc4fc
   score_criteria:
     cats: 0
     description: 3
@@ -30,4 +31,5 @@ params:
     website: 0
   score: 11
   ispodcast: false
+  isnoarchive: false
 ---

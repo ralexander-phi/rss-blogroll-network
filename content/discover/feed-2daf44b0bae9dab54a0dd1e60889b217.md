@@ -23,6 +23,7 @@ params:
   last_post_date: "2024-06-04T07:58:14Z"
   last_post_link: https://piccalil.li/blog/lets-make-a-floating-button-sign-up-form-pattern/?ref=main-rss-feed
   last_post_categories: []
+  last_post_guid: 48d0d38aa7ae031e900fa6289995c1ba
   score_criteria:
     cats: 0
     description: 3
@@ -34,4 +35,5 @@ params:
     website: 2
   score: 10
   ispodcast: false
+  isnoarchive: false
 ---

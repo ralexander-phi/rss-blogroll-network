@@ -35,6 +35,7 @@ params:
   - chemie
   - emancipatie
   - literatuur
+  last_post_guid: cf52a2ef20b76141ab1fc369f6d4d1ca
   score_criteria:
     cats: 0
     description: 0
@@ -46,4 +47,5 @@ params:
     website: 2
   score: 15
   ispodcast: false
+  isnoarchive: false
 ---

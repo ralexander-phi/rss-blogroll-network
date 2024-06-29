@@ -18,13 +18,14 @@ params:
   - News
   - Government
   relme: {}
-  last_post_title: No freakouts required, Democrats!
-  last_post_description: Has the damage already been done with Trump's criminal trial?
-    Joe and Alex discuss just how bad a guilty verdict could be for Trump. What two
-    matters signal big trouble if Trump is convicted (and
-  last_post_date: "2024-05-31T09:00:00Z"
-  last_post_link: ""
+  last_post_title: '"They can''t get their party back" with Celinda Lake'
+  last_post_description: With all the new entrants into the 2024 GOP primary - does
+    it really matter? Pollster and longtime Democratic strategist Celinda Lake joins
+    Joe and Alex - and you won't be surprised at what her
+  last_post_date: "2023-06-09T09:00:00Z"
+  last_post_link: https://www.blueduck.media/
   last_post_categories: []
+  last_post_guid: 57d839bb8b164a92cf7d181b2f9d400a
   score_criteria:
     cats: 2
     description: 3
@@ -36,4 +37,5 @@ params:
     website: 0
   score: 13
   ispodcast: true
+  isnoarchive: false
 ---

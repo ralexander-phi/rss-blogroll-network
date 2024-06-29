@@ -22,6 +22,7 @@ params:
   last_post_date: "2023-12-21T21:56:23Z"
   last_post_link: https://erinkissane.com/untangling-threads
   last_post_categories: []
+  last_post_guid: aea4bfcf1469287f7a409d429c82456e
   score_criteria:
     cats: 0
     description: 3
@@ -33,4 +34,5 @@ params:
     website: 2
   score: 13
   ispodcast: false
+  isnoarchive: false
 ---

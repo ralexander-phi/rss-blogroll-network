@@ -23,6 +23,7 @@ params:
   last_post_date: "2024-04-21T10:00:00Z"
   last_post_link: https://sallylait.com/blog/2024/04/21/holidays-in-japan-with-a-toddler/
   last_post_categories: []
+  last_post_guid: e1807b358263a40649351647cfccfcd5
   score_criteria:
     cats: 0
     description: 3
@@ -34,4 +35,5 @@ params:
     website: 2
   score: 14
   ispodcast: false
+  isnoarchive: false
 ---

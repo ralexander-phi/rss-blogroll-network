@@ -46,6 +46,7 @@ params:
   - créativité
   - interviews
   - Neil Gaiman
+  last_post_guid: db0cd925ee99d6cc1ea9a079826ab173
   score_criteria:
     cats: 0
     description: 3
@@ -57,4 +58,5 @@ params:
     website: 2
   score: 18
   ispodcast: false
+  isnoarchive: false
 ---

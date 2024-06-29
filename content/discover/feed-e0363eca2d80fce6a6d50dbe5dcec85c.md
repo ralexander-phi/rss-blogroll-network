@@ -36,6 +36,7 @@ params:
   - Authenticode
   - signing
   - SmartAppControl
+  last_post_guid: 9474deb0961affa972acd0b53f8f8274
   score_criteria:
     cats: 0
     description: 3
@@ -47,4 +48,5 @@ params:
     website: 2
   score: 16
   ispodcast: false
+  isnoarchive: false
 ---

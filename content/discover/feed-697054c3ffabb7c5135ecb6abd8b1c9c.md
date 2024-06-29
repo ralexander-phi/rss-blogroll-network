@@ -14,20 +14,23 @@ params:
   categories:
   - articles
   relme: {}
-  last_post_title: ""
+  last_post_title: Site Updates
   last_post_description: ""
-  last_post_date: ""
-  last_post_link: ""
-  last_post_categories: []
+  last_post_date: "2024-06-02T21:44:34Z"
+  last_post_link: https://alchemists.io/articles/site_updates
+  last_post_categories:
+  - milestones
+  last_post_guid: f2c70be84e73d5ebffd280f090d03a83
   score_criteria:
     cats: 1
     description: 3
-    postcats: 0
+    postcats: 1
     promoted: 0
     promotes: 0
     relme: 0
     title: 3
     website: 1
-  score: 8
+  score: 9
   ispodcast: false
+  isnoarchive: false
 ---

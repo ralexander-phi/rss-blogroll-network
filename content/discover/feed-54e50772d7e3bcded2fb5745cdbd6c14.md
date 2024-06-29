@@ -21,6 +21,7 @@ params:
   last_post_date: "2019-11-29T00:00:00-05:00"
   last_post_link: https://speakerdeck.com/reinvented/the-government-that-swallowed-a-pond-using-open-data-and-gis-to-inform-policy-and-influence-behaviour
   last_post_categories: []
+  last_post_guid: 727aff542399a08ac4b8c0af1ec2c247
   score_criteria:
     cats: 0
     description: 3
@@ -32,4 +33,5 @@ params:
     website: 2
   score: 8
   ispodcast: false
+  isnoarchive: false
 ---

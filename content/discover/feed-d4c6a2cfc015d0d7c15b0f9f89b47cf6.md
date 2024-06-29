@@ -109,6 +109,7 @@ params:
   - warm blood
   - warm bloodedness
   - wildlife
+  last_post_guid: cc9bd041eb950d729c08e9e3aca8f4ac
   score_criteria:
     cats: 0
     description: 3
@@ -120,4 +121,5 @@ params:
     website: 2
   score: 16
   ispodcast: false
+  isnoarchive: false
 ---

@@ -52,6 +52,7 @@ params:
   last_post_date: "2024-06-02T14:50:13-04:00"
   last_post_link: https://blog.numericcitizen.me/2024/06/02/first-narrated-blog.html
   last_post_categories: []
+  last_post_guid: 5a37ef00a8716b91cb71b3bf461194c5
   score_criteria:
     cats: 1
     description: 3
@@ -63,4 +64,5 @@ params:
     website: 2
   score: 20
   ispodcast: true
+  isnoarchive: false
 ---

@@ -26,6 +26,7 @@ params:
   - Introspection
   - '#Grief'
   - '#philosophising'
+  last_post_guid: 968c3765224220d80825a6a91426d908
   score_criteria:
     cats: 0
     description: 3
@@ -37,4 +38,5 @@ params:
     website: 2
   score: 18
   ispodcast: false
+  isnoarchive: false
 ---

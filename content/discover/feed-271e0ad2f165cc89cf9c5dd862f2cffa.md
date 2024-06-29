@@ -21,6 +21,7 @@ params:
   last_post_date: "2024-06-02T19:27:37Z"
   last_post_link: https://ianbetteridge.com/2024/05/29/google-lies/comment-page-1/#comment-3873
   last_post_categories: []
+  last_post_guid: 69af310e90ba834a06268d73cc5e9b4e
   score_criteria:
     cats: 0
     description: 3
@@ -32,4 +33,5 @@ params:
     website: 2
   score: 9
   ispodcast: false
+  isnoarchive: false
 ---

@@ -22,6 +22,7 @@ params:
   last_post_date: "2024-05-23T14:35:00+02:00"
   last_post_link: https://manuelmoreale.com/@/page/LZEW29WzkqmNqT4e
   last_post_categories: []
+  last_post_guid: 1dd7c0ec49c40528d37ba1e86bf59da9
   score_criteria:
     cats: 0
     description: 3
@@ -33,4 +34,5 @@ params:
     website: 2
   score: 8
   ispodcast: false
+  isnoarchive: false
 ---

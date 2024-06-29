@@ -26,6 +26,7 @@ params:
   - Podcast
   - Shows
   - This Week
+  last_post_guid: 73b55ea26fb774d6e3f689b936a17490
   score_criteria:
     cats: 1
     description: 3
@@ -37,4 +38,5 @@ params:
     website: 0
   score: 15
   ispodcast: true
+  isnoarchive: false
 ---

@@ -31,6 +31,7 @@ params:
   - Recent News
   - Sidebar - Featured
   - Threads
+  last_post_guid: dff7b0da67655346f0ede8d77da3844d
   score_criteria:
     cats: 0
     description: 0
@@ -42,4 +43,5 @@ params:
     website: 0
   score: 11
   ispodcast: false
+  isnoarchive: false
 ---

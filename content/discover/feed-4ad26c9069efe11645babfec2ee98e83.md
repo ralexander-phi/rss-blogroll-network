@@ -23,6 +23,7 @@ params:
   last_post_date: "2024-05-14T18:34:52-07:00"
   last_post_link: https://andysylvester.com/2024/05/14/are-we-creating-great-things/
   last_post_categories: []
+  last_post_guid: 0132f149893baa53462bd33b0faf8055
   score_criteria:
     cats: 0
     description: 3
@@ -34,4 +35,5 @@ params:
     website: 2
   score: 9
   ispodcast: false
+  isnoarchive: false
 ---

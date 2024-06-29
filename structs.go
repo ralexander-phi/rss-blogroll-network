@@ -27,9 +27,11 @@ type FeedInfoParams struct {
 	LastPostDate       string          `yaml:"last_post_date"`
 	LastPostLink       string          `yaml:"last_post_link"`
 	LastPostCategories []string        `yaml:"last_post_categories"`
+	LastPostGuid       string          `yaml:"last_post_guid"`
 	ScoreCriteria      map[string]int  `yaml:"score_criteria"`
 	Score              int             `yaml:"score"`
 	IsPodcast          bool            `yaml:"ispodcast"`
+	IsNoarchive        bool            `yaml:"isnoarchive"`
 }
 
 func NewFeedInfo(row ScanFeedInfo) *FeedInfo {
@@ -41,6 +43,7 @@ func NewFeedInfo(row ScanFeedInfo) *FeedInfo {
 		RelMe:         map[string]bool{},
 		ScoreCriteria: map[string]int{},
 		IsPodcast:     row.IsPodcast,
+		IsNoarchive:   row.IsNoarchive,
 	}
 	f := FeedInfo{
 		Title:       row.Title,
@@ -73,6 +76,7 @@ type ScanFeedInfo struct {
 	FeedID      string
 	FeedType    string
 	IsPodcast   bool
+	IsNoarchive bool
 }
 
 type Link struct {

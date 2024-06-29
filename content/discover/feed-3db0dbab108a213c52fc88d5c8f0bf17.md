@@ -237,7 +237,13 @@ params:
   - https://xkcd.com/atom.xml
   - https://youdo.blog/comments/feed/
   recommender: []
-  categories: []
+  categories:
+  - Personal
+  - email
+  - geeky
+  - published on gemini
+  - rss
+  - spam
   relme:
     https://en.pronouns.page/@dan-q: false
     https://github.com/dan-q/: true
@@ -246,20 +252,29 @@ params:
     https://m.danq.me/@dan: false
     https://www.linkedin.com/in/itsdanq/: false
     https://www.youtube.com/@DanQ: false
-  last_post_title: ""
-  last_post_description: ""
-  last_post_date: ""
-  last_post_link: ""
-  last_post_categories: []
+  last_post_title: '[Article] Somewhat-Effective Spam Filters'
+  last_post_description: I've tried a variety of unusual anti-spam solutions. Here's
+    how they worked out for me.
+  last_post_date: "2024-06-04T11:27:38+01:00"
+  last_post_link: https://danq.me/2024/06/04/somewhat-effective-spam-filters/
+  last_post_categories:
+  - Personal
+  - email
+  - geeky
+  - published on gemini
+  - rss
+  - spam
+  last_post_guid: 619e615ca6088b0261238096c32eda69
   score_criteria:
     cats: 0
     description: 3
-    postcats: 0
+    postcats: 3
     promoted: 0
     promotes: 10
     relme: 2
     title: 3
     website: 2
-  score: 20
+  score: 23
   ispodcast: false
+  isnoarchive: false
 ---

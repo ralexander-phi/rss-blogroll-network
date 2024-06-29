@@ -28,6 +28,7 @@ params:
   last_post_date: "2024-06-03T09:30:00Z"
   last_post_link: https://www.welivesecurity.com/en/how-to/the-murky-world-of-password-leaks-and-how-to-check-if-youve-been-hit/
   last_post_categories: []
+  last_post_guid: 0b2195a8f6cd6193e4cb07331b5c3f0f
   score_criteria:
     cats: 0
     description: 3
@@ -39,4 +40,5 @@ params:
     website: 0
   score: 11
   ispodcast: false
+  isnoarchive: false
 ---

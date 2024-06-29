@@ -33,6 +33,7 @@ params:
   - Diversity in Ai
   - Diversity In Tech
   - Women In Tech
+  last_post_guid: 03435e02a7c3f467bf713966ec61fb9c
   score_criteria:
     cats: 0
     description: 3
@@ -44,4 +45,5 @@ params:
     website: 2
   score: 11
   ispodcast: false
+  isnoarchive: false
 ---

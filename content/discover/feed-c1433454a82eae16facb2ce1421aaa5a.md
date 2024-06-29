@@ -27,6 +27,7 @@ params:
   - Change
   - Organisatieverandering
   - Zelforganisatie
+  last_post_guid: 91113cf0ca09d3994a50cbdbc5843481
   score_criteria:
     cats: 0
     description: 3
@@ -38,4 +39,5 @@ params:
     website: 2
   score: 16
   ispodcast: false
+  isnoarchive: false
 ---

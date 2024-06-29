@@ -27,6 +27,7 @@ params:
   last_post_link: https://rachsmith.com/comedy-series/
   last_post_categories:
   - miscellany
+  last_post_guid: 522a295c836645825ecbab988029c7df
   score_criteria:
     cats: 0
     description: 3
@@ -38,4 +39,5 @@ params:
     website: 0
   score: 12
   ispodcast: false
+  isnoarchive: false
 ---

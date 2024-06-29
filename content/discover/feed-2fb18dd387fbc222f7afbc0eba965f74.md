@@ -20,6 +20,7 @@ params:
   last_post_date: "2020-01-15T11:49:00+01:00"
   last_post_link: https://www.mc4wp.com/blog/user-survey/
   last_post_categories: []
+  last_post_guid: 6154c05ba2f5447b85348d9291e7db9e
   score_criteria:
     cats: 0
     description: 3
@@ -31,4 +32,5 @@ params:
     website: 2
   score: 8
   ispodcast: false
+  isnoarchive: false
 ---

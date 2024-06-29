@@ -31,6 +31,7 @@ params:
   last_post_date: "2023-09-17T09:25:09Z"
   last_post_link: https://wegot.family/5/
   last_post_categories: []
+  last_post_guid: 867cc2a36a7f698a7bd56453e1cd94a3
   score_criteria:
     cats: 1
     description: 3
@@ -42,4 +43,5 @@ params:
     website: 2
   score: 11
   ispodcast: true
+  isnoarchive: false
 ---
