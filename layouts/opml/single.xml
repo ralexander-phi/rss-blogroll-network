@@ -1,3 +1,4 @@
+{{- define "main" -}}
 {{- printf "<?xml version=\"1.0\" encoding=\"utf-8\"?>" | safeHTML }}
 <opml version="2.0">
 	<head>
@@ -25,3 +26,4 @@
     {{- end -}}
   </body>
 </opml>
+{{ end }}

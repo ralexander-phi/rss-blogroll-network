@@ -1,5 +1,6 @@
 ---
 title: Scoring Criteria
+url: /scoring/index.html
 ---
 
 The current scoring methodology aims to promote adoption of features that will support the social aspects of

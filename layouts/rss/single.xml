@@ -1,3 +1,4 @@
+{{- define "main" -}}
 {{- printf "<?xml version=\"1.0\" encoding=\"utf-8\"?>" | safeHTML }}
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:source="http://source.scripting.com/">
   <channel>
@@ -42,3 +43,4 @@
     {{- end }}
   </channel>
 </rss>
+{{ end }}

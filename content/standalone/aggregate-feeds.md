@@ -1,5 +1,6 @@
 ---
 title: Aggregate Feeds
+url: /aggregate-feeds/index.html
 ---
 
 For compatibility with existing tools, several aggregate feeds are available.
