@@ -1,0 +1,950 @@
+---
+title: Jonstraveladventures
+date: "2024-06-16T19:38:39+02:00"
+description: Dr Shock searches for some enlightenment in the strange world of string
+  theory in the hope that he may stumble across some great food and interesting experiences
+  on this preposterous quest (England -
+params:
+  feedlink: https://jonstraveladventures.blogspot.com/feeds/posts/default
+  feedtype: atom
+  feedid: 93dfce646a57c4913c5efdc97bdf0be1
+  websites:
+    https://jonstraveladventures.blogspot.com/: true
+  blogrolls: []
+  recommended: []
+  recommender: []
+  categories:
+  - photography
+  - China
+  - Beijing
+  - physics
+  - Spain
+  - Galicia
+  - Santiago de Compostela
+  - videos
+  - work
+  - atmospheric optics
+  - food
+  - talks
+  - travel
+  - astronomy
+  - japan
+  - music
+  - couchsurfing
+  - books
+  - travels
+  - Chinese
+  - astrophotography
+  - tips
+  - science
+  - South Africa
+  - papers
+  - string theory
+  - korea
+  - video
+  - 22 degree solar halo
+  - Munich
+  - art
+  - language
+  - news
+  - reviews
+  - Germany
+  - cooking
+  - Oxford
+  - England
+  - Spanish
+  - Seoul
+  - TED
+  - lectures
+  - scitalks
+  - Kyoto
+  - Moon
+  - Tokyo
+  - conferences
+  - eclipse
+  - movies
+  - research
+  - Links
+  - architecture
+  - languages
+  - update
+  - updates
+  - Festival
+  - HDR
+  - KITPC
+  - Kruger National Park
+  - London
+  - Toomanytribbles
+  - advertising
+  - computers
+  - flights
+  - technology
+  - weather
+  - Argentina
+  - BAblog
+  - Cape Town
+  - Christmas
+  - Dublin
+  - Morocco
+  - Olympics
+  - Shanghai
+  - UK
+  - Wudaokou
+  - Wuhan
+  - blogs
+  - nature
+  - storms
+  - sundogs
+  - Africa
+  - Baoji
+  - Barcelona
+  - Blogger
+  - Buenos Aires
+  - Flickr
+  - Jupiter
+  - Pingliang
+  - South America
+  - animals
+  - computing
+  - education
+  - films
+  - friends
+  - madrid
+  - mathematics
+  - rain
+  - seminars
+  - sightseeing
+  - sunset
+  - AdS/QCD
+  - CERN
+  - California
+  - Chinese food
+  - D22
+  - France
+  - Gansu
+  - Internet
+  - Jiuzhaigou
+  - Kabuki
+  - Korean food
+  - LHC
+  - Mathematica
+  - New Year
+  - Porto
+  - Portugal
+  - TED conference
+  - air pollution
+  - blogging
+  - complex systems summer school
+  - fireworks
+  - hints
+  - holidays
+  - maths
+  - recipes
+  - review
+  - software
+  - stars
+  - summary
+  - trains
+  - venus
+  - 22 degree lunar halo
+  - Asturias
+  - B physics
+  - Bariloche
+  - Cargese
+  - Carnival
+  - Geneva
+  - Haiku
+  - Ireland
+  - Kimchi
+  - Korean
+  - Lijiang
+  - Mac
+  - Monterey
+  - Mozambique
+  - Paris
+  - Patagonia
+  - Perseids
+  - Pimsleur
+  - Politics
+  - Santiagiago de Compostela
+  - Shaanxi
+  - Steinbeck
+  - Stephen Hawking
+  - USA
+  - Yunnan
+  - animations
+  - block
+  - culture
+  - drink
+  - evolution
+  - inspiration
+  - juggling
+  - meteors
+  - molecular gastronomy
+  - motivation
+  - particle physics
+  - pipes
+  - rainbow
+  - recipe
+  - stories
+  - strings 2007
+  - stupidity
+  - telescopes
+  - traffic
+  - upper tangent arc
+  - web 2.0
+  - wedding
+  - ACER
+  - API
+  - Aboriginal culture
+  - Burt Rutan
+  - CMS
+  - Capoeira
+  - Chengdu
+  - Chinglish
+  - Cine Europa
+  - Coursera
+  - Croatia
+  - Data
+  - Dave Feldman
+  - Dubai
+  - Dubrovnik
+  - Eiffel tower
+  - English corner
+  - Fes
+  - Gamma ray burster
+  - Genius
+  - Gijon
+  - Greece
+  - Hangul
+  - Japanese
+  - Jonathan Tel
+  - Kongtong shan
+  - Kubrick
+  - La Coruna
+  - LaTeX
+  - Macro
+  - Marrakech
+  - May day
+  - Michel Thomas
+  - Milos
+  - Monte Pindo
+  - NASA
+  - Nav
+  - Nicholas Negroponte
+  - Phil Plait
+  - Pohang
+  - Pollution
+  - QFT
+  - Semana Santa
+  - Sichuan
+  - Sidney Coleman
+  - Sitges
+  - Solar cooking
+  - Study
+  - Switzerland
+  - Tate Modern
+  - Ted talks
+  - Television
+  - Tim Ferris
+  - Titan
+  - Udacity
+  - Windows Vista
+  - Wolfram Alpha
+  - ads/cft
+  - apology
+  - atmosperic optics
+  - bills
+  - biology
+  - bird's nest
+  - blog
+  - cameras
+  - cathedral
+  - chicken soup
+  - clubs
+  - coastline
+  - concerts
+  - conjunction
+  - experiments
+  - extra solar planets
+  - fair
+  - family
+  - fiction
+  - flashcards
+  - genetic algorithms
+  - google
+  - google reader
+  - guide
+  - hacks
+  - hair cuts
+  - history
+  - hospitals
+  - insect
+  - jazz
+  - lamprey
+  - life
+  - literature
+  - magazines
+  - mandarin
+  - medicine
+  - midi festival
+  - milky way
+  - mobile phones
+  - moonrise
+  - museum
+  - net nanny
+  - nostalgia
+  - obituary
+  - octopus
+  - one laptop per child
+  - opening ceremony
+  - operating systems
+  - outreach
+  - photgraphy
+  - photograpy
+  - planets
+  - police
+  - program
+  - random
+  - reading
+  - reflections
+  - religion
+  - rocket launch
+  - schools
+  - scientists
+  - search
+  - solar halo
+  - spiders
+  - string cosmology
+  - summer
+  - summer school
+  - sushi
+  - tannery
+  - temples
+  - tiredness
+  - trees
+  - trip
+  - turing machine
+  - views
+  - visa
+  - writing
+  - 120 degree parhelion
+  - "798"
+  - A coruna
+  - AI
+  - AIMS
+  - ATLAS
+  - AdS Collective
+  - Addons
+  - Adobe Acroread
+  - Akihabara
+  - Alday
+  - Alzheimer's
+  - Amazonian Giant Centipede
+  - Artificial Intelligence
+  - Atlantic
+  - Australia
+  - Austria
+  - Awards
+  - BBC news
+  - BDS
+  - BMX
+  - Baoli
+  - Barajas
+  - Basque country
+  - Beijing City Weekender
+  - Bergman
+  - Berlin
+  - Big Sur
+  - Boingboing
+  - Bookworm
+  - Borough Market
+  - Botafumeiro
+  - Boulder
+  - Bratislava
+  - Break dancing
+  - Breath
+  - Brian Cox
+  - Brian Greene
+  - Brion
+  - British Museum
+  - Brussels
+  - Buckingham Palace
+  - Budapest
+  - Burj Dubai
+  - Buster Keaton
+  - CCTV tower
+  - Cambridge
+  - Cape of Good Hope
+  - Carl Sagan
+  - Carolyn Porco
+  - Casa Marcelo
+  - Cassini
+  - Catholicism
+  - Changgyeongung
+  - Chaoyang
+  - Cherry blossom
+  - Chin
+  - China's Instant Cities
+  - Chinesepod
+  - Cineuropa
+  - Clay Shirky
+  - Comet 17/P holmes
+  - Comet Lulin
+  - Conciencia
+  - Confetti
+  - Copenhagen
+  - Cory Doctorow
+  - Cosmos
+  - Craig Venter
+  - Craigs list
+  - DIAS
+  - DSLR
+  - Daegu
+  - Dan
+  - Dan Dennet
+  - Danial Tammat
+  - Dashanzi
+  - Dawson Bros
+  - Denmark
+  - Descartes
+  - Distler
+  - Dos Kolegas
+  - Douglas Hofstadter
+  - Dreaming
+  - Dreaming in Code
+  - Dreamtime
+  - Dropbox
+  - Dunhuang
+  - Earth day
+  - Earth hour
+  - Earthshine
+  - Echineselearning
+  - El Ateneo
+  - Elliott Sharp
+  - Encounters at the end of the world
+  - English Garden
+  - Everest
+  - Fiesta
+  - Firefox
+  - First impressions
+  - Fisterra
+  - Fonseca Prize
+  - Francis Elizabeth Allen
+  - Freemind
+  - Freud
+  - Fuji
+  - GFW
+  - Gaia
+  - Gatecrasher
+  - Glory
+  - Gobi
+  - Gongti
+  - Goodbyes
+  - Google squared
+  - Grease Monkey
+  - Green flash
+  - Guinness
+  - Gwoyeu Romatzyh
+  - Haidian park
+  - Halloween
+  - Harvard
+  - Health
+  - Henning Samtleben
+  - Herschel
+  - Himalayas
+  - Houhai
+  - Huajiao
+  - Huanglong
+  - Hungary
+  - Huun-Huur-Tu
+  - I am legend
+  - I'm a Cyborg
+  - ISS
+  - Iguazu
+  - Incheon
+  - Indian
+  - Inhambane
+  - International Space Station
+  - Internet access
+  - Isla de Cies
+  - Italian
+  - James Glazier
+  - James Lovelock
+  - Jerry Fodor
+  - Jiayuguan
+  - Jinan park
+  - Jingshan
+  - Johannesburg
+  - John Armstrong
+  - July 22nd 2009
+  - Kenkoku Kinenbi
+  - Kevin Rudd
+  - Kim Ki Duk
+  - Kiyomizu
+  - Korean independence day
+  - Kurt Vonnegut
+  - LHC startup
+  - La Plata
+  - Lagoon nebula
+  - Lanzhou
+  - Leon
+  - London Eye
+  - M42
+  - MIT media lab
+  - MITx
+  - Maldacena
+  - Mario Vargas Llosa
+  - Marquez
+  - Mars
+  - Max Roach
+  - Meebo
+  - Mercury
+  - Michael Standaert
+  - Michelin Star
+  - Microsoft
+  - Mind maps
+  - Mnemosyne
+  - Money Jungle
+  - Mozamique
+  - Muros
+  - Museum of contemporary art
+  - Museum of natural history
+  - Museum of the Pobo Galego
+  - NOMA
+  - Namsan
+  - Nara
+  - National Aquatics centre
+  - National Gallery
+  - Neil Turok
+  - Newton Institute
+  - Nishiki
+  - Noche de San Juan
+  - Noctilucent clouds
+  - Noia
+  - Ochanomizu
+  - Olympic Games
+  - Orion
+  - Orion nebula
+  - Ourense
+  - Oviedo
+  - PC
+  - Palacio de Congresos
+  - Pamelia Kursten
+  - Panba
+  - Pandora
+  - Park
+  - Park Chan Wook
+  - Parque de Bonaval
+  - Paths of glory
+  - Pattie Maes
+  - Peking Duck
+  - Pharyngula
+  - Phineas Gage
+  - Phoenix
+  - Photograhy
+  - Pico Sacro
+  - Planck
+  - Poland
+  - Port
+  - Praia das Catedrais
+  - Pub Fuco Luis
+  - Pudong
+  - Puppetry
+  - QCD
+  - Qing Ming Jie
+  - RAW format
+  - RSS
+  - RSSOwl
+  - RTN
+  - RTN winter school
+  - Rapa das bestas
+  - Rubick's cube
+  - Russian
+  - SETI
+  - Sabucedo
+  - Sagrada Familia
+  - San Francisco
+  - San Nak Ji
+  - San Pedro
+  - Santiago de Chile
+  - Saturn
+  - Scaled Composites
+  - Seoul Shinmun
+  - Seoul tower
+  - Setsubun
+  - Shinjuku
+  - Shinkansen
+  - Sichuan pepper
+  - Sir Ken Robinson
+  - Slovakia
+  - Solstice
+  - Soom
+  - Southampton
+  - Sphere
+  - St Paul's
+  - Stellarium
+  - Steven Pinker
+  - Summer Palace
+  - Sundays
+  - TASI
+  - TED prize
+  - TEDtalks
+  - TV
+  - Taegu
+  - Takoyaki
+  - Thai green curry
+  - The Adventures of the Pisco Kid
+  - The Beijing of Possibilities
+  - The General
+  - The Unapologetic Mathematician
+  - Thinking blogger
+  - Through a Glass Darkly
+  - Tian Tan
+  - Tiananmen
+  - Tim
+  - Tim Minchin
+  - Torres Strait Islanders
+  - Transformers
+  - Trey Ratcliff
+  - Trpanj
+  - Tsukiji
+  - Turing Prize
+  - Tussock moth
+  - Txalaparta
+  - Uranus
+  - Valdivia
+  - Vapourer
+  - Vienna
+  - Warsaw
+  - Wastage
+  - Werner Herzog
+  - Western Union Scam
+  - Westin Hotel
+  - Whale watching
+  - Wild Strawberries
+  - X-price
+  - XP
+  - Yahoo Pipes
+  - Yuan Ming Yuan
+  - Yukawa Institute
+  - Zhangye
+  - Zhejiangh
+  - abiogenesis
+  - anniversary
+  - apan
+  - appendicitis
+  - aquarium
+  - architecture.
+  - arranged marriage
+  - artWALK
+  - articles
+  - arxiv
+  - atoptics
+  - autism
+  - autumn
+  - backup
+  - banks
+  - bars
+  - beach
+  - beams
+  - beans
+  - beetle
+  - beginnings
+  - bhuna
+  - birds
+  - black holes
+  - blog rolling
+  - boat
+  - boing boing
+  - bookshops
+  - border controls
+  - boycott
+  - brunch
+  - buffet
+  - building
+  - buildings
+  - bureaucracy
+  - but that's ok
+  - cafe culture
+  - call my bluff
+  - cards
+  - catchup
+  - caterpillars
+  - celebrations
+  - chaos
+  - chemistry
+  - chicken
+  - circumscribed halo
+  - cloning
+  - clothing
+  - cloud seeding
+  - cloud shadow
+  - clouds
+  - coding
+  - coffee
+  - comedy
+  - comet
+  - comments
+  - complaints
+  - computation
+  - cone snail
+  - conservation
+  - counterculture
+  - creativity
+  - crepuscular rays
+  - crescent
+  - criteo
+  - cross
+  - culture shock
+  - cycling
+  - cyclists
+  - dance
+  - dancers
+  - database
+  - demolition
+  - derelict
+  - devendra bernhardt
+  - dish
+  - dragonfly
+  - earthquake
+  - eel
+  - elephant
+  - endings
+  - energy policy
+  - engineering
+  - epiphany
+  - ethics
+  - events
+  - exercise
+  - experience
+  - explanations
+  - explosion
+  - extra dimensions
+  - extra terrestrial intelligence
+  - faces
+  - factory
+  - fashion
+  - feed reader
+  - fiestas
+  - fire
+  - fire jumping
+  - fish
+  - flat
+  - flat-hunting
+  - flowers
+  - future
+  - gadgets
+  - games
+  - gastronomy
+  - gauged supergravity
+  - geometry
+  - giraffe
+  - gluon scattering
+  - google system blog
+  - gravitational waves
+  - health service
+  - heat
+  - heavens above
+  - hiking
+  - history in the making
+  - hole in the universe
+  - holiday
+  - homatropine
+  - home
+  - homeopathy
+  - honking
+  - horses
+  - hyena
+  - ice pillars
+  - impala
+  - information extraction
+  - insomnia
+  - jaw
+  - jet-lag
+  - kafkaesque
+  - killer's kiss
+  - kitchenalia
+  - language exchange
+  - leather
+  - leaves
+  - leaving
+  - leopard
+  - lessons
+  - lifehacks
+  - lighthouse
+  - lightning
+  - lights
+  - linear confinement
+  - linguistics
+  - link
+  - lollamprey
+  - lowitz arcs
+  - lunar halo
+  - manatees
+  - manga
+  - market
+  - memes
+  - memories
+  - memory
+  - methane
+  - moods
+  - mountains
+  - moving food
+  - msn
+  - museums
+  - mydriasis
+  - myriapod
+  - n-gram
+  - national geographic
+  - natto
+  - nebula
+  - neuroscience
+  - newspaper
+  - night and day
+  - nightscene
+  - nightsky
+  - nigiri
+  - old man
+  - onion puree
+  - online learning
+  - onnagata
+  - onomatopoeia
+  - open letter
+  - optics
+  - packing
+  - paella
+  - panoramas
+  - parhelic circle
+  - parthenogenesis
+  - particle accelerators
+  - party
+  - perigee
+  - photoshop
+  - photosynth
+  - pictures
+  - pig's trotters
+  - pinyin
+  - plans
+  - playing
+  - podcast
+  - poetry
+  - poisoning
+  - prado
+  - preserved lemons
+  - pressure cooking
+  - prizes
+  - problems
+  - procession
+  - productivity
+  - psychology
+  - public figures
+  - queuing
+  - quotations
+  - radio
+  - rants
+  - recordings
+  - researhch
+  - restaurants
+  - return
+  - roads
+  - routine
+  - satellites
+  - scenery
+  - sci-fi
+  - sculpture
+  - seasons
+  - secret plans
+  - sequences
+  - shooting stars
+  - skype
+  - skyscraper
+  - slideshow
+  - social commentary
+  - social networking
+  - solar eclipse
+  - solar filter
+  - solar photography
+  - solar pilar
+  - somerset house
+  - sonic youth
+  - soup
+  - space flight
+  - spare ribs
+  - sperm whale
+  - spiral staircase
+  - stadium
+  - star gazing
+  - startup
+  - stock
+  - stream of consciousness
+  - students
+  - subconscious
+  - subsun
+  - success
+  - sufjan stevens
+  - sun pillars
+  - sunspots
+  - supergravity
+  - supersymmetry
+  - surrealism
+  - swimming
+  - tallest building
+  - tangent arc
+  - tap water
+  - taxis
+  - tea
+  - teaching
+  - the onion
+  - the technology singularity
+  - the universe
+  - theatre
+  - thermodynamics
+  - thoughts
+  - timewasting
+  - totality
+  - tourism
+  - tourist
+  - tradition
+  - traveladventures
+  - traveling
+  - trekking
+  - trips
+  - troubles
+  - valentine
+  - water cooler
+  - web
+  - web technology
+  - webcast
+  - whaling
+  - whisky
+  - widgets
+  - wikipedia
+  - windows media player
+  - winter school
+  - words
+  - worlfram
+  - writers
+  - www
+  - yuba
+  relme:
+    https://www.blogger.com/profile/11667852535983804885: true
+  last_post_title: Reflections
+  last_post_description: ""
+  last_post_date: "2018-02-20T21:28:36+01:00"
+  last_post_link: https://jonstraveladventures.blogspot.com/2017/12/reflections.html
+  last_post_categories: []
+  last_post_guid: cc470c6845a14a0dcc6d2defa0a8a92f
+  score_criteria:
+    cats: 5
+    description: 3
+    postcats: 0
+    promoted: 0
+    promotes: 0
+    relme: 2
+    title: 3
+    website: 2
+  score: 15
+  ispodcast: false
+  isnoarchive: false
+---

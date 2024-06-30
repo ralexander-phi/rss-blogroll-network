@@ -1,6 +1,30 @@
 feed_urls:
   - file:///seeds.opml
+
   - https://blogs.openstreetmap.org/opml.xml
+  - https://golem.ph.utexas.edu/~distler/planet/opml.xml
+  - https://gstreamer.freedesktop.org/planet/opml.xml
+  - https://kernelplanet.org/opml.xml
+
+  # Via repos
+  - https://codeberg.org/mclemens/Ham-Radio-RSS-Feeds/raw/branch/main/hamradio.opml
+  - https://github.com/rayascott/fearless-rust-bloggers/raw/master/fearless-rust-bloggers.opml
+  - https://opendev.org/openstack/openstack-planet/raw/branch/master/planet-openstack-org.opml
+
+  # theplanetarium
+  - https://davorg.theplanetarium.org/opml.xml
+  - https://perl.theplanetarium.org/opml.xml
+
+  # Watch here for more:
+  # - https://github.com/ArchiveTeam/urls-sources
+
+  # Disqualified as seeds: ADs
+  #- https://skeptic.theplanetarium.org/opml.xml
+  #- https://mps.theplanetarium.org/opml.xml
+
+  # Delay, this is a big disorganized list
+  #- https://github.com/outcoldman/hackernews-personal-blogs/raw/master/list.opml
+  #- https://github.com/outcoldman/hackernews-personal-blogs/raw/master/listx.opml
 
   # BROKEN - Missing a <body>
   # Reached out over Mastodon
