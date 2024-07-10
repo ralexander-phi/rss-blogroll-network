@@ -15,7 +15,7 @@
 <h2 class="subtitle is-4">Web Feed List</h2>
 
 <p class="block">
-{{ $feeds | len }} web feeds are discoverable through the blogroll network.
+{{ $feeds | len | lang.FormatNumberCustom 0 }} web feeds are discoverable through the blogroll network.
 You may also browse by <a href="/cats/">category</a>.
 </p>
 

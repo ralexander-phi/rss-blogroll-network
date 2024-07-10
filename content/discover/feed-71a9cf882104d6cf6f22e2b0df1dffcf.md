@@ -6,49 +6,39 @@ params:
   feedlink: https://amf.didiermary.fr/feed/
   feedtype: rss
   feedid: 71a9cf882104d6cf6f22e2b0df1dffcf
-  websites:
-    https://amf.didiermary.fr/: true
+  websites: {}
   blogrolls: []
   recommended: []
   recommender:
-  - https://danq.blog/comments/feed/
-  - https://danq.blog/feed/
   - https://danq.me/comments/feed/
   - https://danq.me/feed/
   - https://danq.me/kind/article/feed/
   - https://danq.me/kind/note/feed/
-  - https://danq.uk/comments/feed/
-  - https://danq.uk/feed/
-  categories:
-  - AfroJazz
-  - Jazz
-  - South Africa
-  relme:
-    https://bsky.app/profile/@didiermary.fr: false
-    https://masto.ai/@cybeardjm: true
-    https://mastodon.host/@cybeardjm: false
-    https://twitter.com/cybeardjm: false
-  last_post_title: TRUE STORY – Malcolm Jiyane Tree-O
-  last_post_description: While the Tree-O’s previous outing UMDALI presented a snapshot
-    of an inspired few days of spontaneity, TRUE STORY is a more deliberately crafted
-    opus. Recorded in Johannesburg over three sessions
-  last_post_date: "2024-05-31T19:57:12Z"
-  last_post_link: https://amf.didiermary.fr/true-story-malcolm-jiyane-tree-o/
-  last_post_categories:
-  - AfroJazz
-  - Jazz
-  - South Africa
-  last_post_guid: 1cf2dc035ac3d4e22c54b058dbe4d653
+  categories: []
+  relme: {}
+  last_post_title: Johnny Wakelin – In Zaire (1976)
+  last_post_description: RSS Club is a secret to everyone!This post is certified "written
+    by human".Subscribe to this blog's RSS Feed here.More info on RSS Club.In 1974,
+    Johnny Wakelin got the idea to write a song about a
+  last_post_date: "2024-07-04T17:11:46Z"
+  last_post_link: https://amf.didiermary.fr/rss-club/johnny-wakelin-zaire-rumble-jungle/
+  last_post_categories: []
+  last_post_language: ""
+  last_post_guid: 8a25ee8a9f9cfe602f79cea9c1b3125b
   score_criteria:
     cats: 0
     description: 3
-    postcats: 3
+    feedlangs: 1
+    postcats: 0
+    posts: 3
     promoted: 5
     promotes: 0
-    relme: 2
+    relme: 0
     title: 3
-    website: 2
-  score: 18
+    website: 0
+  score: 15
   ispodcast: false
   isnoarchive: false
+  innetwork: true
+  language: en
 ---

@@ -13,39 +13,38 @@ params:
   recommender:
   - https://frankmeeuwsen.com/feed.xml
   categories:
-  - boeken
+  - autonomie
+  - digitaal
   - flow
-  - vrouw
-  - chemie
-  - emancipatie
-  - literatuur
   relme:
     https://deepthought.infullflow.net/@elmine: true
-    https://m.tzyl.nl/@elmine: false
-  last_post_title: 'Gelezen: Lessen in chemie'
-  last_post_description: Mensen, wat heb ik gelachen om deze roman. Hardop. Dat doe
-    ik zelden bij het lezen van een boek. Lessen in chemie (Lessons in Chemistry)
-    van Bonnie Garmus is een boek dat ik niet wilde uitlezen,
-  last_post_date: "2024-05-15T08:55:00Z"
-  last_post_link: https://infullflow.net/2024/05/gelezen-lessen-in-chemie/
+    https://infullflow.net/: true
+  last_post_title: De paraplu waar ik naar zocht
+  last_post_description: 'Sinds ik bij Public Spaces Conference was eerder deze maand
+    zijn er twee woorden die door mijn hoofd blijven spoken: digitale autonomie. Bert
+    Hubert gebruikte deze woorden als titel voor zijn praatje'
+  last_post_date: "2024-06-28T07:30:00Z"
+  last_post_link: https://infullflow.net/2024/06/de-paraplu-waar-ik-naar-zocht/
   last_post_categories:
-  - boeken
+  - autonomie
+  - digitaal
   - flow
-  - vrouw
-  - chemie
-  - emancipatie
-  - literatuur
-  last_post_guid: cf52a2ef20b76141ab1fc369f6d4d1ca
+  last_post_language: ""
+  last_post_guid: a32e845cc9898c4b083b8cdfb832f357
   score_criteria:
     cats: 0
     description: 0
+    feedlangs: 1
     postcats: 3
+    posts: 3
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 15
+  score: 19
   ispodcast: false
   isnoarchive: false
+  innetwork: true
+  language: nl
 ---

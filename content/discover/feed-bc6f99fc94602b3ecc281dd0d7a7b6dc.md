@@ -1,6 +1,6 @@
 ---
 title: everything changes
-date: "2024-05-30T10:19:23-04:00"
+date: "2024-07-02T15:11:10-04:00"
 description: Work coaching with Mandy Brown.
 params:
   feedlink: https://everythingchanges.us/feed.xml
@@ -12,24 +12,30 @@ params:
   recommended: []
   recommender: []
   categories: []
-  relme: {}
-  last_post_title: Just jobs
-  last_post_description: S.E. Smith writes in YES! about the intersections of remote
-    work and accessibility.
-  last_post_date: "2024-05-29T14:27:00-04:00"
-  last_post_link: https://everythingchanges.us/blog/just-jobs/
+  relme:
+    https://everythingchanges.us/: true
+  last_post_title: Leaving and arriving
+  last_post_description: â€œTo get there, I had to first understand Iâ€™m not cut
+    for the web industry anymore.â€�
+  last_post_date: "2024-07-02T14:50:00-04:00"
+  last_post_link: https://everythingchanges.us/blog/leaving-and-arriving/
   last_post_categories: []
-  last_post_guid: 50e4a4ec645493767184d34651cf3d5c
+  last_post_language: ""
+  last_post_guid: ae5d4bec83e3addfa762d86d803612b5
   score_criteria:
     cats: 0
     description: 3
+    feedlangs: 0
     postcats: 0
+    posts: 3
     promoted: 0
     promotes: 0
-    relme: 0
+    relme: 2
     title: 3
     website: 2
-  score: 8
+  score: 13
   ispodcast: false
   isnoarchive: false
+  innetwork: true
+  language: ""
 ---

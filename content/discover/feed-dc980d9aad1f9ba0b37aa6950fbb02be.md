@@ -13,56 +13,37 @@ params:
   blogrolls: []
   recommended: []
   recommender:
-  - https://danq.blog/comments/feed/
-  - https://danq.blog/feed/
   - https://danq.me/comments/feed/
   - https://danq.me/feed/
   - https://danq.me/kind/article/feed/
   - https://danq.me/kind/note/feed/
-  - https://danq.uk/comments/feed/
-  - https://danq.uk/feed/
   categories: []
   relme:
-    https://abookapart.com/products/going-offline: false
     https://adactio.com/: true
-    https://adactio.medium.com/: false
-    https://adactio.tumblr.com/: false
-    https://bandcamp.com/adactio: false
-    https://bsky.app/profile/adactio.com: false
-    https://codepen.io/adactio/: false
-    https://dribbble.com/adactio: false
-    https://en.wikipedia.org/wiki/Jeremy_Keith_(web_developer): false
+    https://adactio.medium.com/: true
     https://github.com/adactio: true
-    https://huffduffer.com/adactio: false
-    https://instagram.com/adactio: false
     https://mastodon.social/@adactio: true
-    https://micro.blog/adactio: false
-    https://noti.st/adactio: false
-    https://saltercane.com/: false
-    https://speakerdeck.com/adactio: false
-    https://twitter.com/adactio: false
-    https://uk.bookshop.org/shop/adactio: false
-    https://vimeo.com/adactio: false
-    https://www.facebook.com/adactio: false
-    https://www.flickr.com/people/adactio: false
-    https://www.linkedin.com/in/adactio/: false
-    https://www.youtube.com/adactio: false
-  last_post_title: Reading Europe At Midnight by Dave Hutchinson.
-  last_post_description: Reading Europe At Midnight by Dave Hutchinson.
-  last_post_date: "2024-06-03T17:23:17Z"
-  last_post_link: https://adactio.com/notes/21181
+  last_post_title: Monday session
+  last_post_description: Monday session
+  last_post_date: "2024-07-08T20:22:42Z"
+  last_post_link: https://adactio.com/notes/21275
   last_post_categories: []
-  last_post_guid: bbd9e902971dafe0e705bbf3c7067241
+  last_post_language: ""
+  last_post_guid: 0b8f2e2f61b790d42ce32d3cd41ba1ff
   score_criteria:
     cats: 0
     description: 3
+    feedlangs: 1
     postcats: 0
+    posts: 3
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 15
+  score: 19
   ispodcast: false
   isnoarchive: false
+  innetwork: true
+  language: en
 ---

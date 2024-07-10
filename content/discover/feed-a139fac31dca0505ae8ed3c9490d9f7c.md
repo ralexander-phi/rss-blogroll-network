@@ -1,6 +1,6 @@
 ---
 title: Terence Eden activity
-date: "2024-06-04T13:54:33Z"
+date: "2024-07-08T20:30:17Z"
 description: ""
 params:
   feedlink: https://gitlab.com/edent.atom
@@ -13,32 +13,44 @@ params:
   recommender: []
   categories: []
   relme:
+    https://edent.tel/: true
+    https://github.com/edent: true
+    https://gitlab.com/edent: true
+    https://keybase.io/edent: true
+    https://mastodon.social/@Edent: true
+    https://mastodon.social/@edent: true
     https://shkspr.mobi/blog/: true
-  last_post_title: Terence Eden pushed to project branch main at Terence Eden / EMF
-    Infrared
+    https://stackoverflow.com/users/1127699/terence-eden: true
+  last_post_title: Terence Eden pushed to project branch main at Terence Eden / Solar
+    Data
   last_post_description: |-
     Terence Eden
-    (5a695ad3)
+    (28a38bb2)
 
     at
-    04 Jun 13:54
+    08 Jul 20:30
 
 
-    Upload all
-  last_post_date: "2024-06-04T13:54:33Z"
-  last_post_link: https://gitlab.com/edent/emf-infrared/-/commit/5a695ad3eefc78f486e945851444686d64ca72c1
+    Latest Update
+  last_post_date: "2024-07-08T20:30:17Z"
+  last_post_link: https://gitlab.com/edent/solar-data/-/commit/28a38bb295d83c29b0ab2f0d525cef9dd1e8fa6c
   last_post_categories: []
-  last_post_guid: bf870b5e06f4c26e60649c2fb18e8212
+  last_post_language: ""
+  last_post_guid: 8ee365ab14a0cf0708eb2ce9b97782eb
   score_criteria:
     cats: 0
     description: 0
+    feedlangs: 0
     postcats: 0
+    posts: 3
     promoted: 0
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 7
+  score: 10
   ispodcast: false
   isnoarchive: false
+  innetwork: true
+  language: ""
 ---

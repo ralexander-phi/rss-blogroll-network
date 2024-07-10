@@ -11,11 +11,12 @@ params:
   blogrolls: []
   recommended: []
   recommender:
+  - https://josh.blog/comments/feed
   - https://josh.blog/feed
   categories:
+  - Figma
   - Uncategorized
   - career
-  - Figma
   relme: {}
   last_post_title: Figma is freaking great
   last_post_description: I’ve been meaning to write up what’s been going on since
@@ -24,20 +25,25 @@ params:
   last_post_date: "2024-05-30T00:33:23Z"
   last_post_link: https://aaron.blog/2024/05/29/figma-is-freaking-great/
   last_post_categories:
+  - Figma
   - Uncategorized
   - career
-  - Figma
+  last_post_language: ""
   last_post_guid: edfa9e4f1babfb106baee93b54cf8f2a
   score_criteria:
     cats: 0
     description: 3
+    feedlangs: 1
     postcats: 3
+    posts: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 16
+  score: 20
   ispodcast: false
   isnoarchive: false
+  innetwork: true
+  language: en
 ---

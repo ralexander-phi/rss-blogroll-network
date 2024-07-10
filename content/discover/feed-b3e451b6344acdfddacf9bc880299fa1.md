@@ -14,6 +14,7 @@ params:
   categories:
   - Uncategorized
   relme:
+    https://blog.dachary.org/: true
     https://mastodon.online/@dachary: true
   last_post_title: My Forgejo monthly update – February 2023
   last_post_description: This is my personal view of what happened during February
@@ -23,17 +24,22 @@ params:
   last_post_link: https://blog.dachary.org/2023/03/06/my-forgejo-monthly-update-february-2023/
   last_post_categories:
   - Uncategorized
+  last_post_language: ""
   last_post_guid: aa46122e79b95a92a9a7c7eb4542b68e
   score_criteria:
     cats: 0
     description: 3
+    feedlangs: 1
     postcats: 1
+    posts: 3
     promoted: 0
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 11
+  score: 15
   ispodcast: false
   isnoarchive: false
+  innetwork: true
+  language: en
 ---

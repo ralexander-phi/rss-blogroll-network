@@ -14,7 +14,7 @@ params:
   - https://alexsci.com/blog/rss.xml
   categories: []
   relme:
-    https://soylent.green/@paul: false
+    https://notes.pault.ag/: true
   last_post_title: Domo Arigato, Mr. debugfs
   last_post_description: |-
     Years ago, at what I think I remember was DebConf 15, I hacked for a while
@@ -25,17 +25,22 @@ params:
   last_post_date: "2024-04-13T09:27:00-04:00"
   last_post_link: https://notes.pault.ag/debugfs/
   last_post_categories: []
+  last_post_language: ""
   last_post_guid: 785e089f6770626ff08ff454f7c8358f
   score_criteria:
     cats: 0
     description: 3
+    feedlangs: 1
     postcats: 0
+    posts: 3
     promoted: 5
     promotes: 0
-    relme: 1
+    relme: 2
     title: 3
     website: 2
-  score: 14
+  score: 19
   ispodcast: false
   isnoarchive: false
+  innetwork: true
+  language: en
 ---

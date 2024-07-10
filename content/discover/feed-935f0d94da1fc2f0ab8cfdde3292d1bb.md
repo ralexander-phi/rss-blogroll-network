@@ -12,307 +12,311 @@ params:
   recommended: []
   recommender: []
   categories:
-  - talking
-  - star
-  - model
-  - data
-  - bayes
-  - statistics
-  - spectroscopy
-  - seminar
-  - writing
-  - imaging
-  - code
-  - exoplanet
-  - sdss
-  - Milky Way
-  - galaxy
-  - practice
-  - meeting
-  - time
-  - dynamics
-  - calibration
-  - astrometry
-  - gaia
-  - cosmology
-  - photometry
-  - not research
-  - machine learning
-  - radial velocity
-  - chemistry
-  - kinematics
-  - mathematics
-  - information
-  - graphical model
-  - Kepler
-  - literature
-  - substructure
-  - MCMC
-  - regression
-  - quasar
-  - optimization
-  - linear algebra
-  - philosophy
-  - proposal
-  - TheCannon
-  - computing
-  - large-scale structure
-  - decision
-  - Gaussian process
-  - disk
-  - binary star
-  - noise
-  - visualization
-  - telescope
-  - galex
-  - dark sector
-  - funding
-  - catalog
-  - star formation
-  - travel
-  - theory
-  - gravitational lensing
-  - gravity
-  - LTFDFCF
-  - thinking
-  - hardware
-  - causation
-  - black hole
-  - asteroseismology
-  - clustering
-  - dust
-  - supernova
-  - point-spread function
-  - HARPS
-  - halo
-  - classification
-  - life
-  - proper motion
-  - LSST
-  - TESS
-  - search
-  - gastrophysics
-  - particle physics
-  - reading
-  - Solar System
-  - group theory
-  - meta data
-  - atlas
-  - nucleosynthesis
-  - cluster
-  - tractor
-  - engineering
-  - electricity and magnetism
-  - spitzer
-  - cosmography
-  - experiment
-  - panstarrs
-  - interstellar medium
-  - open science
-  - web 2.0
-  - wise
-  - white dwarf
-  - EXPRES
-  - microscopy
-  - project management
   - 2mass
-  - HST
-  - CDM
-  - geometry
-  - merging
-  - testing
-  - Terra Hunting
-  - observing
-  - radio
-  - fundamental astronomy
-  - intergalactic medium
-  - database
-  - Earth
-  - Euclid
-  - baryon acoustic feature
-  - pulsar
-  - eating
-  - GALAH
-  - signal processing
-  - comet
-  - politics
-  - LAMOST
-  - citizen science
-  - email
-  - phase space
-  - brown dwarf
-  - transparency
-  - LIGO
-  - environment
-  - Fermi
-  - Planck
-  - Sun
-  - HMF
-  - PHAT
-  - interferometry
-  - planet
-  - robot
-  - cosmic ray
-  - parallax
-  - thermodynamics
-  - Herschel
-  - atomic physics
-  - design
-  - gamma-ray burst
-  - minor planet
-  - thresher
-  - nuclear physics
-  - primus
-  - rave
-  - ultraviolet
-  - JWST
-  - charge-coupled device
-  - compressed sensing
-  - evolution
-  - refereeing
-  - relativity
-  - roweis
-  - accretion
-  - causality
-  - interpolation
-  - neuroscience
-  - selection function
-  - units
-  - digital camera
-  - hipparcos
-  - history
-  - inflation
-  - quantum mechanics
-  - sailing
-  - text
-  - amateur
-  - biology
-  - deep learning
-  - diffraction
-  - drinking
-  - optics
-  - WFIRST
-  - archive
-  - education
-  - string theory
-  - anthropic
-  - archetype
-  - architecture
-  - discussion
-  - hacking
-  - usno-b
-  - API
-  - dissertation
-  - intelligence
-  - music
-  - osss
-  - reproducibility
-  - science
-  - astrobiology
-  - coffee
-  - pipeline
-  - spherex
-  - teaching
-  - weather
-  - LHC
-  - WMAP
-  - ad hockery
-  - anthropology
-  - climate
-  - correlation
-  - density estimation
-  - diagnosis
-  - editing
-  - geology
-  - mentoring
-  - post-starburst
-  - social media
   - ALMA
+  - API
+  - ASASSN
   - Bart
-  - DESI
-  - P1640
-  - apass
-  - compression
-  - confusion
-  - demographics
-  - ethics
-  - fail
-  - farm machinery
-  - learning
-  - outreach
-  - scattering
-  - sonification
-  - x-ray
+  - CDM
   - Cassini
   - Chandra
+  - CoRoT
+  - DESI
+  - EXPRES
+  - Earth
+  - Euclid
+  - FRBs
+  - Fermi
+  - GALAH
+  - Gaussian process
+  - HARPS
+  - HMF
+  - HST
+  - Herschel
+  - JWST
+  - KNN
+  - Kepler
+  - LAMOST
+  - LHC
+  - LIGO
   - LISA
+  - LMIRcam
+  - LSST
+  - LTFDFCF
+  - Local Group
+  - MCMC
+  - Milky Way
   - Moon
   - NuSTAR
-  - PTF
-  - Saturn
-  - ZTF
-  - administration
-  - aliens
-  - balloon
-  - bullshit
-  - daft
-  - flickr
-  - frequentism
-  - gambling
-  - game theory
-  - nasa
-  - plasma
-  - press
-  - procrastination
-  - sound
-  - vlt-sphere
-  - ASASSN
-  - CoRoT
-  - FRBs
-  - KNN
-  - LMIRcam
-  - Local Group
+  - P1640
+  - PHAT
   - PLATO
+  - PTF
+  - Planck
   - SDO
   - SVM
+  - Saturn
+  - Solar System
+  - Sun
+  - TESS
+  - Terra Hunting
+  - TheCannon
   - VLA
+  - WFIRST
+  - WMAP
   - Willman 1
+  - ZTF
+  - accretion
+  - ad hockery
+  - administration
   - advice
+  - aliens
+  - amateur
+  - anthropic
+  - anthropology
+  - apass
+  - archetype
+  - architecture
+  - archive
   - askap
+  - asteroseismology
+  - astrobiology
   - astrology
+  - astrometry
+  - atlas
+  - atomic physics
+  - balloon
+  - baryon acoustic feature
+  - bayes
+  - binary star
+  - biology
+  - black hole
+  - brown dwarf
+  - bullshit
+  - calibration
+  - catalog
+  - causality
+  - causation
   - chaos monkey
+  - charge-coupled device
+  - chemistry
+  - citizen science
+  - classification
+  - climate
   - clothing
+  - cluster
+  - clustering
+  - code
+  - coffee
   - combinatorics
+  - comet
+  - compressed sensing
+  - compression
+  - computing
   - condensed matter
+  - confusion
+  - correlation
+  - cosmic ray
+  - cosmography
+  - cosmology
+  - daft
+  - dark sector
+  - data
+  - database
+  - decision
+  - deep learning
+  - demographics
+  - density estimation
+  - design
+  - diagnosis
+  - diffraction
+  - digital camera
+  - discussion
+  - disk
+  - dissertation
   - documentation
   - dragonfly
+  - drinking
+  - dust
+  - dynamics
+  - eating
+  - editing
+  - education
+  - electricity and magnetism
+  - email
   - emotions
+  - engineering
+  - environment
+  - ethics
   - ethnography
+  - evolution
   - exomoon
+  - exoplanet
+  - experiment
+  - fail
+  - farm machinery
+  - flickr
+  - frequentism
   - frisbee
+  - fundamental astronomy
+  - funding
+  - gaia
+  - galaxy
+  - galex
+  - gambling
   - game
+  - game theory
+  - gamma-ray burst
+  - gastrophysics
   - gauge
+  - geology
+  - geometry
+  - graphical model
+  - gravitational lensing
+  - gravity
   - group meeting
+  - group theory
+  - hacking
+  - halo
   - handicapping
+  - hardware
+  - hipparcos
+  - history
+  - imaging
+  - inflation
+  - information
+  - intelligence
+  - interferometry
+  - intergalactic medium
+  - interpolation
+  - interstellar medium
+  - kinematics
+  - large-scale structure
   - law
+  - learning
+  - life
+  - linear algebra
+  - literature
+  - machine learning
   - making
+  - mathematics
+  - meeting
+  - mentoring
+  - merging
+  - meta data
+  - microscopy
+  - minor planet
+  - model
+  - music
+  - nasa
+  - neuroscience
+  - noise
+  - not research
+  - nuclear physics
+  - nucleosynthesis
+  - observing
+  - open science
+  - optics
+  - optimization
+  - osss
+  - outreach
+  - panstarrs
+  - parallax
+  - particle physics
+  - phase space
+  - philosophy
   - phone
+  - photometry
+  - pipeline
+  - planet
+  - plasma
   - point cloud
+  - point-spread function
   - polarization
   - polemic
+  - politics
+  - post-starburst
+  - practice
+  - press
+  - primus
+  - procrastination
+  - project management
+  - proper motion
+  - proposal
+  - pulsar
+  - quantum mechanics
+  - quasar
+  - radial velocity
+  - radio
   - rant
+  - rave
+  - reading
+  - refereeing
+  - regression
   - regret
+  - relativity
+  - reproducibility
   - ring
+  - robot
+  - roweis
+  - sailing
+  - scattering
+  - science
+  - sdss
+  - search
+  - selection function
   - semantics
+  - seminar
+  - signal processing
+  - social media
+  - sonification
+  - sound
+  - spectroscopy
+  - spherex
+  - spitzer
+  - star
+  - star formation
+  - statistics
   - storytime
+  - string theory
+  - substructure
+  - supernova
   - swift
+  - talking
+  - teaching
+  - telescope
+  - testing
+  - text
+  - theory
+  - thermodynamics
+  - thinking
+  - thresher
+  - time
   - topology
+  - tractor
+  - transparency
+  - travel
   - ukidss
+  - ultraviolet
+  - units
+  - usno-b
   - virtual observatory
+  - visualization
+  - vlt-sphere
   - volcanism
   - water
   - weapons
+  - weather
+  - web 2.0
+  - white dwarf
+  - wise
+  - writing
+  - x-ray
   relme:
+    https://hoggideas.blogspot.com/: true
+    https://hoggmaker.blogspot.com/: true
+    https://hoggresearch.blogspot.com/: true
+    https://hoggteaching.blogspot.com/: true
     https://www.blogger.com/profile/18398397408280534592: true
   last_post_title: submitted!
   last_post_description: OMG I actually just submitted an actual paper, with me as
@@ -321,17 +325,22 @@ params:
   last_post_date: "2024-03-16T20:28:00Z"
   last_post_link: https://hoggresearch.blogspot.com/2024/03/submitted.html
   last_post_categories: []
+  last_post_language: ""
   last_post_guid: 16f692a7cefeacab9072d0cc6014ce58
   score_criteria:
     cats: 5
     description: 3
+    feedlangs: 0
     postcats: 0
+    posts: 3
     promoted: 0
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 15
+  score: 18
   ispodcast: false
   isnoarchive: false
+  innetwork: true
+  language: ""
 ---

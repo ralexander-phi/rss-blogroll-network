@@ -4,7 +4,7 @@
 
 {{- $feeds := (where .Site.RegularPages.ByTitle "Section" "discover") -}}
 <p class="block buttons">
-  <a href="discover" class="button is-primary">Explore {{ $feeds | len }} web feeds</a>
+  <a href="discover" class="button is-primary">Explore {{ $feeds | len | lang.FormatNumberCustom 0 }} feeds</a>
   <a href="https://alexsci.com/blog/blogroll-network/" class="button is-secondary">Read the blog post</a>
 </p>
 

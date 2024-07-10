@@ -11,20 +11,19 @@ params:
   feedid: 838fdce3abaef2a179f2fcccd7c22ba3
   websites:
     https://buttondown.email/ownyourweb: true
-    https://buttondown.email/ownyourweb/archive/: false
   blogrolls: []
   recommended: []
   recommender:
-  - https://amerpie.lol/feed.xml
   - https://colinwalker.blog/dailyfeed.xml
   - https://colinwalker.blog/livefeed.xml
-  - https://hacdias.com/feed.xml
-  - https://kevq.uk/feed
-  - https://kevq.uk/feed.xml
-  - https://kevq.uk/feed/
   - https://kevquirk.com/feed
+  - https://kevquirk.com/feed/
+  - https://kevquirk.com/notes-feed
+  - https://marisabel.nl/feeds/blog.php
+  - https://marisabel.nl/feeds/tech-blog.php
   categories: []
-  relme: {}
+  relme:
+    https://buttondown.email/ownyourweb: true
   last_post_title: 'Own Your Web – Issue 14: Webmentions'
   last_post_description: "Hi All! \U0001F917\nImagine, just for a second, a future
     in which we all have our own websites and that those sites are at the center of
@@ -32,17 +31,22 @@ params:
   last_post_date: "2024-04-29T23:48:03Z"
   last_post_link: https://buttondown.email/ownyourweb/archive/issue-14/
   last_post_categories: []
+  last_post_language: ""
   last_post_guid: 32456807da746a9c5a052467153a94ae
   score_criteria:
     cats: 0
     description: 3
+    feedlangs: 1
     postcats: 0
+    posts: 3
     promoted: 5
     promotes: 0
-    relme: 0
+    relme: 2
     title: 3
     website: 2
-  score: 13
+  score: 19
   ispodcast: false
   isnoarchive: false
+  innetwork: true
+  language: en
 ---

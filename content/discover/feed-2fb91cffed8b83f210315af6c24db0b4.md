@@ -11,26 +11,33 @@ params:
   recommended: []
   recommender:
   - http://scripting.com/rss.xml
+  - http://scripting.com/rssNightly.xml
   categories: []
   relme: {}
-  last_post_title: Hacking our way to better team meetings
-  last_post_description: My team and I set out to build a simple note taking aide,
-    which transcribes and summarizes our meetings using Bedrock. Today, we’re making
-    the proof of concept available to everyone.
-  last_post_date: "2024-05-08T06:30:00-08:00"
-  last_post_link: https://www.allthingsdistributed.com/2024/05/hacking-our-way-to-better-team-meetings.html?utm_campaign=inbound&utm_source=rss
+  last_post_title: 'Introducing Distill CLI: An efficient, Rust-powered tool for media
+    summarization'
+  last_post_description: After a few code reviews from Rustaceans at Amazon and a
+    bit of polishing, I'm ready to share the Distill CLI. An open-source tool written
+    in Rust for summarizing meetings and other media that uses
+  last_post_date: "2024-06-18T06:30:00-08:00"
+  last_post_link: https://www.allthingsdistributed.com/2024/06/introducing-distill-cli.html?utm_campaign=inbound&utm_source=rss
   last_post_categories: []
-  last_post_guid: 05bf026a99b468a8ca4c851072507411
+  last_post_language: ""
+  last_post_guid: 133245aa07a73e637b7171469e4d5b65
   score_criteria:
     cats: 0
     description: 3
+    feedlangs: 1
     postcats: 0
+    posts: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 11
+  score: 15
   ispodcast: false
   isnoarchive: false
+  innetwork: true
+  language: en
 ---

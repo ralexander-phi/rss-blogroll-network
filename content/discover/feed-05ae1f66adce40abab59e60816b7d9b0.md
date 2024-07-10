@@ -8,7 +8,6 @@ params:
   feedid: 05ae1f66adce40abab59e60816b7d9b0
   websites:
     https://beardystarstuff.net/: true
-    https://denny.micro.blog/: false
   blogrolls: []
   recommended: []
   recommender:
@@ -16,26 +15,33 @@ params:
   - https://jabel.blog/podcast.xml
   categories: []
   relme:
-    https://micro.blog/Denny: false
+    https://beardyguycreative.com/: true
+    https://beardystarstuff.net/: true
     https://social.coop/@dennyhenke: true
-  last_post_title: The myth of the over-powered iPad
-  last_post_description: 'I came upon iPad enthusist Riley Hill’s website Slate Pad
-    a couple days ago via his post about the new M4 iPad Pro. He asks: What Does iPad
-    Pro Taking Advantage Of the M4 Even Mean? –'
-  last_post_date: "2024-06-01T15:51:15-05:00"
-  last_post_link: https://beardystarstuff.net/2024/06/01/i-came-upon.html
+  last_post_title: Let's talk about how we organize for the preservation and expansion
+    of democracy
+  last_post_description: "I often post about my belief that Americans are too passive,
+    too apathetic. That we refuse to take action when we should. That we have not
+    taken on the responsibility of active citizenship. \nIt"
+  last_post_date: "2024-07-02T21:17:37-05:00"
+  last_post_link: https://beardystarstuff.net/2024/07/02/211506.html
   last_post_categories: []
-  last_post_guid: 8b8fc3d470b7a69cd0a5a861c4cdb4d1
+  last_post_language: ""
+  last_post_guid: bc5115f6e57ad809c3799b4fa19500ba
   score_criteria:
     cats: 0
     description: 0
+    feedlangs: 1
     postcats: 0
+    posts: 3
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 12
+  score: 16
   ispodcast: false
   isnoarchive: false
+  innetwork: true
+  language: en
 ---

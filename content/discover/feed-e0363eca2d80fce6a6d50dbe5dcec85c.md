@@ -11,42 +11,39 @@ params:
   blogrolls: []
   recommended: []
   recommender:
-  - https://danq.blog/comments/feed/
-  - https://danq.blog/feed/
   - https://danq.me/comments/feed/
   - https://danq.me/feed/
   - https://danq.me/kind/article/feed/
   - https://danq.me/kind/note/feed/
-  - https://danq.uk/comments/feed/
-  - https://danq.uk/feed/
   categories:
-  - security
-  - Authenticode
-  - signing
-  - SmartAppControl
+  - life
+  - storytelling
   relme: {}
-  last_post_title: Authenticode in 2024
-  last_post_description: My 2021-2024 Authenticode certificate expired yesterday,
-    so I began the process of getting a replacement last week. As in past years, I
-    again selected a 3 year OV certificate from DigiCert.
-  last_post_date: "2024-05-22T16:08:03Z"
-  last_post_link: https://textslashplain.com/2024/05/22/authenticode-in-2024/
+  last_post_title: Memento Mori – Farewells
+  last_post_description: A sad part of getting older is losing friends along the way.
+    But it’s an important reminder that every day is a gift, and no tomorrow has been
+    promised. Last week brought the sad news that David
+  last_post_date: "2024-06-10T18:18:34Z"
+  last_post_link: https://textslashplain.com/2024/06/10/memento-mori-farewells/
   last_post_categories:
-  - security
-  - Authenticode
-  - signing
-  - SmartAppControl
-  last_post_guid: 9474deb0961affa972acd0b53f8f8274
+  - life
+  - storytelling
+  last_post_language: ""
+  last_post_guid: 127a021c69608fc10f305c36aba6928e
   score_criteria:
     cats: 0
     description: 3
-    postcats: 3
+    feedlangs: 1
+    postcats: 2
+    posts: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 16
+  score: 19
   ispodcast: false
   isnoarchive: false
+  innetwork: true
+  language: en
 ---

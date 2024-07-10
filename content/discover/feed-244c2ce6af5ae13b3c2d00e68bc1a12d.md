@@ -13,28 +13,33 @@ params:
   recommended: []
   recommender: []
   categories:
-  - General
+  - Geeky
   relme:
-    https://indieweb.social/@etp: false
-  last_post_title: Doctoring my Typefaces
-  last_post_description: I had a doctor’s appointment today. The doctor didn’t show
-    for at least an hour. He also wasn’t answering calls from his frazzled staff.
-    I hope he’s OK and glad that my need wasn’t urgent
-  last_post_date: "2024-05-22T13:37:00+02:00"
-  last_post_link: https://www.jeremycherfas.net/blog/doctoring-my-typefaces
+    https://www.jeremycherfas.net/blog: true
+  last_post_title: Fixing Karabiner-Elements
+  last_post_description: The saga of synchronised futzing continues with a couple
+    of days of hair-pulling finally resolved to my satisfaction. This time it was
+    Karabiner-Elements, which I use almost exclusively to enable the
+  last_post_date: "2024-07-05T12:50:00+02:00"
+  last_post_link: https://www.jeremycherfas.net/blog/fixing-karabinerelements
   last_post_categories:
-  - General
-  last_post_guid: 019d8eae1aa2fdfefa199269c0bd9f13
+  - Geeky
+  last_post_language: ""
+  last_post_guid: 7fb3749aa930d01a5b9dc3fa1579df1e
   score_criteria:
     cats: 0
     description: 3
+    feedlangs: 1
     postcats: 1
+    posts: 3
     promoted: 0
     promotes: 0
-    relme: 1
+    relme: 2
     title: 3
     website: 2
-  score: 10
+  score: 15
   ispodcast: false
   isnoarchive: false
+  innetwork: true
+  language: en
 ---

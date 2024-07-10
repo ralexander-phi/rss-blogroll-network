@@ -1,6 +1,6 @@
 ---
 title: Jottings on an Envelope
-date: "2024-06-04T01:46:05Z"
+date: "2024-06-27T01:42:51Z"
 description: ""
 params:
   feedlink: https://amitg.blog/feed.atom
@@ -12,26 +12,31 @@ params:
   recommended: []
   recommender: []
   categories: []
-  relme: {}
-  last_post_title: Suspense
-  last_post_description: |-
-    Suspense works brilliantly in films. It arouses attention. Suspense works brilliantly in life, too. But unlike films, every moment in life can be suspenseful if you want to make it so.
-
-    I can live my
-  last_post_date: "2024-06-04T01:46:05Z"
-  last_post_link: https://amitg.blog/post/suspense
+  relme:
+    https://amitg.blog/: true
+  last_post_title: My daughter loves her music
+  last_post_description: My daughter loves her music. Listening to it. Making it.
+    Learning it. She enjoys her music classes and recently started self-learning Ukelele
+    through YouTube. It didn’t take her long to get the
+  last_post_date: "2024-06-27T01:42:51Z"
+  last_post_link: https://amitg.blog/post/my-daughter-loves-her-music
   last_post_categories: []
-  last_post_guid: a41fe55193f4724793d08ba730f2e7e6
+  last_post_language: ""
+  last_post_guid: ed690ce6f89ba683ce4c72a7e6bdd8b5
   score_criteria:
     cats: 0
     description: 0
+    feedlangs: 1
     postcats: 0
+    posts: 3
     promoted: 0
     promotes: 0
-    relme: 0
+    relme: 2
     title: 3
     website: 2
-  score: 5
+  score: 11
   ispodcast: false
   isnoarchive: false
+  innetwork: true
+  language: en
 ---

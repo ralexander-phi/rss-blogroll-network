@@ -14,35 +14,43 @@ params:
   - https://colinwalker.blog/livefeed.xml
   categories:
   - Personal
-  - email
-  - geeky
-  - published on gemini
-  - rss
-  - spam
+  - carpentry
+  - electronics
+  - house building works 2024
+  - programming
+  - python
+  - raspberry pi
   relme: {}
-  last_post_title: '[Article] Somewhat-Effective Spam Filters'
-  last_post_description: I've tried a variety of unusual anti-spam solutions. Here's
-    how they worked out for me.
-  last_post_date: "2024-06-04T11:27:38+01:00"
-  last_post_link: https://danq.me/2024/06/04/somewhat-effective-spam-filters/
+  last_post_title: '[Article] Building a Secret Cabinet'
+  last_post_description: As part of efforts to build myself a new bedroom in our attic,
+    I expanded my carpentry, electronics, and Python skills by building a remotely-triggered
+    secret cabinet in my bookcase!
+  last_post_date: "2024-07-08T20:52:40+01:00"
+  last_post_link: https://danq.me/2024/07/08/secret-cabinet/
   last_post_categories:
   - Personal
-  - email
-  - geeky
-  - published on gemini
-  - rss
-  - spam
-  last_post_guid: 8105539ae9a190162a91f8c4896c5fdc
+  - carpentry
+  - electronics
+  - house building works 2024
+  - programming
+  - python
+  - raspberry pi
+  last_post_language: ""
+  last_post_guid: 3d30562d9e399ff06a90354b5faa2421
   score_criteria:
     cats: 0
     description: 3
+    feedlangs: 1
     postcats: 3
+    posts: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 14
+  score: 18
   ispodcast: false
   isnoarchive: false
+  innetwork: true
+  language: en
 ---

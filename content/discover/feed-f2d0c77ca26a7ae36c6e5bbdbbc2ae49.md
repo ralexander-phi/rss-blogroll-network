@@ -14,35 +14,37 @@ params:
   recommender:
   - http://scripting.com/rss.xml
   - http://scripting.com/rssNightly.xml
+  - https://josh.blog/comments/feed
   - https://josh.blog/feed
   categories:
-  - Engineering
-  - GitHub Actions
-  - GitHub Mobile
-  - How GitHub builds GitHub
+  - Education
+  - GitHub for beginners
   relme: {}
-  last_post_title: How GitHub reduced testing time for iOS apps with new runner features
+  last_post_title: 'Beginner’s guide to GitHub: Uploading files and folders to GitHub'
   last_post_description: |-
-    Learn how GitHub used macOS and Apple Silicon runners for GitHub Actions to build, test, and deploy our iOS app faster.
-    The post How GitHub reduced testing time for iOS apps with new runner features
-  last_post_date: "2024-06-03T16:45:06Z"
-  last_post_link: https://github.blog/2024-06-03-how-github-reduced-testing-time-for-ios-apps-with-new-runner-features/
+    The next step in our GitHub for Beginners series is learning how to add files and folders to your GitHub repository.
+    The post Beginner’s guide to GitHub: Uploading files and folders to GitHub
+  last_post_date: "2024-07-08T13:00:51Z"
+  last_post_link: https://github.blog/2024-07-08-beginners-guide-to-github-uploading-files-and-folders-to-github/
   last_post_categories:
-  - Engineering
-  - GitHub Actions
-  - GitHub Mobile
-  - How GitHub builds GitHub
-  last_post_guid: c1588909bd0b410d8e5f3fde7d5e7e3a
+  - Education
+  - GitHub for beginners
+  last_post_language: ""
+  last_post_guid: 8112e29b904f45381b341706c202a9d9
   score_criteria:
     cats: 0
     description: 3
-    postcats: 3
+    feedlangs: 1
+    postcats: 2
+    posts: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 16
+  score: 19
   ispodcast: false
   isnoarchive: false
+  innetwork: true
+  language: en
 ---

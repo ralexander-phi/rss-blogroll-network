@@ -53,6 +53,7 @@ params:
   - https://granary.io/url?input=html
   - https://honza.pokorny.ca/index.xml
   - https://im.farai.xyz/feed.rss.xml
+  - https://immerweiterlaufen.de/feed
   - https://jerz.us/rss/?section=micro
   - https://jimkang.com/weblog/feed.xml
   - https://joekrall.com/atom.xml
@@ -105,6 +106,7 @@ params:
   - https://www.schneier.com/feed/atom/
   - https://www.scottohara.me/feed.xml
   - https://www.smbc-comics.com/comic/rss
+  - https://www.strictlyspoiler.com/feed/
   - https://www.welivesecurity.com/en/rss/feed/
   - https://www.youtube.com/feeds/videos.xml?channel_id=UC-XYsDNh4-886rMNLnnwR_w
   - https://www.youtube.com/feeds/videos.xml?channel_id=UC2C_jShtL725hvbm1arSV9w
@@ -166,11 +168,8 @@ params:
   - https://benfrain.com/feed/
   - https://benfrain.com/home/feed/
   - https://blog.humblebundle.com/comments/feed/
-  - https://www.buttersafe.com/feed/
-  - https://www.buttersafe.com/feed/atom/
   - https://colinwalker.blog/dailyfeed.xml
   - https://cosmicqbit.dev/blog/index.xml
-  - https://degruchy.org/comments/feed/
   - https://derekkedziora.com/feed/essays.xml
   - https://distributed.blog/comments/feed/
   - https://distributed.blog/feed/
@@ -181,9 +180,11 @@ params:
   - https://frittiert.es/feed/page:feed.xml
   - https://geoffgraham.me/comments/feed/
   - https://geoffgraham.me/feed/
+  - https://immerweiterlaufen.de/comments/feed/
+  - https://immerweiterlaufen.de/feed/
   - https://jerz.us/atom/
   - https://jerz.us/rss/
-  - https://kevquirk.com/feed
+  - https://lalunemauve.fr/comments/feed/
   - https://ma.tt/comments/feed/
   - https://rss.nebula.app/video/channels/minutephysics.rss?plus=true
   - https://rss.nebula.app/video/channels/philosophytube.rss?plus=true
@@ -203,78 +204,77 @@ params:
   - https://notiz.blog/type/standard/feed/
   - https://notiz.blog/type/status/feed/
   - https://notiz.blog/type/video/feed/
-  - https://oglaf.com/feeds/rss/
   - https://polytechnic.co.uk/blog/rss
   - https://rss.metafilter.com/popular-comments.rss
   - https://rss.metafilter.com/popular-posts.rss
   - https://rss.metafilter.com/projects.rss
-  - https://indieweb.social/@seanmcp.rss
   - https://sfss.space/feed/
   - https://shiflett.org/feeds/links
-  - https://shkspr.mobi/blog/feed
-  - https://shkspr.mobi/blog/feed/atom/
-  - https://shkspr.mobi/blog/feed/podcast/
-  - https://stantonharcourtschool.org.uk/comments/feed/
-  - https://stantonharcourtschool.org.uk/feed/
   - https://steele.blue/feed
   - https://stefanbohacek.com/feed
   - https://textslashplain.com/comments/feed/
+  - https://thehistoryoftheweb.com/comments/feed/
   - https://tracydurnell.com/comments/feed/
   - https://www.alchemists.io/feeds/articles.xml
   - https://www.alchemists.io/feeds/projects.xml
   - https://www.alchemists.io/feeds/screencasts.xml
   - https://www.alchemists.io/feeds/talks.xml
+  - https://www.blogpocket.com/comments/feed/
   - https://www.blogpocket.com/feed/
   - https://www.blogpocket.com/feed/podcast
   - https://rss.metafilter.com/metafilter.rss
-  - https://www.nathalielawhead.com/candybox/comments/feed
   - https://www.optipess.com/comments/feed/
   - https://www.optipess.com/feed/
-  - https://polyamorousmisanthrope.com/wordpress/comments/feed/
-  - https://www.schneier.com/comments/feed/
-  - https://www.schneier.com/feed/
   - https://www.zylstra.org/blog/comments/feed/
   - https://xkcd.com/atom.xml
   - https://youdo.blog/comments/feed/
   recommender: []
   categories:
   - Personal
-  - email
-  - geeky
-  - published on gemini
-  - rss
-  - spam
+  - carpentry
+  - electronics
+  - house building works 2024
+  - programming
+  - python
+  - raspberry pi
   relme:
-    https://en.pronouns.page/@dan-q: false
+    https://dan-q.github.io/: true
+    https://danq.me/: true
+    https://github.com/Dan-Q: true
     https://github.com/dan-q/: true
     https://keybase.io/dq: true
     https://m.danq.me/@blog: true
-    https://m.danq.me/@dan: false
-    https://www.linkedin.com/in/itsdanq/: false
-    https://www.youtube.com/@DanQ: false
-  last_post_title: '[Article] Somewhat-Effective Spam Filters'
-  last_post_description: I've tried a variety of unusual anti-spam solutions. Here's
-    how they worked out for me.
-  last_post_date: "2024-06-04T11:27:38+01:00"
-  last_post_link: https://danq.me/2024/06/04/somewhat-effective-spam-filters/
+    https://m.danq.me/@dan: true
+  last_post_title: '[Article] Building a Secret Cabinet'
+  last_post_description: As part of efforts to build myself a new bedroom in our attic,
+    I expanded my carpentry, electronics, and Python skills by building a remotely-triggered
+    secret cabinet in my bookcase!
+  last_post_date: "2024-07-08T20:52:40+01:00"
+  last_post_link: https://danq.me/2024/07/08/secret-cabinet/
   last_post_categories:
   - Personal
-  - email
-  - geeky
-  - published on gemini
-  - rss
-  - spam
-  last_post_guid: 619e615ca6088b0261238096c32eda69
+  - carpentry
+  - electronics
+  - house building works 2024
+  - programming
+  - python
+  - raspberry pi
+  last_post_language: ""
+  last_post_guid: ad3a7646a2d424e25b14708406576b70
   score_criteria:
     cats: 0
     description: 3
+    feedlangs: 1
     postcats: 3
+    posts: 3
     promoted: 0
     promotes: 10
     relme: 2
     title: 3
     website: 2
-  score: 23
+  score: 27
   ispodcast: false
   isnoarchive: false
+  innetwork: true
+  language: en
 ---

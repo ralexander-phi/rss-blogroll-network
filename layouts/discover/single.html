@@ -122,6 +122,7 @@
       {{ range $url, $validated := .Params.relme }}
       <li>
       <a rel="ugc" href="{{ $url }}">{{ $url }}</a>
+        🔗
       {{ if $validated }}
       <span title="Validated" class="tag is-success is-light">&#x2714;</span>
       {{ else }}

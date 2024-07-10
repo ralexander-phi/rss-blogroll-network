@@ -1,6 +1,6 @@
 ---
 title: Jonstraveladventures
-date: "2024-06-16T19:38:39+02:00"
+date: "2024-07-07T08:28:53+02:00"
 description: Dr Shock searches for some enlightenment in the strange world of string
   theory in the hope that he may stumble across some great food and interesting experiences
   on this preposterous quest (England -
@@ -14,348 +14,50 @@ params:
   recommended: []
   recommender: []
   categories:
-  - photography
-  - China
-  - Beijing
-  - physics
-  - Spain
-  - Galicia
-  - Santiago de Compostela
-  - videos
-  - work
-  - atmospheric optics
-  - food
-  - talks
-  - travel
-  - astronomy
-  - japan
-  - music
-  - couchsurfing
-  - books
-  - travels
-  - Chinese
-  - astrophotography
-  - tips
-  - science
-  - South Africa
-  - papers
-  - string theory
-  - korea
-  - video
-  - 22 degree solar halo
-  - Munich
-  - art
-  - language
-  - news
-  - reviews
-  - Germany
-  - cooking
-  - Oxford
-  - England
-  - Spanish
-  - Seoul
-  - TED
-  - lectures
-  - scitalks
-  - Kyoto
-  - Moon
-  - Tokyo
-  - conferences
-  - eclipse
-  - movies
-  - research
-  - Links
-  - architecture
-  - languages
-  - update
-  - updates
-  - Festival
-  - HDR
-  - KITPC
-  - Kruger National Park
-  - London
-  - Toomanytribbles
-  - advertising
-  - computers
-  - flights
-  - technology
-  - weather
-  - Argentina
-  - BAblog
-  - Cape Town
-  - Christmas
-  - Dublin
-  - Morocco
-  - Olympics
-  - Shanghai
-  - UK
-  - Wudaokou
-  - Wuhan
-  - blogs
-  - nature
-  - storms
-  - sundogs
-  - Africa
-  - Baoji
-  - Barcelona
-  - Blogger
-  - Buenos Aires
-  - Flickr
-  - Jupiter
-  - Pingliang
-  - South America
-  - animals
-  - computing
-  - education
-  - films
-  - friends
-  - madrid
-  - mathematics
-  - rain
-  - seminars
-  - sightseeing
-  - sunset
-  - AdS/QCD
-  - CERN
-  - California
-  - Chinese food
-  - D22
-  - France
-  - Gansu
-  - Internet
-  - Jiuzhaigou
-  - Kabuki
-  - Korean food
-  - LHC
-  - Mathematica
-  - New Year
-  - Porto
-  - Portugal
-  - TED conference
-  - air pollution
-  - blogging
-  - complex systems summer school
-  - fireworks
-  - hints
-  - holidays
-  - maths
-  - recipes
-  - review
-  - software
-  - stars
-  - summary
-  - trains
-  - venus
-  - 22 degree lunar halo
-  - Asturias
-  - B physics
-  - Bariloche
-  - Cargese
-  - Carnival
-  - Geneva
-  - Haiku
-  - Ireland
-  - Kimchi
-  - Korean
-  - Lijiang
-  - Mac
-  - Monterey
-  - Mozambique
-  - Paris
-  - Patagonia
-  - Perseids
-  - Pimsleur
-  - Politics
-  - Santiagiago de Compostela
-  - Shaanxi
-  - Steinbeck
-  - Stephen Hawking
-  - USA
-  - Yunnan
-  - animations
-  - block
-  - culture
-  - drink
-  - evolution
-  - inspiration
-  - juggling
-  - meteors
-  - molecular gastronomy
-  - motivation
-  - particle physics
-  - pipes
-  - rainbow
-  - recipe
-  - stories
-  - strings 2007
-  - stupidity
-  - telescopes
-  - traffic
-  - upper tangent arc
-  - web 2.0
-  - wedding
-  - ACER
-  - API
-  - Aboriginal culture
-  - Burt Rutan
-  - CMS
-  - Capoeira
-  - Chengdu
-  - Chinglish
-  - Cine Europa
-  - Coursera
-  - Croatia
-  - Data
-  - Dave Feldman
-  - Dubai
-  - Dubrovnik
-  - Eiffel tower
-  - English corner
-  - Fes
-  - Gamma ray burster
-  - Genius
-  - Gijon
-  - Greece
-  - Hangul
-  - Japanese
-  - Jonathan Tel
-  - Kongtong shan
-  - Kubrick
-  - La Coruna
-  - LaTeX
-  - Macro
-  - Marrakech
-  - May day
-  - Michel Thomas
-  - Milos
-  - Monte Pindo
-  - NASA
-  - Nav
-  - Nicholas Negroponte
-  - Phil Plait
-  - Pohang
-  - Pollution
-  - QFT
-  - Semana Santa
-  - Sichuan
-  - Sidney Coleman
-  - Sitges
-  - Solar cooking
-  - Study
-  - Switzerland
-  - Tate Modern
-  - Ted talks
-  - Television
-  - Tim Ferris
-  - Titan
-  - Udacity
-  - Windows Vista
-  - Wolfram Alpha
-  - ads/cft
-  - apology
-  - atmosperic optics
-  - bills
-  - biology
-  - bird's nest
-  - blog
-  - cameras
-  - cathedral
-  - chicken soup
-  - clubs
-  - coastline
-  - concerts
-  - conjunction
-  - experiments
-  - extra solar planets
-  - fair
-  - family
-  - fiction
-  - flashcards
-  - genetic algorithms
-  - google
-  - google reader
-  - guide
-  - hacks
-  - hair cuts
-  - history
-  - hospitals
-  - insect
-  - jazz
-  - lamprey
-  - life
-  - literature
-  - magazines
-  - mandarin
-  - medicine
-  - midi festival
-  - milky way
-  - mobile phones
-  - moonrise
-  - museum
-  - net nanny
-  - nostalgia
-  - obituary
-  - octopus
-  - one laptop per child
-  - opening ceremony
-  - operating systems
-  - outreach
-  - photgraphy
-  - photograpy
-  - planets
-  - police
-  - program
-  - random
-  - reading
-  - reflections
-  - religion
-  - rocket launch
-  - schools
-  - scientists
-  - search
-  - solar halo
-  - spiders
-  - string cosmology
-  - summer
-  - summer school
-  - sushi
-  - tannery
-  - temples
-  - tiredness
-  - trees
-  - trip
-  - turing machine
-  - views
-  - visa
-  - writing
   - 120 degree parhelion
+  - 22 degree lunar halo
+  - 22 degree solar halo
   - "798"
   - A coruna
+  - ACER
   - AI
   - AIMS
+  - API
   - ATLAS
+  - Aboriginal culture
   - AdS Collective
+  - AdS/QCD
   - Addons
   - Adobe Acroread
+  - Africa
   - Akihabara
   - Alday
   - Alzheimer's
   - Amazonian Giant Centipede
+  - Argentina
   - Artificial Intelligence
+  - Asturias
   - Atlantic
   - Australia
   - Austria
   - Awards
+  - B physics
+  - BAblog
   - BBC news
   - BDS
   - BMX
+  - Baoji
   - Baoli
   - Barajas
+  - Barcelona
+  - Bariloche
   - Basque country
+  - Beijing
   - Beijing City Weekender
   - Bergman
   - Berlin
   - Big Sur
+  - Blogger
   - Boingboing
   - Bookworm
   - Borough Market
@@ -371,22 +73,38 @@ params:
   - Brussels
   - Buckingham Palace
   - Budapest
+  - Buenos Aires
   - Burj Dubai
+  - Burt Rutan
   - Buster Keaton
   - CCTV tower
+  - CERN
+  - CMS
+  - California
   - Cambridge
+  - Cape Town
   - Cape of Good Hope
+  - Capoeira
+  - Cargese
   - Carl Sagan
+  - Carnival
   - Carolyn Porco
   - Casa Marcelo
   - Cassini
   - Catholicism
   - Changgyeongung
   - Chaoyang
+  - Chengdu
   - Cherry blossom
   - Chin
+  - China
   - China's Instant Cities
+  - Chinese
+  - Chinese food
   - Chinesepod
+  - Chinglish
+  - Christmas
+  - Cine Europa
   - Cineuropa
   - Clay Shirky
   - Comet 17/P holmes
@@ -396,8 +114,11 @@ params:
   - Copenhagen
   - Cory Doctorow
   - Cosmos
+  - Coursera
   - Craig Venter
   - Craigs list
+  - Croatia
+  - D22
   - DIAS
   - DSLR
   - Daegu
@@ -405,6 +126,8 @@ params:
   - Dan Dennet
   - Danial Tammat
   - Dashanzi
+  - Data
+  - Dave Feldman
   - Dawson Bros
   - Denmark
   - Descartes
@@ -415,39 +138,60 @@ params:
   - Dreaming in Code
   - Dreamtime
   - Dropbox
+  - Dubai
+  - Dublin
+  - Dubrovnik
   - Dunhuang
   - Earth day
   - Earth hour
   - Earthshine
   - Echineselearning
+  - Eiffel tower
   - El Ateneo
   - Elliott Sharp
   - Encounters at the end of the world
+  - England
   - English Garden
+  - English corner
   - Everest
+  - Fes
+  - Festival
   - Fiesta
   - Firefox
   - First impressions
   - Fisterra
+  - Flickr
   - Fonseca Prize
+  - France
   - Francis Elizabeth Allen
   - Freemind
   - Freud
   - Fuji
   - GFW
   - Gaia
+  - Galicia
+  - Gamma ray burster
+  - Gansu
   - Gatecrasher
+  - Geneva
+  - Genius
+  - Germany
+  - Gijon
   - Glory
   - Gobi
   - Gongti
   - Goodbyes
   - Google squared
   - Grease Monkey
+  - Greece
   - Green flash
   - Guinness
   - Gwoyeu Romatzyh
+  - HDR
   - Haidian park
+  - Haiku
   - Halloween
+  - Hangul
   - Harvard
   - Health
   - Henning Samtleben
@@ -466,92 +210,144 @@ params:
   - Indian
   - Inhambane
   - International Space Station
+  - Internet
   - Internet access
+  - Ireland
   - Isla de Cies
   - Italian
   - James Glazier
   - James Lovelock
+  - Japanese
   - Jerry Fodor
   - Jiayuguan
   - Jinan park
   - Jingshan
+  - Jiuzhaigou
   - Johannesburg
   - John Armstrong
+  - Jonathan Tel
   - July 22nd 2009
+  - Jupiter
+  - KITPC
+  - Kabuki
   - Kenkoku Kinenbi
   - Kevin Rudd
   - Kim Ki Duk
+  - Kimchi
   - Kiyomizu
+  - Kongtong shan
+  - Korean
+  - Korean food
   - Korean independence day
+  - Kruger National Park
+  - Kubrick
   - Kurt Vonnegut
+  - Kyoto
+  - LHC
   - LHC startup
+  - La Coruna
   - La Plata
+  - LaTeX
   - Lagoon nebula
   - Lanzhou
   - Leon
+  - Lijiang
+  - Links
+  - London
   - London Eye
   - M42
   - MIT media lab
   - MITx
+  - Mac
+  - Macro
   - Maldacena
   - Mario Vargas Llosa
   - Marquez
+  - Marrakech
   - Mars
+  - Mathematica
   - Max Roach
+  - May day
   - Meebo
   - Mercury
   - Michael Standaert
+  - Michel Thomas
   - Michelin Star
   - Microsoft
+  - Milos
   - Mind maps
   - Mnemosyne
   - Money Jungle
+  - Monte Pindo
+  - Monterey
+  - Moon
+  - Morocco
+  - Mozambique
   - Mozamique
+  - Munich
   - Muros
   - Museum of contemporary art
   - Museum of natural history
   - Museum of the Pobo Galego
+  - NASA
   - NOMA
   - Namsan
   - Nara
   - National Aquatics centre
   - National Gallery
+  - Nav
   - Neil Turok
+  - New Year
   - Newton Institute
+  - Nicholas Negroponte
   - Nishiki
   - Noche de San Juan
   - Noctilucent clouds
   - Noia
   - Ochanomizu
   - Olympic Games
+  - Olympics
   - Orion
   - Orion nebula
   - Ourense
   - Oviedo
+  - Oxford
   - PC
   - Palacio de Congresos
   - Pamelia Kursten
   - Panba
   - Pandora
+  - Paris
   - Park
   - Park Chan Wook
   - Parque de Bonaval
+  - Patagonia
   - Paths of glory
   - Pattie Maes
   - Peking Duck
+  - Perseids
   - Pharyngula
+  - Phil Plait
   - Phineas Gage
   - Phoenix
   - Photograhy
   - Pico Sacro
+  - Pimsleur
+  - Pingliang
   - Planck
+  - Pohang
   - Poland
+  - Politics
+  - Pollution
   - Port
+  - Porto
+  - Portugal
   - Praia das Catedrais
   - Pub Fuco Luis
   - Pudong
   - Puppetry
   - QCD
+  - QFT
   - Qing Ming Jie
   - RAW format
   - RSS
@@ -567,32 +363,55 @@ params:
   - San Francisco
   - San Nak Ji
   - San Pedro
+  - Santiagiago de Compostela
   - Santiago de Chile
+  - Santiago de Compostela
   - Saturn
   - Scaled Composites
+  - Semana Santa
+  - Seoul
   - Seoul Shinmun
   - Seoul tower
   - Setsubun
+  - Shaanxi
+  - Shanghai
   - Shinjuku
   - Shinkansen
+  - Sichuan
   - Sichuan pepper
+  - Sidney Coleman
   - Sir Ken Robinson
+  - Sitges
   - Slovakia
+  - Solar cooking
   - Solstice
   - Soom
+  - South Africa
+  - South America
   - Southampton
+  - Spain
+  - Spanish
   - Sphere
   - St Paul's
+  - Steinbeck
   - Stellarium
+  - Stephen Hawking
   - Steven Pinker
+  - Study
   - Summer Palace
   - Sundays
+  - Switzerland
   - TASI
+  - TED
+  - TED conference
   - TED prize
   - TEDtalks
   - TV
   - Taegu
   - Takoyaki
+  - Tate Modern
+  - Ted talks
+  - Television
   - Thai green curry
   - The Adventures of the Pisco Kid
   - The Beijing of Possibilities
@@ -603,7 +422,11 @@ params:
   - Tian Tan
   - Tiananmen
   - Tim
+  - Tim Ferris
   - Tim Minchin
+  - Titan
+  - Tokyo
+  - Toomanytribbles
   - Torres Strait Islanders
   - Transformers
   - Trey Ratcliff
@@ -612,6 +435,9 @@ params:
   - Turing Prize
   - Tussock moth
   - Txalaparta
+  - UK
+  - USA
+  - Udacity
   - Uranus
   - Valdivia
   - Vapourer
@@ -623,23 +449,40 @@ params:
   - Westin Hotel
   - Whale watching
   - Wild Strawberries
+  - Windows Vista
+  - Wolfram Alpha
+  - Wudaokou
+  - Wuhan
   - X-price
   - XP
   - Yahoo Pipes
   - Yuan Ming Yuan
   - Yukawa Institute
+  - Yunnan
   - Zhangye
   - Zhejiangh
   - abiogenesis
+  - ads/cft
+  - advertising
+  - air pollution
+  - animals
+  - animations
   - anniversary
   - apan
+  - apology
   - appendicitis
   - aquarium
+  - architecture
   - architecture.
   - arranged marriage
+  - art
   - artWALK
   - articles
   - arxiv
+  - astronomy
+  - astrophotography
+  - atmosperic optics
+  - atmospheric optics
   - atoptics
   - autism
   - autumn
@@ -652,11 +495,19 @@ params:
   - beetle
   - beginnings
   - bhuna
+  - bills
+  - biology
+  - bird's nest
   - birds
   - black holes
+  - block
+  - blog
   - blog rolling
+  - blogging
+  - blogs
   - boat
   - boing boing
+  - books
   - bookshops
   - border controls
   - boycott
@@ -668,34 +519,48 @@ params:
   - but that's ok
   - cafe culture
   - call my bluff
+  - cameras
   - cards
   - catchup
   - caterpillars
+  - cathedral
   - celebrations
   - chaos
   - chemistry
   - chicken
+  - chicken soup
   - circumscribed halo
   - cloning
   - clothing
   - cloud seeding
   - cloud shadow
   - clouds
+  - clubs
+  - coastline
   - coding
   - coffee
   - comedy
   - comet
   - comments
   - complaints
+  - complex systems summer school
   - computation
+  - computers
+  - computing
+  - concerts
   - cone snail
+  - conferences
+  - conjunction
   - conservation
+  - cooking
+  - couchsurfing
   - counterculture
   - creativity
   - crepuscular rays
   - crescent
   - criteo
   - cross
+  - culture
   - culture shock
   - cycling
   - cyclists
@@ -707,7 +572,10 @@ params:
   - devendra bernhardt
   - dish
   - dragonfly
+  - drink
   - earthquake
+  - eclipse
+  - education
   - eel
   - elephant
   - endings
@@ -716,61 +584,94 @@ params:
   - epiphany
   - ethics
   - events
+  - evolution
   - exercise
   - experience
+  - experiments
   - explanations
   - explosion
   - extra dimensions
+  - extra solar planets
   - extra terrestrial intelligence
   - faces
   - factory
+  - fair
+  - family
   - fashion
   - feed reader
+  - fiction
   - fiestas
+  - films
   - fire
   - fire jumping
+  - fireworks
   - fish
+  - flashcards
   - flat
   - flat-hunting
+  - flights
   - flowers
+  - food
+  - friends
   - future
   - gadgets
   - games
   - gastronomy
   - gauged supergravity
+  - genetic algorithms
   - geometry
   - giraffe
   - gluon scattering
+  - google
+  - google reader
   - google system blog
   - gravitational waves
+  - guide
+  - hacks
+  - hair cuts
   - health service
   - heat
   - heavens above
   - hiking
+  - hints
+  - history
   - history in the making
   - hole in the universe
   - holiday
+  - holidays
   - homatropine
   - home
   - homeopathy
   - honking
   - horses
+  - hospitals
   - hyena
   - ice pillars
   - impala
   - information extraction
+  - insect
   - insomnia
+  - inspiration
+  - japan
   - jaw
+  - jazz
   - jet-lag
+  - juggling
   - kafkaesque
   - killer's kiss
   - kitchenalia
+  - korea
+  - lamprey
+  - language
   - language exchange
+  - languages
   - leather
   - leaves
   - leaving
+  - lectures
   - leopard
   - lessons
+  - life
   - lifehacks
   - lighthouse
   - lightning
@@ -778,58 +679,94 @@ params:
   - linear confinement
   - linguistics
   - link
+  - literature
   - lollamprey
   - lowitz arcs
   - lunar halo
+  - madrid
+  - magazines
   - manatees
+  - mandarin
   - manga
   - market
+  - mathematics
+  - maths
+  - medicine
   - memes
   - memories
   - memory
+  - meteors
   - methane
+  - midi festival
+  - milky way
+  - mobile phones
+  - molecular gastronomy
   - moods
+  - moonrise
+  - motivation
   - mountains
+  - movies
   - moving food
   - msn
+  - museum
   - museums
+  - music
   - mydriasis
   - myriapod
   - n-gram
   - national geographic
   - natto
+  - nature
   - nebula
+  - net nanny
   - neuroscience
+  - news
   - newspaper
   - night and day
   - nightscene
   - nightsky
   - nigiri
+  - nostalgia
+  - obituary
+  - octopus
   - old man
+  - one laptop per child
   - onion puree
   - online learning
   - onnagata
   - onomatopoeia
   - open letter
+  - opening ceremony
+  - operating systems
   - optics
+  - outreach
   - packing
   - paella
   - panoramas
+  - papers
   - parhelic circle
   - parthenogenesis
   - particle accelerators
+  - particle physics
   - party
   - perigee
+  - photgraphy
+  - photography
+  - photograpy
   - photoshop
   - photosynth
+  - physics
   - pictures
   - pig's trotters
   - pinyin
+  - pipes
+  - planets
   - plans
   - playing
   - podcast
   - poetry
   - poisoning
+  - police
   - prado
   - preserved lemons
   - pressure cooking
@@ -837,33 +774,55 @@ params:
   - problems
   - procession
   - productivity
+  - program
   - psychology
   - public figures
   - queuing
   - quotations
   - radio
+  - rain
+  - rainbow
+  - random
   - rants
+  - reading
+  - recipe
+  - recipes
   - recordings
+  - reflections
+  - religion
+  - research
   - researhch
   - restaurants
   - return
+  - review
+  - reviews
   - roads
+  - rocket launch
   - routine
   - satellites
   - scenery
+  - schools
   - sci-fi
+  - science
+  - scientists
+  - scitalks
   - sculpture
+  - search
   - seasons
   - secret plans
+  - seminars
   - sequences
   - shooting stars
+  - sightseeing
   - skype
   - skyscraper
   - slideshow
   - social commentary
   - social networking
+  - software
   - solar eclipse
   - solar filter
+  - solar halo
   - solar photography
   - solar pilar
   - somerset house
@@ -872,29 +831,48 @@ params:
   - space flight
   - spare ribs
   - sperm whale
+  - spiders
   - spiral staircase
   - stadium
   - star gazing
+  - stars
   - startup
   - stock
+  - stories
+  - storms
   - stream of consciousness
+  - string cosmology
+  - string theory
+  - strings 2007
   - students
+  - stupidity
   - subconscious
   - subsun
   - success
   - sufjan stevens
+  - summary
+  - summer
+  - summer school
   - sun pillars
+  - sundogs
+  - sunset
   - sunspots
   - supergravity
   - supersymmetry
   - surrealism
+  - sushi
   - swimming
+  - talks
   - tallest building
   - tangent arc
+  - tannery
   - tap water
   - taxis
   - tea
   - teaching
+  - technology
+  - telescopes
+  - temples
   - the onion
   - the technology singularity
   - the universe
@@ -902,20 +880,40 @@ params:
   - thermodynamics
   - thoughts
   - timewasting
+  - tips
+  - tiredness
   - totality
   - tourism
   - tourist
   - tradition
+  - traffic
+  - trains
+  - travel
   - traveladventures
   - traveling
+  - travels
+  - trees
   - trekking
+  - trip
   - trips
   - troubles
+  - turing machine
+  - update
+  - updates
+  - upper tangent arc
   - valentine
+  - venus
+  - video
+  - videos
+  - views
+  - visa
   - water cooler
+  - weather
   - web
+  - web 2.0
   - web technology
   - webcast
+  - wedding
   - whaling
   - whisky
   - widgets
@@ -923,28 +921,38 @@ params:
   - windows media player
   - winter school
   - words
+  - work
   - worlfram
   - writers
+  - writing
   - www
   - yuba
   relme:
+    https://alittleplaceiknowincapetown.blogspot.com/: true
+    https://emergingbehaviour.blogspot.com/: true
+    https://jonstraveladventures.blogspot.com/: true
     https://www.blogger.com/profile/11667852535983804885: true
   last_post_title: Reflections
   last_post_description: ""
   last_post_date: "2018-02-20T21:28:36+01:00"
   last_post_link: https://jonstraveladventures.blogspot.com/2017/12/reflections.html
   last_post_categories: []
+  last_post_language: ""
   last_post_guid: cc470c6845a14a0dcc6d2defa0a8a92f
   score_criteria:
     cats: 5
     description: 3
+    feedlangs: 0
     postcats: 0
+    posts: 3
     promoted: 0
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 15
+  score: 18
   ispodcast: false
   isnoarchive: false
+  innetwork: true
+  language: ""
 ---

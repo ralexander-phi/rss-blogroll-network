@@ -59,7 +59,6 @@ var data = [
   var cats = {};
   var listing = document.getElementById("listing");
   for (var feed of data) {
-    var p = document.createElement("p");
     for (var cat of feed.c) {
       if (!(cat in cats)) {
         cats[cat] = [];

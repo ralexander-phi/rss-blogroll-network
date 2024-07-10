@@ -10,14 +10,10 @@ params:
   blogrolls: []
   recommended: []
   recommender:
-  - https://danq.blog/comments/feed/
-  - https://danq.blog/feed/
   - https://danq.me/comments/feed/
   - https://danq.me/feed/
   - https://danq.me/kind/article/feed/
   - https://danq.me/kind/note/feed/
-  - https://danq.uk/comments/feed/
-  - https://danq.uk/feed/
   categories: []
   relme: {}
   last_post_title: Get a load of this category
@@ -25,17 +21,22 @@ params:
   last_post_date: "2024-04-19T22:37:39Z"
   last_post_link: https://jerz.us/micro/97
   last_post_categories: []
+  last_post_language: ""
   last_post_guid: 60bcd911027899c96df1a79d2070acbd
   score_criteria:
     cats: 0
     description: 3
+    feedlangs: 0
     postcats: 0
+    posts: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 11
+  score: 14
   ispodcast: false
   isnoarchive: false
+  innetwork: true
+  language: ""
 ---

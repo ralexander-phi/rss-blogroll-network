@@ -13,6 +13,9 @@ params:
   recommender: []
   categories: []
   relme:
+    https://alittleplaceiknowincapetown.blogspot.com/: true
+    https://emergingbehaviour.blogspot.com/: true
+    https://jonstraveladventures.blogspot.com/: true
     https://www.blogger.com/profile/11667852535983804885: true
   last_post_title: Emergent phenomena part 1
   last_post_description: This blog will grow naturally over time in currently unknown
@@ -21,17 +24,22 @@ params:
   last_post_date: "2007-06-22T09:38:00Z"
   last_post_link: https://emergingbehaviour.blogspot.com/2007/06/emergent-phenomena-part-1.html
   last_post_categories: []
+  last_post_language: ""
   last_post_guid: 5bf519f0bebd289385b7d33958e74ebd
   score_criteria:
     cats: 0
     description: 3
+    feedlangs: 0
     postcats: 0
+    posts: 3
     promoted: 0
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 10
+  score: 13
   ispodcast: false
   isnoarchive: false
+  innetwork: true
+  language: ""
 ---

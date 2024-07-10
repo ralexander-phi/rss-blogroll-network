@@ -99,3 +99,10 @@ A feed should have a title to help readers identify the blog.
 
 A feed should have a description to help readers understand what the blog is about.
 
+
+## Has a feed language
+
+***1 point***
+
+A feed should specify the language it uses.
+

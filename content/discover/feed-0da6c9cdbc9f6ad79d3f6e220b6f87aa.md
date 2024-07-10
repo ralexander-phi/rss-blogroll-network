@@ -15,26 +15,33 @@ params:
   - http://scripting.com/rss.xml
   - http://scripting.com/rssNightly.xml
   categories:
-  - OpenAI
+  - Meta
+  - Threads
   relme: {}
-  last_post_title: The strange incentives at OpenAI
-  last_post_description: 'I am once again asking: what is the conflict of interest
-    policy at this company?'
-  last_post_date: "2024-06-04T00:08:19Z"
-  last_post_link: https://www.platformer.news/openai-altman-investments-conflicts-wsj/
+  last_post_title: Adam Mosseri on the first year of Threads
+  last_post_description: With more than 175 million monthly users, Meta has its sights
+    set on overtaking Twitter
+  last_post_date: "2024-07-03T14:30:49Z"
+  last_post_link: https://www.platformer.news/threads-175-million-users-adam-mosseri-interview/
   last_post_categories:
-  - OpenAI
-  last_post_guid: 7aa01fbdb8ca8daee0848f36132eba90
+  - Meta
+  - Threads
+  last_post_language: ""
+  last_post_guid: bab64588cdb1399a66a8527664b4b0c9
   score_criteria:
     cats: 0
     description: 3
-    postcats: 1
+    feedlangs: 0
+    postcats: 2
+    posts: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 14
+  score: 18
   ispodcast: false
   isnoarchive: false
+  innetwork: true
+  language: ""
 ---

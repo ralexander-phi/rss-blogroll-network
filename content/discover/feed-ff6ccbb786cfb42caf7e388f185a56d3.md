@@ -6,7 +6,8 @@ params:
   feedlink: https://josh.blog/feed
   feedtype: rss
   feedid: ff6ccbb786cfb42caf7e388f185a56d3
-  websites: {}
+  websites:
+    https://josh.blog/: true
   blogrolls:
   - https://josh.blog/.well-known/recommendations.opml
   recommended:
@@ -24,36 +25,49 @@ params:
   - https://www.theverge.com/apple/rss/index.xml
   - https://aaron.blog/comments/feed/
   - https://danielbachhuber.com/comments/feed/
+  - https://github.blog/comments/feed/
   - https://josepha.blog/comments/feed/
   - https://ma.tt/comments/feed/
   - https://www.theverge.com/rss/apple/index.xml
   - https://www.theverge.com/rss/index.xml
   recommender:
+  - http://scripting.com/rss.xml
+  - http://scripting.com/rssNightly.xml
   - https://alexsci.com/blog/rss.xml
   categories:
-  - Life
-  - dogs
-  - nature
-  relme: {}
-  last_post_title: Dog Park Saturday Mornings
-  last_post_description: ""
-  last_post_date: "2024-05-18T22:07:12Z"
-  last_post_link: https://josh.blog/2024/05/dog-park-saturday-mornings
+  - Web
+  - WordPress
+  - blurhash
+  - imgproxy
+  relme:
+    https://josh.blog/: true
+  last_post_title: Dynamically Resize and Optimize WordPress Images with imgproxy
+  last_post_description: Imgproxy is an open source image processing proxy service.
+    You supply image URLs and processing parameters in the URL. It downloads the image
+    and applies the filters you’ve specified. It can also
+  last_post_date: "2024-07-07T19:35:25Z"
+  last_post_link: https://josh.blog/2024/07/dynamically-resize-and-optimize-wordpress-images-with-imgproxy
   last_post_categories:
-  - Life
-  - dogs
-  - nature
-  last_post_guid: 751bd0de1d1577f01b6d7a12e20ef3d4
+  - Web
+  - WordPress
+  - blurhash
+  - imgproxy
+  last_post_language: ""
+  last_post_guid: 24f581d97dda07d067765c59b6119f7c
   score_criteria:
     cats: 0
     description: 3
+    feedlangs: 1
     postcats: 3
+    posts: 3
     promoted: 5
     promotes: 9
-    relme: 0
+    relme: 2
     title: 3
-    website: 0
-  score: 23
+    website: 2
+  score: 31
   ispodcast: false
   isnoarchive: false
+  innetwork: true
+  language: en
 ---

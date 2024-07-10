@@ -1,6 +1,7 @@
 package main
 
-type NodeType = int64
+// TODO was int64
+type NodeType = int
 
 const (
 	NODE_TYPE_SEED NodeType = iota

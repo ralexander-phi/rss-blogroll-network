@@ -14,23 +14,26 @@ params:
   - https://jabel.blog/feed.xml
   - https://jabel.blog/podcast.xml
   categories:
+  - Chicago
   - Ecology
+  - Emily Monosson
+  - Fire
+  - Steve Brussate
+  - The Field Museum
+  - The Rise and Reign of the Mammals
   - ancestor worship
   - ancient fossils
   - biology
   - blight
   - chewing
-  - Chicago
   - climate change
   - cooking
   - decline of reptiles
   - dinosaur
   - dinosaurs
-  - Emily Monosson
   - evolution
   - evolutionary biology
   - fall of dinosaurs
-  - Fire
   - fire myths
   - first mammal
   - fossils
@@ -50,10 +53,7 @@ params:
   - rise of mammals
   - saprophytic fungi
   - science
-  - Steve Brussate
   - teeth
-  - The Field Museum
-  - The Rise and Reign of the Mammals
   - tooth
   - warm blood
   - warm bloodedness
@@ -65,23 +65,26 @@ params:
   last_post_date: "2024-04-04T17:39:59Z"
   last_post_link: https://fcbrowncloud.com/2024/04/04/on-the-toothy-origins-of-our-inner-fire/
   last_post_categories:
+  - Chicago
   - Ecology
+  - Emily Monosson
+  - Fire
+  - Steve Brussate
+  - The Field Museum
+  - The Rise and Reign of the Mammals
   - ancestor worship
   - ancient fossils
   - biology
   - blight
   - chewing
-  - Chicago
   - climate change
   - cooking
   - decline of reptiles
   - dinosaur
   - dinosaurs
-  - Emily Monosson
   - evolution
   - evolutionary biology
   - fall of dinosaurs
-  - Fire
   - fire myths
   - first mammal
   - fossils
@@ -101,25 +104,27 @@ params:
   - rise of mammals
   - saprophytic fungi
   - science
-  - Steve Brussate
   - teeth
-  - The Field Museum
-  - The Rise and Reign of the Mammals
   - tooth
   - warm blood
   - warm bloodedness
   - wildlife
+  last_post_language: ""
   last_post_guid: cc9bd041eb950d729c08e9e3aca8f4ac
   score_criteria:
     cats: 0
     description: 3
+    feedlangs: 1
     postcats: 3
+    posts: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 16
+  score: 20
   ispodcast: false
   isnoarchive: false
+  innetwork: true
+  language: en
 ---

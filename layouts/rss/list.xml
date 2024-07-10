@@ -1,3 +1,0 @@
-{{- define "main" -}}
-{{ partial "rss-inner.xml" . }}
-{{ end }}

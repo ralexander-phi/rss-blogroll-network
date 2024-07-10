@@ -12,32 +12,37 @@ params:
   blogrolls: []
   recommended: []
   recommender:
-  - https://jlelse.blog/.min.rss
-  - https://jlelse.blog/.rss
-  - https://jlelse.blog/index.xml
+  - https://marisabel.nl/feeds/blog.php
+  - https://marisabel.nl/feeds/tech-blog.php
   categories:
-  - miscellany
+  - development
+  - work
   relme: {}
-  last_post_title: Comedy series I've watched over and over (and over)
-  last_post_description: |-
-    I love a good comedy series. It's my comfort television. These are my favourites over the years.
-    90s
-    We only had free-to-air TV at our house, so it was slim pickings from the four channels available
-  last_post_date: "2024-06-04T19:06:00Z"
-  last_post_link: https://rachsmith.com/comedy-series/
+  last_post_title: Comfortable with the struggle
+  last_post_description: "Sometimes I get asked by newcomers how one can become a
+    developer like me - specifically, with a job and career like mine. \nI find this
+    sort of question impossible to answer. My personal situation is"
+  last_post_date: "2024-07-08T12:07:00Z"
+  last_post_link: https://rachsmith.com/comfortable-with-the-struggle/
   last_post_categories:
-  - miscellany
-  last_post_guid: 522a295c836645825ecbab988029c7df
+  - development
+  - work
+  last_post_language: ""
+  last_post_guid: 2f98a48d48884b02c7360ba688a96f89
   score_criteria:
     cats: 0
     description: 3
-    postcats: 1
+    feedlangs: 0
+    postcats: 2
+    posts: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 12
+  score: 16
   ispodcast: false
   isnoarchive: false
+  innetwork: true
+  language: ""
 ---

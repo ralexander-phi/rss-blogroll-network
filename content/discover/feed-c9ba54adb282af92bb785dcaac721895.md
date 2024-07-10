@@ -1,5 +1,5 @@
 ---
-title: VCP 2.0
+title: vladcampos.com
 date: "1970-01-01T00:00:00Z"
 description: IndieWeb, Fediverse, ActivityPub, and note-taking apps and devices, such
   as Evernote, Obsidian, and Supernote, are some of the topics you can expect to hear
@@ -16,32 +16,37 @@ params:
   - https://indieweb.org/wiki/index.php?feed=atom&title=Special%3ARecentChanges
   - https://otavio.cc/feed.xml
   - https://www.manton.org/feed.xml
-  - https://www.manton.org/podcast.xml
   recommender: []
   categories:
   - Society & Culture
   relme:
     https://github.com/vladcampos: true
-    https://micro.blog/vladcampos: false
-    https://twitter.com/vladcampos: false
-  last_post_title: 'VCP 5 - #Substack: is the honeymoon over?'
-  last_post_description: If someone is following you on Substack, there is no email
-    address, and if you want to switch services, you won’t be able to take the followers
-    with you. That’s not a newsletter. It’s social
-  last_post_date: "2024-05-02T13:55:12+01:00"
-  last_post_link: https://vladcampos.com/2024/05/02/vcp-substack-is.html
+    https://mastodon.social/@vladcampos: true
+    https://vladcampos.com/: true
+  last_post_title: 'VCP 6 - Voicenotes: The Inspiring Story & Future Plans (with:
+    Jijo Sunny)'
+  last_post_description: In this conversation, we explore the journey of Voicenotes,
+    from its inspiring origins to its exciting future. Jijo Sunny talks about his
+    journey and how Buy Me a Coffee and Voicenotes came about. As
+  last_post_date: "2024-06-14T18:32:03+01:00"
+  last_post_link: https://vladcampos.com/2024/06/14/vcp-voicenotes-the.html
   last_post_categories: []
-  last_post_guid: 9b7ecb3b15f690297cb78e3be4e29317
+  last_post_language: ""
+  last_post_guid: 58c56308fc0aeae92f0eb01ffc450b69
   score_criteria:
     cats: 1
     description: 3
+    feedlangs: 1
     postcats: 0
+    posts: 3
     promoted: 0
-    promotes: 2
+    promotes: 1
     relme: 2
     title: 3
     website: 2
-  score: 13
+  score: 16
   ispodcast: true
   isnoarchive: false
+  innetwork: true
+  language: en
 ---

@@ -8,46 +8,50 @@ params:
   feedid: ecdc92fac8433922124bdfacd7eb4c62
   websites:
     https://coryd.dev/: false
+    https://coryd.dev/books/: false
     https://coryd.dev/contact: false
     https://coryd.dev/feeds: true
-    https://coryd.dev/links: false
-    https://coryd.dev/music: false
+    https://coryd.dev/links/: false
+    https://coryd.dev/music/: false
     https://coryd.dev/now: false
+    https://coryd.dev/watching/: false
     https://coryd.dev/webrings: false
   blogrolls: []
   recommended: []
   recommender:
-  - https://amerpie.lol/feed.xml
-  - https://chrisburnell.com/feed.xml
   - https://rknight.me/subscribe/posts/rss.xml
   categories: []
   relme:
-    https://buymeacoffee.com/cory: false
-    https://coryd.dev/contact: false
-    https://coryd.dev/webrings: false
+    https://coryd.dev/: true
+    https://coryd.dev/contact: true
+    https://coryd.dev/feeds: true
+    https://coryd.dev/now: true
+    https://coryd.dev/webrings: true
     https://github.com/cdransf: true
-    https://listenbrainz.org/user/cdransf/: false
     https://social.lol/@cory: true
-    https://www.instapaper.com/p/coryd: false
-    https://www.npmjs.com/~cdransf: false
-  last_post_title: Integrating a (somewhat) custom CMS with Eleventy
-  last_post_description: I've spent the last, uh, month or so inching my way towards
-    leveraging a CMS to manage the content on this site. It started with improving
-    my self-hosted scrobbling setup, importing yet more of my
-  last_post_date: "2024-06-03T22:02:00Z"
-  last_post_link: https://feedpress.me/link/23795/16702641/integrating-a-somewhat-custom-cms-with-eleventy
+  last_post_title: Building out a books page
+  last_post_description: I had a ton of fun reading about how Melanie put together
+    her reading page that I thought I'd write up a quick post on how I built mine.I've
+    cycled from Goodreads to Oku to Goodreads to The
+  last_post_date: "2024-07-03T22:40:00Z"
+  last_post_link: https://feedpress.me/link/23795/16733476/building-out-a-books-page
   last_post_categories: []
-  last_post_guid: 2de89877a7aa5f2fbab83100e4e47bf8
+  last_post_language: ""
+  last_post_guid: 041163696a0c0e04a72bc12f1e4ffc78
   score_criteria:
     cats: 0
     description: 3
+    feedlangs: 0
     postcats: 0
+    posts: 3
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 15
+  score: 18
   ispodcast: false
   isnoarchive: false
+  innetwork: true
+  language: ""
 ---

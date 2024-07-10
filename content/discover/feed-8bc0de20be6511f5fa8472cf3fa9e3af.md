@@ -16,25 +16,29 @@ params:
   - http://scripting.com/rssNightly.xml
   categories: []
   relme: {}
-  last_post_title: 'Unjust Termination and the Preservation of Black Families: A Conversation
-    with Angela Burton'
-  last_post_description: 'Unjustly terminated for doing what she was hired to do:
-    advocate against the destruction of Black families, Burton states how all Black
-    people want is to be left alone and collectively self-determine'
-  last_post_date: "2024-03-18T16:50:14Z"
-  last_post_link: https://logicmag.io/policy/unjust-termination-and-the-preservation-of-black-families
+  last_post_title: 'View From the Nuba Mountains: An Interview with Kuna'
+  last_post_description: An interview with Kuna (a pseudonym for her protection),
+    a Nuba diaspora returnee currently displaced within Sudan due to the ongoing war
+    between the Rapid Support Forces and the Sudanese Armed
+  last_post_date: "2024-07-08T17:25:27Z"
+  last_post_link: https://logicmag.io/issue-21-medicine-and-the-body/view-from-the-nuba-mountains-an-interview-with-kuna
   last_post_categories: []
-  last_post_guid: ee8c61032f063a286ea83c152638430e
+  last_post_language: ""
+  last_post_guid: 58e4b64bba3e77c9e5267328cd0ba7d6
   score_criteria:
     cats: 0
     description: 3
+    feedlangs: 0
     postcats: 0
+    posts: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 13
+  score: 16
   ispodcast: false
   isnoarchive: false
+  innetwork: true
+  language: ""
 ---

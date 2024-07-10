@@ -15,24 +15,29 @@ params:
   - https://jeroensangers.com/podcast.xml
   categories: []
   relme: {}
-  last_post_title: It's been…
-  last_post_description: Eight years after the crime was committed, six years since
-    most evidence came to light in Michael Cohen's trial (where he plead guilty when
-    the paper trail they tried to hide was exposed and Cohen
-  last_post_date: "2024-05-31T17:10:06Z"
-  last_post_link: https://a.wholelottanothing.org/its-been/
+  last_post_title: 24 unexpected hours in NYC
+  last_post_description: I'm almost done with research work on my upcoming guidebook
+    as my wife and I review the final 14th stadium up in Seattle on Sunday. This past
+    weekend we visited the fields furthest from Oregon,
+  last_post_date: "2024-07-03T03:59:59Z"
+  last_post_link: https://a.wholelottanothing.org/24-unexpected-hours-in-nyc/
   last_post_categories: []
-  last_post_guid: 716be2bf237a7b9cbdabafdacae7c9b2
+  last_post_language: ""
+  last_post_guid: 2335306ddb455937eac41a9e47021652
   score_criteria:
     cats: 0
     description: 3
+    feedlangs: 0
     postcats: 0
+    posts: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 13
+  score: 16
   ispodcast: false
   isnoarchive: false
+  innetwork: true
+  language: ""
 ---

@@ -16,7 +16,7 @@ params:
   categories:
   - Arts
   relme:
-    https://podcasts.social/@neugierig_fm: false
+    https://neu-gierig.letscast.fm/: true
   last_post_title: Die menschliche Seite herauskehren – Sven Saro
   last_post_description: Sven Saro und ich tauschen uns öfter via Textnachricht oder
     Email aus. Nicht nur, weil unsere Interessen und die Neugier, die uns treibt sich
@@ -24,17 +24,22 @@ params:
   last_post_date: "2023-12-28T13:30:00+01:00"
   last_post_link: https://neu-gierig.fm/podcast/die-menschliche-seite-herauskehren-sven-saro
   last_post_categories: []
+  last_post_language: ""
   last_post_guid: f62e833ba00ecf20a24d53ada9cc0a43
   score_criteria:
     cats: 1
     description: 3
+    feedlangs: 1
     postcats: 0
+    posts: 3
     promoted: 0
     promotes: 0
-    relme: 1
+    relme: 2
     title: 3
     website: 2
-  score: 10
+  score: 15
   ispodcast: true
   isnoarchive: false
+  innetwork: true
+  language: de
 ---

@@ -7,44 +7,44 @@ params:
   feedtype: rss
   feedid: 0da3b6b7c6f13556fc2fcdc64dda50e2
   websites:
-    https://www.nathalielawhead.com/candybox: true
+    https://www.nathalielawhead.com/candybox/: false
   blogrolls: []
   recommended: []
   recommender:
-  - https://danq.blog/comments/feed/
-  - https://danq.blog/feed/
   - https://danq.me/comments/feed/
   - https://danq.me/feed/
   - https://danq.me/kind/article/feed/
   - https://danq.me/kind/note/feed/
-  - https://danq.uk/comments/feed/
-  - https://danq.uk/feed/
   categories:
   - Games
   - Uncategorized
-  relme:
-    https://mastodon.social/@alienmelon: false
-  last_post_title: The story of my first A MAZE (and why I wish we had an event dedicated
-    to solo-devs)
-  last_post_description: It was an incredible surprise when I got the news that BlueSuburbia
-    was nominated for A MAZE. When I started the project it was a secret dream to
-    have it in A MAZE so I could finally go as a nominee.
-  last_post_date: "2024-05-20T12:36:51Z"
-  last_post_link: https://www.nathalielawhead.com/candybox/the-story-of-my-first-a-maze-and-why-i-wish-we-had-an-event-dedicated-to-solo-devs
+  relme: {}
+  last_post_title: Thinking About The Berlin Computerspiele Museum (Computer Games
+    Museum)
+  last_post_description: As I write this on my iPhone (oh god it’s so hard to blog
+    like this, nobody’s fingers are this tiny o_O;), I have an 8 hour layover. I got
+    plenty of time to think… Moments like this make me
+  last_post_date: "2024-06-08T13:04:34Z"
+  last_post_link: https://www.nathalielawhead.com/candybox/thinking-about-the-berlin-computerspiele-museum-computer-games-museum
   last_post_categories:
   - Games
   - Uncategorized
-  last_post_guid: 8a035833ef83371fc9af08c22fcdeec4
+  last_post_language: ""
+  last_post_guid: f0ac5aca8bea492b7b0887a13726953a
   score_criteria:
     cats: 0
     description: 3
+    feedlangs: 1
     postcats: 2
+    posts: 3
     promoted: 5
     promotes: 0
-    relme: 1
+    relme: 0
     title: 3
-    website: 2
-  score: 16
+    website: 1
+  score: 18
   ispodcast: false
   isnoarchive: false
+  innetwork: true
+  language: en
 ---

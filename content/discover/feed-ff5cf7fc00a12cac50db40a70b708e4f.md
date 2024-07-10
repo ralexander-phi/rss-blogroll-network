@@ -13,6 +13,7 @@ params:
   recommender: []
   categories: []
   relme:
+    https://realselfenergy.blogspot.com/: true
     https://www.blogger.com/profile/16879286809989462699: true
   last_post_title: Rencontres de Physique des Particules 2024
   last_post_description: |-
@@ -23,17 +24,22 @@ params:
   last_post_date: "2024-02-05T11:37:00Z"
   last_post_link: https://realselfenergy.blogspot.com/2024/02/rencontre-physique-des-particules-2024.html
   last_post_categories: []
+  last_post_language: ""
   last_post_guid: 3f2a062791e16fb7ddc6ad0add61f8ad
   score_criteria:
     cats: 0
     description: 0
+    feedlangs: 0
     postcats: 0
+    posts: 3
     promoted: 0
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 7
+  score: 10
   ispodcast: false
   isnoarchive: false
+  innetwork: true
+  language: ""
 ---

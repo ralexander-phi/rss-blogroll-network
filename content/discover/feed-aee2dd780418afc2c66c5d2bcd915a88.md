@@ -11,35 +11,34 @@ params:
     https://jamesvandyne.com/runs/: false
   blogrolls: []
   recommended: []
-  recommender:
-  - https://jlelse.blog/.min.rss
-  - https://jlelse.blog/.rss
-  - https://jlelse.blog/index.xml
+  recommender: []
   categories: []
   relme:
     https://github.com/jamesvandyne/: true
-    https://micro.blog/jamesvandyne: false
-    https://www.flickr.com/photos/90515377@N00/: false
-    https://www.linkedin.com/in/james-van-dyne-2002882/: false
-    https://www.strava.com/athletes/81031219: false
-  last_post_title: 'The Week #205'
-  last_post_description: "\U0001F1FA\U0001F1F8 Guilty on all 34 charges. Unanimously.
-    We'll see what sentencing actually brings, but justice seems to be working. Curious
-    how the 3 other trials go. Completely unrelated, can felons vote in"
-  last_post_date: "2024-06-03T21:26:33Z"
-  last_post_link: https://jamesvandyne.com/25ee5fe9-4c8a-4245-9639-1c9a3489c2ec
+    https://jamesvandyne.com/: true
+  last_post_title: 'The Week #210'
+  last_post_description: "\U0001F363 There was a time when all sushi didn't rotate
+    and rotating sushi was different. But times change and now most sushi in Japan
+    is of the rotating variety and sushi that doesn't rotate is different"
+  last_post_date: "2024-07-08T21:21:55Z"
+  last_post_link: https://jamesvandyne.com/ecfbbbd4-18f8-48f4-b50d-e5746992759c
   last_post_categories: []
-  last_post_guid: ee2bd184aa40602b7fe76dbdf7a5598a
+  last_post_language: ""
+  last_post_guid: f8d2e88cafc738864de4fea85a89bc88
   score_criteria:
     cats: 0
     description: 0
+    feedlangs: 1
     postcats: 0
-    promoted: 5
+    posts: 3
+    promoted: 0
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 12
+  score: 11
   ispodcast: false
   isnoarchive: false
+  innetwork: true
+  language: en
 ---

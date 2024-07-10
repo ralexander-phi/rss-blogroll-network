@@ -12,7 +12,8 @@ params:
   recommended: []
   recommender: []
   categories: []
-  relme: {}
+  relme:
+    https://speakerdeck.com/reinvented: true
   last_post_title: The Government That Swallowed a Pond (Using Open Data and GIS to
     Inform Policy and Influence Behaviour)
   last_post_description: A talked delivered to the Engineers PEI Annual Meeting on
@@ -21,17 +22,22 @@ params:
   last_post_date: "2019-11-29T00:00:00-05:00"
   last_post_link: https://speakerdeck.com/reinvented/the-government-that-swallowed-a-pond-using-open-data-and-gis-to-inform-policy-and-influence-behaviour
   last_post_categories: []
+  last_post_language: ""
   last_post_guid: 727aff542399a08ac4b8c0af1ec2c247
   score_criteria:
     cats: 0
     description: 3
+    feedlangs: 0
     postcats: 0
+    posts: 3
     promoted: 0
     promotes: 0
-    relme: 0
+    relme: 2
     title: 3
     website: 2
-  score: 8
+  score: 13
   ispodcast: false
   isnoarchive: false
+  innetwork: true
+  language: ""
 ---

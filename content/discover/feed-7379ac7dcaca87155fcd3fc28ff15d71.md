@@ -16,12 +16,6 @@ params:
   - Society & Culture
   relme:
     https://github.com/jthingelstad: true
-    https://mastodon.social/@jamiethingelstad: true
-    https://micro.blog/jthingelstad: false
-    https://t.me/jthingelstad: false
-    https://twitter.com/thingles: false
-    https://weekly.thingelstad.com/: false
-    https://www.linkedin.com/in/jthingelstad/: false
     https://www.thingelstad.com/: true
   last_post_title: First Coffee in 54 Days
   last_post_description: This morning I had my first cup of coffee since April 1st
@@ -30,17 +24,22 @@ params:
   last_post_date: "2024-05-25T15:41:43-05:00"
   last_post_link: https://www.thingelstad.com/2024/05/25/first-coffee-in.html
   last_post_categories: []
+  last_post_language: ""
   last_post_guid: 5d46ca0f1adc84b181b0d54408ee78fa
   score_criteria:
     cats: 1
     description: 3
+    feedlangs: 1
     postcats: 0
+    posts: 3
     promoted: 0
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 11
+  score: 15
   ispodcast: true
   isnoarchive: false
+  innetwork: true
+  language: en
 ---

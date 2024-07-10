@@ -12,51 +12,61 @@ params:
   recommended: []
   recommender: []
   categories:
-  - "Forest Bed \U0001F3B8"
+  - "Blogging \U0001F468‍\U0001F4BB"
   - "Weeknotes \U0001F5D3️"
+  - agitator pod
+  - anna bingham
   - attention
-  - crypto
-  - Forest Bed
-  - lisbon
-  - phones
-  - sam kriss
-  - tobias revell
-  - website
-  - work
+  - blogging
+  - bots
+  - cade diehm
+  - deepfates
+  - hollywood
+  - ideas
+  - isles of blogging
+  - paul czege
+  - warren ellis
+  - writing
   relme:
-    https://bsky.app/profile/@thejaymo.net: false
-    https://mastodon.social/: false
-    https://twitter.com/thejaymo: false
-    https://www.flickr.com/people/thejaymo: false
-  last_post_title: Other Things First
-  last_post_description: |-
-    It's been a super busy week for me. Mostly taken up with working on my talk @ Human Entities in Lisbon on Wednesday.
-    The post Other Things First appeared first on thejaymo.
-  last_post_date: "2024-06-02T20:09:53Z"
-  last_post_link: https://www.thejaymo.net/2024/06/02/342-other-things-first-weeknotes/
+    https://www.thejaymo.net/: true
+  last_post_title: Somewhere Inside The Network
+  last_post_description: "The idea is fully expressed somewhere inside the network
+    of links and discussions between people. Not anywhere in particular. \nThe post
+    Somewhere Inside The Network appeared first on thejaymo."
+  last_post_date: "2024-07-07T19:04:38Z"
+  last_post_link: https://www.thejaymo.net/2024/07/07/246-somewhere-inside-the-network/
   last_post_categories:
-  - "Forest Bed \U0001F3B8"
+  - "Blogging \U0001F468‍\U0001F4BB"
   - "Weeknotes \U0001F5D3️"
+  - agitator pod
+  - anna bingham
   - attention
-  - crypto
-  - Forest Bed
-  - lisbon
-  - phones
-  - sam kriss
-  - tobias revell
-  - website
-  - work
-  last_post_guid: f14f4a4f8d38b64fa125bef11f6783e4
+  - blogging
+  - bots
+  - cade diehm
+  - deepfates
+  - hollywood
+  - ideas
+  - isles of blogging
+  - paul czege
+  - warren ellis
+  - writing
+  last_post_language: ""
+  last_post_guid: f4d818f15557f6fdae0c5aa3aef97695
   score_criteria:
     cats: 0
     description: 3
+    feedlangs: 1
     postcats: 3
+    posts: 3
     promoted: 0
     promotes: 0
-    relme: 1
+    relme: 2
     title: 3
     website: 2
-  score: 12
+  score: 17
   ispodcast: false
   isnoarchive: false
+  innetwork: true
+  language: en
 ---

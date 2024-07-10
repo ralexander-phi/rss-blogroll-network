@@ -1,54 +1,58 @@
 package main
 
 import (
+	"errors"
 	"fmt"
 	"slices"
 	"strings"
 
-	"github.com/jmoiron/sqlx"
-	_ "github.com/mattn/go-sqlite3"
+	"github.com/looplab/tarjan"
+	"gorm.io/driver/sqlite"
+	"gorm.io/gorm"
 )
 
 type Analysis struct {
-	db *sqlx.DB
+	db               *gorm.DB
+	relMeClusters    map[string]int
+	relMeClustersRev map[int][]string
 }
 
 func NewAnalysis() *Analysis {
 	var err error
 	a := Analysis{}
-	a.db, err = sqlx.Open("sqlite3", "feed2pages.db")
-	ohno(err)
-	err = a.db.Ping()
+	a.db, err = gorm.Open(sqlite.Open("feed2pages.db"), &gorm.Config{
+		PrepareStmt: true,
+	})
 	ohno(err)
 	return &a
 }
 
-func (a *Analysis) Close() {
-	a.db.Close()
-}
-
 func (a *Analysis) PopulateCategoriesForFeed(feed *FeedInfo) {
-	rows, err := a.db.Query(`
-    SELECT category
-      FROM feeds_by_categories
-     WHERE link = ?
-    `,
-		feed.Params.FeedLink,
-	)
-	ohno(err)
+	var cats []string
+	a.db.
+		Model(&FeedsByCategory{}).
+		Where("link = ?", feed.Params.FeedLink).
+		Pluck("category", &cats)
 
-	for rows.Next() {
-		var cat string
-		err = rows.Scan(&cat)
-		ohno(err)
-		if !slices.Contains(feed.Params.Categories, cat) && len(cat) > 1 {
-			feed.Params.Categories = append(feed.Params.Categories, cat)
-		}
-	}
+	slices.Sort(cats)
+	cats = slices.Compact(cats)
+	feed.Params.Categories = append(feed.Params.Categories, cats...)
 
 	if len(feed.Params.Categories) == 0 {
 		a.PopulateCategoriesForFeedByHashtag(feed)
 	}
+}
+
+func (a *Analysis) PopulateLanguageForFeed(feed *FeedInfo) {
+	var language FeedsByLanguage
+	result := a.db.
+		Where("link = ?", feed.Params.FeedLink).
+		First(&language)
+	if errors.Is(result.Error, gorm.ErrRecordNotFound) {
+		return
+	}
+	ohno(result.Error)
+	feed.Params.Language = language.Language
 }
 
 func (a *Analysis) PopulateCategoriesForPost(feed *FeedInfo) {
@@ -56,27 +60,37 @@ func (a *Analysis) PopulateCategoriesForPost(feed *FeedInfo) {
 	if post_link == "" {
 		return
 	}
-	rows, err := a.db.Query(`
-    SELECT category
-      FROM posts_by_categories
-     WHERE link = ?
-    `,
-		post_link,
-	)
-	ohno(err)
 
-	for rows.Next() {
-		var cat string
-		err = rows.Scan(&cat)
-		ohno(err)
-		if !slices.Contains(feed.Params.LastPostCategories, cat) && len(cat) > 1 {
-			feed.Params.LastPostCategories = append(feed.Params.LastPostCategories, cat)
-		}
-	}
+	var cats []string
+	a.db.
+		Model(&PostsByCategory{}).
+		Where("link = ?", post_link).
+		Pluck("category", &cats)
+
+	slices.Sort(cats)
+	cats = slices.Compact(cats)
+	feed.Params.LastPostCategories = append(feed.Params.LastPostCategories, cats...)
 
 	if len(feed.Params.LastPostCategories) == 0 {
 		a.PopulateCategoriesForPostByHashtag(feed)
 	}
+}
+
+func (a *Analysis) PopulateLanguageForPost(feed *FeedInfo) {
+	post_link := feed.Params.LastPostLink
+	if post_link == "" {
+		return
+	}
+
+	var language PostsByLanguage
+	result := a.db.
+		Where("link = ?", post_link).
+		First(&language)
+	if errors.Is(result.Error, gorm.ErrRecordNotFound) {
+		return
+	}
+	ohno(result.Error)
+	feed.Params.LastPostLanguage = language.Language
 }
 
 func isHashtag(s string) bool {
@@ -108,31 +122,21 @@ func (a *Analysis) PopulateCategoriesForPostByHashtag(feed *FeedInfo) {
 }
 
 func (a *Analysis) PopulateLastPostForFeed(feed *FeedInfo) {
-	rows, err := a.db.Query(`
-       SELECT date, description, title, post_link, guid
-         FROM posts
-        WHERE feed_id = ?
-     ORDER BY date DESC
-        LIMIT 1
-    `,
-		feed.Params.FeedID,
-	)
-	ohno(err)
-
-	var date string
-	var description string
-	var title string
-	var link string
-	var guid string
-	for rows.Next() {
-		err = rows.Scan(&date, &description, &title, &link, &guid)
-		ohno(err)
+	row := Post{}
+	result := a.db.
+		Where("feed_id = ?", feed.Params.FeedID).
+		Order("date desc").
+		First(&row)
+	if errors.Is(result.Error, gorm.ErrRecordNotFound) {
+		return
 	}
-	feed.Params.LastPostTitle = title
-	feed.Params.LastPostDesc = description
-	feed.Params.LastPostDate = date
-	feed.Params.LastPostLink = link
-	feed.Params.LastPostGuid = guid
+	ohno(result.Error)
+
+	feed.Params.LastPostTitle = row.Title
+	feed.Params.LastPostDesc = row.Description
+	feed.Params.LastPostDate = row.Date
+	feed.Params.LastPostLink = row.PostLink
+	feed.Params.LastPostGuid = row.Guid
 
 	a.PopulateCategoriesForPost(feed)
 }
@@ -148,24 +152,18 @@ func (a *Analysis) PopulateBlogrollsForFeed(feed *FeedInfo) {
 		}
 	}
 
-	query, args, err := sqlx.In(`
-    SELECT destination_url
-      FROM links
-     WHERE destination_type = 3
-       AND source_url IN(?);
-    `,
-		source_urls,
-	)
-	ohno(err)
-
-	query = a.db.Rebind(query)
-	rows, err := a.db.Query(query, args...)
+	rows, err := a.db.
+		Model(&Link{}).
+		Select("destination_url").
+		Where("destination_type = 3").
+		Where("source_url IN(?)", source_urls).
+		Rows()
 	ohno(err)
 
 	for rows.Next() {
-		var link string
-		err = rows.Scan(&link)
-		ohno(err)
+		var row Link
+		a.db.ScanRows(rows, &row)
+		link := row.DestinationUrl
 		if !slices.Contains(feed.Params.Blogrolls, link) {
 			feed.Params.Blogrolls = append(feed.Params.Blogrolls, link)
 		}
@@ -174,25 +172,22 @@ func (a *Analysis) PopulateBlogrollsForFeed(feed *FeedInfo) {
 
 // Website <==> Feed
 func (a *Analysis) PopulateWebsitesForFeedURL(feed *FeedInfo) {
-	// Find websites that point to this feed
-	rows, err := a.db.Query(`
-    SELECT source_url
-      FROM links
-     WHERE destination_url = ?
-       AND destination_type = ?
-       AND source_type = ?
-    `,
-		feed.Params.FeedLink,
-		NODE_TYPE_FEED,
-		NODE_TYPE_WEBSITE,
-	)
+	rows, err := a.db.
+		Model(&Link{}).
+		Select("source_url").
+		Where(Link{
+			DestinationUrl:  feed.Params.FeedLink,
+			DestinationType: NODE_TYPE_FEED,
+			SourceType:      NODE_TYPE_WEBSITE,
+		}).
+		Rows()
 	ohno(err)
 
 	websites := []string{}
 	for rows.Next() {
-		var link string
-		err = rows.Scan(&link)
-		ohno(err)
+		var row Link
+		a.db.ScanRows(rows, &row)
+		link := row.SourceUrl
 		if !slices.Contains(websites, link) {
 			websites = append(websites, link)
 			feed.Params.Websites[link] = false
@@ -206,106 +201,36 @@ func (a *Analysis) PopulateWebsitesForFeedURL(feed *FeedInfo) {
 	// Now check that each feed points to the website
 	// we want bidirectional links here to prevent
 	// non-official pages from getting linked
-	query, args, err := sqlx.In(`
-    SELECT destination_url
-      FROM links
-     WHERE source_url = ?
-       AND source_type = ?
-       AND destination_url IN(?)
-       AND destination_type = ?
-    `,
-		feed.Params.FeedLink,
-		NODE_TYPE_FEED,
-		websites,
-		NODE_TYPE_WEBSITE,
-	)
-	ohno(err)
-
-	query = a.db.Rebind(query)
-	rows, err = a.db.Query(
-		query,
-		args...,
-	)
+	rows, err = a.db.
+		Model(&Link{}).
+		Select("destination_url").
+		Where(Link{
+			SourceUrl:       feed.Params.FeedLink,
+			SourceType:      NODE_TYPE_FEED,
+			DestinationType: NODE_TYPE_WEBSITE,
+		}).
+		Where("destination_url IN(?)", websites).
+		Rows()
 	ohno(err)
 
 	for rows.Next() {
-		var link string
-		err = rows.Scan(&link)
-		ohno(err)
+		var row Link
+		a.db.ScanRows(rows, &row)
+		link := row.DestinationUrl
 		feed.Params.Websites[link] = true
 	}
 }
 
 func (a *Analysis) PopulateRelMeForWebsites(feed *FeedInfo) {
-	// Only consider rel=me links from validated pages
-	validatedWebsites := []string{}
 	for url, validated := range feed.Params.Websites {
 		if validated {
-			validatedWebsites = append(validatedWebsites, url)
+			clusterId, has := a.relMeClusters[url]
+			if has {
+				for _, link := range a.relMeClustersRev[clusterId] {
+					feed.Params.RelMe[link] = true
+				}
+			}
 		}
-	}
-	if len(validatedWebsites) < 1 {
-		return
-	}
-
-	query, args, err := sqlx.In(`
-    SELECT destination_url
-      FROM links
-     WHERE source_url IN(?)
-       AND link_type = ?
-    `,
-		validatedWebsites,
-		"rel_me",
-	)
-	ohno(err)
-
-	query = a.db.Rebind(query)
-	rows, err := a.db.Query(
-		query,
-		args...,
-	)
-	ohno(err)
-
-	pendingRelMe := []string{}
-	for rows.Next() {
-		var link string
-		err = rows.Scan(&link)
-		ohno(err)
-		pendingRelMe = append(pendingRelMe, link)
-		feed.Params.RelMe[link] = false
-	}
-
-	if len(pendingRelMe) < 1 {
-		return
-	}
-
-	// Look for backlinks
-	query, args, err = sqlx.In(`
-    SELECT source_url
-      FROM links
-     WHERE source_url IN(?)
-       AND destination_url IN(?)
-       AND link_type = ?
-    `,
-		pendingRelMe,
-		validatedWebsites,
-		"rel_me",
-	)
-	ohno(err)
-
-	query = a.db.Rebind(query)
-	rows, err = a.db.Query(
-		query,
-		args...,
-	)
-	ohno(err)
-
-	for rows.Next() {
-		var link string
-		err = rows.Scan(&link)
-		ohno(err)
-		// Validated!
-		feed.Params.RelMe[link] = true
 	}
 }
 
@@ -314,28 +239,19 @@ func (a *Analysis) CollectWebsiteRecommendations(feed *FeedInfo) []string {
 		return []string{}
 	}
 
-	query, args, err := sqlx.In(`
-    SELECT destination_url, destination_type
-      FROM links
-     WHERE source_url IN(?);
-    `,
-		feed.Params.Blogrolls,
-	)
-	ohno(err)
-
-	query = a.db.Rebind(query)
-	rows, err := a.db.Query(
-		query,
-		args...,
-	)
+	rows, err := a.db.
+		Model(&Link{}).
+		Select("destination_url", "destination_type").
+		Where("source_url IN(?)", feed.Params.Blogrolls).
+		Rows()
 	ohno(err)
 
 	websites := []string{}
 	for rows.Next() {
-		var link string
-		var linkType int64
-		err = rows.Scan(&link, &linkType)
-		ohno(err)
+		var row Link
+		a.db.ScanRows(rows, &row)
+		link := row.DestinationUrl
+		linkType := row.DestinationType
 		if linkType == NODE_TYPE_FEED {
 			if !slices.Contains(feed.Params.Recommended, link) {
 				feed.Params.Recommended = append(feed.Params.Recommended, link)
@@ -354,30 +270,19 @@ func (a *Analysis) PopulateRecommendationsFromWebsites(feed *FeedInfo, websites 
 		return
 	}
 
-	query, args, err := sqlx.In(`
-    SELECT destination_url
-      FROM links
-     WHERE destination_type = ?
-       AND source_url IN(?);
-    `,
-		NODE_TYPE_FEED,
-		websites,
-	)
-	ohno(err)
-
-	query = a.db.Rebind(query)
-	rows, err := a.db.Query(
-		query,
-		args...,
-	)
+	rows, err := a.db.
+		Model(&Link{}).
+		Select("destination_url").
+		Where("destination_type = ?", NODE_TYPE_FEED).
+		Where("source_url IN(?)", websites).
+		Rows()
 	ohno(err)
 
 	fmt.Printf("\tDBG:Websites: %v\n", websites)
 	for rows.Next() {
-		var link string
-		err = rows.Scan(&link)
-		ohno(err)
-
+		var row Link
+		a.db.ScanRows(rows, &row)
+		link := row.DestinationUrl
 		fmt.Printf("\tDBG: Feed From Websites: %s\n", link)
 
 		if !slices.Contains(feed.Params.Recommended, link) {
@@ -387,30 +292,21 @@ func (a *Analysis) PopulateRecommendationsFromWebsites(feed *FeedInfo, websites 
 }
 
 func (a *Analysis) FindBlogrollsSuggestingFeed(feed *FeedInfo) []string {
-	query, args, err := sqlx.In(`
-    SELECT source_url
-      FROM links
-     WHERE destination_url = ?
-       AND source_type = ?;
-    `,
-		feed.Params.FeedLink,
-		NODE_TYPE_BLOGROLL,
-	)
-	ohno(err)
-
-	query = a.db.Rebind(query)
-	rows, err := a.db.Query(
-		query,
-		args...,
-	)
+	rows, err := a.db.
+		Model(&Link{}).
+		Select("source_url").
+		Where(Link{
+			DestinationUrl: feed.Params.FeedLink,
+			SourceType:     NODE_TYPE_BLOGROLL,
+		}).
+		Rows()
 	ohno(err)
 
 	blogrolls := []string{}
 	for rows.Next() {
-		var link string
-		err = rows.Scan(&link)
-		ohno(err)
-
+		var row Link
+		a.db.ScanRows(rows, &row)
+		link := row.SourceUrl
 		if !slices.Contains(blogrolls, link) {
 			blogrolls = append(blogrolls, link)
 		}
@@ -423,30 +319,19 @@ func (a *Analysis) FindWebsitesRecommendingBlogrolls(blogrolls []string) []strin
 		return []string{}
 	}
 
-	query, args, err := sqlx.In(`
-    SELECT source_url
-      FROM links
-     WHERE destination_url IN(?)
-       AND source_type = ?;
-    `,
-		blogrolls,
-		NODE_TYPE_WEBSITE,
-	)
-	ohno(err)
-
-	query = a.db.Rebind(query)
-	rows, err := a.db.Query(
-		query,
-		args...,
-	)
+	rows, err := a.db.
+		Model(&Link{}).
+		Select("source_url").
+		Where("source_type = ?", NODE_TYPE_WEBSITE).
+		Where("destination_url IN(?)", blogrolls).
+		Rows()
 	ohno(err)
 
 	websites := []string{}
 	for rows.Next() {
-		var link string
-		err = rows.Scan(&link)
-		ohno(err)
-
+		var row Link
+		a.db.ScanRows(rows, &row)
+		link := row.SourceUrl
 		if !slices.Contains(websites, link) {
 			websites = append(websites, link)
 		}
@@ -455,12 +340,17 @@ func (a *Analysis) FindWebsitesRecommendingBlogrolls(blogrolls []string) []strin
 }
 
 func (a *Analysis) PopulateScore(feed *FeedInfo) {
+	isSocial := false
+
 	// Does this site recommend others?
 	// More recommendations are better
 	// until you reach 20
 	// Half a point each, up to 10 points
 	promotesScore := min(len(feed.Params.Recommended), 20) / 2
 	feed.Params.ScoreCriteria["promotes"] = promotesScore
+	if promotesScore > 0 {
+		isSocial = true
+	}
 
 	// Do others recommend this feed?
 	// 5 points if any
@@ -469,6 +359,9 @@ func (a *Analysis) PopulateScore(feed *FeedInfo) {
 		promotedScore = 5
 	}
 	feed.Params.ScoreCriteria["promoted"] = promotedScore
+	if promotedScore > 0 {
+		isSocial = true
+	}
 
 	// Does this feed have a website?
 	// +1 point
@@ -492,6 +385,7 @@ func (a *Analysis) PopulateScore(feed *FeedInfo) {
 	for _, verified := range feed.Params.RelMe {
 		if verified {
 			relMeScore = 2
+			isSocial = true // TODO: keep this?
 		} else {
 			relMeScore = max(relMeScore, 1)
 		}
@@ -507,6 +401,10 @@ func (a *Analysis) PopulateScore(feed *FeedInfo) {
 	// One point each, up to three
 	postCatScore := min(len(feed.Params.LastPostCategories), 3)
 	feed.Params.ScoreCriteria["postcats"] = postCatScore
+
+	// Does the feed specify a language?
+	feedLangScore := min(len(feed.Params.Language), 1)
+	feed.Params.ScoreCriteria["feedlangs"] = feedLangScore
 
 	// Does the feed have a title?
 	// 3 points
@@ -529,6 +427,9 @@ func (a *Analysis) PopulateScore(feed *FeedInfo) {
 	for _, score := range feed.Params.ScoreCriteria {
 		feed.Params.Score += score
 	}
+
+	// Track if the feed is part of the network
+	feed.Params.InNetwork = isSocial
 }
 
 func (a *Analysis) PopulateRecommenders(feed *FeedInfo, blogrolls []string, websites []string) {
@@ -538,29 +439,18 @@ func (a *Analysis) PopulateRecommenders(feed *FeedInfo, blogrolls []string, webs
 		return
 	}
 
-	query, args, err := sqlx.In(`
-    SELECT source_url
-      FROM links
-     WHERE destination_url IN(?)
-       AND source_type = ?;
-    `,
-		targetUrls,
-		NODE_TYPE_FEED,
-	)
-	ohno(err)
-
-	query = a.db.Rebind(query)
-	rows, err := a.db.Query(
-		query,
-		args...,
-	)
+	rows, err := a.db.
+		Model(&Link{}).
+		Select("source_url").
+		Where("source_type = ?", NODE_TYPE_FEED).
+		Where("destination_url IN(?)", targetUrls).
+		Rows()
 	ohno(err)
 
 	for rows.Next() {
-		var link string
-		err = rows.Scan(&link)
-		ohno(err)
-
+		var row Link
+		a.db.ScanRows(rows, &row)
+		link := row.SourceUrl
 		if !slices.Contains(feed.Params.Recommender, link) {
 			feed.Params.Recommender = append(feed.Params.Recommender, link)
 		}
@@ -572,6 +462,11 @@ func (a *Analysis) FixUp(feed *FeedInfo) {
 	// use the post categories as the feed categories
 	if len(feed.Params.Categories) == 0 {
 		feed.Params.Categories = feed.Params.LastPostCategories
+	}
+
+	// Assume the feed generally uses the language of the most recent post
+	if len(feed.Params.Language) == 0 {
+		feed.Params.Language = feed.Params.LastPostLanguage
 	}
 
 	// Something in hugo breaks if there's a trailing slash
@@ -587,25 +482,60 @@ func (a *Analysis) FixUp(feed *FeedInfo) {
 	}
 }
 
-func (a *Analysis) Analyze() {
-	feedRows, err := a.db.Query(`
-    SELECT description, date, title, feed_link, feed_id, feed_type, is_podcast, is_noarchive
-      FROM feeds;`,
-	)
+func (a *Analysis) BuildRelMeClusters() (map[string]int, map[int][]string) {
+	links := make(map[interface{}][]interface{})
+	rows, err := a.db.
+		Model(&Link{}).
+		Select("source_url", "destination_url").
+		Where("link_type = ?", "rel_me").
+		Rows()
 	ohno(err)
-	for feedRows.Next() {
-		var row ScanFeedInfo
-		err = feedRows.Scan(
-			&row.Description,
-			&row.Date,
-			&row.Title,
-			&row.FeedLink,
-			&row.FeedID,
-			&row.FeedType,
-			&row.IsPodcast,
-			&row.IsNoarchive,
-		)
-		ohno(err)
+
+	for rows.Next() {
+		var row Link
+		a.db.ScanRows(rows, &row)
+		source_url := row.SourceUrl
+		destination_url := row.DestinationUrl
+		if _, has := links[source_url]; !has {
+			links[source_url] = []interface{}{}
+		}
+		links[source_url] = append(links[source_url], destination_url)
+	}
+
+	// Find strongly connected components
+	// These are verified rel=me links
+	connections := tarjan.Connections(links)
+
+	// Restructure
+	out := map[string]int{}
+	outRev := map[int][]string{}
+	connId := 0
+	for _, connected := range connections {
+		group := []string{}
+		for _, vertex := range connected {
+			out[vertex.(string)] = connId
+			group = append(group, vertex.(string))
+		}
+		outRev[connId] = group
+		connId += 1
+	}
+
+	return out, outRev
+}
+
+func (a *Analysis) Analyze() {
+	// Tarjan to consolidate all verified rel=me profiles
+	a.relMeClusters, a.relMeClustersRev = a.BuildRelMeClusters()
+	// clusters - { A=>1, B=>1, C=>2, D=2, E=>3, F=4 }
+	// reverse  - { 1=>[A,B], 2=>[C,D], 3=>[E], 4=>[F] }
+
+	rows, err := a.db.
+		Model(&Feed{}).
+		Rows()
+	ohno(err)
+	for rows.Next() {
+		var row Feed
+		a.db.ScanRows(rows, &row)
 		feed := NewFeedInfo(row)
 		fmt.Printf("\n\nProcessing Feed: %s\n", feed.Title)
 		a.PopulateWebsitesForFeedURL(feed)
@@ -623,13 +553,18 @@ func (a *Analysis) Analyze() {
 		fmt.Printf("\tIn Feeds: %v\n", feed.Params.Recommender)
 		a.PopulateRelMeForWebsites(feed)
 		a.PopulateCategoriesForFeed(feed)
+		a.PopulateLanguageForFeed(feed)
 		a.PopulateLastPostForFeed(feed)
+
 		a.PopulateScore(feed)
 
 		// Apply some hacks to improve content
 		// but do this after the score is calculated
 		a.FixUp(feed)
 
-		feed.Save()
+		// Ignore feeds outside the network or without content
+		if feed.Params.InNetwork && len(feed.Params.LastPostLink) > 0 {
+			feed.Save()
+		}
 	}
 }

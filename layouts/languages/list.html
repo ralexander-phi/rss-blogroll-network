@@ -1,0 +1,331 @@
+{{ define "extratitle" }}
+<nav class="breadcrumb" aria-label="breadcrumbs">
+  <ul>
+    <li><a href="/">Home</a></li>
+    <li class="is-active"><a href="#" aria-current="page">Languages</a></li>
+  </ul>
+</nav>
+{{ end }}
+
+{{ define "main" }}
+
+<h1 class="subtitle is-3">Languages</h1>
+
+<div id="listing"></div>
+
+<noscript>
+  <p class="is-3">
+  Sorry, this page is using JavaScript.
+  Maybe try view source?
+  The data is packed there.
+  </p>
+</noscript>
+
+<script>
+
+const langMap = {
+  "af":["Afrikaans","Afrikaans"],
+  "agq":["Aghem","Aghem"],
+  "ak":["Akan","Akan"],
+  "am":["Amharic","አማርኛ"],
+  "ar":["Arabic","العربية"],
+  "as":["Assamese","অসমীয়া"],
+  "asa":["Asu","Kipare"],
+  "ast":["Asturian","asturianu"],
+  "az":["Azerbaijani","azərbaycan"],
+  "bas":["Basaa","Ɓàsàa"],
+  "be":["Belarusian","беларуская"],
+  "bem":["Bemba","Ichibemba"],
+  "bez":["Bena","Hibena"],
+  "bg":["Bulgarian","български"],
+  "bgc":["Haryanvi","हरियाणवी"],
+  "bho":["Bhojpuri","भोजपुरी"],
+  "bm":["Bambara","bamanakan"],
+  "bn":["Bangla","বাংলা"],
+  "bo":["Tibetan","བོད་སྐད་"],
+  "br":["Breton","brezhoneg"],
+  "brx":["Bodo","बर’"],
+  "bs":["Bosnian","bosanski"],
+  "ca":["Catalan","català"],
+  "ccp":["Chakma","𑄌𑄋𑄴𑄟𑄳𑄦"],
+  "ce":["Chechen","нохчийн"],
+  "ceb":["Cebuano","Cebuano"],
+  "cgg":["Chiga","Rukiga"],
+  "chr":["Cherokee","ᏣᎳᎩ"],
+  "ckb":["CentralKurdish","کوردییناوەندی"],
+  "cs":["Czech","čeština"],
+  "cv":["Chuvash","чӑваш"],
+  "cy":["Welsh","Cymraeg"],
+  "da":["Danish","dansk"],
+  "dav":["Taita","Kitaita"],
+  "de":["German","Deutsch"],
+  "dje":["Zarma","Zarmaciine"],
+  "doi":["Dogri","डोगरी"],
+  "dsb":["LowerSorbian","dolnoserbšćina"],
+  "dua":["Duala","duálá"],
+  "dz":["Dzongkha","རྫོང་ཁ"],
+  "ebu":["Embu","Kĩembu"],
+  "ee":["Ewe","Eʋegbe"],
+  "el":["Greek","Ελληνικά"],
+  "en":["English","English"],
+  "eo":["Esperanto","Esperanto"],
+  "es":["Spanish","Español"],
+  "et":["Estonian","eesti"],
+  "eu":["Basque","euskara"],
+  "ewo":["Ewondo","ewondo"],
+  "fa":["Persian","فارسی"],
+  "ff":["Fula","Pulaar"],
+  "fi":["Finnish","suomi"],
+  "fil":["Filipino","Filipino"],
+  "fo":["Faroese","føroyskt"],
+  "fr":["French","Français"],
+  "fur":["Friulian","furlan"],
+  "fy":["WesternFrisian","Frysk"],
+  "ga":["Irish","Gaeilge"],
+  "gd":["ScottishGaelic","Gàidhlig"],
+  "gl":["Galician","galego"],
+  "gsw":["SwissGerman","Schwiizertüütsch"],
+  "gu":["Gujarati","ગુજરાતી"],
+  "guz":["Gusii","Ekegusii"],
+  "gv":["Manx","Gaelg"],
+  "ha":["Hausa","Hausa"],
+  "haw":["Hawaiian","ʻŌleloHawaiʻi"],
+  "he":["Hebrew","עברית"],
+  "hi":["Hindi","हिन्दी"],
+  "hr":["Croatian","hrvatski"],
+  "hsb":["UpperSorbian","hornjoserbšćina"],
+  "hu":["Hungarian","magyar"],
+  "hy":["Armenian","հայերեն"],
+  "ia":["Interlingua","interlingua"],
+  "id":["Indonesian","Indonesia"],
+  "ig":["Igbo","Igbo"],
+  "ii":["SichuanYi","ꆈꌠꉙ"],
+  "is":["Icelandic","íslenska"],
+  "it":["Italian","Italiano"],
+  "ja":["Japanese","日本語"],
+  "jgo":["Ngomba","Ndaꞌa"],
+  "jmc":["Machame","Kimachame"],
+  "jv":["Javanese","Jawa"],
+  "ka":["Georgian","ქართული"],
+  "kab":["Kabyle","Taqbaylit"],
+  "kam":["Kamba","Kikamba"],
+  "kde":["Makonde","Chimakonde"],
+  "kea":["Kabuverdianu","kabuverdianu"],
+  "kgp":["Kaingang","kanhgág"],
+  "khq":["KoyraChiini","Koyraciini"],
+  "ki":["Kikuyu","Gikuyu"],
+  "kk":["Kazakh","қазақтілі"],
+  "kkj":["Kako","kakɔ"],
+  "kl":["Kalaallisut","kalaallisut"],
+  "kln":["Kalenjin","Kalenjin"],
+  "km":["Khmer","ខ្មែរ"],
+  "kn":["Kannada","ಕನ್ನಡ"],
+  "ko":["Korean","한국어"],
+  "kok":["Konkani","कोंकणी"],
+  "ks":["Kashmiri","کٲشُر"],
+  "ksb":["Shambala","Kishambaa"],
+  "ksf":["Bafia","rikpa"],
+  "ksh":["Colognian","Kölsch"],
+  "ku":["Kurdish","kurdî"],
+  "kw":["Cornish","kernewek"],
+  "ky":["Kyrgyz","кыргызча"],
+  "lag":["Langi","Kɨlaangi"],
+  "lb":["Luxembourgish","Lëtzebuergesch"],
+  "lg":["Ganda","Luganda"],
+  "lkt":["Lakota","Lakȟólʼiyapi"],
+  "ln":["Lingala","lingála"],
+  "lo":["Lao","ລາວ"],
+  "lrc":["NorthernLuri","لۊریشومالی"],
+  "lt":["Lithuanian","lietuvių"],
+  "luo":["Luo","Dholuo"],
+  "luy":["Luyia","Luluhia"],
+  "lv":["Latvian","latviešu"],
+  "mai":["Maithili","मैथिली"],
+  "mas":["Masai","Maa"],
+  "mer":["Meru","Kĩmĩrũ"],
+  "mfe":["Morisyen","kreolmorisien"],
+  "mg":["Malagasy","Malagasy"],
+  "mgo":["Metaʼ","metaʼ"],
+  "mi":["Māori","Māori"],
+  "mk":["Macedonian","македонски"],
+  "ml":["Malayalam","മലയാളം"],
+  "mn":["Mongolian","монгол"],
+  "mni":["Manipuri","মৈতৈলোন্"],
+  "mr":["Marathi","मराठी"],
+  "ms":["Malay","Melayu"],
+  "mt":["Maltese","Malti"],
+  "mua":["Mundang","MUNDAŊ"],
+  "my":["Burmese","မြန်မာ"],
+  "mzn":["Mazanderani","مازرونی"],
+  "naq":["Nama","Khoekhoegowab"],
+  "nb":["NorwegianBokmål","norskbokmål"],
+  "nd":["NorthNdebele","isiNdebele"],
+  "ne":["Nepali","नेपाली"],
+  "nl":["Dutch","Nederlands"],
+  "nmg":["Kwasio","Kwasio"],
+  "nn":["NorwegianNynorsk","norsknynorsk"],
+  "nnh":["Ngiemboon","Shwóŋòngiembɔɔn"],
+  "no":["Norwegian","norsk"],
+  "nus":["Nuer","ThokNath"],
+  "nyn":["Nyankole","Runyankore"],
+  "om":["Oromo","Oromoo"],
+  "or":["Odia","ଓଡ଼ିଆ"],
+  "os":["Ossetic","ирон"],
+  "pa":["Punjabi","ਪੰਜਾਬੀ"],
+  "pcm":["NigerianPidgin","NaijíriáPíjin"],
+  "pl":["Polish","polski"],
+  "ps":["Pashto","پښتو"],
+  "pt":["Portuguese","Português"],
+  "qu":["Quechua","Runasimi"],
+  "raj":["Rajasthani","राजस्थानी"],
+  "rm":["Romansh","rumantsch"],
+  "rn":["Rundi","Ikirundi"],
+  "ro":["Romanian","română"],
+  "rof":["Rombo","Kihorombo"],
+  "ru":["Russian","русский"],
+  "rw":["Kinyarwanda","Kinyarwanda"],
+  "rwk":["Rwa","Kiruwa"],
+  "sa":["Sanskrit","संस्कृतभाषा"],
+  "sah":["Yakut","сахатыла"],
+  "saq":["Samburu","Kisampur"],
+  "sat":["Santali","ᱥᱟᱱᱛᱟᱲᱤ"],
+  "sbp":["Sangu","Ishisangu"],
+  "sc":["Sardinian","sardu"],
+  "sd":["Sindhi","سنڌي"],
+  "se":["NorthernSami","davvisámegiella"],
+  "seh":["Sena","sena"],
+  "ses":["KoyraboroSenni","Koyraborosenni"],
+  "sg":["Sango","Sängö"],
+  "shi":["Tachelhit","ⵜⴰⵛⵍⵃⵉⵜ"],
+  "si":["Sinhala","සිංහල"],
+  "sk":["Slovak","slovenčina"],
+  "sl":["Slovenian","slovenščina"],
+  "smn":["InariSami","anarâškielâ"],
+  "sn":["Shona","chiShona"],
+  "so":["Somali","Soomaali"],
+  "sq":["Albanian","shqip"],
+  "sr":["Serbian","српски"],
+  "su":["Sundanese","BasaSunda"],
+  "sv":["Swedish","Svenska"],
+  "sw":["Swahili","Kiswahili"],
+  "ta":["Tamil","தமிழ்"],
+  "te":["Telugu","తెలుగు"],
+  "teo":["Teso","Kiteso"],
+  "tg":["Tajik","тоҷикӣ"],
+  "th":["Thai","ไทย"],
+  "ti":["Tigrinya","ትግርኛ"],
+  "tk":["Turkmen","türkmendili"],
+  "to":["Tongan","leafakatonga"],
+  "tr":["Turkish","Türkçe"],
+  "tt":["Tatar","татар"],
+  "twq":["Tasawaq","Tasawaqsenni"],
+  "tzm":["CentralAtlasTamazight","Tamaziɣtnlaṭlaṣ"],
+  "ug":["Uyghur","ئۇيغۇرچە"],
+  "uk":["Ukrainian","українська"],
+  "ur":["Urdu","اردو"],
+  "uz":["Uzbek","o‘zbek"],
+  "vai":["Vai","ꕙꔤ"],
+  "vi":["Vietnamese","TiếngViệt"],
+  "vun":["Vunjo","Kyivunjo"],
+  "wae":["Walser","Walser"],
+  "wo":["Wolof","Wolof"],
+  "xh":["Xhosa","IsiXhosa"],
+  "xog":["Soga","Olusoga"],
+  "yav":["Yangben","nuasue"],
+  "yi":["Yiddish","ייִדיש"],
+  "yo":["Yoruba","ÈdèYorùbá"],
+  "yrl":["Nheengatu","nheẽgatu"],
+  "yue":["Cantonese","粵語"],
+  "zgh":["StandardMoroccanTamazight","ⵜⴰⵎⴰⵣⵉⵖⵜ"],
+  "zh":["Chinese","中文"],
+  "zu":["Zulu","isiZulu"],
+  };
+
+function fmtLang(lang) {
+  if (lang in langMap) {
+    return langMap[lang][1];
+  }
+  return lang;
+}
+
+var data = [
+{{ range .Site.RegularPages -}}
+  {{- if .Params.language -}}
+    {{ $title := .Title }}
+    {{ if not $title }}
+      {{ $title = .Params.feedlink }}
+    {{ end }}
+    {
+        "t": "{{ $title }}",
+        "s": {{ .Params.score }},
+        "l": "{{ .Permalink }}",
+        "L": "{{ .Params.language }}",
+    },
+  {{- end -}}
+{{- end }}
+];
+
+  // Collect the items
+  var langs = {};
+  var listing = document.getElementById("listing");
+  for (var feed of data) {
+    if (!(feed.L in langs)) {
+      langs[feed.L] = [];
+    }
+    langs[feed.L].push({
+        "title": feed.t,
+        "score": feed.s,
+        "link": feed.l,
+    })
+  }
+
+  // Sort by feeds in lang, then lang name
+  var langs = Object.keys(langs).map(function(key) {
+    return [key, langs[key]];
+  });
+  langs.sort(function(a, b) {
+    var d = b[1].length - a[1].length;
+    if (d == 0) {
+        d = a[0] - b[0];
+    }
+    return d;
+  });
+
+  for (lang of langs) {
+    var details = document.createElement("details");
+    details.classList.add("mb-0");
+    details.classList.add("mt-4");
+    var summary = document.createElement("summary");
+    var h = document.createElement("h2");
+      h.innerText = fmtLang(lang[0]) + " (" + lang[1].length + ")";
+    h.classList.add("subtitle");
+    h.classList.add("is-5");
+    h.classList.add("is-inline");
+    h.id = lang[0];
+
+    // Highest score, then alphabetical by title
+    lang[1].sort(function(a, b) {
+        var d = b.score - a.score;
+        if (d == 0) {
+          d = a.title - b.title;
+        }
+        return d;
+    });
+
+    for (var page of lang[1]) {
+      var a = document.createElement("a");
+      a.innerText = page.title;
+      a.href = page.link;
+      details.appendChild(document.createElement("br"));
+      details.appendChild(a);
+    }
+    details.appendChild(summary);
+    var bottom = document.createElement("div");
+    bottom.classList.add("p-4");
+    details.appendChild(bottom);
+    summary.appendChild(h);
+    listing.appendChild(details);
+  }
+</script>
+
+{{ end }}

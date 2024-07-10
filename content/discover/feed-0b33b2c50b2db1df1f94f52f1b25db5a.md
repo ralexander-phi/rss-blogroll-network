@@ -8,44 +8,50 @@ params:
   feedid: 0b33b2c50b2db1df1f94f52f1b25db5a
   websites:
     https://coryd.dev/: false
+    https://coryd.dev/books/: false
     https://coryd.dev/contact: false
     https://coryd.dev/feeds: true
-    https://coryd.dev/links: false
-    https://coryd.dev/music: false
+    https://coryd.dev/links/: false
+    https://coryd.dev/music/: false
     https://coryd.dev/now: false
+    https://coryd.dev/watching/: false
     https://coryd.dev/webrings: false
   blogrolls: []
   recommended: []
   recommender: []
   categories: []
   relme:
-    https://buymeacoffee.com/cory: false
-    https://coryd.dev/contact: false
-    https://coryd.dev/webrings: false
+    https://coryd.dev/: true
+    https://coryd.dev/contact: true
+    https://coryd.dev/feeds: true
+    https://coryd.dev/now: true
+    https://coryd.dev/webrings: true
     https://github.com/cdransf: true
-    https://listenbrainz.org/user/cdransf/: false
     https://social.lol/@cory: true
-    https://www.instapaper.com/p/coryd: false
-    https://www.npmjs.com/~cdransf: false
-  last_post_title: "\U0001F517: Jack Dorsey, Bluesky, decentralised social networks
-    and the very common crowd via David Gerard #Tech #SocialMedia"
-  last_post_description: Twitter founder Jack Dorsey has been interviewed in Pirate
-    Wires by Mike Solana about social media and why he left the Bluesky social network
-    site and the Bluesky company board.
-  last_post_date: "2024-06-04T01:38:00Z"
-  last_post_link: https://feedpress.me/link/23974/16702814/jack-dorsey-bluesky-decentralised-social-networks-and-the-very-common-crowd
+  last_post_title: "\U0001F517: I prefer discussion in open web via @hamatti@mastodon.world
+    #Blogging #Tech"
+  last_post_description: How to we have good discussions online? That’s the question
+    Manuel Moreale was asking and answering in his blog post How to converse online.
+    As...
+  last_post_date: "2024-07-08T16:57:00Z"
+  last_post_link: https://feedpress.me/link/23974/16737109/i-prefer-discussion-in-open-web
   last_post_categories: []
-  last_post_guid: 79da31494957fb23f4d5cd20c6975fad
+  last_post_language: ""
+  last_post_guid: 0750954c4a9c972872d8f4f95c985746
   score_criteria:
     cats: 0
     description: 3
+    feedlangs: 0
     postcats: 0
+    posts: 3
     promoted: 0
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 10
+  score: 13
   ispodcast: false
   isnoarchive: false
+  innetwork: true
+  language: ""
 ---

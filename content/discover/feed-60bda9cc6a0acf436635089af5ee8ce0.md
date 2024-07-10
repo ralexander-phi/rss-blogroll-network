@@ -12,9 +12,10 @@ params:
   recommended: []
   recommender: []
   categories:
-  - fedora
   - advogato
+  - fedora
   relme:
+    https://mjg59.dreamwidth.org/: true
     https://nondeterministic.computer/@mjg59: true
   last_post_title: SSH agent extensions as an arbitrary RPC mechanism
   last_post_description: A while back, I wrote about using the SSH agent protocol
@@ -23,19 +24,24 @@ params:
   last_post_date: "2024-06-12T02:57:36Z"
   last_post_link: https://mjg59.dreamwidth.org/69646.html
   last_post_categories:
-  - fedora
   - advogato
+  - fedora
+  last_post_language: ""
   last_post_guid: 717c9d199746410f9dc4f5a693df31d1
   score_criteria:
     cats: 0
     description: 3
+    feedlangs: 0
     postcats: 2
+    posts: 3
     promoted: 0
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 12
+  score: 15
   ispodcast: false
   isnoarchive: false
+  innetwork: true
+  language: ""
 ---

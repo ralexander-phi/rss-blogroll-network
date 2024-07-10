@@ -13,7 +13,7 @@ type VisualData struct {
 
 type VizNode struct {
 	ID    string `json:"id"`
-	Group int64  `json:"group"`
+	Group int    `json:"group"`
 }
 
 type VizLink struct {
@@ -24,31 +24,19 @@ type VizLink struct {
 func (a *Analysis) Visualize() {
 	viz := VisualData{}
 
-	nodes := map[string]int64{}
-	linkRows, err := a.db.Query(`
-    SELECT source_url, source_type, destination_url, destination_type
-      FROM links;`,
-	)
-	ohno(err)
-	for linkRows.Next() {
-		var sourceUrl string
-		var sourceType int64
-		var destinationUrl string
-		var destinationType int64
-		err = linkRows.Scan(
-			&sourceUrl,
-			&sourceType,
-			&destinationUrl,
-			&destinationType,
-		)
-		ohno(err)
+	nodes := map[string]int{}
 
+	rows := []Link{}
+	result := a.db.Find(&rows)
+	ohno(result.Error)
+
+	for _, row := range rows {
 		viz.Links = append(viz.Links, VizLink{
-			Source:      sourceUrl,
-			Destination: destinationUrl,
+			Source:      row.SourceUrl,
+			Destination: row.DestinationUrl,
 		})
-		nodes[sourceUrl] = sourceType
-		nodes[destinationUrl] = destinationType
+		nodes[row.SourceUrl] = row.SourceType
+		nodes[row.DestinationUrl] = row.DestinationType
 	}
 
 	for node, nodeType := range nodes {

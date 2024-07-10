@@ -13,35 +13,40 @@ params:
   - http://scripting.com/rss.xml
   - http://scripting.com/rssNightly.xml
   categories:
-  - Meta
   - Product News
   - Recent News
   - Sidebar - Featured
+  - Technology and Innovation
   - Threads
   relme: {}
-  last_post_title: 'Introducing Threads: A New Way to Share With Text'
-  last_post_description: |-
-    Threads is a new app, built by the Instagram team, for sharing text updates and joining public conversations.
-    The post Introducing Threads: A New Way to Share With Text appeared first on Meta.
-  last_post_date: "2023-07-05T23:30:45Z"
-  last_post_link: https://about.fb.com/news/2023/07/introducing-threads-new-app-text-sharing/
+  last_post_title: What Is the Fediverse?
+  last_post_description: "The fediverse is a global social network of interconnected
+    servers that allows people to communicate across different platforms. \nThe post
+    What Is the Fediverse? appeared first on Meta."
+  last_post_date: "2024-06-25T17:10:26Z"
+  last_post_link: https://about.fb.com/news/2024/06/what-is-the-fediverse/
   last_post_categories:
-  - Meta
   - Product News
   - Recent News
   - Sidebar - Featured
+  - Technology and Innovation
   - Threads
-  last_post_guid: dff7b0da67655346f0ede8d77da3844d
+  last_post_language: ""
+  last_post_guid: ecac439feb882912e0f183f0ee11d9a9
   score_criteria:
     cats: 0
     description: 0
+    feedlangs: 1
     postcats: 3
+    posts: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 11
+  score: 15
   ispodcast: false
   isnoarchive: false
+  innetwork: true
+  language: en
 ---

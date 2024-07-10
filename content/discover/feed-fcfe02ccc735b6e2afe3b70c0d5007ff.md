@@ -13,28 +13,34 @@ params:
   recommender: []
   categories:
   - Articles
+  - apple
   relme:
-    https://micro.blog/philbowell: false
-    https://twitter.com/philbowell: false
-  last_post_title: For the love of the game
-  last_post_description: Thereâ€™s a strange pressure that comes with blogging which
-    is created entirely by me. When I first started blogging, I used to post whatever
-    I wanted to, no matter what it was. It was easier,
-  last_post_date: "2024-05-28T18:50:37Z"
-  last_post_link: https://philbowell.com/for-the-love-of-the-game/
+    https://philbowell.com/: true
+  last_post_title: My WWDC 2024 wishes
+  last_post_description: I don’t do these posts very often. In fact, it’s been many
+    years since I wrote something like this, but with WWDC starting tonight and Apple
+    announcing lots of new software features I’m
+  last_post_date: "2024-06-10T09:11:33Z"
+  last_post_link: https://philbowell.com/my-wwdc-2024-wishes/
   last_post_categories:
   - Articles
-  last_post_guid: 189a5d027e0ab89149977b97942f9c39
+  - apple
+  last_post_language: ""
+  last_post_guid: 4083ad8a2e60baaf1060e8205eacae3a
   score_criteria:
     cats: 0
     description: 3
-    postcats: 1
+    feedlangs: 1
+    postcats: 2
+    posts: 3
     promoted: 0
     promotes: 0
-    relme: 1
+    relme: 2
     title: 3
     website: 2
-  score: 10
+  score: 16
   ispodcast: false
   isnoarchive: false
+  innetwork: true
+  language: en
 ---

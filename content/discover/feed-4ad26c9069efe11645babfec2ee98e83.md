@@ -8,32 +8,35 @@ params:
   feedid: 4ad26c9069efe11645babfec2ee98e83
   websites:
     https://andysylvester.com/: true
-    https://www.andysylvester.com/: false
   blogrolls: []
   recommended: []
   recommender: []
   categories: []
   relme:
-    https://github.com/andysylvester: false
-    https://twitter.com/AndySylvester99: false
-  last_post_title: Comment on Some choices for how to host a podcast and create a
-    podcast feed by Andy
-  last_post_description: In 2017, I wrote a post with the title “We have great tools
-    to create – are we creating great things?”. It was in reference…
-  last_post_date: "2024-05-14T18:34:52-07:00"
-  last_post_link: https://andysylvester.com/2024/05/14/are-we-creating-great-things/
+    https://andysylvester.com/: true
+  last_post_title: Comment on Open letter to Dave Winer’s call to develop feed-based
+    social media apps by Andy
+  last_post_description: Dave Winer again calls for “a twitter-like system built with
+    feeds, with all their limits”. In May 2023, I created My Status Tool (Github repo)…
+  last_post_date: "2024-07-06T17:00:59-07:00"
+  last_post_link: https://andysylvester.com/2024/07/06/call-for-twitter-like-systems-based-on-feeds/
   last_post_categories: []
-  last_post_guid: 0132f149893baa53462bd33b0faf8055
+  last_post_language: ""
+  last_post_guid: 2b60aa3bd4b20b8b61c0a5795efed6e3
   score_criteria:
     cats: 0
     description: 3
+    feedlangs: 0
     postcats: 0
+    posts: 3
     promoted: 0
     promotes: 0
-    relme: 1
+    relme: 2
     title: 3
     website: 2
-  score: 9
+  score: 13
   ispodcast: false
   isnoarchive: false
+  innetwork: true
+  language: ""
 ---

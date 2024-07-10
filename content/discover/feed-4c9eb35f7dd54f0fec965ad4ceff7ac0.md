@@ -14,7 +14,8 @@ params:
   categories:
   - Tech
   - python
-  relme: {}
+  relme:
+    https://www.jpichon.net/: true
   last_post_title: Extracting reviews from Goodreads into Markdown pages
   last_post_description: |-
     In early 2020, it became really difficult to read books. I'm slowly starting to
@@ -25,17 +26,22 @@ params:
   last_post_categories:
   - Tech
   - python
+  last_post_language: ""
   last_post_guid: b444ec1335a6ac26f8c146bfa53f9cd5
   score_criteria:
     cats: 0
     description: 0
+    feedlangs: 0
     postcats: 2
+    posts: 3
     promoted: 0
     promotes: 0
-    relme: 0
+    relme: 2
     title: 3
     website: 2
-  score: 7
+  score: 12
   ispodcast: false
   isnoarchive: false
+  innetwork: true
+  language: ""
 ---

@@ -14,24 +14,29 @@ params:
   - https://colinwalker.blog/livefeed.xml
   categories: []
   relme: {}
-  last_post_title: Today, I pushed a minor release …
-  last_post_description: Today, I pushed a minor release for Posts Stats plugin that
-    enables (and defaults to) collapsing the table for the posts by year. You can
-    expand the table by clicking the “Show Posts by Year”
-  last_post_date: "2024-05-25T18:45:27+05:30"
-  last_post_link: https://www.amitgawande.com/2024/05/25/today-i-pushed.html
+  last_post_title: I have generally been bored of …
+  last_post_description: I have generally been bored of every experience I have online,
+    whether it’s reading or writing. Nothing feels exciting or enticing. Writing quick
+    thoughts is easy, but it’s much more challenging
+  last_post_date: "2024-07-01T22:45:30+05:30"
+  last_post_link: https://www.amitgawande.com/2024/07/01/i-have-generally.html
   last_post_categories: []
-  last_post_guid: 12b42fc8d9d5d38de2cc22b7cb113995
+  last_post_language: ""
+  last_post_guid: 4fc3db38dc9a940c58576060ffa2bc57
   score_criteria:
     cats: 0
     description: 0
+    feedlangs: 1
     postcats: 0
+    posts: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 8
+  score: 12
   ispodcast: false
   isnoarchive: false
+  innetwork: true
+  language: en
 ---

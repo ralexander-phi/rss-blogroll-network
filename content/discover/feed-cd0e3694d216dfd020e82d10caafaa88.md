@@ -25,10 +25,26 @@ params:
   categories:
   - Society & Culture
   relme:
-    https://instagram.com/canion: false
-    https://micro.blog/canion: false
+    https://3x2.pics/: true
+    https://andrewcanion.com/: true
+    https://canion.blog/: true
+    https://canion.omg.lol/: true
+    https://cv.omg.lol/: true
+    https://feldnotes.com/: true
+    https://github.com/jasonburk: true
+    https://grepjason.sh/: true
+    https://hemisphericviews.com/: true
+    https://jason.omg.lol/: true
+    https://letterboxd.com/canion/: true
+    https://martinfeld.info/: true
+    https://martinfeld.info/now: true
+    https://martinfeld.omg.lol/: true
+    https://social.lol/@3x2: true
     https://social.lol/@canion: true
-    https://twitter.com/canion: false
+    https://social.lol/@hemisphericviews: true
+    https://social.lol/@jason: true
+    https://social.lol/@martinfeld: true
+    https://www.rsspod.net/: true
   last_post_title: Slash Guy
   last_post_description: |-
     On Hemispheric Views it has become a bit of a running gag that when I become interested in something new or different, the phrase, “I’m an insert interest here guy!” is unleashed.
@@ -36,17 +52,22 @@ params:
   last_post_date: "2024-05-29T18:20:33+08:00"
   last_post_link: https://canion.blog/2024/05/29/slash-guy.html
   last_post_categories: []
+  last_post_language: ""
   last_post_guid: a3c0844c7d616cd7a64ab4337f793620
   score_criteria:
     cats: 1
     description: 3
+    feedlangs: 1
     postcats: 0
+    posts: 3
     promoted: 0
     promotes: 4
     relme: 2
     title: 3
     website: 2
-  score: 15
+  score: 19
   ispodcast: true
   isnoarchive: false
+  innetwork: true
+  language: en
 ---

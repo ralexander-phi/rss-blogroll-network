@@ -12,7 +12,8 @@ params:
   recommended: []
   recommender: []
   categories: []
-  relme: {}
+  relme:
+    https://bookrastinating.com/user/lewisdaleuk: true
   last_post_title: 'Lewis finished reading The Bullet That Missed : A Thursday Murder
     Club Mystery by Richard Osman'
   last_post_description: 'Lewis finished reading The Bullet That Missed : A Thursday
@@ -20,17 +21,22 @@ params:
   last_post_date: "2024-01-27T14:12:33Z"
   last_post_link: http://bookrastinating.com/user/lewisdaleuk/generatednote/376717
   last_post_categories: []
+  last_post_language: ""
   last_post_guid: 125c8f67a11fa00a8bf69ec3165e56a5
   score_criteria:
     cats: 0
     description: 0
+    feedlangs: 1
     postcats: 0
+    posts: 3
     promoted: 0
     promotes: 0
-    relme: 0
+    relme: 2
     title: 3
     website: 2
-  score: 5
+  score: 11
   ispodcast: false
   isnoarchive: false
+  innetwork: true
+  language: en
 ---

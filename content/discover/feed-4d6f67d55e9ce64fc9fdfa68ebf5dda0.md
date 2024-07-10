@@ -33,36 +33,39 @@ params:
   - https://www.michalzelazny.com/feed/
   - https://blog.numericcitizen.me/podcast.xml
   - https://excited-pixels.com/comments/feed/
-  - https://www.manton.org/podcast.xml
   - https://manuelmoreale.com/feed/instagram
-  - https://mastodon.social/tags/mjtsaiupdate.rss
-  - https://mjtsai.com/blog/comments/feed/
   - https://om.co/comments/feed/
   - https://www.feedio.co/@thenewsprint/feed
   - https://www.curtisfamily.org.uk/comments/feed/
+  - https://www.michalzelazny.com/feed
   recommender: []
   categories:
   - Technology
   relme:
-    https://micro.blog/numericcitizen: false
-  last_post_title: First Narrated Blog Post Experiment
-  last_post_description: 'Hi everyone. I might be late to the party, but I finally
-    sat down for a few minutes to test Micro.blog’s new feature: narrated blog posts.
-    It is strange because this is my first use and I cannot'
-  last_post_date: "2024-06-02T14:50:13-04:00"
-  last_post_link: https://blog.numericcitizen.me/2024/06/02/first-narrated-blog.html
+    https://blog.numericcitizen.me/: true
+  last_post_title: Pondering
+  last_post_description: In a week, I’ll be preparing to fly to Croatia for a three-week
+    vacation with my wife. I’m still considering several aspects of the trip. How
+    much blogging should I do during this time? Should I
+  last_post_date: "2024-06-15T23:18:04+02:00"
+  last_post_link: https://blog.numericcitizen.me/2024/06/15/ponedring.html
   last_post_categories: []
-  last_post_guid: 5a37ef00a8716b91cb71b3bf461194c5
+  last_post_language: ""
+  last_post_guid: 2345c068e7a7f92ba090c422f0cf5d20
   score_criteria:
     cats: 1
     description: 3
+    feedlangs: 1
     postcats: 0
+    posts: 3
     promoted: 0
     promotes: 10
-    relme: 1
+    relme: 2
     title: 3
     website: 2
-  score: 20
+  score: 25
   ispodcast: true
   isnoarchive: false
+  innetwork: true
+  language: en
 ---

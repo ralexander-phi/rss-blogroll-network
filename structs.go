@@ -27,17 +27,20 @@ type FeedInfoParams struct {
 	LastPostDate       string          `yaml:"last_post_date"`
 	LastPostLink       string          `yaml:"last_post_link"`
 	LastPostCategories []string        `yaml:"last_post_categories"`
+	LastPostLanguage   string          `yaml:"last_post_language"`
 	LastPostGuid       string          `yaml:"last_post_guid"`
 	ScoreCriteria      map[string]int  `yaml:"score_criteria"`
 	Score              int             `yaml:"score"`
 	IsPodcast          bool            `yaml:"ispodcast"`
 	IsNoarchive        bool            `yaml:"isnoarchive"`
+	InNetwork          bool            `yaml:"innetwork"`
+	Language           string          `yaml:"language"`
 }
 
-func NewFeedInfo(row ScanFeedInfo) *FeedInfo {
+func NewFeedInfo(row Feed) *FeedInfo {
 	p := FeedInfoParams{
 		FeedLink:      row.FeedLink,
-		FeedID:        row.FeedID,
+		FeedID:        row.FeedId,
 		FeedType:      row.FeedType,
 		Websites:      map[string]bool{},
 		RelMe:         map[string]bool{},
@@ -79,12 +82,12 @@ type ScanFeedInfo struct {
 	IsNoarchive bool
 }
 
-type Link struct {
-	SourceType      int64
-	SourceURL       string
-	DestinationType int64
-	DestinationURL  string
-}
+//type Link struct {
+//	SourceType      int64
+//	SourceURL       string
+//	DestinationType int64
+//	DestinationURL  string
+//}
 
 type LinkOnly struct {
 	Link string
@@ -93,4 +96,15 @@ type LinkOnly struct {
 type TypedLink struct {
 	Type int64
 	Link string
+}
+
+type RelMeClusterInfo struct {
+	Title  string             `yaml:"title"`
+	Params RelMeClusterParams `yaml:"params"`
+}
+
+type RelMeClusterParams struct {
+	VerifiedWebsites   []string            `yaml:"verifiedWebsites"`
+	UnverifiedWebsites []string            `yaml:"unverifiedWebsites"`
+	Feeds              map[string]FeedInfo `yaml:"feeds"`
 }

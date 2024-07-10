@@ -15,22 +15,27 @@ params:
   - http://scripting.com/rssNightly.xml
   categories: []
   relme: {}
-  last_post_title: AI is not like you and me
-  last_post_description: My talk at an Aspen Institute event
-  last_post_date: "2024-05-02T16:39:22Z"
-  last_post_link: https://www.zachseward.com/ai-is-not-a-person/
+  last_post_title: Stephen Clark Seward
+  last_post_description: My eulogy for Dad
+  last_post_date: "2024-06-19T11:45:24Z"
+  last_post_link: https://www.zachseward.com/stephen-clark-seward/
   last_post_categories: []
-  last_post_guid: 38383fab5acffc4ec728f2e707ab30da
+  last_post_language: ""
+  last_post_guid: d2e2263e21a2e92e719dadfbfbd49eca
   score_criteria:
     cats: 0
     description: 3
+    feedlangs: 0
     postcats: 0
+    posts: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 13
+  score: 16
   ispodcast: false
   isnoarchive: false
+  innetwork: true
+  language: ""
 ---

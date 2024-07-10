@@ -13,31 +13,36 @@ params:
   recommender:
   - https://frankmeeuwsen.com/feed.xml
   categories:
-  - Change
-  - Organisatieverandering
-  - Zelforganisatie
+  - Ethiek
+  - Film
+  - Kunstmatige Intelligentie
   relme: {}
-  last_post_title: Klaas Ariaans over ‘de sprong’ naar zelforganisatie bij ABN AMRO
+  last_post_title: The Capture
   last_post_description: |-
-    Klaas Ariaans was jarenlang directeur Personal Banking bij ABN AMRO. In 2017 heeft hij in één dag 95% van het […]
-    Het bericht Klaas Ariaans over ‘de sprong’ naar zelforganisatie bij ABN AMRO
-  last_post_date: "2024-05-31T11:59:36Z"
-  last_post_link: https://koneksa-mondo.nl/2024/05/31/klaas-ariaans-over-de-sprong-naar-zelforganisatie-bij-abn-amro/
+    In het eerste seizoen maakten we kennis met DI Rachel Carey (gespeeld door Holliday Grainger), die onderzoek doet naar een […]
+    Het bericht The Capture verscheen eerst op Koneksa Mondo.
+  last_post_date: "2024-06-23T06:32:11Z"
+  last_post_link: https://koneksa-mondo.nl/2024/06/23/the-capture/
   last_post_categories:
-  - Change
-  - Organisatieverandering
-  - Zelforganisatie
-  last_post_guid: 91113cf0ca09d3994a50cbdbc5843481
+  - Ethiek
+  - Film
+  - Kunstmatige Intelligentie
+  last_post_language: ""
+  last_post_guid: 6b3d6a99c76dcf4334c8e50c17116128
   score_criteria:
     cats: 0
     description: 3
+    feedlangs: 1
     postcats: 3
+    posts: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 16
+  score: 20
   ispodcast: false
   isnoarchive: false
+  innetwork: true
+  language: nl
 ---

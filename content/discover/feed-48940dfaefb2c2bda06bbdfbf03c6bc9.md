@@ -15,29 +15,33 @@ params:
   categories:
   - Society & Culture
   relme:
-    https://github.com/toddgrotenhuis: false
-    https://instagram.com/toddgrotenhuis: false
-    https://micro.blog/toddgrotenhuis: false
-    https://social.lol/@todd: false
-    https://twitter.com/toddgrotenhuis: false
+    https://blog.grotenhuis.info/: true
+    https://blog.grotenhuis.info/public-notes/: true
+    https://github.com/toddgrotenhuis: true
+    https://todd.grotenhuis.info/: true
   last_post_title: Bird Talk
   last_post_description: |-
     Bird Talk
     Transcript
-  last_post_date: "2024-05-11T15:13:19-07:00"
+  last_post_date: "2024-05-11T18:13:19-04:00"
   last_post_link: https://blog.grotenhuis.info/2024/05/11/bird-talk.html
   last_post_categories: []
+  last_post_language: ""
   last_post_guid: 971c3c55d34046638a88669875740f5e
   score_criteria:
     cats: 1
     description: 3
+    feedlangs: 1
     postcats: 0
+    posts: 3
     promoted: 0
     promotes: 0
-    relme: 1
+    relme: 2
     title: 3
     website: 2
-  score: 10
+  score: 15
   ispodcast: true
   isnoarchive: false
+  innetwork: true
+  language: en
 ---

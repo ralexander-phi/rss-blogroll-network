@@ -12,32 +12,32 @@ params:
   blogrolls: []
   recommended: []
   recommender:
-  - https://hacdias.com/feed.xml
-  - https://jlelse.blog/.min.rss
-  - https://jlelse.blog/.rss
-  - https://jlelse.blog/index.xml
-  - https://kevq.uk/feed
-  - https://kevq.uk/feed.xml
-  - https://kevq.uk/feed/
   - https://kevquirk.com/feed
+  - https://kevquirk.com/feed/
+  - https://kevquirk.com/notes-feed
   categories: []
   relme: {}
-  last_post_title: How the internet became shit
-  last_post_description: The long, dark decent of the digital commons
-  last_post_date: "2024-04-19T14:01:32Z"
-  last_post_link: https://herman.bearblog.dev/how-the-internet-became-shit/
+  last_post_title: Cities need more trees
+  last_post_description: A case for planting more trees in urban areas.
+  last_post_date: "2024-07-01T07:53:00Z"
+  last_post_link: https://herman.bearblog.dev/cities-need-more-trees/
   last_post_categories: []
-  last_post_guid: 04db92537d69612af621c93008f722bf
+  last_post_language: ""
+  last_post_guid: d1859a4004cc0f711ef0ddab5979b420
   score_criteria:
     cats: 0
     description: 3
+    feedlangs: 0
     postcats: 0
+    posts: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 13
+  score: 16
   ispodcast: false
   isnoarchive: false
+  innetwork: true
+  language: ""
 ---

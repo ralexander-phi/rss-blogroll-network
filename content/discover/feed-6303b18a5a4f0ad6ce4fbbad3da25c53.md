@@ -16,6 +16,7 @@ params:
   - https://analogoffice.net/feed.xml
   - https://arcadeblogger.com/feed/
   - https://blogs.harvard.edu/doc/feed/
+  - https://boffosocko.com/feed/
   - https://brainbaking.com/index.xml
   - https://colinwalker.blog/livefeed.xml
   - https://craigmod.com/index.xml
@@ -63,12 +64,37 @@ params:
   - https://arcadeblogger.com/comments/feed/
   - https://austinkleon.com/comments/feed/
   - https://austinkleon.com/feed/
-  - https://doc.searls.com/comments/feed/
-  - https://doc.searls.com/feed/
+  - https://boffosocko.com/category/mathematics/feed/
+  - https://boffosocko.com/category/microcast/feed/
+  - https://boffosocko.com/category/podcast/feed/
+  - https://boffosocko.com/category/science/information-theory/feed/
+  - https://boffosocko.com/comments/feed/
+  - https://boffosocko.com/home/feed/
+  - https://boffosocko.com/instagram.xml
+  - https://boffosocko.com/kind/annotation/feed/
+  - https://boffosocko.com/kind/article/feed/
+  - https://boffosocko.com/kind/bookmark/feed/
+  - https://boffosocko.com/kind/checkin/feed/
+  - https://boffosocko.com/kind/eat,drink/feed/
+  - https://boffosocko.com/kind/favorite/feed/
+  - https://boffosocko.com/kind/follow/feed/
+  - https://boffosocko.com/kind/issue/feed/
+  - https://boffosocko.com/kind/jam/feed/
+  - https://boffosocko.com/kind/like/feed/
+  - https://boffosocko.com/kind/listen/feed/
+  - https://boffosocko.com/kind/note/feed/
+  - https://boffosocko.com/kind/photo/feed/
+  - https://boffosocko.com/kind/reply/feed/
+  - https://boffosocko.com/kind/repost/feed/
+  - https://boffosocko.com/kind/rsvp/feed/
+  - https://boffosocko.com/kind/watch/feed/
+  - https://boffosocko.com/kind/wish/feed/
+  - https://boffosocko.com/linkblog.xml
+  - https://boffosocko.com/microblog.xml
+  - https://boffosocko.com/read.xml
   - https://granary-demo.appspot.com/url?hub=https%3A//bridgy-fed.superfeedr.com/&input=html&output=atom&url=http%3A//www.boffosocko.com/blog/
   - https://stream.boffosocko.com/content/all?_t=rss
   - https://colinwalker.blog/dailyfeed.xml
-  - https://dougbelshaw.com/blog/comments/feed/
   - https://idealistpropaganda.blogspot.com/feeds/posts/default?alt=rss
   - https://indieweb.org/wiki/index.php?feed=atom&title=Special%3ARecentChanges
   - https://infullflow.net/comments/feed/
@@ -82,14 +108,13 @@ params:
   - https://localghost.dev/podcasts.xml
   - https://localghost.dev/recipes.xml
   - https://longnow.org/ideas/
-  - https://ochtendgrijs.be/comments/feed/
-  - https://remkusdevries.com/feed/
-  - https://remkusdevries.com/feed/podcast
+  - https://rkvssr.nl/comments/feed/
   - https://robinrendle.com/cascadefeed.xml
   - https://robinrendle.com/essayfeed.xml
   - https://robinrendle.com/newsletterfeed.xml
   - https://ruk.ca/comments/rss
   - https://ruk.ca/rss/podcast.xml
+  - https://thehistoryoftheweb.com/comments/feed/
   - https://tomcritchlow.com/feed.xml
   - https://tracydurnell.com/comments/feed/
   - https://granary.io/url?hub=https%3A//bridgy-fed.superfeedr.com/&input=html&output=atom&url=https%3A//werd.io/content/all/
@@ -100,7 +125,6 @@ params:
   - https://www.neondystopia.com/?feed=comments-rss2
   - https://www.neondystopia.com/?feed=rss2
   - https://www.pelicancrossing.net/netwars/index.xml
-  - https://www.zylstra.org/blog/comments/feed/
   - https://zijperspace.nl/comments/feed/
   recommender:
   - https://colinwalker.blog/dailyfeed.xml
@@ -109,26 +133,33 @@ params:
   - https://jeroensangers.com/podcast.xml
   categories: []
   relme:
+    https://frankmeeuwsen.com/: true
+    https://indieweb.org/User:Diggingthedigital.com: true
     https://indieweb.social/@frank: true
-    https://micro.blog/frank: false
-  last_post_title: Digitale Autonomie, een gesprek met Kirsten Jassies
-  last_post_description: Afgelopen maandag was ik te gast in de fantastische werfkelder/studio
-    van Kirsten Jassies. Zij heeft een Podcast over Social Media en ik mocht een uurtje
-    komen praten over wat mij fascineert in de
-  last_post_date: "2024-05-29T21:55:33+02:00"
-  last_post_link: https://frankmeeuwsen.com/2024/05/29/digitale-autonomie-een.html
+  last_post_title: Highlighting authors on Mastodon
+  last_post_description: |-
+    Mastodon added a nice feature for journalists and bloggers: when you share a link to an article or blogpost, it adds a direct link to the author’s fediverse profile as well.
+
+    For now this only
+  last_post_date: "2024-07-03T08:17:49+02:00"
+  last_post_link: https://frankmeeuwsen.com/2024/07/03/highlighting-authors-on.html
   last_post_categories: []
-  last_post_guid: 55553feca15c3eb8e7e53032d626173a
+  last_post_language: ""
+  last_post_guid: 653b15d7985e56f40f2b8a0dc98df9d2
   score_criteria:
     cats: 0
     description: 0
+    feedlangs: 1
     postcats: 0
+    posts: 3
     promoted: 5
     promotes: 10
     relme: 2
     title: 3
     website: 2
-  score: 22
+  score: 26
   ispodcast: false
   isnoarchive: false
+  innetwork: true
+  language: en
 ---

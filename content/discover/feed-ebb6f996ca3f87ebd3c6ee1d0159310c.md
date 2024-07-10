@@ -14,23 +14,31 @@ params:
   recommender: []
   categories: []
   relme:
+    https://advent-of-code.xavd.id/: true
+    https://david.reviews/: true
     https://mastodon.social/@xavdid: true
+    https://xavd.id/: true
   last_post_title: David's AoC 2023 Day 21 Solution
   last_post_description: 'David solves: Step Counter'
   last_post_date: "2024-04-17T00:00:00Z"
   last_post_link: https://advent-of-code.xavd.id/writeups/2023/day/21/
   last_post_categories: []
+  last_post_language: ""
   last_post_guid: 805e7dc28133f084b0590736cbf7b296
   score_criteria:
     cats: 0
     description: 3
+    feedlangs: 0
     postcats: 0
+    posts: 3
     promoted: 0
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 10
+  score: 13
   ispodcast: false
   isnoarchive: false
+  innetwork: true
+  language: ""
 ---

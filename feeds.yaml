@@ -4,7 +4,104 @@ feed_urls:
   - https://blogs.openstreetmap.org/opml.xml
   - https://golem.ph.utexas.edu/~distler/planet/opml.xml
   - https://gstreamer.freedesktop.org/planet/opml.xml
+  - https://jakartablogs.ee/opml.xml
+  - https://planet-im.com/opml.xml
+  - https://planet.bugzilla.org/opml.xml
+  - https://planet.classpath.org/opml.xml
+  - https://planet.clojure.in/opml.xml
+  - https://planet.code4lib.org/opml.xml
+  - https://planet.documentfoundation.org/opml.xml
+  - https://planet.dsource.org/opml.xml
+  - https://planet.evolix.org/opml.xml
+  - https://planet.freedesktop.org/opml.xml
+  - https://planet.fsfe.org/en/opml.xml
+  - https://planet.grep.be/opml.xml
+  - https://planet.hamakor.org.il/opml.xml
+  - https://planet.haskell.org/opml.xml
+  - https://planet.igalia.com/opml.xml
+  - https://planet.luv.asn.au/opml.xml
+  - https://planet.openmoko.org/opml.xml
+  - https://planet.osgeo.org/opml.xml
+  - https://planet.osmocom.org/opml.xml
+  - https://planet.phpmyadmin.net/opml.xml
+  - https://planet.postgis.net/opml.xml
+  - https://planet.qt.io/opml.xml
+  - https://planet.sagemath.org/opml.xml
+  - https://planet.samba.org/opml.xml
+  - https://planet.scummvm.org/custom/people.opml
+  - https://planet.symlink.ch/opml.xml
+  - https://planet.sympy.org/opml.xml
+  - https://planet.twistedmatrix.com/opml.xml
+  - https://planet.ucc.asn.au/opml.xml
+  - https://planet.videolan.org/opml.xml
+  - https://planet.wordpress.org/opml.xml
+  - https://planete.april.org/opml.xml
+  - https://planeteclipse.org/planet/opml.xml
+  - https://planetillumos.org/opml.xml
+  - https://raimonster.com/satellite-lua/opml.xml
+  - https://www.lysator.liu.se/planet/opml.xml
+  - https://www.planetpuppet.org/opml.xml
+  - https://fdroid.gitlab.io/planet/opml.xml
+
+  # Linux
+  - https://planet.linux.it/ils/opml.xml
+  - https://planet.linux.it/lug/opml.xml
+
+  # Debian
+  - https://planet.debian.org/deriv/opml.xml
+  - https://planet.debian.org/es/opml.xml
+  - https://planet.debian.org/fr/opml.xml
+  - https://planet.debian.org/opml.xml
+  - https://planet.debianforum.de/opml.xml
+
+  # Mozilla
+  - https://planet.mozilla.org/ateam/opml.xml
+  - https://planet.mozilla.org/opml.xml
+  - https://planet.mozilla.org/participation/opml.xml
+  - https://planet.mozilla.org/projects/opml.xml
+  - https://planet.mozilla.org/research/opml.xml
+  - https://planet.mozilla.org/thunderbird/opml.xml
+  - https://planet.moztw.org/opml.xml
+
+  # Ubuntu
+  - https://planet.ubuntu-it.org/opml.xml
+  - https://planet.ubuntu.com/opml.xml
+
+  # Kernel
   - https://kernelplanet.org/opml.xml
+  - https://planet.kernel.org/opml.xml
+
+  # Python
+  - https://planet.python.org.br/opml.xml
+  - https://www.planetpython.org/opml.xml
+
+  # Emacs
+  - https://planet.emacslife.com/opml.xml
+  - https://planet.emacslife.com/ru/opml.xml
+  - https://planet.emacslife.com/zh/opml.xml
+
+  # GNU
+  - https://planet.gnu.org/opml.xml
+  - https://www.gnuheter.com/opml.xml
+
+  # Gnome
+  - https://planet.gnome.gr/opml.xml
+  - https://planet.gnome.org/opml.xml
+  - https://planeta.br.gnome.org/opml.xml
+  - https://planeta.es.gnome.org/opml.xml
+  - https://planeta.gnome.cl/opml.xml
+
+  # Jabber
+  - https://planet.jabber.org/news/opml.xml
+  - https://planet.jabber.org/opml.xml
+
+  # Mageia
+  - https://planet.mageia.org/en/custom/people.opml
+  - https://planet.mageia.org/es/custom/people.opml
+  - https://planet.mageia.org/de/custom/people.opml
+  - https://planet.mageia.org/fr/custom/people.opml
+  - https://planet.mageia.org/it/custom/people.opml
+  - https://planet.mageia.org/pt/custom/people.opml
 
   # Via repos
   - https://codeberg.org/mclemens/Ham-Radio-RSS-Feeds/raw/branch/main/hamradio.opml
@@ -15,14 +112,21 @@ feed_urls:
   - https://davorg.theplanetarium.org/opml.xml
   - https://perl.theplanetarium.org/opml.xml
 
+  # commandline
+  - https://planet-commandline.org/+emacs/opml.xml
+  - https://planet-commandline.org/+german/opml.xml
+  - https://planet-commandline.org/+snippets/opml.xml
+  - https://planet-commandline.org/opml.xml
+
   # Watch here for more:
   # - https://github.com/ArchiveTeam/urls-sources
 
   # Disqualified as seeds: ADs
   #- https://skeptic.theplanetarium.org/opml.xml
   #- https://mps.theplanetarium.org/opml.xml
+  #- https://x-berg.de/opml.xml
 
-  # Delay, this is a big disorganized list
+  # Delay, this is a singular big list
   #- https://github.com/outcoldman/hackernews-personal-blogs/raw/master/list.opml
   #- https://github.com/outcoldman/hackernews-personal-blogs/raw/master/listx.opml
 
@@ -61,6 +165,7 @@ remove_old_content: False
 block_domains:
   # I don't need avatars
   - gravatar.com
+
   # Login wall
   - www.instagram.com
 

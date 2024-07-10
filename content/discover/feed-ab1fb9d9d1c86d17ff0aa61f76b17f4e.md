@@ -15,24 +15,31 @@ params:
   - https://jeroensangers.com/podcast.xml
   categories: []
   relme: {}
-  last_post_title: Links (78)
-  last_post_description: 'Some debate over the merits of Minicircle, the gene therapy
-    startup. It''s a case of "in theory, it shouldn''t work", with "working" defined
-    in the most damning way: probably not even raising'
-  last_post_date: "2024-05-11T00:00:00Z"
-  last_post_link: https://nintil.com/links-78/
+  last_post_title: Links (79)
+  last_post_description: |-
+    Michael Lewis (author of a recent book on FTX)'s Blind Side
+    Xylitol bad?
+    Demons and Internal Family Systems
+    GLP1 analogues do not cause muscle loss in excess to what one would expect via caloric
+  last_post_date: "2024-06-11T00:00:00Z"
+  last_post_link: https://nintil.com/links-79/
   last_post_categories: []
-  last_post_guid: d5549a0ff13692d47042a65cd76f4470
+  last_post_language: ""
+  last_post_guid: 9c2e81f2010594395c213fb266ee2d58
   score_criteria:
     cats: 0
     description: 0
+    feedlangs: 1
     postcats: 0
+    posts: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 10
+  score: 14
   ispodcast: false
   isnoarchive: false
+  innetwork: true
+  language: en
 ---

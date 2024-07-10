@@ -13,36 +13,34 @@ params:
   recommender:
   - http://scripting.com/rss.xml
   - http://scripting.com/rssNightly.xml
-  - https://chrisburnell.com/feed.xml
   categories:
-  - automattic
-  - glamorous
-  - work
-  - Working
+  - Designers
   relme:
     https://front-end.social/@zeldman: true
-  last_post_title: The gift of a three-month sabbatical
-  last_post_description: It was late winter when my sabbatical began, and it’s late
-    spring as it comes to an end. Next week I return to my post after three months’
-    paid leave, courtesy of Automattic’s sabbatical
-  last_post_date: "2024-05-28T20:22:04Z"
-  last_post_link: https://zeldman.com/2024/05/28/the-gift-of-a-three-month-sabbatical/
+    https://zeldman.com/: true
+  last_post_title: Designer Jonathan Lee
+  last_post_description: The post Designer Jonathan Lee appeared first on Zeldman
+    on Web and Interaction Design.
+  last_post_date: "2024-06-20T13:32:46Z"
+  last_post_link: https://zeldman.com/2024/06/20/designer-jonathan-lee/
   last_post_categories:
-  - automattic
-  - glamorous
-  - work
-  - Working
-  last_post_guid: 64c6b950fb94734417132ff4e1584e43
+  - Designers
+  last_post_language: ""
+  last_post_guid: a6c6b35ae1a8c5ed22bc263174e8b9cc
   score_criteria:
     cats: 0
     description: 3
-    postcats: 3
+    feedlangs: 1
+    postcats: 1
+    posts: 3
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 18
+  score: 20
   ispodcast: false
   isnoarchive: false
+  innetwork: true
+  language: en
 ---

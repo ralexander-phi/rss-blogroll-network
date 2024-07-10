@@ -12,7 +12,8 @@ params:
   recommended: []
   recommender: []
   categories: []
-  relme: {}
+  relme:
+    https://forgefriends.org/: true
   last_post_title: 'State of the Forge Federation: 2023 edition'
   last_post_description: |-
     If you already read the “State of the Forge Federation: 2022 edition”, you may want to skip directly to the “Executive summary” section below.
@@ -20,17 +21,22 @@ params:
   last_post_date: "2023-06-21T01:03:31+02:00"
   last_post_link: https://forgefriends.org/blog/2023/06/21/2023-06-state-forge-federation/
   last_post_categories: []
+  last_post_language: ""
   last_post_guid: e2a9afed318f84f4b50ba8a0eddf7b5a
   score_criteria:
     cats: 0
     description: 3
+    feedlangs: 1
     postcats: 0
+    posts: 3
     promoted: 0
     promotes: 0
-    relme: 0
+    relme: 2
     title: 3
     website: 2
-  score: 8
+  score: 14
   ispodcast: false
   isnoarchive: false
+  innetwork: true
+  language: en
 ---

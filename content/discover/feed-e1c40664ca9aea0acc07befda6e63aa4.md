@@ -18,6 +18,7 @@ params:
   - prompting
   relme:
     https://mastodon.cloud/@Paolo: true
+    https://val.demar.in/: true
   last_post_title: The “think of a number” fallacy
   last_post_description: Some time a go a colleague commenting on the idea of iterative
     prompting, suggested to ask GPT to “think about something” and then make a decision
@@ -27,17 +28,22 @@ params:
   last_post_categories:
   - Artificial Intelligence
   - prompting
+  last_post_language: ""
   last_post_guid: e3dce404234744b688a73dfef21a13cf
   score_criteria:
     cats: 0
     description: 3
+    feedlangs: 1
     postcats: 2
+    posts: 3
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 17
+  score: 21
   ispodcast: false
   isnoarchive: false
+  innetwork: true
+  language: en
 ---

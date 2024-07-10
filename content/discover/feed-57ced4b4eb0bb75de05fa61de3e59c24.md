@@ -14,34 +14,37 @@ params:
   categories:
   - TV & Film
   relme:
-    https://bugle.lol/@family: false
-    https://bugle.lol/@wegotfamily: false
-    https://castro.fm/itunes/1695398667: false
-    https://mastodon.design/@DavidDarnes: false
-    https://mastodon.design/@daviddarnes: false
-    https://open.spotify.com/show/3qziz3DuqmPJ4tOokJLhU6: false
-    https://overcast.fm/itunes1695398667: false
-    https://pca.st/itunes/1695398667: false
-    https://podcasts.apple.com/us/podcast/we-got-family/id1695398667: false
+    https://beep.town/@echofeedamplify: true
+    https://echofeed.app/: true
+    https://github.com/rknightuk: true
+    https://help.echofeed.app/amplify/: true
+    https://mastodon.macstories.net/@ruminate: true
+    https://rknight.me/: true
+    https://ruminatepodcast.com/: true
     https://social.lol/@robb: true
-    https://wegot.family/feed.xml: false
+    https://wegot.family/: true
   last_post_title: 05 - Superfast!
   last_post_description: "✨\U0001F3CE️ Get your exclusive We Got Family Stickers here\n\nSuperfast!
     (2015) - IMDb\nMeet the Spartans (2008) - IMDb"
   last_post_date: "2023-09-17T09:25:09Z"
   last_post_link: https://wegot.family/5/
   last_post_categories: []
+  last_post_language: ""
   last_post_guid: 867cc2a36a7f698a7bd56453e1cd94a3
   score_criteria:
     cats: 1
     description: 3
+    feedlangs: 1
     postcats: 0
+    posts: 3
     promoted: 0
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 11
+  score: 15
   ispodcast: true
   isnoarchive: false
+  innetwork: true
+  language: en
 ---

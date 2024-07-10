@@ -7,7 +7,6 @@ params:
   feedtype: rss
   feedid: 92ff85adaedd75d46d33a6c13a6df91f
   websites:
-    https://www.leaningforward.com/blog: false
     https://www.leaningforward.com/blog/: true
   blogrolls: []
   recommended: []
@@ -24,17 +23,22 @@ params:
   last_post_link: https://www.leaningforward.com/blog/2024/05/fortnote-27th-may/?utm_source=rss&utm_medium=rss&utm_campaign=fortnote-27th-may
   last_post_categories:
   - Uncategorized
+  last_post_language: ""
   last_post_guid: 372222191d48dc333a5dcfe1fe17a358
   score_criteria:
     cats: 0
     description: 0
+    feedlangs: 1
     postcats: 1
+    posts: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 11
+  score: 15
   ispodcast: false
   isnoarchive: false
+  innetwork: true
+  language: en
 ---

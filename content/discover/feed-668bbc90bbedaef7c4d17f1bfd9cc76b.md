@@ -12,35 +12,37 @@ params:
   blogrolls: []
   recommended: []
   recommender:
-  - https://danq.blog/comments/feed/
-  - https://danq.blog/feed/
   - https://danq.me/comments/feed/
   - https://danq.me/feed/
   - https://danq.me/kind/article/feed/
   - https://danq.me/kind/note/feed/
-  - https://danq.uk/comments/feed/
-  - https://danq.uk/feed/
   categories:
   - Culture
   relme: {}
-  last_post_title: Blooper Reel - 'The Most Misunderstood Philosopher in the World'
-    | Nebula Plus
-  last_post_description: We have fun on set hehehe
-  last_post_date: "2024-05-24T17:26:23Z"
-  last_post_link: https://nebula.tv/videos/philosophytube-blooper-reel-the-most-misunderstood-philosopher-in-the-world/
+  last_post_title: 'Pride Stream & Fiction Book Recs  (Stream Highlights #2)'
+  last_post_description: The highlight reel from my most recent livestream, talking
+    about the previous episode of the show ("I Read the Most Misunderstood Philosopher
+    in the World") and how we made it, plus some queer
+  last_post_date: "2024-06-10T22:34:50Z"
+  last_post_link: https://nebula.tv/videos/philosophytube-pride-stream-fiction-book-recs-stream-highlights-2/
   last_post_categories:
   - Culture
-  last_post_guid: 06d29273834b4f6328dcbddf122fd55c
+  last_post_language: ""
+  last_post_guid: fcb37b3aaa2a327e476229fb03453117
   score_criteria:
     cats: 0
     description: 3
+    feedlangs: 1
     postcats: 1
+    posts: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 14
+  score: 18
   ispodcast: false
   isnoarchive: false
+  innetwork: true
+  language: en
 ---

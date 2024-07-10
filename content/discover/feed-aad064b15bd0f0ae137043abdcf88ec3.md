@@ -23,17 +23,22 @@ params:
   last_post_link: https://zijperspace.nl/bladluis-als-fatale-doorgeefluik/
   last_post_categories:
   - zijperpost
+  last_post_language: ""
   last_post_guid: 8224989471c286381a45a1c9aab8effd
   score_criteria:
     cats: 0
     description: 3
+    feedlangs: 1
     postcats: 1
+    posts: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 14
+  score: 18
   ispodcast: false
   isnoarchive: false
+  innetwork: true
+  language: nl
 ---
