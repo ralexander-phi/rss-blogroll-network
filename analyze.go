@@ -563,7 +563,7 @@ func (a *Analysis) Analyze() {
 		a.FixUp(feed)
 
 		// Ignore feeds outside the network or without content
-		if feed.Params.InNetwork && len(feed.Params.LastPostLink) > 0 {
+		if feed.Params.InNetwork && len(feed.Params.LastPostTitle) > 0 {
 			feed.Save()
 		}
 	}
