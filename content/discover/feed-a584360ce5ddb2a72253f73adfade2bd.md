@@ -25,27 +25,26 @@ params:
     https://jackbaty.com/: true
     https://mastodon.social/@batybot: true
     https://social.lol/@jbaty: true
-  last_post_title: Film vs Digital and value over time
-  last_post_description: Something I've noticed about my photographs is that digital
-    photos start out looking all "Wow! so punchy and clean!" but the excitement fades
-    over time. Film photographs start out "Meh, it's soft and
-  last_post_date: "2024-07-07T18:10:00Z"
-  last_post_link: https://baty.net/journal/2024/07/07/film-vs-digital-and-value-over-time
+  last_post_title: Everything.rss is deprecated
+  last_post_description: I am shutting down the Digital Ocean instance running RSSBridge,
+    and I don't want to move or maintain it, which means https://baty.net/everything.rss
+    will no longer contain aggregated RSS feeds for
+  last_post_date: "2024-07-10T12:55:00Z"
+  last_post_link: https://baty.net/journal/2024/07/10/everything-rss-is-deprecated
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: ca7ea83e4f77a5f37a8c6639e0ed9514
+  last_post_guid: f7cf1b0e2e1bc7d19e75ceb81984f722
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     postcats: 0
-    posts: 3
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 19
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true

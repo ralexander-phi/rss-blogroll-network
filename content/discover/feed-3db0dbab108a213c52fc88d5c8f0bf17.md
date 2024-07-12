@@ -168,6 +168,8 @@ params:
   - https://benfrain.com/feed/
   - https://benfrain.com/home/feed/
   - https://blog.humblebundle.com/comments/feed/
+  - https://www.buttersafe.com/feed/
+  - https://www.buttersafe.com/feed/atom/
   - https://colinwalker.blog/dailyfeed.xml
   - https://cosmicqbit.dev/blog/index.xml
   - https://derekkedziora.com/feed/essays.xml
@@ -184,6 +186,9 @@ params:
   - https://immerweiterlaufen.de/feed/
   - https://jerz.us/atom/
   - https://jerz.us/rss/
+  - https://kevquirk.com/feed
+  - https://kevquirk.com/notes-feed
+  - https://kevquirk.com/watch-log-feed
   - https://lalunemauve.fr/comments/feed/
   - https://ma.tt/comments/feed/
   - https://rss.nebula.app/video/channels/minutephysics.rss?plus=true
@@ -204,12 +209,19 @@ params:
   - https://notiz.blog/type/standard/feed/
   - https://notiz.blog/type/status/feed/
   - https://notiz.blog/type/video/feed/
+  - https://oglaf.com/feeds/rss/
   - https://polytechnic.co.uk/blog/rss
   - https://rss.metafilter.com/popular-comments.rss
   - https://rss.metafilter.com/popular-posts.rss
   - https://rss.metafilter.com/projects.rss
+  - https://indieweb.social/@seanmcp.rss
   - https://sfss.space/feed/
   - https://shiflett.org/feeds/links
+  - https://shkspr.mobi/blog/comments/feed/
+  - https://shkspr.mobi/blog/feed
+  - https://shkspr.mobi/blog/feed/atom/
+  - https://stantonharcourtschool.org.uk/comments/feed/
+  - https://stantonharcourtschool.org.uk/feed/
   - https://steele.blue/feed
   - https://stefanbohacek.com/feed
   - https://textslashplain.com/comments/feed/
@@ -223,56 +235,60 @@ params:
   - https://www.blogpocket.com/feed/
   - https://www.blogpocket.com/feed/podcast
   - https://rss.metafilter.com/metafilter.rss
+  - https://www.nathalielawhead.com/candybox/comments/feed
   - https://www.optipess.com/comments/feed/
   - https://www.optipess.com/feed/
+  - https://www.schneier.com/comments/feed/
+  - https://www.schneier.com/feed/
   - https://www.zylstra.org/blog/comments/feed/
   - https://xkcd.com/atom.xml
   - https://youdo.blog/comments/feed/
   recommender: []
   categories:
   - Personal
-  - carpentry
-  - electronics
-  - house building works 2024
-  - programming
-  - python
-  - raspberry pi
+  - cookery
+  - cooking
+  - dancast
+  - physics
+  - published on gemini
+  - tea
   relme:
     https://dan-q.github.io/: true
+    https://danq.blog/: true
     https://danq.me/: true
+    https://danq.uk/: true
     https://github.com/Dan-Q: true
     https://github.com/dan-q/: true
     https://keybase.io/dq: true
     https://m.danq.me/@blog: true
     https://m.danq.me/@dan: true
-  last_post_title: '[Article] Building a Secret Cabinet'
-  last_post_description: As part of efforts to build myself a new bedroom in our attic,
-    I expanded my carpentry, electronics, and Python skills by building a remotely-triggered
-    secret cabinet in my bookcase!
-  last_post_date: "2024-07-08T20:52:40+01:00"
-  last_post_link: https://danq.me/2024/07/08/secret-cabinet/
+  last_post_title: '[Article] A Pressure Cooker for Tea'
+  last_post_description: I'm told that black tea brewed at 90℃ is bad, but brewed
+    at 100℃ is good. What if we built a specialised pressure cooker that released
+    tea into superheated water at, say, 110℃? Could that be...
+  last_post_date: "2024-07-09T13:13:41+01:00"
+  last_post_link: https://danq.me/2024/07/09/tea-pressure/
   last_post_categories:
   - Personal
-  - carpentry
-  - electronics
-  - house building works 2024
-  - programming
-  - python
-  - raspberry pi
+  - cookery
+  - cooking
+  - dancast
+  - physics
+  - published on gemini
+  - tea
   last_post_language: ""
-  last_post_guid: ad3a7646a2d424e25b14708406576b70
+  last_post_guid: 203050d80bb11fc754e9f5b28ae503b2
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     postcats: 3
-    posts: 3
     promoted: 0
     promotes: 10
     relme: 2
     title: 3
     website: 2
-  score: 27
+  score: 24
   ispodcast: false
   isnoarchive: false
   innetwork: true

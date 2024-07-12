@@ -7,6 +7,7 @@ params:
   feedtype: atom
   feedid: 02a12ecc2a1cd94a2fdb4e40f914fa47
   websites:
+    https://www.bennee.com/~alex: false
     https://www.bennee.com/~alex/: true
   blogrolls: []
   recommended: []
@@ -44,13 +45,12 @@ params:
     description: 3
     feedlangs: 0
     postcats: 3
-    posts: 3
     promoted: 0
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 16
+  score: 13
   ispodcast: false
   isnoarchive: false
   innetwork: true

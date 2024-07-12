@@ -8,12 +8,16 @@ params:
   feedid: 1a0cb5bb967fcdae6345e16e4ff1e674
   websites:
     https://gkeenan.co/: false
+    https://gkeenan.co/avgb: false
     https://gkeenan.co/avgb/: false
   blogrolls: []
   recommended: []
   recommender:
+  - https://kevq.uk/feed
+  - https://kevq.uk/feed.xml
+  - https://kevq.uk/feed/
+  - https://kevq.uk/home.rss
   - https://kevquirk.com/feed
-  - https://kevquirk.com/feed/
   - https://kevquirk.com/notes-feed
   categories: []
   relme: {}
@@ -30,13 +34,12 @@ params:
     description: 3
     feedlangs: 1
     postcats: 0
-    posts: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 1
-  score: 16
+  score: 13
   ispodcast: false
   isnoarchive: false
   innetwork: true

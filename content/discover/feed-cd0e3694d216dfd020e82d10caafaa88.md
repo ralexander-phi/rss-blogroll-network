@@ -27,6 +27,7 @@ params:
   relme:
     https://3x2.pics/: true
     https://andrewcanion.com/: true
+    https://burk.io/: true
     https://canion.blog/: true
     https://canion.omg.lol/: true
     https://cv.omg.lol/: true
@@ -59,13 +60,12 @@ params:
     description: 3
     feedlangs: 1
     postcats: 0
-    posts: 3
     promoted: 0
     promotes: 4
     relme: 2
     title: 3
     website: 2
-  score: 19
+  score: 16
   ispodcast: true
   isnoarchive: false
   innetwork: true

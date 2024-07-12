@@ -1,6 +1,6 @@
 ---
 title: Fabrizio Tarizzo - Sito personale
-date: "2024-06-21T18:53:02+02:00"
+date: "2024-07-10T18:47:33+02:00"
 description: Sito web personale di Fabrizio Tarizzo, sviluppatore, sysadmin e attivista
   per le libertà digitali
 params:
@@ -36,13 +36,12 @@ params:
     description: 3
     feedlangs: 1
     postcats: 3
-    posts: 3
     promoted: 0
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 17
+  score: 14
   ispodcast: false
   isnoarchive: false
   innetwork: true

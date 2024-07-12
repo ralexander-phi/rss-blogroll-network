@@ -8,6 +8,7 @@ params:
   feedid: 05ae1f66adce40abab59e60816b7d9b0
   websites:
     https://beardystarstuff.net/: true
+    https://denny.micro.blog/: false
   blogrolls: []
   recommended: []
   recommender:
@@ -17,6 +18,7 @@ params:
   relme:
     https://beardyguycreative.com/: true
     https://beardystarstuff.net/: true
+    https://denny.micro.blog/: true
     https://social.coop/@dennyhenke: true
   last_post_title: Let's talk about how we organize for the preservation and expansion
     of democracy
@@ -33,13 +35,12 @@ params:
     description: 0
     feedlangs: 1
     postcats: 0
-    posts: 3
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 16
+  score: 13
   ispodcast: false
   isnoarchive: false
   innetwork: true

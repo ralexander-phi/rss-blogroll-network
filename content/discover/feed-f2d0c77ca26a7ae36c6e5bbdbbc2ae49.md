@@ -17,32 +17,32 @@ params:
   - https://josh.blog/comments/feed
   - https://josh.blog/feed
   categories:
-  - Education
-  - GitHub for beginners
+  - Engineering
+  - accessibility
   relme: {}
-  last_post_title: 'Beginner’s guide to GitHub: Uploading files and folders to GitHub'
+  last_post_title: Exploring the challenges in creating an accessible sortable list
+    (drag-and-drop)
   last_post_description: |-
-    The next step in our GitHub for Beginners series is learning how to add files and folders to your GitHub repository.
-    The post Beginner’s guide to GitHub: Uploading files and folders to GitHub
-  last_post_date: "2024-07-08T13:00:51Z"
-  last_post_link: https://github.blog/2024-07-08-beginners-guide-to-github-uploading-files-and-folders-to-github/
+    Drag-and-drop is a highly interactive and visual interface. We often use drag-and-drop to perform tasks like uploading files, reordering browser bookmarks, or even moving a card in solitaire.
+    The
+  last_post_date: "2024-07-09T19:06:50Z"
+  last_post_link: https://github.blog/2024-07-09-exploring-the-challenges-in-creating-an-accessible-sortable-list-drag-and-drop/
   last_post_categories:
-  - Education
-  - GitHub for beginners
+  - Engineering
+  - accessibility
   last_post_language: ""
-  last_post_guid: 8112e29b904f45381b341706c202a9d9
+  last_post_guid: 8524374f1c27cc33a8feabeca48b78bb
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     postcats: 2
-    posts: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 19
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true

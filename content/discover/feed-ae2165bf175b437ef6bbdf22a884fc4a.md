@@ -12,6 +12,7 @@ params:
   feedtype: atom
   feedid: ae2165bf175b437ef6bbdf22a884fc4a
   websites:
+    https://pixelfed.de/@opendev: false
     https://pixelfed.de/opendev: true
   blogrolls: []
   recommended: []
@@ -47,13 +48,12 @@ params:
     description: 3
     feedlangs: 0
     postcats: 3
-    posts: 3
     promoted: 0
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 16
+  score: 13
   ispodcast: false
   isnoarchive: false
   innetwork: true

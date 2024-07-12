@@ -1,6 +1,6 @@
 ---
 title: Nicky's Blog
-date: "2024-07-09T03:12:40Z"
+date: "2024-07-11T04:24:34Z"
 description: The personal blog of a 30-something year old cis-male from the East of
   England. Topics include mental, physical, and emotional health, hobbies, and self-improvement.
 params:
@@ -28,13 +28,12 @@ params:
     description: 3
     feedlangs: 0
     postcats: 0
-    posts: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 16
+  score: 13
   ispodcast: false
   isnoarchive: false
   innetwork: true

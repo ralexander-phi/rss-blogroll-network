@@ -7,6 +7,7 @@ params:
   feedtype: rss
   feedid: 92ff85adaedd75d46d33a6c13a6df91f
   websites:
+    https://www.leaningforward.com/blog: false
     https://www.leaningforward.com/blog/: true
   blogrolls: []
   recommended: []
@@ -30,13 +31,12 @@ params:
     description: 0
     feedlangs: 1
     postcats: 1
-    posts: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 15
+  score: 12
   ispodcast: false
   isnoarchive: false
   innetwork: true

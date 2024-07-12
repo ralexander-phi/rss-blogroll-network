@@ -17,27 +17,26 @@ params:
     https://blog.mattcen.com/: true
     https://blog.mattcen.com/resume/: true
     https://github.com/mattcen: true
-  last_post_title: How do online calendars even work?
-  last_post_description: |-
-    This is a pretty rough post of my (meager) understanding of how online calendars work. Details may not be complete or 100% correct, but I needed to record this somewhere anyway.
-    Online calendars are
-  last_post_date: "2024-06-03T03:31:28Z"
-  last_post_link: https://blog.mattcen.com/2024/06/03/how-do-online-calendars-even-work/
+  last_post_title: Balance, capacity, and judgement
+  last_post_description: I very frequently find myself reflecting on, and struggling
+    with, the necessity for balance in various aspects of life, and how it can be
+    so challenging to get right. Here are some of my thoughts
+  last_post_date: "2024-07-10T14:33:00Z"
+  last_post_link: https://blog.mattcen.com/2024/07/10/balance-capacity-and-judgement/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 971f29276f8873276e4f1031726c2456
+  last_post_guid: 5c8f32098eb0e8b6df19ee7d5d3db944
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     postcats: 0
-    posts: 3
     promoted: 0
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 14
+  score: 11
   ispodcast: false
   isnoarchive: false
   innetwork: true

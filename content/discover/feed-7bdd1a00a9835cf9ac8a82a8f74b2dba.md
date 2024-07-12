@@ -8,7 +8,7 @@ params:
   feedid: 7bdd1a00a9835cf9ac8a82a8f74b2dba
   websites:
     https://rushkoff.com/: true
-    https://rushkoff.com/blog/: false
+    https://www.rushkoff.com/blog/: false
   blogrolls: []
   recommended: []
   recommender:
@@ -33,13 +33,12 @@ params:
     description: 3
     feedlangs: 1
     postcats: 1
-    posts: 3
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 20
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true

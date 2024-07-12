@@ -11,7 +11,7 @@ params:
   blogrolls: []
   recommended: []
   recommender:
-  - https://roytang.net/blog/feed/rss/
+  - https://roytang.net/blog/feed/rss
   - https://therealadam.com/feed.xml
   categories:
   - Tech Life
@@ -31,13 +31,12 @@ params:
     description: 0
     feedlangs: 1
     postcats: 1
-    posts: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 15
+  score: 12
   ispodcast: false
   isnoarchive: false
   innetwork: true

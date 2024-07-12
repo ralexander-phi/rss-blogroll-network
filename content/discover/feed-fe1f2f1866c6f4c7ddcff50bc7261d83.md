@@ -1,6 +1,6 @@
 ---
 title: B/X BLACKRAZOR
-date: "2024-07-08T14:08:32-07:00"
+date: "2024-07-10T04:55:45-07:00"
 description: ""
 params:
   feedlink: https://bxblackrazor.blogspot.com/feeds/posts/default
@@ -857,13 +857,12 @@ params:
     description: 0
     feedlangs: 0
     postcats: 0
-    posts: 3
     promoted: 0
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 15
+  score: 12
   ispodcast: false
   isnoarchive: false
   innetwork: true

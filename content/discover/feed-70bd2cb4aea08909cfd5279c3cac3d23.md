@@ -12,8 +12,15 @@ params:
   blogrolls: []
   recommended: []
   recommender:
+  - https://hacdias.com/feed.xml
+  - https://jlelse.blog/.min.rss
+  - https://jlelse.blog/.rss
+  - https://jlelse.blog/index.xml
+  - https://kevq.uk/feed
+  - https://kevq.uk/feed.xml
+  - https://kevq.uk/feed/
+  - https://kevq.uk/home.rss
   - https://kevquirk.com/feed
-  - https://kevquirk.com/feed/
   - https://kevquirk.com/notes-feed
   categories: []
   relme: {}
@@ -29,13 +36,12 @@ params:
     description: 3
     feedlangs: 0
     postcats: 0
-    posts: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 16
+  score: 13
   ispodcast: false
   isnoarchive: false
   innetwork: true

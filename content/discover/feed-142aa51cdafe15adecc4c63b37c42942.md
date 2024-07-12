@@ -1,6 +1,6 @@
 ---
 title: Swords &amp; Stitchery - Old Time Sewing &amp; Table Top Rpg Blog
-date: "2024-07-08T14:08:29-07:00"
+date: "2024-07-10T15:28:47-07:00"
 description: A blog about sewing machine repairs,but mainly my hobbies which include
   old school role playing games, science fiction,films, horror, and general geekery.
   Sit down and stay a spell.
@@ -3923,6 +3923,7 @@ params:
   - Rogue Moon
   - Rogue Space
   - Rogue Trader adventure
+  - Rogue World adventure
   - Rogues
   - Rogues Gallery
   - Role Aids
@@ -5615,31 +5616,32 @@ params:
   - “Ynys Bach”
   relme:
     https://swordsandstitchery.blogspot.com/: true
-  last_post_title: Marvel Super Heroes Rpg Thoughts on Marvel Comics Crystar The Crystal
-    Warrior Saga
-  last_post_description: So last year I covered  & reviewed The Marvel Super Heroes
-    Rpg The Sourebook of Crystar Crystal Warrior .The warriors of Crystallium have
-    certainly gotten airplay on our table top recently. And
-  last_post_date: "2024-07-08T12:38:28-07:00"
-  last_post_link: https://swordsandstitchery.blogspot.com/2024/07/marvel-super-heroes-rpg-thoughts-on.html
+  last_post_title: Everything In World War Two & Your Mother - The Free Marvel Super
+    Heroes rpg Netbook Adventure 'In The Shadows of Evil'- Middle East Madness Session
+    Report 2
+  last_post_description: So if you've been following our World War II campaign 'In
+    The Shadows of Evil' which is a free netbook adventure. We really dug in as we
+    took a hook flight to Egypt aboard a very nosey passenger
+  last_post_date: "2024-07-10T09:15:36-07:00"
+  last_post_link: https://swordsandstitchery.blogspot.com/2024/07/everything-in-world-war-two-your-mother.html
   last_post_categories:
-  - '''The unofficial canon project Marvel Super Heroes Facebook Group'
-  - Classic Marvel Super Heroes Rpg
-  - Saga of Crystar 1983 Comic Book
+  - '''In The Shadows of Evil'''
+  - Campaign
+  - Marvel Super Heroes Rpg
+  - Session Report
   last_post_language: ""
-  last_post_guid: b2b75803ce6730f3b2669ab708b09591
+  last_post_guid: 35bfbddf422809788c642a30535bc504
   score_criteria:
     cats: 5
     description: 3
     feedlangs: 0
     postcats: 3
-    posts: 3
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 26
+  score: 23
   ispodcast: false
   isnoarchive: false
   innetwork: true

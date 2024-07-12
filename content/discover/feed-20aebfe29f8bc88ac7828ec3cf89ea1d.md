@@ -14,28 +14,27 @@ params:
   categories: []
   relme:
     https://bartoszmilewski.com/: true
-  last_post_title: Comment on Algebras for Monads by Bartosz Milewski
+  last_post_title: Comment on Categories Great and Small by Bartosz Milewski
   last_post_description: |-
-    In reply to <a href="https://bartoszmilewski.com/2017/03/14/algebras-for-monads/#comment-219188">Drax Tayten</a>.
+    In reply to <a href="https://bartoszmilewski.com/2014/12/05/categories-great-and-small/#comment-219303">John</a>.
 
-    The two functors go in the opposite direction, so the composition U<sup>T</sup> ∘
-  last_post_date: "2024-06-07T10:54:40Z"
-  last_post_link: https://bartoszmilewski.com/2017/03/14/algebras-for-monads/#comment-219189
+    Yes, you're on the right track. In the following installments you'll see how more
+  last_post_date: "2024-07-09T08:15:52Z"
+  last_post_link: https://bartoszmilewski.com/2014/12/05/categories-great-and-small/#comment-219305
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 536aaff971c52c59e32a22bd624f8a7c
+  last_post_guid: 3162b61f32ba839b8647ce15833b6725
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
     postcats: 0
-    posts: 3
     promoted: 0
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 13
+  score: 10
   ispodcast: false
   isnoarchive: false
   innetwork: true

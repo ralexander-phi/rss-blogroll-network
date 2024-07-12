@@ -1,6 +1,6 @@
 ---
 title: Python Notes
-date: "2024-07-07T23:35:13-07:00"
+date: "2024-07-10T02:13:35-07:00"
 description: ""
 params:
   feedlink: https://pythonnotes.blogspot.com/feeds/posts/default
@@ -13,7 +13,6 @@ params:
   recommender: []
   categories: []
   relme:
-    https://draft.blogger.com/profile/16043745572254494898: true
     https://pythonnotes.blogspot.com/: true
   last_post_title: Why I stopped coding - and why I would like to do it again
   last_post_description: Sometimes I wonder why I stopped coding. No,the above mentioned
@@ -29,13 +28,12 @@ params:
     description: 0
     feedlangs: 0
     postcats: 0
-    posts: 3
     promoted: 0
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 10
+  score: 7
   ispodcast: false
   isnoarchive: false
   innetwork: true

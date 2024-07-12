@@ -8,13 +8,13 @@ params:
   feedid: ecdc92fac8433922124bdfacd7eb4c62
   websites:
     https://coryd.dev/: false
-    https://coryd.dev/books/: false
+    https://coryd.dev/books: false
     https://coryd.dev/contact: false
     https://coryd.dev/feeds: true
-    https://coryd.dev/links/: false
-    https://coryd.dev/music/: false
+    https://coryd.dev/links: false
+    https://coryd.dev/music: false
     https://coryd.dev/now: false
-    https://coryd.dev/watching/: false
+    https://coryd.dev/watching: false
     https://coryd.dev/webrings: false
   blogrolls: []
   recommended: []
@@ -25,6 +25,7 @@ params:
     https://coryd.dev/: true
     https://coryd.dev/contact: true
     https://coryd.dev/feeds: true
+    https://coryd.dev/music: true
     https://coryd.dev/now: true
     https://coryd.dev/webrings: true
     https://github.com/cdransf: true
@@ -43,13 +44,12 @@ params:
     description: 3
     feedlangs: 0
     postcats: 0
-    posts: 3
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 18
+  score: 15
   ispodcast: false
   isnoarchive: false
   innetwork: true

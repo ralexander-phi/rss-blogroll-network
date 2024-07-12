@@ -8,10 +8,11 @@ params:
   feedid: e1a2ebbc4bfcc1094214b48a539abda7
   websites:
     https://mxb.dev/: true
-    https://mxb.dev/notes/: false
+    https://mxb.dev/notes: false
   blogrolls: []
   recommended: []
-  recommender: []
+  recommender:
+  - https://hacdias.com/feed.xml
   categories: []
   relme:
     https://front-end.social/@mxbck: true
@@ -29,13 +30,12 @@ params:
     description: 3
     feedlangs: 0
     postcats: 0
-    posts: 3
-    promoted: 0
+    promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 13
+  score: 15
   ispodcast: false
   isnoarchive: false
   innetwork: true

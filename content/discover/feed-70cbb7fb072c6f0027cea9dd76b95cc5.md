@@ -10,10 +10,14 @@ params:
   blogrolls: []
   recommended: []
   recommender:
+  - https://danq.blog/comments/feed/
+  - https://danq.blog/feed/
   - https://danq.me/comments/feed/
   - https://danq.me/feed/
   - https://danq.me/kind/article/feed/
   - https://danq.me/kind/note/feed/
+  - https://danq.uk/comments/feed/
+  - https://danq.uk/feed/
   categories: []
   relme: {}
   last_post_title: Social media and teen mental health – Week in security with Tony
@@ -31,13 +35,12 @@ params:
     description: 3
     feedlangs: 1
     postcats: 0
-    posts: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 15
+  score: 12
   ispodcast: false
   isnoarchive: false
   innetwork: true

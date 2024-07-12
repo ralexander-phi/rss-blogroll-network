@@ -1,6 +1,6 @@
 ---
 title: Pavillon rouge et noir
-date: "2024-07-01T21:46:34+02:00"
+date: "2024-07-10T11:13:30+02:00"
 description: Pavillon rouge et noir, le blog de Pablo Rauzy
 params:
   feedlink: https://p4bl0.net/feed/rss2
@@ -12,36 +12,35 @@ params:
   recommended: []
   recommender: []
   categories:
-  - politique
-  - syndicalisme
+  - librisme
+  - vidéo
   relme:
     https://mamot.fr/@p4bl0: true
     https://p4bl0.net/: true
     https://pablo.plus/: true
     https://pablockchain.fr/: true
-  last_post_title: 'L''impasse du macronisme : on en sort, ou on fonce dans le mur'
-  last_post_description: Suite aux résultats du premier tour des législatives anticipées
-    de 2024, nous voilà finalement face à l'inéluctable choix entre la social-démocratie
-    du Nouveau Front populaire et le
-  last_post_date: "2024-07-01T18:00:00+02:00"
-  last_post_link: https://p4bl0.net/post/2024/07/L-impasse-du-macronisme-on-en-sort-ou-on-fonce-dans-le-mur
+  last_post_title: Paradoxe dans la pensée libriste à Pas Sage en Seine 2024
+  last_post_description: L'enregistrement vidéo de la conférence Paradoxe dans la
+    pensée libriste que j'ai donnée lors du festival Pas Sage En Seine 2024 le vendredi
+    31 mai a été mise en ligne sur PeerTube, j'en ai mis
+  last_post_date: "2024-07-10T13:12:00+02:00"
+  last_post_link: https://p4bl0.net/post/2024/06/Paradoxe-dans-la-pensee-libriste-a-Pas-Sage-en-Seine-2024
   last_post_categories:
-  - politique
-  - syndicalisme
+  - librisme
+  - vidéo
   last_post_language: ""
-  last_post_guid: d7d35b3dd1b7a5a33356bc5c6b762537
+  last_post_guid: 6b84a5b7f43696daaa1db27bd5480b14
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     postcats: 2
-    posts: 3
     promoted: 0
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 16
+  score: 13
   ispodcast: false
   isnoarchive: false
   innetwork: true

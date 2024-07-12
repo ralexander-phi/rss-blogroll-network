@@ -16,6 +16,7 @@ params:
   - https://indieweb.org/wiki/index.php?feed=atom&title=Special%3ARecentChanges
   - https://otavio.cc/feed.xml
   - https://www.manton.org/feed.xml
+  - https://www.manton.org/podcast.xml
   recommender: []
   categories:
   - Society & Culture
@@ -38,13 +39,12 @@ params:
     description: 3
     feedlangs: 1
     postcats: 0
-    posts: 3
     promoted: 0
-    promotes: 1
+    promotes: 2
     relme: 2
     title: 3
     website: 2
-  score: 16
+  score: 14
   ispodcast: true
   isnoarchive: false
   innetwork: true

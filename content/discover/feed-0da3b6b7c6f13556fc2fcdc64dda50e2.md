@@ -7,18 +7,23 @@ params:
   feedtype: rss
   feedid: 0da3b6b7c6f13556fc2fcdc64dda50e2
   websites:
-    https://www.nathalielawhead.com/candybox/: false
+    https://www.nathalielawhead.com/candybox: true
   blogrolls: []
   recommended: []
   recommender:
+  - https://danq.blog/comments/feed/
+  - https://danq.blog/feed/
   - https://danq.me/comments/feed/
   - https://danq.me/feed/
   - https://danq.me/kind/article/feed/
   - https://danq.me/kind/note/feed/
+  - https://danq.uk/comments/feed/
+  - https://danq.uk/feed/
   categories:
   - Games
   - Uncategorized
-  relme: {}
+  relme:
+    https://www.nathalielawhead.com/candybox: true
   last_post_title: Thinking About The Berlin Computerspiele Museum (Computer Games
     Museum)
   last_post_description: As I write this on my iPhone (oh god it’s so hard to blog
@@ -36,12 +41,11 @@ params:
     description: 3
     feedlangs: 1
     postcats: 2
-    posts: 3
     promoted: 5
     promotes: 0
-    relme: 0
+    relme: 2
     title: 3
-    website: 1
+    website: 2
   score: 18
   ispodcast: false
   isnoarchive: false

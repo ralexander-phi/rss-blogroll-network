@@ -14,33 +14,33 @@ params:
   recommended: []
   recommender: []
   categories:
-  - '#Purism'
+  - '#purismgamejam'
   relme:
     https://librem.one/: true
     https://puri.sm/: true
     https://social.librem.one/@doublerainbows: true
     https://social.librem.one/@purism: true
-  last_post_title: 'purism: Privacy meets power.'
-  last_post_description: 'Privacy meets power. Librem 11: Your freedom-focused tablet.https://puri.sm/products/librem-11/#Librem11
-    #Purism'
-  last_post_date: "2024-07-08T14:51:28Z"
-  last_post_link: https://social.librem.one/@purism/112751430127837545
+  last_post_title: 'purism: Exciting news! Our f'
+  last_post_description: 'Exciting news! Our first #purismgamejam just went into the
+    voting round. Check out the amazing ''symbiotic'' themed games created by our
+    community. These free software games showcase the power of open'
+  last_post_date: "2024-07-10T14:58:18Z"
+  last_post_link: https://social.librem.one/@purism/112762781578386893
   last_post_categories:
-  - '#Purism'
+  - '#purismgamejam'
   last_post_language: ""
-  last_post_guid: 10e45bc287ad6a52b84019ca1e96798d
+  last_post_guid: 96714d1a6624fc4db25f7eae4de67e3f
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
     postcats: 1
-    posts: 3
     promoted: 0
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 14
+  score: 11
   ispodcast: false
   isnoarchive: false
   innetwork: true

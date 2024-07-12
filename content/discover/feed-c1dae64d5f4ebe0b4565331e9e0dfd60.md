@@ -1,6 +1,6 @@
 ---
 title: Python Academy
-date: "2024-07-06T01:12:47-07:00"
+date: "2024-07-09T00:23:23-07:00"
 description: ""
 params:
   feedlink: https://python-academy.blogspot.com/feeds/posts/default
@@ -35,13 +35,12 @@ params:
     description: 0
     feedlangs: 0
     postcats: 0
-    posts: 3
     promoted: 0
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 15
+  score: 12
   ispodcast: false
   isnoarchive: false
   innetwork: true

@@ -169,6 +169,12 @@ block_domains:
   # Login wall
   - www.instagram.com
 
+  # Broken rel=me
+  - community.hachyderm.io
+  - vivaldi.com
+
+private_blocks_file: ../rss-private-blocks/private-blocks.yml
+
 crawl_threads: 8
 
 # Generous timeouts

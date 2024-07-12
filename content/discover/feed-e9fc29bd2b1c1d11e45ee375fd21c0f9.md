@@ -13,6 +13,8 @@ params:
     https://doughellmann.com/hellmann-bros/1906-04-30-san-francisco-chronicle/: false
     https://doughellmann.com/tags/openstack/: false
     https://doughellmann.com/tags/python/: false
+    https://www.doughellmann.com/: false
+    https://www.doughellmann.com/hellmann-bros/1906-04-30-san-francisco-chronicle/: false
   blogrolls: []
   recommended: []
   recommender: []
@@ -20,7 +22,10 @@ params:
   relme:
     https://doughellmann.com/: true
     https://doughellmann.com/hellmann-bros/1906-04-30-san-francisco-chronicle/: true
+    https://github.com/dhellmann: true
     https://hachyderm.io/@doughellmann: true
+    https://www.doughellmann.com/: true
+    https://www.doughellmann.com/hellmann-bros/1906-04-30-san-francisco-chronicle/: true
   last_post_title: sphinxcontrib-sqltable 2.1.1 - db cursor fix
   last_post_description: What’s new in 2.1.1? Access cursor before closing the db
     connection (contributions by dopas21) use the readthedocs.org theme for docs
@@ -34,13 +39,12 @@ params:
     description: 3
     feedlangs: 1
     postcats: 0
-    posts: 3
     promoted: 0
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 14
+  score: 11
   ispodcast: false
   isnoarchive: false
   innetwork: true

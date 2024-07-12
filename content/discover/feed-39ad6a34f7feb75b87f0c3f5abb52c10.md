@@ -8,13 +8,14 @@ params:
   feedid: 39ad6a34f7feb75b87f0c3f5abb52c10
   websites:
     https://david.shanske.com/: true
-    https://david.shanske.com/author/dshanske/: false
+    https://david.shanske.com/author/dshanske: false
   blogrolls: []
   recommended: []
   recommender: []
   categories: []
   relme:
     https://david.shanske.com/: true
+    https://david.shanske.com/author/dshanske: true
     https://github.com/dshanske: true
     https://profiles.wordpress.org/dshanske/: true
   last_post_title: Comment by Ton Zijlstra
@@ -31,13 +32,12 @@ params:
     description: 3
     feedlangs: 0
     postcats: 0
-    posts: 3
     promoted: 0
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 13
+  score: 10
   ispodcast: false
   isnoarchive: false
   innetwork: true

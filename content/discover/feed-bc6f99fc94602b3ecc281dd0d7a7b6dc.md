@@ -1,6 +1,6 @@
 ---
 title: everything changes
-date: "2024-07-02T15:11:10-04:00"
+date: "2024-07-09T13:47:59-04:00"
 description: Work coaching with Mandy Brown.
 params:
   feedlink: https://everythingchanges.us/feed.xml
@@ -27,13 +27,12 @@ params:
     description: 3
     feedlangs: 0
     postcats: 0
-    posts: 3
     promoted: 0
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 13
+  score: 10
   ispodcast: false
   isnoarchive: false
   innetwork: true

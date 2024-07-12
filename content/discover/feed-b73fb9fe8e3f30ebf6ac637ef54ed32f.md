@@ -7,8 +7,9 @@ params:
   feedtype: rss
   feedid: b73fb9fe8e3f30ebf6ac637ef54ed32f
   websites:
+    https://opengis.ch/: false
+    https://opengis.ch/blog: false
     https://www.opengis.ch/: true
-    https://www.opengis.ch/blog/: false
   blogrolls: []
   recommended: []
   recommender: []
@@ -30,13 +31,12 @@ params:
     description: 3
     feedlangs: 0
     postcats: 0
-    posts: 3
     promoted: 0
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 13
+  score: 10
   ispodcast: false
   isnoarchive: false
   innetwork: true

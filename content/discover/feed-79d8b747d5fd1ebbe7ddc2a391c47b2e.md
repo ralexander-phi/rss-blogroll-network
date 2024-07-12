@@ -34,13 +34,12 @@ params:
     description: 0
     feedlangs: 1
     postcats: 0
-    posts: 3
     promoted: 0
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 11
+  score: 8
   ispodcast: false
   isnoarchive: false
   innetwork: true

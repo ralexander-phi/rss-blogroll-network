@@ -8,6 +8,7 @@ params:
   feedid: 062dc1d7dcfc6beccb05da69ef859951
   websites:
     https://hyperborea.org/journal/: true
+    https://www.hyperborea.org/journal: false
   blogrolls: []
   recommended: []
   recommender: []
@@ -40,13 +41,12 @@ params:
     description: 3
     feedlangs: 1
     postcats: 3
-    posts: 3
     promoted: 0
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 17
+  score: 14
   ispodcast: false
   isnoarchive: false
   innetwork: true

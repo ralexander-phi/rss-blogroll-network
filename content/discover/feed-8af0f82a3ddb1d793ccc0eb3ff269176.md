@@ -13,7 +13,10 @@ params:
   recommender:
   - https://colinwalker.blog/dailyfeed.xml
   - https://colinwalker.blog/livefeed.xml
-  - https://roytang.net/blog/feed/rss/
+  - https://feeds.feedburner.com/johnjohnston
+  - https://johnjohnston.info/blog/comments/feed/
+  - https://johnjohnston.info/blog/feed/
+  - https://roytang.net/blog/feed/rss
   categories: []
   relme:
     https://phire.place/@vasta: true
@@ -32,13 +35,12 @@ params:
     description: 3
     feedlangs: 0
     postcats: 0
-    posts: 3
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 18
+  score: 15
   ispodcast: false
   isnoarchive: false
   innetwork: true

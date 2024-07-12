@@ -7,6 +7,7 @@ params:
   feedtype: rss
   feedid: 09cd3f10a54bd9ccc5caf48b9de69412
   websites:
+    https://kevq.uk/: false
     https://kevquirk.com/: true
     https://kevquirk.com/watch-log: false
   blogrolls:
@@ -44,6 +45,10 @@ params:
   - https://robinrendle.com/newsletterfeed.xml
   - https://www.lkhrs.com/index.xml
   recommender:
+  - https://hacdias.com/feed.xml
+  - https://jlelse.blog/.min.rss
+  - https://jlelse.blog/.rss
+  - https://jlelse.blog/index.xml
   - https://taonaw.com/categories/emacs-org-mode/feed.xml
   - https://taonaw.com/feed.xml
   - https://taonaw.com/podcast.xml
@@ -67,13 +72,12 @@ params:
     description: 3
     feedlangs: 1
     postcats: 0
-    posts: 3
     promoted: 5
     promotes: 10
     relme: 2
     title: 3
     website: 2
-  score: 29
+  score: 26
   ispodcast: false
   isnoarchive: false
   innetwork: true

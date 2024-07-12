@@ -17,34 +17,37 @@ params:
   - https://takeonrules.com/site-map/updates/index.xml
   - https://takeonrules.com/tags/emacs/index.xml
   categories:
-  - ENNIES
-  - Gen Con
-  - awards
-  - culture
+  - Connor Alexander
+  - Coyote & Crow
+  - horror
+  - interview
+  - tabletop
   relme: {}
-  last_post_title: Your kind, annual reminder that awards aren’t that important
-  last_post_description: Let’s all politely clap and get on with our lives.
-  last_post_date: "2024-07-09T00:10:01Z"
-  last_post_link: https://www.rascal.news/your-kind-annual-reminder-that-awards-arent-that-important/
+  last_post_title: Ahu Tiiko trades Coyote & Crow’s Indigipunk vibes for simmering,
+    woodsy horror
+  last_post_description: Connor Alexander’s first official expansion to the Native-made
+    RPG narrows its genre focus and scope to weave a web of interconnected mysteries.
+  last_post_date: "2024-07-10T22:36:03Z"
+  last_post_link: https://www.rascal.news/ahu-tiiko-trades-coyote-crows-indigipunk-vibes-for-simmering-woodsy-horror/
   last_post_categories:
-  - ENNIES
-  - Gen Con
-  - awards
-  - culture
+  - Connor Alexander
+  - Coyote & Crow
+  - horror
+  - interview
+  - tabletop
   last_post_language: ""
-  last_post_guid: 149d6cb6719ec0c65054ada54ca3135b
+  last_post_guid: d46f8ea6558ad52c8cfe04e0baffa4c3
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
     postcats: 3
-    posts: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 19
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true

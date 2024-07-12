@@ -7,39 +7,38 @@ params:
   feedtype: rss
   feedid: ffc40425b9d3e7cdb1f4e63f6d8726dd
   websites:
-    https://michal.sapka.me/#bsd: false
-    https://michal.sapka.me/#emacs: false
+    https://michal.sapka.me/bsd/: false
     https://michal.sapka.me/cool-emacs/: false
+    https://michal.sapka.me/emacs/: false
   blogrolls: []
   recommended: []
   recommender:
   - https://marisabel.nl/feeds/blog.php
   - https://marisabel.nl/feeds/tech-blog.php
+  - https://marisabel.nl/rss.php
   categories: []
   relme: {}
-  last_post_title: Computing happy
+  last_post_title: Even bionic implants are being abandoned by companies
   last_post_description: |-
-    One thing I’ve noticed about myself and my relationship with technology is that I care.
-    Not about productivity, getting stuff done and all those things.
-    I do them at my job, they pay bills.
-    But
-  last_post_date: "2024-07-08T23:24:00+02:00"
-  last_post_link: https://michal.sapka.me/blog/2024/computing-happy/
+    Just when I thought tech can’t get any worse, companies are abandoning working implants.
+
+    … Byland had to find out secondhand that the company had abandoned the technology and was on the verge of
+  last_post_date: "2024-07-09T22:22:00+02:00"
+  last_post_link: https://michal.sapka.me/blog/2024/bioninc-impalant-abandoned/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 7b63af26deeae8bbc0a5dd4b3089b43d
+  last_post_guid: 2e27a9c817282475550cd6de3faa8ef0
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     postcats: 0
-    posts: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 1
-  score: 16
+  score: 13
   ispodcast: false
   isnoarchive: false
   innetwork: true

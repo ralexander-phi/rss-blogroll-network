@@ -1,6 +1,6 @@
 ---
 title: BASTIONLAND
-date: "2024-07-08T22:07:47+01:00"
+date: "2024-07-10T08:52:14+01:00"
 description: A BASTION OF ODDITY
 params:
   feedlink: https://www.bastionland.com/feeds/posts/default
@@ -269,25 +269,24 @@ params:
   - x-files
   relme:
     https://www.bastionland.com/: true
-  last_post_title: Pilots & Commanders
+  last_post_title: Hired MACs
   last_post_description: ""
-  last_post_date: "2024-07-03T08:47:08+01:00"
-  last_post_link: https://www.bastionland.com/2024/07/pilots-commanders.html
+  last_post_date: "2024-07-10T08:51:33+01:00"
+  last_post_link: https://www.bastionland.com/2024/07/hired-macs.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 62691bec108fea7fec7942c2f059d84c
+  last_post_guid: 53f5787ae37fddbc90e1ba43735ab313
   score_criteria:
     cats: 5
     description: 3
     feedlangs: 0
     postcats: 0
-    posts: 3
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 23
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true

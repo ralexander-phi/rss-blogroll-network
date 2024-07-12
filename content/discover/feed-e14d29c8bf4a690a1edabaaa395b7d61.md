@@ -14,41 +14,40 @@ params:
   - https://colinwalker.blog/livefeed.xml
   categories:
   - Personal
-  - carpentry
-  - electronics
-  - house building works 2024
-  - programming
-  - python
-  - raspberry pi
+  - cookery
+  - cooking
+  - dancast
+  - physics
+  - published on gemini
+  - tea
   relme: {}
-  last_post_title: '[Article] Building a Secret Cabinet'
-  last_post_description: As part of efforts to build myself a new bedroom in our attic,
-    I expanded my carpentry, electronics, and Python skills by building a remotely-triggered
-    secret cabinet in my bookcase!
-  last_post_date: "2024-07-08T20:52:40+01:00"
-  last_post_link: https://danq.me/2024/07/08/secret-cabinet/
+  last_post_title: '[Article] A Pressure Cooker for Tea'
+  last_post_description: I'm told that black tea brewed at 90℃ is bad, but brewed
+    at 100℃ is good. What if we built a specialised pressure cooker that released
+    tea into superheated water at, say, 110℃? Could that be...
+  last_post_date: "2024-07-09T13:13:41+01:00"
+  last_post_link: https://danq.me/2024/07/09/tea-pressure/
   last_post_categories:
   - Personal
-  - carpentry
-  - electronics
-  - house building works 2024
-  - programming
-  - python
-  - raspberry pi
+  - cookery
+  - cooking
+  - dancast
+  - physics
+  - published on gemini
+  - tea
   last_post_language: ""
-  last_post_guid: 3d30562d9e399ff06a90354b5faa2421
+  last_post_guid: 04d689e287140db6c64c37d86939ec37
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
     postcats: 3
-    posts: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 18
+  score: 15
   ispodcast: false
   isnoarchive: false
   innetwork: true

@@ -16,11 +16,16 @@ params:
   recommender:
   - https://colinwalker.blog/dailyfeed.xml
   - https://colinwalker.blog/livefeed.xml
+  - https://hacdias.com/feed.xml
+  - https://kevq.uk/feed
+  - https://kevq.uk/feed.xml
+  - https://kevq.uk/feed/
+  - https://kevq.uk/home.rss
   - https://kevquirk.com/feed
-  - https://kevquirk.com/feed/
   - https://kevquirk.com/notes-feed
   - https://marisabel.nl/feeds/blog.php
   - https://marisabel.nl/feeds/tech-blog.php
+  - https://marisabel.nl/rss.php
   categories: []
   relme:
     https://buttondown.email/ownyourweb: true
@@ -38,13 +43,12 @@ params:
     description: 3
     feedlangs: 1
     postcats: 0
-    posts: 3
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 19
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true

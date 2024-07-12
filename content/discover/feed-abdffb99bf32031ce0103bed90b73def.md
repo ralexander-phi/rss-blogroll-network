@@ -12,6 +12,7 @@ params:
   recommender:
   - https://marisabel.nl/feeds/blog.php
   - https://marisabel.nl/feeds/tech-blog.php
+  - https://marisabel.nl/rss.php
   categories:
   - '#WeblogPoMo2024,'
   relme: {}
@@ -30,13 +31,12 @@ params:
     description: 3
     feedlangs: 1
     postcats: 1
-    posts: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 16
+  score: 13
   ispodcast: false
   isnoarchive: false
   innetwork: true

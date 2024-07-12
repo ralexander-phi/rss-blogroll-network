@@ -1,6 +1,6 @@
 ---
 title: NOT ALL WHO WANDER ARE LOST
-date: "2024-07-09T03:20:36Z"
+date: "2024-07-11T04:32:59Z"
 description: 'Not All Who Wander Are Lost: Longform thoughts and shorter reflections
   as I journey along.'
 params:
@@ -14,6 +14,7 @@ params:
   recommender:
   - https://marisabel.nl/feeds/blog.php
   - https://marisabel.nl/feeds/tech-blog.php
+  - https://marisabel.nl/rss.php
   categories: []
   relme: {}
   last_post_title: Sunday Review (07-06-2024)
@@ -28,13 +29,12 @@ params:
     description: 3
     feedlangs: 0
     postcats: 0
-    posts: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 16
+  score: 13
   ispodcast: false
   isnoarchive: false
   innetwork: true

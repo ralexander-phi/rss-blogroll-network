@@ -83,12 +83,11 @@ params:
   - https://rebeccatoh.co/comments/feed/
   - https://wand3r.net/feed/?type=rss
   - https://winnielim.org/feed/?cat=2%2C4%2C8
+  - https://www.zylstra.org/blog/comments/feed/
+  - https://www.zylstra.org/blog/feed/
   recommender: []
   categories:
-  - ideas
-  - julyreply2024
-  - notes
-  - reactions
+  - memories
   relme:
     https://github.com/immarisabel: true
     https://github.com/immarisabel/: true
@@ -96,32 +95,25 @@ params:
     https://indieweb.social/@immarisabel: true
     https://marisabel.nl/: true
     https://marisabel.nl/public/blog.php: true
-  last_post_title: 'RE:My Notebook: A Place For My Ideas To Grow.'
-  last_post_description: |-
-    This is in reply to Jame's post on how he grows his ideas.
-    Hi James,
-    I love your idea of keeping an idea notebook in a single file! I started something similar a while ago —a sort of bullet journal
-  last_post_date: "2024-07-08T00:00:00Z"
-  last_post_link: https://marisabel.nl/public/blog/RE:My_Notebook_A_Place_For_My_Ideas_To_Grow
+  last_post_title: When The Stars Disappear
+  last_post_description: "\uFEFF\n\x57\x68\x65\x6E\x20\x49\x20\x77\x61\x73\x20\x73\x69\x78\x2C\x20\x49\x20\x68\x61\x64\x20\x61\x20\x62\x65\x73\x74\x20\x66\x72\x69\x65\x6E\x64\x2E\x20\x57\x65\x20\x6C\x69\x76\x65\x64\x20\x69\x6E\x20\x74\x68\x65\x20\x63\x69\x74\x79\x2C\x20\x77\x68\x65\x72\x65\x20\x73\x68\x65\x20\x68\x61\x64\x20\x6E\x65\x76\x65\x72\x20\x73\x65\x65\x6E\x20\x74\x68\x65\x20\x73\x74\x61\x72\x73\x2E\x20\x53\x68\x65\x20\x73\x61\x77\x20\x74\x68\x65\x20\x4D\x69\x6C\x6B\x79\x20\x57\x61\x79\x20\x6F\x6E\x20\x74\x68\x65\x20\x62\x69\x67\x20\x73\x63\x72\x65\x65\x6E\x20\x61\x74\x20\x74\x68\x65\x20\x63\x69\x6E\x65\x6D\x61\x20\x61\x6E\x64\x20\x64\x72\x61\x67\x67\x65\x64\x20\x6D\x65\x20\x61\x6C\x6F\x6E\x67\x20\x74\x6F\x20\x73\x65\x65\x20\x69\x74\x2E\x20\x57\x65\x20\x6C\x61\x69\x64\x20\x74\x68\x65\x72\x65\x2C"
+  last_post_date: "2024-07-09T00:00:00Z"
+  last_post_link: https://marisabel.nl/public/blog/When_The_Stars_Disappear
   last_post_categories:
-  - ideas
-  - julyreply2024
-  - notes
-  - reactions
+  - memories
   last_post_language: ""
   last_post_guid: e85dca578f38cb7629064d956da30de6
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
-    postcats: 3
-    posts: 3
+    postcats: 1
     promoted: 0
     promotes: 10
     relme: 2
     title: 3
     website: 2
-  score: 27
+  score: 22
   ispodcast: false
   isnoarchive: false
   innetwork: true

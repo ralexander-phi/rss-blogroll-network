@@ -15,7 +15,9 @@ params:
   - Swift
   - Talk
   relme:
+    https://getbezel.app/: true
     https://github.com/nonstrict-hq: true
+    https://mastodon.social/@bezelapp: true
     https://mastodon.social/@mathijskadijk: true
     https://mastodon.social/@nonstrict: true
     https://mastodon.social/@tomlokhorst: true
@@ -37,13 +39,12 @@ params:
     description: 3
     feedlangs: 1
     postcats: 2
-    posts: 3
     promoted: 0
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 16
+  score: 13
   ispodcast: false
   isnoarchive: false
   innetwork: true

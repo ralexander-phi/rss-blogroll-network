@@ -109,6 +109,7 @@ params:
   - https://svbck.org/blog/rss.xml
   - https://swordsandstitchery.blogspot.com/feeds/posts/default
   - https://tales-of-the-lunar-lands.blogspot.com/feeds/posts/default?alt=rss
+  - https://taonaw.com/feed.xml
   - https://thedicesociety.com/index.xml
   - https://throneofsalt.blogspot.com/feeds/posts/default
   - https://tracydurnell.com/feed/
@@ -143,35 +144,32 @@ params:
   - https://zverok.space/feed.xml
   recommender: []
   categories:
-  - emacs
-  - programming
+  - personal
   relme:
     https://dice.camp/@takeonrules: true
     https://github.com/jeremyf: true
     https://takeonrules.com/: true
-  last_post_title: Using the Link Hint Package to Extend Eldoc Functionality
-  last_post_description: "Summary: \nA quick walk through and code example to improve
-    the usability of inline documentation provided by the active language server.\n\n
-    \       Over the last few months, I’ve been writing Go Lang"
-  last_post_date: "2024-06-21T16:12:30-04:00"
-  last_post_link: https://takeonrules.com/2024/06/21/using-the-link-hint-package-to-extend-eldoc-functionality/
+  last_post_title: On Leaving the Land of Goshen
+  last_post_description: "Summary: \nIn July we plan to move from Indiana to Michigan.
+    \ In this post, I reflect on the trees that have grown up during our residency
+    at our Goshen home.\n\n        \n\n[Differences, not uniformity,]"
+  last_post_date: "2024-07-09T11:47:39-04:00"
+  last_post_link: https://takeonrules.com/2024/07/09/on-leaving-the-land-of-goshen/
   last_post_categories:
-  - emacs
-  - programming
+  - personal
   last_post_language: ""
-  last_post_guid: f997a27883c4b79979a7723eb656b336
+  last_post_guid: cea9c4dde8f654a6ba4d6dca3ce48d77
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
-    postcats: 2
-    posts: 3
+    postcats: 1
     promoted: 0
     promotes: 10
     relme: 2
     title: 3
     website: 2
-  score: 26
+  score: 22
   ispodcast: false
   isnoarchive: false
   innetwork: true

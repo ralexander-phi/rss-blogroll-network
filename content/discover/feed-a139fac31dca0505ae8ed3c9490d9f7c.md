@@ -1,6 +1,6 @@
 ---
 title: Terence Eden activity
-date: "2024-07-08T20:30:17Z"
+date: "2024-07-10T20:30:34Z"
 description: ""
 params:
   feedlink: https://gitlab.com/edent.atom
@@ -19,36 +19,37 @@ params:
     https://keybase.io/edent: true
     https://mastodon.social/@Edent: true
     https://mastodon.social/@edent: true
+    https://shkspr.mobi/: true
+    https://shkspr.mobi/blog: true
     https://shkspr.mobi/blog/: true
     https://stackoverflow.com/users/1127699/terence-eden: true
   last_post_title: Terence Eden pushed to project branch main at Terence Eden / Solar
     Data
   last_post_description: |-
     Terence Eden
-    (28a38bb2)
+    (c74c4555)
 
     at
-    08 Jul 20:30
+    10 Jul 20:30
 
 
     Latest Update
-  last_post_date: "2024-07-08T20:30:17Z"
-  last_post_link: https://gitlab.com/edent/solar-data/-/commit/28a38bb295d83c29b0ab2f0d525cef9dd1e8fa6c
+  last_post_date: "2024-07-10T20:30:34Z"
+  last_post_link: https://gitlab.com/edent/solar-data/-/commit/c74c4555302b15a8ee6510c8ddb2cfdf27837eb4
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 8ee365ab14a0cf0708eb2ce9b97782eb
+  last_post_guid: 25075ec29e3729eea5aaaaec50d976e6
   score_criteria:
     cats: 0
     description: 0
     feedlangs: 0
     postcats: 0
-    posts: 3
     promoted: 0
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 10
+  score: 7
   ispodcast: false
   isnoarchive: false
   innetwork: true

@@ -7,6 +7,7 @@ params:
   feedtype: atom
   feedid: 9f62a729522eba68e5b7dd9cee48caec
   websites:
+    https://how2map.com/: false
     https://www.how2map.com/: true
   blogrolls: []
   recommended: []
@@ -75,6 +76,9 @@ params:
   - xml
   - xsd
   relme:
+    https://fosstodon.org/@jodygarnett: true
+    https://github.com/jodygarnett: true
+    https://how2map.com/: true
     https://www.blogger.com/profile/10376195727731958785: true
     https://www.how2map.com/: true
   last_post_title: FOSS4G 2018
@@ -94,13 +98,12 @@ params:
     description: 3
     feedlangs: 0
     postcats: 3
-    posts: 3
     promoted: 0
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 21
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true

@@ -7,6 +7,7 @@ params:
   feedtype: rss
   feedid: f628e4d4df95ffd4da4aa64e9e9f2a55
   websites:
+    https://geepawhill.org/: false
     https://www.geepawhill.org/: true
   blogrolls: []
   recommended: []
@@ -28,13 +29,12 @@ params:
     description: 3
     feedlangs: 0
     postcats: 0
-    posts: 3
     promoted: 0
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 13
+  score: 10
   ispodcast: false
   isnoarchive: false
   innetwork: true

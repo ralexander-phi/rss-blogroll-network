@@ -59,13 +59,12 @@ params:
     description: 3
     feedlangs: 1
     postcats: 3
-    posts: 3
     promoted: 5
     promotes: 9
     relme: 2
     title: 3
     website: 2
-  score: 31
+  score: 28
   ispodcast: false
   isnoarchive: false
   innetwork: true

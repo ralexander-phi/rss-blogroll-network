@@ -14,7 +14,6 @@ params:
   categories:
   - Drivers
   relme:
-    https://draft.blogger.com/profile/17483047845050494642: true
     https://muizelaar.blogspot.com/: true
   last_post_title: Counting function calls per second
   last_post_description: ""
@@ -28,13 +27,12 @@ params:
     description: 0
     feedlangs: 0
     postcats: 0
-    posts: 3
     promoted: 0
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 11
+  score: 8
   ispodcast: false
   isnoarchive: false
   innetwork: true

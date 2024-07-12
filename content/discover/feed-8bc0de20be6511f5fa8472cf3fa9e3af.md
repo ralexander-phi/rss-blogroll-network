@@ -16,27 +16,27 @@ params:
   - http://scripting.com/rssNightly.xml
   categories: []
   relme: {}
-  last_post_title: 'View From the Nuba Mountains: An Interview with Kuna'
-  last_post_description: An interview with Kuna (a pseudonym for her protection),
-    a Nuba diaspora returnee currently displaced within Sudan due to the ongoing war
-    between the Rapid Support Forces and the Sudanese Armed
-  last_post_date: "2024-07-08T17:25:27Z"
-  last_post_link: https://logicmag.io/issue-21-medicine-and-the-body/view-from-the-nuba-mountains-an-interview-with-kuna
+  last_post_title: 'Coming of Age during Wartime in Sudan: A Conversation with Omnia
+    Mustafa'
+  last_post_description: Omina Mustafa and Khadijah Abdurqhman discuss Mustafa’s experience
+    of race and racialization as an African Arab person from northern Sudan, and the
+    atrocities being committed against the people of
+  last_post_date: "2024-07-10T14:14:33Z"
+  last_post_link: https://logicmag.io/issue-21-medicine-and-the-body/coming-of-age-during-wartime-in-sudan-a-conversation-with-omnia-mustafa
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 58e4b64bba3e77c9e5267328cd0ba7d6
+  last_post_guid: f9e70facebe04eef9ee963b651039596
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
     postcats: 0
-    posts: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 16
+  score: 13
   ispodcast: false
   isnoarchive: false
   innetwork: true

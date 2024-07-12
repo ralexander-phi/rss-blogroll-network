@@ -38,13 +38,12 @@ params:
     description: 0
     feedlangs: 1
     postcats: 3
-    posts: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 15
+  score: 12
   ispodcast: false
   isnoarchive: false
   innetwork: true

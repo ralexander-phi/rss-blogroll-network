@@ -33,7 +33,10 @@ params:
   - https://www.michalzelazny.com/feed/
   - https://blog.numericcitizen.me/podcast.xml
   - https://excited-pixels.com/comments/feed/
+  - https://www.manton.org/podcast.xml
   - https://manuelmoreale.com/feed/instagram
+  - https://mastodon.social/tags/mjtsaiupdate.rss
+  - https://mjtsai.com/blog/comments/feed/
   - https://om.co/comments/feed/
   - https://www.feedio.co/@thenewsprint/feed
   - https://www.curtisfamily.org.uk/comments/feed/
@@ -57,13 +60,12 @@ params:
     description: 3
     feedlangs: 1
     postcats: 0
-    posts: 3
     promoted: 0
     promotes: 10
     relme: 2
     title: 3
     website: 2
-  score: 25
+  score: 22
   ispodcast: true
   isnoarchive: false
   innetwork: true

@@ -6,10 +6,15 @@ params:
   feedlink: https://go.dev/blog/feed.atom
   feedtype: atom
   feedid: 2f02a05b9ae2b09d6abb5aa771db4a68
-  websites: {}
+  websites:
+    https://go.dev/blog: false
   blogrolls: []
   recommended: []
   recommender:
+  - https://hacdias.com/feed.xml
+  - https://jlelse.blog/.min.rss
+  - https://jlelse.blog/.rss
+  - https://jlelse.blog/index.xml
   - https://takeonrules.com/index.xml
   - https://takeonrules.com/site-map/updates/index.xml
   - https://takeonrules.com/tags/emacs/index.xml
@@ -28,13 +33,12 @@ params:
     description: 0
     feedlangs: 0
     postcats: 0
-    posts: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
-    website: 0
-  score: 11
+    website: 1
+  score: 9
   ispodcast: false
   isnoarchive: false
   innetwork: true

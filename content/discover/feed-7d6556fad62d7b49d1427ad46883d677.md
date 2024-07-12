@@ -70,13 +70,12 @@ params:
     description: 3
     feedlangs: 0
     postcats: 0
-    posts: 3
     promoted: 0
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 18
+  score: 15
   ispodcast: false
   isnoarchive: false
   innetwork: true

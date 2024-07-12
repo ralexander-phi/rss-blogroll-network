@@ -7,6 +7,7 @@ params:
   feedtype: rss
   feedid: 88abfe601c7dea0405166a4c8c9dbfa3
   websites:
+    https://manton.org/: false
     https://www.manton.org/: true
   blogrolls:
   - https://www.manton.org/.well-known/recommendations.opml
@@ -66,13 +67,12 @@ params:
     description: 3
     feedlangs: 1
     postcats: 0
-    posts: 3
     promoted: 0
     promotes: 10
     relme: 2
     title: 3
     website: 2
-  score: 25
+  score: 22
   ispodcast: true
   isnoarchive: false
   innetwork: true

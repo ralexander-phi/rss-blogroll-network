@@ -1,6 +1,6 @@
 ---
 title: GROGNARDIA
-date: "2024-07-08T22:38:58-04:00"
+date: "2024-07-10T20:52:18-04:00"
 description: Musings and Memories from a Lifetime of Roleplaying
 params:
   feedlink: https://grognardia.blogspot.com/feeds/posts/default
@@ -668,13 +668,12 @@ params:
     description: 3
     feedlangs: 0
     postcats: 3
-    posts: 3
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 26
+  score: 23
   ispodcast: false
   isnoarchive: false
   innetwork: true

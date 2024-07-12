@@ -6,10 +6,12 @@ params:
   feedlink: https://www.paritybit.ca/feed.xml
   feedtype: atom
   feedid: dd65b19c5b2d7a3ece9b2b3d11314cc2
-  websites: {}
+  websites:
+    https://www.paritybit.ca/: false
   blogrolls: []
   recommended: []
   recommender:
+  - https://hacdias.com/feed.xml
   - https://takeonrules.com/index.xml
   - https://takeonrules.com/site-map/updates/index.xml
   - https://takeonrules.com/tags/emacs/index.xml
@@ -27,13 +29,12 @@ params:
     description: 0
     feedlangs: 0
     postcats: 0
-    posts: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
-    website: 0
-  score: 11
+    website: 1
+  score: 9
   ispodcast: false
   isnoarchive: false
   innetwork: true

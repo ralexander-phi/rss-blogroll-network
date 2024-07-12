@@ -11,7 +11,10 @@ params:
     https://jamesvandyne.com/runs/: false
   blogrolls: []
   recommended: []
-  recommender: []
+  recommender:
+  - https://jlelse.blog/.min.rss
+  - https://jlelse.blog/.rss
+  - https://jlelse.blog/index.xml
   categories: []
   relme:
     https://github.com/jamesvandyne/: true
@@ -30,13 +33,12 @@ params:
     description: 0
     feedlangs: 1
     postcats: 0
-    posts: 3
-    promoted: 0
+    promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 11
+  score: 13
   ispodcast: false
   isnoarchive: false
   innetwork: true
