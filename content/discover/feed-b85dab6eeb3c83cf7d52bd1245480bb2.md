@@ -9,6 +9,10 @@ params:
   websites:
     https://ashfurrow.com/: true
   blogrolls: []
+  in_blogrolls:
+  - title: ""
+    description: ""
+    id: 4e2ec23ac536a5d58f2702b4603e3554
   recommended: []
   recommender:
   - https://jlelse.blog/.min.rss

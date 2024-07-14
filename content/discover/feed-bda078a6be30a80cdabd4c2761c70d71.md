@@ -9,6 +9,19 @@ params:
   websites:
     https://erinkissane.com/: true
   blogrolls: []
+  in_blogrolls:
+  - title: Joe Ross - Blogroll
+    description: ""
+    id: 650443250ffb67b78dd5a0dc8c2f3ba9
+  - title: Frank Meeuwsen - Blogroll
+    description: ""
+    id: eb9b59206a8ca682cd6c967f084a4555
+  - title: Joe Ross - Blogroll
+    description: ""
+    id: 75715a591f59a83d8859794fd63ae54a
+  - title: Joe Ross - Blogroll
+    description: ""
+    id: fde3eb7349836cff1e3161245d8f3c7a
   recommended: []
   recommender:
   - https://frankmeeuwsen.com/feed.xml

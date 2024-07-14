@@ -12,8 +12,13 @@ params:
     https://meyerweb.com/: false
     https://meyerweb.com/eric/thoughts: true
   blogrolls: []
+  in_blogrolls:
+  - title: Chris Burnell Blogroll
+    description: ""
+    id: 7becef5fc95d0b51be024a2830568f06
   recommended: []
-  recommender: []
+  recommender:
+  - https://chrisburnell.com/feed.xml
   categories:
   - Rebecca
   relme:
@@ -32,12 +37,12 @@ params:
     description: 3
     feedlangs: 1
     postcats: 1
-    promoted: 0
+    promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 12
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true

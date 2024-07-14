@@ -8,6 +8,10 @@ params:
   feedid: 1cbea5c0feb4c3a8c6efc68078138afb
   websites: {}
   blogrolls: []
+  in_blogrolls:
+  - title: Take on Rules Public Blogroll
+    description: ""
+    id: 661f7c3d693616149785e81936cf96e2
   recommended: []
   recommender:
   - https://takeonrules.com/index.xml

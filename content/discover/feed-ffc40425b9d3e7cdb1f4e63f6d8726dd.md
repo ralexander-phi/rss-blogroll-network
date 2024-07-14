@@ -11,6 +11,10 @@ params:
     https://michal.sapka.me/cool-emacs/: false
     https://michal.sapka.me/emacs/: false
   blogrolls: []
+  in_blogrolls:
+  - title: ""
+    description: ""
+    id: 2b4c94bc1b8b6c8483882e4beaedc16f
   recommended: []
   recommender:
   - https://marisabel.nl/feeds/blog.php

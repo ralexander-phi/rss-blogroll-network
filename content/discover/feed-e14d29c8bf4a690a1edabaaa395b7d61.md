@@ -8,6 +8,10 @@ params:
   feedid: e14d29c8bf4a690a1edabaaa395b7d61
   websites: {}
   blogrolls: []
+  in_blogrolls:
+  - title: Colin Walker's readroll
+    description: ""
+    id: e6f62030c0a74fdcd1c99a1b492f6d21
   recommended: []
   recommender:
   - https://colinwalker.blog/dailyfeed.xml

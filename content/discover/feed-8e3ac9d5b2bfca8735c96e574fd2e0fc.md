@@ -9,9 +9,15 @@ params:
   websites:
     https://testkeis.wordpress.com/: true
   blogrolls: []
+  in_blogrolls:
+  - title: Roy Tang's Blogroll
+    description: ""
+    id: 9a988b678bcc9cdb383ef996387855af
   recommended: []
   recommender:
+  - https://roytang.net/all/feed/rss/
   - https://roytang.net/blog/feed/rss
+  - https://roytang.net/index.xml
   categories:
   - Chrome DevTools
   - eviltester

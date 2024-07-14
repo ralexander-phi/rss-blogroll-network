@@ -115,7 +115,7 @@
 
 <div class="columns">
 
-  <div class="column is-one-third section">
+  <div class="column is-one-half section">
     <h3 class="subtitle is-3">Related Sites</h3>
     {{ if .Params.relme }}
     <ul>
@@ -142,8 +142,8 @@
     {{ end }}
   </div>
 
-  <div class="column is-one-third section">
-    <h3 class="subtitle is-3">Blogroll</h3>
+  <div class="column is-one-half section">
+    <h3 class="subtitle is-3">Recommendations</h3>
     {{ if .Params.recommended }}
       Web feeds discovered via OPML blogroll
       <ul class="pl-4">
@@ -161,11 +161,40 @@
       </p>
     {{ end }}
   </div>
+</div>
 
-  <div class="column is-one-third section">
-    <h3 class="subtitle is-3">Subscribers</h3>
-    {{ if .Params.recommender }}
+<div class="columns">
+  <div class="column is-one-half section">
+    <h3 class="subtitle is-3">Found in blogrolls</h3>
+    {{ if .Params.in_blogrolls }}
+      <p class="block">
       Blogrolls that include this feed
+      </p>
+      <ul class="pl-4">
+      {{ range $rec := .Params.in_blogrolls }}
+      <p class="block">
+        <a href="/blogrolls/br-{{ $rec.id }}">{{ $rec.title }}</a>
+        {{ if $rec.description }}
+        - {{ $rec.description }}
+        {{ end }}
+      </p>
+      {{ end }}
+      </ul>
+    {{ else }}
+      <p class="block">
+      None found.
+      </p>
+      <p class="block p-3" style="border-left: 0.2em solid #4258ff">
+      If you'd like to promote this feed you can add it to your OPML blogroll.
+      You'll appear here as a subscriber after the next crawl if your site is part of the network.
+      </p>
+    {{ end }}
+  </div>
+
+  <div class="column is-one-half section">
+    <h3 class="subtitle is-3">Recommended by</h3>
+    {{ if .Params.recommender }}
+      Feeds pointing to a blogroll that recommends this feed
       <ul class="pl-4">
       {{ range $rec := .Params.recommender }}
         {{ partialCached "feed_short.html" (dict "context" $ctx "rec" $rec) $rec }}

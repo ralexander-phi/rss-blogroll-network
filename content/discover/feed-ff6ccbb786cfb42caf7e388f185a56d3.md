@@ -10,6 +10,18 @@ params:
     https://josh.blog/: true
   blogrolls:
   - https://josh.blog/.well-known/recommendations.opml
+  in_blogrolls:
+  - title: Your Feeds
+    description: ""
+    id: c33ed4f6ab2b4055fadbfad39d41c36e
+  - title: robalexdev
+    description: robalexdev's subscription list. List created by feedlandDatabase
+      v0.7.54.
+    id: 7def71058aaab40ff83909b86eff9005
+  - title: davewiner/blogroll
+    description: davewiner's subscription list, blogroll category. List created by
+      feedlandDatabase v0.7.55.
+    id: 8da940851a665bf7e2ba1a0682fc7fa7
   recommended:
   - http://scripting.com/rss.xml
   - https://aaron.blog/feed/

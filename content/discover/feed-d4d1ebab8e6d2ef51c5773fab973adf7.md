@@ -10,6 +10,11 @@ params:
   feedid: d4d1ebab8e6d2ef51c5773fab973adf7
   websites: {}
   blogrolls: []
+  in_blogrolls:
+  - title: davewiner/blogroll
+    description: davewiner's subscription list, blogroll category. List created by
+      feedlandDatabase v0.7.55.
+    id: 8da940851a665bf7e2ba1a0682fc7fa7
   recommended: []
   recommender:
   - http://scripting.com/rss.xml

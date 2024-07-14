@@ -11,6 +11,7 @@ params:
     https://www.manton.org/: true
   blogrolls:
   - https://www.manton.org/.well-known/recommendations.opml
+  in_blogrolls: []
   recommended:
   - http://scripting.com/rss.xml
   - https://aows.co/blog?format=rss

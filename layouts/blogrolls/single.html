@@ -1,0 +1,44 @@
+{{ define "extratitle" }}
+<nav class="breadcrumb" aria-label="breadcrumbs">
+  <ul>
+    <li><a href="/">Home</a></li>
+    <li><a href="/blogrolls/">Blogrolls</a></li>
+    <li class="is-active"><a href="#" aria-current="page">{{ .Title }}</a></li>
+  </ul>
+</nav>
+{{ end }}
+
+{{- define "main" -}}
+
+<section class="hero mb-6">
+  <div class="hero-body">
+
+  <h2 class="subtitle is-3 mb-1">{{ .Title | truncate 120 }}</h2>
+  <p class="is-size-6">
+  <a href="{{ .Params.link }}">
+  {{ .Params.link }}
+  </a>
+  </p>
+
+  {{ if .Description }}
+  <p class="block is-size-5 pt-5">
+  {{ .Description | truncate 240 }}
+  </p>
+  {{ end }}
+
+    <h2 class="subtitle is-4 pt-6">Recommended feeds</h2>
+    {{ range $k, $v := .Params.recommends }}
+    <p class="block">
+    <a class="is-size-5" href="/discover/feed-{{ $v.id }}/">
+      {{ $v.title }}
+    </a>
+    {{ if $v.description }}
+    -
+    {{ $v.description }}
+    {{ end }}
+    </p>
+    {{ end }}
+  </div>
+</section>
+
+{{- end -}}

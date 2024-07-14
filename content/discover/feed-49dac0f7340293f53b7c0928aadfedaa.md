@@ -11,6 +11,10 @@ params:
   websites:
     https://talkpython.fm/: true
   blogrolls: []
+  in_blogrolls:
+  - title: Planet Python
+    description: ""
+    id: 63826648a34be342fc027f97571f1a6c
   recommended: []
   recommender: []
   categories:
@@ -44,12 +48,12 @@ params:
     description: 3
     feedlangs: 1
     postcats: 1
-    promoted: 0
+    promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 13
+  score: 18
   ispodcast: true
   isnoarchive: false
   innetwork: true

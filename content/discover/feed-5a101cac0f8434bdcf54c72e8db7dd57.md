@@ -9,6 +9,17 @@ params:
   websites:
     https://notes.pault.ag/: true
   blogrolls: []
+  in_blogrolls:
+  - title: robalexdev
+    description: robalexdev's subscription list. List created by feedlandDatabase
+      v0.7.54.
+    id: 7def71058aaab40ff83909b86eff9005
+  - title: Planet Debian
+    description: ""
+    id: 4b58bf166d81bd8f38b7c8dca18c6834
+  - title: Planet Ubuntu
+    description: ""
+    id: 2e7081f355cc59bbf52d230711c6cd29
   recommended: []
   recommender:
   - https://alexsci.com/blog/rss.xml

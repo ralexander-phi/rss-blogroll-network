@@ -9,6 +9,10 @@ params:
   websites:
     https://rsms.me/: false
   blogrolls: []
+  in_blogrolls:
+  - title: Adam Keys - Blogroll
+    description: ""
+    id: 9c926b53f0c9c2eae0b00ac7b25b6099
   recommended: []
   recommender:
   - https://therealadam.com/feed.xml

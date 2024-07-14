@@ -10,6 +10,17 @@ params:
     https://frankmeeuwsen.com/: true
   blogrolls:
   - https://frankmeeuwsen.com/.well-known/recommendations.opml
+  in_blogrolls:
+  - title: Colin Walker's readroll
+    description: ""
+    id: e6f62030c0a74fdcd1c99a1b492f6d21
+  - title: johnjohnston/blogroll
+    description: johnjohnston's subscription list, blogroll category. List created
+      by feedlandDatabase v0.7.54.
+    id: a5055187291ff08d5f2ce7e9d27f78cb
+  - title: Jeroen Sangers - Blogroll
+    description: ""
+    id: eaff02c5b823b06c8ce11bb82ddd8f37
   recommended:
   - http://scripting.com/rss.xml
   - http://www.theskyiscrape.com/feeds/posts/default
@@ -128,7 +139,6 @@ params:
   - https://werd.io/content/all?_t=rss
   - https://werd.io/content/bookmarkedpages?_t=rss
   - https://www.bjornfranke.nl/comments/feed/
-  - https://www.jeremycherfas.net/blog.rss
   - https://www.neondystopia.com/?feed=comments-rss2
   - https://www.neondystopia.com/?feed=rss2
   - https://www.pelicancrossing.net/netwars/index.xml

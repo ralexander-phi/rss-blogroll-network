@@ -9,6 +9,10 @@ params:
   websites:
     https://aaron.blog/: true
   blogrolls: []
+  in_blogrolls:
+  - title: Links for Josh Betz
+    description: ""
+    id: e95f4bbd4e48a622672e6ca597d8f4b3
   recommended: []
   recommender:
   - https://josh.blog/comments/feed

@@ -314,6 +314,36 @@ func (a *Analysis) FindBlogrollsSuggestingFeed(feed *FeedInfo) []string {
 	return blogrolls
 }
 
+func (a *Analysis) PopulateBlogrollPagesForFeed(feed *FeedInfo, blogrolls []string, blogrollMap map[string]*BlogrollInfo) {
+	for _, blogroll := range blogrolls {
+		data, has := blogrollMap[blogroll]
+		if has {
+			feed.Params.InBlogroll = append(
+				feed.Params.InBlogroll,
+				BlogrollBrief{
+					Title:       data.Title,
+					Description: data.Description,
+					Id:          data.Params.BlogrollId,
+				},
+			)
+		}
+	}
+}
+
+func (a *Analysis) PopulateFeedForBlogroll(feed *FeedInfo, blogrolls []string, blogrollMap map[string]*BlogrollInfo) {
+	for _, blogroll := range blogrolls {
+		data, has := blogrollMap[blogroll]
+		if has {
+			data.Params.Recommends = append(data.Params.Recommends,
+				BlogrollRecommendation{
+					Title:       feed.Title,
+					Description: feed.Description,
+					Id:          feed.Params.FeedID,
+				})
+		}
+	}
+}
+
 func (a *Analysis) FindWebsitesRecommendingBlogrolls(blogrolls []string) []string {
 	if len(blogrolls) < 1 {
 		return []string{}
@@ -355,7 +385,7 @@ func (a *Analysis) PopulateScore(feed *FeedInfo) {
 	// Do others recommend this feed?
 	// 5 points if any
 	promotedScore := 0
-	if len(feed.Params.Recommender) > 0 {
+	if len(feed.Params.InBlogroll) > 0 {
 		promotedScore = 5
 	}
 	feed.Params.ScoreCriteria["promoted"] = promotedScore
@@ -385,7 +415,7 @@ func (a *Analysis) PopulateScore(feed *FeedInfo) {
 	for _, verified := range feed.Params.RelMe {
 		if verified {
 			relMeScore = 2
-			isSocial = true // TODO: keep this?
+			//isSocial = true // TODO: keep this?
 		} else {
 			relMeScore = max(relMeScore, 1)
 		}
@@ -524,12 +554,24 @@ func (a *Analysis) BuildRelMeClusters() (map[string]int, map[int][]string) {
 }
 
 func (a *Analysis) Analyze() {
+	rows, err := a.db.
+		Model(&Blogroll{}).
+		Rows()
+	ohno(err)
+	blogrollDataByLink := map[string]*BlogrollInfo{}
+	for rows.Next() {
+		var row Blogroll
+		a.db.ScanRows(rows, &row)
+		blogroll := NewBlogrollInfo(row)
+		blogrollDataByLink[blogroll.Params.Link] = blogroll
+	}
+
 	// Tarjan to consolidate all verified rel=me profiles
 	a.relMeClusters, a.relMeClustersRev = a.BuildRelMeClusters()
 	// clusters - { A=>1, B=>1, C=>2, D=2, E=>3, F=4 }
 	// reverse  - { 1=>[A,B], 2=>[C,D], 3=>[E], 4=>[F] }
 
-	rows, err := a.db.
+	rows, err = a.db.
 		Model(&Feed{}).
 		Rows()
 	ohno(err)
@@ -555,6 +597,8 @@ func (a *Analysis) Analyze() {
 		a.PopulateCategoriesForFeed(feed)
 		a.PopulateLanguageForFeed(feed)
 		a.PopulateLastPostForFeed(feed)
+		a.PopulateBlogrollPagesForFeed(feed, rec_blogrolls, blogrollDataByLink)
+		a.PopulateFeedForBlogroll(feed, rec_blogrolls, blogrollDataByLink)
 
 		a.PopulateScore(feed)
 
@@ -566,5 +610,9 @@ func (a *Analysis) Analyze() {
 		if feed.Params.InNetwork && len(feed.Params.LastPostTitle) > 0 {
 			feed.Save()
 		}
+	}
+
+	for _, data := range blogrollDataByLink {
+		data.Save()
 	}
 }

@@ -12,6 +12,7 @@ params:
     https://vladcampos.com/: true
   blogrolls:
   - https://vladcampos.com/.well-known/recommendations.opml
+  in_blogrolls: []
   recommended:
   - https://indieweb.org/wiki/index.php?feed=atom&title=Special%3ARecentChanges
   - https://otavio.cc/feed.xml

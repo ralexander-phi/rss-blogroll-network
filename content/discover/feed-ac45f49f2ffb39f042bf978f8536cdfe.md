@@ -9,6 +9,10 @@ params:
   websites:
     https://melissawen.github.io/: true
   blogrolls: []
+  in_blogrolls:
+  - title: Planet Debian
+    description: ""
+    id: 4b58bf166d81bd8f38b7c8dca18c6834
   recommended: []
   recommender: []
   categories: []
@@ -30,12 +34,12 @@ params:
     description: 3
     feedlangs: 0
     postcats: 0
-    promoted: 0
+    promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 10
+  score: 15
   ispodcast: false
   isnoarchive: false
   innetwork: true

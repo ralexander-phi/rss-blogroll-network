@@ -11,6 +11,10 @@ params:
   websites:
     https://luijten.org/: true
   blogrolls: []
+  in_blogrolls:
+  - title: Frank Meeuwsen - Blogroll
+    description: ""
+    id: eb9b59206a8ca682cd6c967f084a4555
   recommended: []
   recommender:
   - https://frankmeeuwsen.com/feed.xml

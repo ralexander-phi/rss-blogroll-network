@@ -9,6 +9,10 @@ params:
   websites:
     https://mko.re/: true
   blogrolls: []
+  in_blogrolls:
+  - title: Planet Jabber
+    description: ""
+    id: f2ab55bd190114b9e37ed7f2961a79d1
   recommended: []
   recommender: []
   categories: []
@@ -32,12 +36,12 @@ params:
     description: 0
     feedlangs: 0
     postcats: 0
-    promoted: 0
+    promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 7
+  score: 12
   ispodcast: false
   isnoarchive: false
   innetwork: true

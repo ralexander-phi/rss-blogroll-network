@@ -9,6 +9,10 @@ params:
   websites:
     https://alexeremin.blogspot.com/: true
   blogrolls: []
+  in_blogrolls:
+  - title: Planet Illumos
+    description: ""
+    id: 9210799de8425c60186821945fc5156f
   recommended: []
   recommender: []
   categories:
@@ -63,12 +67,12 @@ params:
     description: 0
     feedlangs: 0
     postcats: 0
-    promoted: 0
+    promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 12
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true

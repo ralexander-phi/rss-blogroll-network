@@ -12,6 +12,11 @@ params:
     https://simply.micro.jenett.org/: false
     https://simply.personal.jenett.org/: false
   blogrolls: []
+  in_blogrolls:
+  - title: johnjohnston/blogroll
+    description: johnjohnston's subscription list, blogroll category. List created
+      by feedlandDatabase v0.7.54.
+    id: a5055187291ff08d5f2ce7e9d27f78cb
   recommended: []
   recommender:
   - https://feeds.feedburner.com/johnjohnston

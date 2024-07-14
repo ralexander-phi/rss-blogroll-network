@@ -8,6 +8,10 @@ params:
   feedid: 5f23f91d9bb6f65d1a17b8fe68ecbfe4
   websites: {}
   blogrolls: []
+  in_blogrolls:
+  - title: blogroll.opml
+    description: ""
+    id: e7acde5ed1e3276a025694ed4d825e33
   recommended: []
   recommender:
   - https://visitmy.website/feed.xml

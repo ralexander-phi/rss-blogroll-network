@@ -8,6 +8,10 @@ params:
   feedid: c5540498f9879efcc5deba263bac4ccf
   websites: {}
   blogrolls: []
+  in_blogrolls:
+  - title: ""
+    description: ""
+    id: 2b4c94bc1b8b6c8483882e4beaedc16f
   recommended: []
   recommender:
   - https://marisabel.nl/feeds/blog.php

@@ -9,6 +9,10 @@ params:
   websites:
     https://hillenius.net/tags/emacs/: true
   blogrolls: []
+  in_blogrolls:
+  - title: Planet Emacslife
+    description: ""
+    id: 7919deeb2e6142c0249d61f42e19c22d
   recommended: []
   recommender: []
   categories: []
@@ -26,12 +30,12 @@ params:
     description: 3
     feedlangs: 1
     postcats: 0
-    promoted: 0
+    promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 11
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true

@@ -11,6 +11,13 @@ params:
     https://gkeenan.co/avgb: false
     https://gkeenan.co/avgb/: false
   blogrolls: []
+  in_blogrolls:
+  - title: Kev Quirk's Blogroll
+    description: ""
+    id: af94d85e509bec272bc4314eb947a67d
+  - title: Kev Quirk's Blogroll
+    description: ""
+    id: d3c6398765901e01429e7ceffd5164f1
   recommended: []
   recommender:
   - https://kevq.uk/feed

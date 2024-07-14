@@ -9,10 +9,19 @@ params:
   websites:
     https://zeldman.com/: true
   blogrolls: []
+  in_blogrolls:
+  - title: Chris Burnell Blogroll
+    description: ""
+    id: 7becef5fc95d0b51be024a2830568f06
+  - title: davewiner/blogroll
+    description: davewiner's subscription list, blogroll category. List created by
+      feedlandDatabase v0.7.55.
+    id: 8da940851a665bf7e2ba1a0682fc7fa7
   recommended: []
   recommender:
   - http://scripting.com/rss.xml
   - http://scripting.com/rssNightly.xml
+  - https://chrisburnell.com/feed.xml
   categories:
   - Best practices
   - Career

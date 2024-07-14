@@ -12,6 +12,10 @@ params:
     https://meyerweb.com/: false
     https://meyerweb.com/eric/thoughts: true
   blogrolls: []
+  in_blogrolls:
+  - title: Planet Igalia
+    description: ""
+    id: 6eb0bd50806ca71e195eb21d88c93507
   recommended: []
   recommender: []
   categories:
@@ -37,12 +41,12 @@ params:
     description: 3
     feedlangs: 1
     postcats: 3
-    promoted: 0
+    promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 14
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true

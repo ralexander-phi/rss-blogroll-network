@@ -1,0 +1,47 @@
+{{ define "extratitle" }}
+<nav class="breadcrumb" aria-label="breadcrumbs">
+  <ul>
+    <li><a href="/">Home</a></li>
+    <li class="is-active"><a href="#" aria-current="page">Blogrolls</a></li>
+  </ul>
+</nav>
+{{ end }}
+
+
+{{ define "main" }}
+
+{{ $blogrolls := (sort .Pages "Title") }}
+
+<h2 class="subtitle is-4">Blogroll List</h2>
+
+<p class="block">
+The blogroll network currently includes
+{{ $blogrolls | len | lang.FormatNumberCustom 0 }} OPML blogrolls.
+</p>
+
+<ul>
+{{- range $blogrolls -}}
+<li class="pt-5">
+  <a href="/blogrolls/br-{{ .Params.blogroll_id}}/">
+
+  {{ if .Title }}
+    {{ .Title | truncate 120 }}
+  {{ else }}
+    {{ .Params.link | truncate 120 }}
+  {{ end }}
+
+  </a>
+
+  <br />
+  <i>{{ .Params.recommends | len }} recommended feeds</i>
+
+  {{ if .Description }}
+  <br />
+  {{ .Description | truncate 120 }}
+  {{ end }}
+</li>
+{{- end -}}
+</ul>
+</p>
+
+{{- end -}}

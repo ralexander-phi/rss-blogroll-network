@@ -17,8 +17,19 @@ params:
     https://coryd.dev/watching: false
     https://coryd.dev/webrings: false
   blogrolls: []
+  in_blogrolls:
+  - title: Chris Burnell Blogroll
+    description: ""
+    id: 7becef5fc95d0b51be024a2830568f06
+  - title: RSS Feeds for all Robb Knight's Blogroll
+    description: ""
+    id: 6a72507ba2e935838f624759bf29fde4
+  - title: Feeds for cssjoy webri.ng
+    description: ""
+    id: 56fb5d46572d863c78edd7bd5bd25295
   recommended: []
   recommender:
+  - https://chrisburnell.com/feed.xml
   - https://rknight.me/subscribe/posts/rss.xml
   categories: []
   relme:

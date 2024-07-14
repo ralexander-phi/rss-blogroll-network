@@ -5,11 +5,63 @@ import (
 	"os"
 )
 
+type BlogrollInfo struct {
+	Title       string             `yaml:"title"`
+	Date        string             `yaml:"date"`
+	Description string             `yaml:"description"`
+	Params      BlogrollInfoParams `yaml:"params"`
+}
+
+type BlogrollInfoParams struct {
+	Link       string                   `yaml:"link"`
+	BlogrollId string                   `yaml:"blogroll_id"`
+	Recommends []BlogrollRecommendation `yaml:"recommends"`
+}
+
+type BlogrollRecommendation struct {
+	Title       string `yaml:"title"`
+	Description string `yaml:"description"`
+	Id          string `yaml:"id"`
+}
+
+func NewBlogrollInfo(row Blogroll) *BlogrollInfo {
+	params := BlogrollInfoParams{
+		Link:       row.Link,
+		BlogrollId: row.BlogrollId,
+	}
+	return &BlogrollInfo{
+		Title:       row.Title,
+		Date:        row.Date,
+		Description: row.Description,
+		Params:      params,
+	}
+}
+
+func (f *BlogrollInfo) Save() {
+	output, err := yaml.Marshal(f)
+	ohno(err)
+
+	// Markdown uses `---` for YAML frontmatter
+	sep := []byte("---\n")
+	output = append(sep, output...)
+	output = append(output, sep...)
+
+	path := "content/blogrolls/br-" + f.Params.BlogrollId + ".md"
+	err = os.WriteFile(path, output, os.FileMode(int(0660)))
+	ohno(err)
+}
+
 type FeedInfo struct {
 	Title       string         `yaml:"title"`
 	Date        string         `yaml:"date"`
 	Description string         `yaml:"description"`
 	Params      FeedInfoParams `yaml:"params"`
+}
+
+type BlogrollBrief struct {
+	Title       string `yaml:"title"`
+	Description string `yaml:"description"`
+	Id          string `yaml:"id"`
 }
 
 type FeedInfoParams struct {
@@ -18,6 +70,7 @@ type FeedInfoParams struct {
 	FeedID             string          `yaml:"feedid"`
 	Websites           map[string]bool `yaml:"websites"`
 	Blogrolls          []string        `yaml:"blogrolls"`
+	InBlogroll         []BlogrollBrief `yaml:"in_blogrolls"`
 	Recommended        []string        `yaml:"recommended"`
 	Recommender        []string        `yaml:"recommender"`
 	Categories         []string        `yaml:"categories"`

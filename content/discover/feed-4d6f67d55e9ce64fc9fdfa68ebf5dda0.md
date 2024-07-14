@@ -12,6 +12,7 @@ params:
     https://blog.numericcitizen.me/: true
   blogrolls:
   - https://blog.numericcitizen.me/.well-known/recommendations.opml
+  in_blogrolls: []
   recommended:
   - http://scripting.com/rss.xml
   - https://basicappleguy.com/basicappleblog?format=rss

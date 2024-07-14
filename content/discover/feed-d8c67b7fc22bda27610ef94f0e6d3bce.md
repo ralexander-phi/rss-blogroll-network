@@ -1,0 +1,938 @@
+---
+title: ATOR
+date: "2024-07-03T22:28:36+02:00"
+description: "ATOR (Arc-Team Open Research). \nThe blog spreads tests, problems and
+  results of Arc-Team research in archaeology, following the guidelines of the OpArc
+  (Open Archaeology) project."
+params:
+  feedlink: https://arc-team-open-research.blogspot.com/feeds/posts/default
+  feedtype: atom
+  feedid: d8c67b7fc22bda27610ef94f0e6d3bce
+  websites:
+    https://arc-team-open-research.blogspot.com/: true
+  blogrolls: []
+  in_blogrolls:
+  - title: Planet Debian Derivatives
+    description: ""
+    id: 16b4fff0a55ccf954bbc8a70b37513bf
+  recommended: []
+  recommender: []
+  categories:
+  - 123D Catch
+  - "1915"
+  - "1969"
+  - "2012"
+  - 2D
+  - "300000"
+  - 360-degree video
+  - 3D
+  - 3D PDF
+  - 3D documentation
+  - 3D engine
+  - 3D from single image
+  - 3D manual tracking
+  - 3D real-time
+  - 3D reconstruction
+  - 3D scanning
+  - 3D segmentation
+  - 3D skull
+  - 3D viewer
+  - 3D web-gallery
+  - 3DHOP
+  - 3d printing
+  - 4D
+  - 4D reconstruction
+  - 64 bit
+  - ATLAB
+  - ATOR
+  - Abstract
+  - Accademia di Agricoltura Scienze e Lettere
+  - Adamello
+  - Adrian Secord
+  - Aerial archaeology
+  - Agisoft
+  - Alessandro Bezzi
+  - Algudnei
+  - Alpine Archaeology
+  - Amazon Alexa
+  - Analytical chemistry
+  - Ancient silver mines
+  - Android
+  - Android App
+  - AnthropoloG+
+  - Antrcom Onlus
+  - Antrocom
+  - Apollo 11
+  - App Inventor
+  - Aramus
+  - Aramus Excavations and Fieldschool
+  - Aramus method
+  - Arc Team
+  - Arc-Team
+  - Arc-Tean
+  - Arc-Tool
+  - Archaeobotany
+  - Archaeological Forensic Facial Reconstruction
+  - Archaeological Project Manager
+  - Archaeological Virtual Assistant
+  - Archaeological control
+  - Archaeological documentation
+  - Archaeological drawing
+  - Archaeological expedition
+  - Archaeological record
+  - Archaeological vector drawing
+  - Archaeology
+  - Archaeometry
+  - ArcheOS
+  - ArcheOS 4
+  - ArcheOS 5
+  - ArcheOS 6
+  - ArcheOS Hypatia
+  - ArcheOS ML
+  - ArcheOS Theodoric
+  - ArcheoFOSS
+  - ArcheoROV
+  - Archeodrone
+  - Archeologia e Calcolatori
+  - Archeology
+  - Archeonaute
+  - Archeorobotics
+  - Archäologie und Computer
+  - Archäologisches Korrespondenzblatt
+  - Ardshir I.
+  - Armenia
+  - Ascoli Piceno
+  - Associazione Antropologica Italiana
+  - Augmented Reality
+  - Australopithecus
+  - Australopithecus afarensis
+  - Australopithecus sediba
+  - Austria
+  - Austro-Hungarian Army
+  - Autodesk
+  - Autonomous Province of Trento
+  - BRLCAD
+  - Beni Culturali
+  - Bernardo Clesio
+  - Biosphere3D
+  - Björk
+  - Blender
+  - Blender 3D
+  - Blender Magazine Italia
+  - Bob Max
+  - Book of Abstract
+  - Botticelli
+  - Brazil
+  - Brescia
+  - Brusciano
+  - Budapest Múmia Projekt
+  - Bundler
+  - Bundler camera position
+  - Bus dela Spia
+  - CAA
+  - CAA Siena
+  - CAD
+  - CC
+  - CC-BY
+  - CCD width
+  - CHNT
+  - CMVS
+  - CMVS/PMVS
+  - |-
+    CNR-ISPC
+    Rainbow Encounter
+    Open Science
+    Open Data
+    Open Archaeology
+  - CNR-ISTI
+  - CNR-ivalsa
+  - CSV
+  - CT-Scan
+  - Caldonazzo
+  - Camera database
+  - Candlesticks chart
+  - Capitolium
+  - Catasto A
+  - Caucasus
+  - Centro Studi Antoniani
+  - Cesium
+  - Christoph Zollikofer
+  - Churchkhela
+  - Cicero Moraes
+  - Cloud Compare
+  - CloudCompare
+  - Coherent Anatomical Deformation
+  - ComEasy
+  - Comelico Superiore
+  - Commercial Archaeology
+  - Computer Vision
+  - Conflict Archeology
+  - Corte Sgarzerie
+  - Course
+  - Creative Common
+  - Creative Commons
+  - Cro-Magnon
+  - Cultural Heritage
+  - Cultural Heritage and New Techologies
+  - Cultural Landscape
+  - Cultural paths
+  - Cultways
+  - Cura
+  - Cyces
+  - Cycles
+  - DADP
+  - DBMS
+  - DEM
+  - DICOM
+  - DIY
+  - DIY flying drone
+  - DOI
+  - DTM
+  - Database
+  - Datum
+  - Debian
+  - Debian Jessie
+  - Debian package
+  - Debreate
+  - Denis Francisci
+  - Digital Archaeological Documentation Project
+  - Digital Archaeology
+  - Direct Visual Flight
+  - Diving
+  - Dmanisi
+  - Dolomites
+  - Dolomiti
+  - Dr. Paulo Miamoto
+  - Dynamic 3D
+  - EURAC
+  - Edgardo Baldi
+  - Edgaredo Baldi
+  - Endoscope
+  - European Project
+  - Evora University
+  - Excavation
+  - Expedition
+  - FACCE
+  - FFR
+  - FLOSS
+  - FOSS4G
+  - FOSS4G-it 2020
+  - Fabrizio Furnari
+  - Facce. I molti volti della storia umana
+  - Faces
+  - Facial MoCap
+  - Facial recognition
+  - Fars
+  - Festa dei Gigli
+  - Field Archaeology
+  - Firouzabad
+  - First Person View
+  - Firuzabad
+  - Flight of the penguin
+  - Flo
+  - Florence
+  - Florence University
+  - Flores
+  - Forensic facial reconstruction
+  - Forensic reconstruction
+  - Fort Rocchetta
+  - Francesco Petrarca
+  - Franco Ugo Rollo
+  - Free Hand Control
+  - Free Software
+  - Free and Open Source Software
+  - Free/Libre and Open Source Software
+  - FreeCAD
+  - Freehand Editing
+  - Fusion
+  - G+
+  - GDAL
+  - GFOSS
+  - GFOSS Day
+  - GIS
+  - GNU
+  - GNU/Linux
+  - GPL 3
+  - GPS
+  - GRASS
+  - GRASS GIS
+  - GUI
+  - Galaxy Y Duos
+  - Gauss-Boaga Rome40
+  - Geoarchaeology
+  - Georgia
+  - Georgian traditions
+  - Giacomo Rossetti
+  - Gianbattista Morgagni
+  - Gimp
+  - Giotto
+  - Giovanni Canestrini
+  - GitHub
+  - GitLab
+  - Giugno Antoniano
+  - Gnewarchaeology
+  - Google
+  - Gran Zebrù
+  - Great War
+  - Ground Control Point
+  - HTML%
+  - Happy Easter
+  - Henry IV
+  - Hidden Cultura Heritage
+  - Hidden Cultural Heritage
+  - Hominini
+  - Homo erectus
+  - Homo erectus pekinensis
+  - Homo ergaster
+  - Homo floresiensis
+  - Homo georgicus
+  - Homo heidelbergensis
+  - Homo sapiens
+  - Hopper Rubber
+  - Hrazdan
+  - Human evolution
+  - Hypatia
+  - IBM
+  - IGN
+  - IRC
+  - ISMA-CNR
+  - Iceman
+  - Iceweasel
+  - Image Processing Laboratory
+  - Image Proessing Lab
+  - Image-Based Modeling
+  - ImageMagick
+  - Imago Animi
+  - Immigration
+  - InVesalius
+  - Indoor flight
+  - Infra-Red
+  - Inkscape
+  - Innsbruck University
+  - International Space Station
+  - Intervallo
+  - Iran
+  - Iris van Herpen
+  - IsMEO
+  - Istanbul
+  - Istituto Italiano di antropologia
+  - Italian Royal Army
+  - Italian Virtual Heritage School
+  - Italian patron saints
+  - Italy
+  - Jennifer Lawrence
+  - KK
+  - KNM-WT 15000
+  - Kartitsch
+  - Kate
+  - Kentstrapper
+  - Khachapuri
+  - Khinkali
+  - Khovle Gora
+  - Kinect
+  - Kotayk
+  - Krassowsky
+  - Kustár Ágnes
+  - Kyle
+  - Königspitze
+  - LB1
+  - LIDAR
+  - Lady Gaga
+  - Lago di Tovel
+  - Lake Monticello
+  - Lake Tovel
+  - Langgrubenjoch
+  - Lapping machine
+  - Lattice modifier
+  - Layout
+  - Ledro
+  - Lena
+  - Letícia Castro
+  - Libera Informatica
+  - LibreCAD
+  - Linux
+  - Linux Day
+  - Linux commercial
+  - LoD
+  - Luca Belludi
+  - Luca Bezzi
+  - Lund University
+  - MIT License
+  - MVE
+  - Made in Space
+  - MakeHuman
+  - Manchester method
+  - Marcellin Boule
+  - Maurizio Napolitano
+  - Medicine's History Museum
+  - Mesh Editing
+  - MeshLab
+  - MeshRoom
+  - Metodo Aramus
+  - MicMac
+  - Moacir Elias Santos
+  - Mobile App
+  - Mobile Mapping
+  - Modern Conflict Archaeology
+  - Monsampolo del Tronto
+  - Monte Rive
+  - Moreno Tiziani
+  - Morgagni
+  - Mt. Calisio
+  - Multi View Stereoreconstruction
+  - Multicopter
+  - Museum
+  - Museum of Anthropology of Padua
+  - Museum of the Mask
+  - MyPaint
+  - Mycroft
+  - NASA
+  - NAZA dji
+  - NDVI
+  - NGB
+  - Nariokotome Boy
+  - Natalie Portman
+  - Natural Language Programming
+  - Nauticamare
+  - Neanderthal
+  - Netfabb
+  - Newbie
+  - Nexus
+  - Nhia Ho
+  - Nicola Carrara
+  - OPen Source
+  - OSGeo
+  - Oetztal
+  - Oetzy
+  - Olynthus mill
+  - OpArc
+  - Open Acces
+  - Open Anthropology
+  - Open Archaeology
+  - Open Heritage
+  - Open Osurce
+  - Open Source Hardware
+  - Open Techne
+  - Open data
+  - OpenCycleMap
+  - OpenJUMP
+  - OpenLayer
+  - OpenMVG
+  - OpenMVS
+  - OpenShot
+  - OpenStreetMap
+  - Openspace3D
+  - Oriental Archaeology
+  - Orto Botanico
+  - OrtogOnBlender
+  - PMVS2
+  - PPT
+  - PPT-GUI
+  - Padua
+  - Paper
+  - ParaView
+  - Paradiso Pass
+  - Peking Man
+  - Peter Brown
+  - Petition
+  - Petrarca
+  - Petrarch
+  - Petrology
+  - Photomapping
+  - Photoscan
+  - Pierre Moulon
+  - Polygontool
+  - Porco Rosso
+  - Portland cement
+  - PostGIS
+  - PostgreSQL
+  - Professional Archaeology
+  - Project Tovel
+  - Prowish
+  - Pulkovo
+  - Python Photogrammetry Toolbox
+  - QGIS
+  - Qgis2threejs
+  - Qt
+  - Quantitative Archaeology
+  - QuantumGIS
+  - R
+  - RGB
+  - RGB-D
+  - RGBDemo
+  - RICHT - Iran's Research Institute for Cultural Heritage and Tourism
+  - ROS
+  - ROV
+  - RTAB-Map
+  - RTH
+  - RTI
+  - RTI-Like
+  - RTK GPS
+  - RTKLIB
+  - Raptor
+  - Raymond Dart
+  - Real-Time 3D
+  - Recap 360
+  - Red Lake Project
+  - Reflectance Transformation Imaging
+  - Regard3D
+  - Remote Sensing
+  - Remotely Operated underwater Vehicle
+  - Renoaldo Kaczmarech
+  - Reprojection
+  - Reverse engineering
+  - Ripley's K function
+  - Rolf BAkke
+  - Romain Janvier
+  - Roman cadastrial tablets
+  - S. Gallo hermitage
+  - S. Giovanni in Massimeno
+  - S. Maria delle Grazie
+  - S. Romedio
+  - SLAM
+  - SQLite
+  - SVR
+  - Saint Anthony
+  - Samantha Cristoforetti
+  - Sardegna
+  - Sasanian Empire
+  - School of Data
+  - Sculpt Mode
+  - Sedimentary material
+  - Sedimentation Test
+  - Sesto Pusteria
+  - Sexten
+  - SfM
+  - SfM/MVSR
+  - Shutter
+  - Singe View Reconstruction
+  - Single View Reconstruction
+  - Soeren Gebbert
+  - Soil Texture Triangle
+  - Soil Triangle
+  - Soprintendenza
+  - Southampton
+  - SpatiaLite
+  - Spectra Precision
+  - Speleoarchaeology
+  - St. Anthony
+  - St. Catherine of Genua
+  - St. Paolina Visintainer
+  - Structure from Motion
+  - Strut
+  - Szépművészeti Múzeum
+  - TIFF + worldfile
+  - Tanatology
+  - Taung Project
+  - Taung child
+  - Tbilisi
+  - Tcl
+  - Telmo Pievani
+  - Terminal
+  - Terrazzo
+  - The Little Price
+  - Theodoric
+  - Thodoric
+  - Three Phase Scan
+  - Time Manager
+  - Time series
+  - Ton Roosendaal
+  - Total Open Station
+  - Tothmea
+  - Tourism
+  - Trentino
+  - Trento
+  - Trimble
+  - Turkana Boy
+  - Tutorial
+  - UAV
+  - UAVP
+  - UNESCO
+  - Universal Transverse Mercator
+  - University of Cagliari
+  - University of Camerino
+  - University of Catania
+  - University of Ferrara
+  - University of Padua
+  - University of Pisa
+  - University of Sistan and Baluchestan
+  - Upper Paleolothic
+  - Uppåkra
+  - Urban archeology
+  - VR
+  - VTK
+  - VUI
+  - Vector
+  - Vector drawing
+  - Venus of Willendorf
+  - Verona
+  - Vervò
+  - Villa romana di Valdonega
+  - Virtual Globe
+  - Virtual Mummy
+  - Virtual reality
+  - VirtualArch
+  - Visual computing Lab
+  - Vivian Tedardi
+  - Voice User Interface
+  - Vokoscreen
+  - Volumetric graphics
+  - Voxel
+  - WGS84
+  - WKT
+  - WW1
+  - WW1 commemoration
+  - WebGIS
+  - WebGL
+  - WebRTIViewer
+  - WebVR
+  - Wheezy
+  - Wiki
+  - Wikimedia Commons
+  - Wikipedia
+  - Windows 64 bit
+  - Winner
+  - Wish
+  - Witlab
+  - World War 1
+  - World War I
+  - World file
+  - Xvidcap
+  - Young Anthropologists
+  - Zenodo
+  - Zhoukoudian
+  - abbandonware
+  - aerial archeology
+  - aerial survey
+  - alert
+  - amperage
+  - amphora
+  - analyte
+  - anatomical deformation
+  - anthropology
+  - anthropology of religion
+  - app
+  - arcaheology
+  - archaeological excavation
+  - archaeological exploration
+  - archaeological finds
+  - archaeological mission
+  - archaeological research
+  - archaeological sections
+  - archaeological underground documentation
+  - archaeorobotics
+  - archeologia
+  - archeological GIS
+  - architecture
+  - archive studies
+  - area of interest
+  - arm64
+  - art
+  - bacteria
+  - bas-relief
+  - bathymetric chart
+  - bathymetry
+  - binary package
+  - bioarchaeology
+  - biological evolution
+  - blogger
+  - boolean operation
+  - bread
+  - bread-making
+  - bronze age
+  - bug
+  - call for papers
+  - camera tracking
+  - cartesian coordinates system
+  - castle
+  - catalogue
+  - cavern
+  - chain of liberty
+  - child mummy
+  - classification
+  - clif
+  - climate changes
+  - clip
+  - codename
+  - coheren anatomical deformation
+  - collapsing structures
+  - colorimetry
+  - community
+  - compiling
+  - complex model
+  - computational archaeology
+  - conflict archaeology
+  - convertion to 3d
+  - copper age
+  - coud distance tool
+  - craniofacial reconstruction
+  - crowdfunding
+  - crowdsourcing
+  - cultural evolution
+  - data acquisition
+  - data processing
+  - data sharing
+  - database schema
+  - death mask
+  - deb package
+  - devils boat
+  - digital archeology
+  - digital bones
+  - digital poster
+  - digital restoration
+  - digitization
+  - dioramas
+  - drinking culture
+  - drone
+  - e-foto
+  - easter egg
+  - editathon
+  - education
+  - embalmed head
+  - emergency archeology
+  - erase point
+  - ethics
+  - ethnoarcheology
+  - evolution
+  - excavation GIS
+  - exhibition
+  - exhibits
+  - exploration
+  - expression
+  - external battery
+  - extreme archaeology
+  - face
+  - facial forensic reconstruction
+  - facial reconstruction
+  - fashion
+  - ffmpeg
+  - fieldwork
+  - file format conversion
+  - food
+  - food culture
+  - forensic
+  - forensic anthropology
+  - forensic sciences
+  - forensics
+  - forest
+  - fortification
+  - free cultural work
+  - frozen pasts
+  - frozen stories
+  - gallery
+  - gdal_edit.py
+  - geTTexture
+  - geTexture
+  - geoarcheology
+  - geocoding
+  - geodata
+  - geolocalization
+  - georeferenced photomosaics
+  - georeferencing
+  - geotiff
+  - glacial archeology
+  - glaciers retreat
+  - glc
+  - global warming
+  - gvSIG
+  - hacker archeology
+  - hacker culture
+  - hacking
+  - high alpine lakes
+  - high mountain
+  - high mountain archaeology
+  - historical maps
+  - hobbit
+  - homo naledi
+  - human fossils
+  - iconographic facial reconstruction
+  - impress.js
+  - incorrupted bodies
+  - indoor excavation
+  - infrared
+  - infrared sensor
+  - inland waters
+  - innsbruck
+  - interactive showcase
+  - interreg
+  - intervallo RAI
+  - issue
+  - jQuery
+  - javascript
+  - jsc3D
+  - jssor
+  - laboratory
+  - lake
+  - las
+  - lavash
+  - lesson
+  - limnology
+  - line
+  - local coordinate system
+  - local museums
+  - local system
+  - low cost
+  - manageR
+  - mandrone
+  - manual
+  - maps
+  - mask
+  - master
+  - mese antoniano
+  - metapackage
+  - methodology
+  - middle ages
+  - minipost
+  - morphoj
+  - mountain archaeology
+  - mummy
+  - new media
+  - new technologies
+  - nxs
+  - obj
+  - old maps
+  - open archeology
+  - open exhibition
+  - open format
+  - open geodata
+  - open hardware
+  - open knowledge
+  - open project
+  - open research
+  - open source exhibition
+  - open tools
+  - openMVG-GUI
+  - openMVGScript
+  - optical sensors
+  - orthophoto
+  - outdoor
+  - paiting
+  - palaeopathology
+  - paleoart
+  - paleonthropology
+  - paloclimatology
+  - pareidolia
+  - photo-editing
+  - photo-mapping
+  - photogrammetric scanning
+  - photogrammetry
+  - photographic paint
+  - photomosaic
+  - phrenology
+  - physiognomy
+  - pinning
+  - ply
+  - pointcloud
+  - poisson mesh
+  - polygon
+  - polygonal selection
+  - precarious situation
+  - presentation
+  - prize
+  - proceedings
+  - profile
+  - projected coordinate system
+  - prototyping
+  - psychology
+  - python
+  - quadcopter
+  - qualitative analysis
+  - quantitative analysis
+  - query
+  - r.map.calc
+  - race
+  - raster
+  - raster color
+  - raster series
+  - raw data
+  - readers
+  - real-time
+  - reconstruction
+  - reconstructive surgery
+  - recordMyDesktop
+  - rectification
+  - red lake
+  - religio
+  - repository
+  - ritual representation
+  - roman age
+  - saber-toothed cat
+  - sarcophagus
+  - script
+  - shared research
+  - skull
+  - skull deformation
+  - slicer tool
+  - smartphone
+  - sonar
+  - source code
+  - speleoarcheology
+  - statistics
+  - stereocamera
+  - stippler
+  - structured-light scanner
+  - submerged forest
+  - survey
+  - synchronic 4D
+  - texture
+  - tfw
+  - threejs
+  - timeline
+  - tissue depth marks
+  - tonir
+  - topography
+  - torre dei Sicconi
+  - total station
+  - touristic fruition
+  - transition speed
+  - trenches
+  - triangulation
+  - triangulation scanner
+  - tunnel documentation
+  - turntable
+  - u3d
+  - underground archaeology
+  - underground environment
+  - underwater archaeology
+  - underwater archeology
+  - underwater spelunking
+  - vector layer
+  - versatility
+  - vertex color
+  - videotutorial
+  - visitor experience
+  - visits
+  - voltage
+  - warping
+  - wikimedia
+  - work place saftey
+  - workshop
+  - world
+  - wreck
+  - Éverton Quevedo
+  - Ötzi
+  relme: {}
+  last_post_title: 'Enhancement of Hidden Cultural Heritage: The Submerged Forest
+    of Lake Tovel'
+  last_post_description: ""
+  last_post_date: "2024-01-29T13:57:34+01:00"
+  last_post_link: https://arc-team-open-research.blogspot.com/2024/01/enhancement-of-hidden-cultural-heritage.html
+  last_post_categories: []
+  last_post_language: ""
+  last_post_guid: df64c3dcae1de0b8205f012aef69dd0d
+  score_criteria:
+    cats: 5
+    description: 3
+    feedlangs: 0
+    postcats: 0
+    promoted: 5
+    promotes: 0
+    relme: 0
+    title: 3
+    website: 2
+  score: 18
+  ispodcast: false
+  isnoarchive: false
+  innetwork: true
+  language: ""
+---

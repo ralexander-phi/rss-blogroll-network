@@ -9,6 +9,16 @@ params:
   websites:
     https://www.paritybit.ca/: false
   blogrolls: []
+  in_blogrolls:
+  - title: Miniflux
+    description: ""
+    id: fda84502db7085febafcd07db448a7b5
+  - title: Take on Rules Public Blogroll
+    description: ""
+    id: 661f7c3d693616149785e81936cf96e2
+  - title: webring.opml
+    description: ""
+    id: 277e7be4ba23abbd3a52a19ec654fb63
   recommended: []
   recommender:
   - https://hacdias.com/feed.xml

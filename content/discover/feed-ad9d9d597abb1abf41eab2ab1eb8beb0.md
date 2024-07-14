@@ -9,6 +9,10 @@ params:
   websites:
     https://nowviskie.org/: true
   blogrolls: []
+  in_blogrolls:
+  - title: Planet Code4Lib
+    description: ""
+    id: 47fe0ac3ef9bb492f55a37d12530cbc4
   recommended: []
   recommender: []
   categories:
@@ -34,12 +38,12 @@ params:
     description: 0
     feedlangs: 1
     postcats: 3
-    promoted: 0
+    promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 11
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true

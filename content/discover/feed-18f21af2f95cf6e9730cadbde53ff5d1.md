@@ -9,6 +9,10 @@ params:
   websites:
     https://sys42.eu/: true
   blogrolls: []
+  in_blogrolls:
+  - title: ""
+    description: ""
+    id: 8e0af65793c70cdfb849d18945e096f3
   recommended: []
   recommender: []
   categories: []
@@ -33,12 +37,12 @@ params:
     description: 3
     feedlangs: 1
     postcats: 0
-    promoted: 0
+    promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 11
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true

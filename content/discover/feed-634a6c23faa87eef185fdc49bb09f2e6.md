@@ -9,6 +9,10 @@ params:
   websites:
     https://dev-loki.blogspot.com/: true
   blogrolls: []
+  in_blogrolls:
+  - title: Planet Grep
+    description: ""
+    id: d429ef7e7269e316d4bca5e31c475ffb
   recommended: []
   recommender: []
   categories:
@@ -112,12 +116,12 @@ params:
     description: 3
     feedlangs: 0
     postcats: 0
-    promoted: 0
+    promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 15
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true

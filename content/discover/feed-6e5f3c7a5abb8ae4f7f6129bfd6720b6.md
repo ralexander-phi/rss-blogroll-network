@@ -8,9 +8,15 @@ params:
   feedid: 6e5f3c7a5abb8ae4f7f6129bfd6720b6
   websites: {}
   blogrolls: []
+  in_blogrolls:
+  - title: Roy Tang's Blogroll
+    description: ""
+    id: 9a988b678bcc9cdb383ef996387855af
   recommended: []
   recommender:
+  - https://roytang.net/all/feed/rss/
   - https://roytang.net/blog/feed/rss
+  - https://roytang.net/index.xml
   categories: []
   relme: {}
   last_post_title: Flailing About With My Mower

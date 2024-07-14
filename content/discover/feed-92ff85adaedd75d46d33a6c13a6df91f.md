@@ -8,8 +8,11 @@ params:
   feedid: 92ff85adaedd75d46d33a6c13a6df91f
   websites:
     https://www.leaningforward.com/blog: false
-    https://www.leaningforward.com/blog/: true
   blogrolls: []
+  in_blogrolls:
+  - title: blogroll.opml
+    description: ""
+    id: e7acde5ed1e3276a025694ed4d825e33
   recommended: []
   recommender:
   - https://visitmy.website/feed.xml
@@ -35,8 +38,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 2
-  score: 12
+    website: 1
+  score: 11
   ispodcast: false
   isnoarchive: false
   innetwork: true

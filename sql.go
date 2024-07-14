@@ -1,5 +1,14 @@
 package main
 
+type Blogroll struct {
+	ID          uint   `gorm:"primaryKey"`
+	Date        string // TODO: use time.Time
+	Description string
+	Title       string
+	Link        string `gorm:"unique"`
+	BlogrollId  string
+}
+
 type Feed struct {
 	ID          uint   `gorm:"primaryKey"`
 	Date        string // TODO: use time.Time

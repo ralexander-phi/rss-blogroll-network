@@ -1,6 +1,9 @@
 feed_urls:
   - file:///seeds.opml
 
+  #
+  # Planets
+  #
   - https://blogs.openstreetmap.org/opml.xml
   - https://golem.ph.utexas.edu/~distler/planet/opml.xml
   - https://gstreamer.freedesktop.org/planet/opml.xml
@@ -125,8 +128,25 @@ feed_urls:
   #- https://skeptic.theplanetarium.org/opml.xml
   #- https://mps.theplanetarium.org/opml.xml
   #- https://x-berg.de/opml.xml
+  
+  #
+  # Web Rings
+  #
+  - https://webring.xxiivv.com/webring.opml
 
-  # Delay, this is a singular big list
+  # ringfairy
+  # https://github.com/k3rs3d/ringfairy/tree/2e8936af16428efae5123489d6d4b2504a3c11b3?tab=readme-ov-file#-webrings
+  - https://ghostring.neocities.org/Ghostring.opml
+  - https://craftering.shom.dev/Craftering.opml
+  - https://stel.is-probably.gay/roboring/roboring.opml
+
+  # Anything on https://webri.ng/ can get added here:
+  # https://github.com/voxpelli/webring-opml
+  - https://webring-opml.voxpelli.com/cssjoy.opml
+
+  #
+  # Delay these
+  #
   #- https://github.com/outcoldman/hackernews-personal-blogs/raw/master/list.opml
   #- https://github.com/outcoldman/hackernews-personal-blogs/raw/master/listx.opml
 

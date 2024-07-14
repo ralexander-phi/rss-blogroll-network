@@ -12,6 +12,16 @@ params:
     https://kevquirk.com/watch-log: false
   blogrolls:
   - https://kevquirk.com/blogroll/kevquirk.opml
+  in_blogrolls:
+  - title: Miniflux
+    description: ""
+    id: fda84502db7085febafcd07db448a7b5
+  - title: ""
+    description: ""
+    id: 4e2ec23ac536a5d58f2702b4603e3554
+  - title: The Art Of Not Asking Why - Blogroll
+    description: ""
+    id: e79d34746977a283ee12bf2f27dfee7a
   recommended:
   - https://baty.net/everything.rss
   - https://brandonwrites.xyz/feed/

@@ -10,8 +10,16 @@ params:
     https://mxb.dev/: true
     https://mxb.dev/notes: false
   blogrolls: []
+  in_blogrolls:
+  - title: Chris Burnell Blogroll
+    description: ""
+    id: 7becef5fc95d0b51be024a2830568f06
+  - title: Miniflux
+    description: ""
+    id: fda84502db7085febafcd07db448a7b5
   recommended: []
   recommender:
+  - https://chrisburnell.com/feed.xml
   - https://hacdias.com/feed.xml
   categories: []
   relme:

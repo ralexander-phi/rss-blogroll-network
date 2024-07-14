@@ -10,6 +10,10 @@ params:
     https://beardystarstuff.net/: true
     https://denny.micro.blog/: false
   blogrolls: []
+  in_blogrolls:
+  - title: jabel - Blogroll
+    description: ""
+    id: 2e8b4a6208d056910776755f53a45433
   recommended: []
   recommender:
   - https://jabel.blog/feed.xml

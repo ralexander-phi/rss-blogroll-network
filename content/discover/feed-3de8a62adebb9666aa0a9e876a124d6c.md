@@ -9,6 +9,10 @@ params:
   websites:
     https://vincent.bernat.ch/fr: true
   blogrolls: []
+  in_blogrolls:
+  - title: Planet Debian French
+    description: ""
+    id: 68c507e3f445383ba90585307ebeedff
   recommended: []
   recommender: []
   categories: []
@@ -26,12 +30,12 @@ params:
     description: 0
     feedlangs: 1
     postcats: 0
-    promoted: 0
+    promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 8
+  score: 13
   ispodcast: false
   isnoarchive: false
   innetwork: true

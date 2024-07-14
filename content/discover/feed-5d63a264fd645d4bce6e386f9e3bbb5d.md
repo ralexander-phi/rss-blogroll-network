@@ -13,6 +13,7 @@ params:
     https://marisabel.nl/public/blog.php: false
   blogrolls:
   - https://marisabel.nl/public/feeds/feed.opml
+  in_blogrolls: []
   recommended:
   - https://alexandrawolfe.ca/feed/
   - https://aramzs.xyz/writing/feed.xml

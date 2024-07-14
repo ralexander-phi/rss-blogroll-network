@@ -9,6 +9,10 @@ params:
   websites:
     https://blog.ikotler.org/: true
   blogrolls: []
+  in_blogrolls:
+  - title: פלאנט תוכנה חופשית בישראל (Planet FOSS-IL)
+    description: ""
+    id: ae190ef7e78febbcc53c5bb16742801e
   recommended: []
   recommender: []
   categories: []
@@ -27,12 +31,12 @@ params:
     description: 0
     feedlangs: 0
     postcats: 0
-    promoted: 0
+    promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 7
+  score: 12
   ispodcast: false
   isnoarchive: false
   innetwork: true

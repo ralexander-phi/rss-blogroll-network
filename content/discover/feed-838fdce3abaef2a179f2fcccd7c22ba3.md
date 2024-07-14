@@ -12,6 +12,22 @@ params:
   websites:
     https://buttondown.email/ownyourweb: true
   blogrolls: []
+  in_blogrolls:
+  - title: Colin Walker's readroll
+    description: ""
+    id: e6f62030c0a74fdcd1c99a1b492f6d21
+  - title: Miniflux
+    description: ""
+    id: fda84502db7085febafcd07db448a7b5
+  - title: Kev Quirk's Blogroll
+    description: ""
+    id: af94d85e509bec272bc4314eb947a67d
+  - title: Kev Quirk's Blogroll
+    description: ""
+    id: d3c6398765901e01429e7ceffd5164f1
+  - title: ""
+    description: ""
+    id: 2b4c94bc1b8b6c8483882e4beaedc16f
   recommended: []
   recommender:
   - https://colinwalker.blog/dailyfeed.xml

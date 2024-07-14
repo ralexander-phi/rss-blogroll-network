@@ -8,6 +8,10 @@ params:
   feedid: aa0fa22cb78cc798e1fc414d72faabf1
   websites: {}
   blogrolls: []
+  in_blogrolls:
+  - title: Frank McPherson - Blogroll
+    description: ""
+    id: 3c039ddf8649f01e6b341f6cea774be8
   recommended: []
   recommender:
   - https://frankmcpherson.blog/feed.xml

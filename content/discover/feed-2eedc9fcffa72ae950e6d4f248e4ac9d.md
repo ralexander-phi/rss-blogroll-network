@@ -11,6 +11,10 @@ params:
   websites:
     https://qtandeverything.blogspot.com/: true
   blogrolls: []
+  in_blogrolls:
+  - title: Planet Qt
+    description: ""
+    id: f20f79b8d5cd4e3d4326e76a30ddec88
   recommended: []
   recommender: []
   categories:
@@ -66,12 +70,12 @@ params:
     description: 3
     feedlangs: 0
     postcats: 0
-    promoted: 0
+    promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 15
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true

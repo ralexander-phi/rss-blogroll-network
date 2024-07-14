@@ -10,6 +10,7 @@ params:
     https://danq.me/: true
   blogrolls:
   - https://danq.me/blogroll.xml
+  in_blogrolls: []
   recommended:
   - https://abnib.co.uk/birthdays.xml
   - https://abstrusegoose.com/feed/atom

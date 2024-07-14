@@ -9,6 +9,17 @@ params:
   websites:
     https://www.inthemargins.ca/: true
   blogrolls: []
+  in_blogrolls:
+  - title: Colin Walker's readroll
+    description: ""
+    id: e6f62030c0a74fdcd1c99a1b492f6d21
+  - title: johnjohnston/blogroll
+    description: johnjohnston's subscription list, blogroll category. List created
+      by feedlandDatabase v0.7.54.
+    id: a5055187291ff08d5f2ce7e9d27f78cb
+  - title: Roy Tang's Blogroll
+    description: ""
+    id: 9a988b678bcc9cdb383ef996387855af
   recommended: []
   recommender:
   - https://colinwalker.blog/dailyfeed.xml
@@ -16,7 +27,9 @@ params:
   - https://feeds.feedburner.com/johnjohnston
   - https://johnjohnston.info/blog/comments/feed/
   - https://johnjohnston.info/blog/feed/
+  - https://roytang.net/all/feed/rss/
   - https://roytang.net/blog/feed/rss
+  - https://roytang.net/index.xml
   categories: []
   relme:
     https://phire.place/@vasta: true

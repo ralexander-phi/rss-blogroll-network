@@ -6,8 +6,13 @@ params:
   feedlink: https://blog.gitea.com/atom.xml
   feedtype: atom
   feedid: f73a2b6b47c2c20a1e85d342b1c8ffdf
-  websites: {}
+  websites:
+    https://blog.gitea.com/: true
   blogrolls: []
+  in_blogrolls:
+  - title: ""
+    description: ""
+    id: 4e2ec23ac536a5d58f2702b4603e3554
   recommended: []
   recommender:
   - https://jlelse.blog/.min.rss
@@ -33,8 +38,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 0
-  score: 12
+    website: 2
+  score: 14
   ispodcast: false
   isnoarchive: false
   innetwork: true
