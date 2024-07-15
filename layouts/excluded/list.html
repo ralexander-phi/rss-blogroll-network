@@ -1,0 +1,48 @@
+{{ define "extratitle" }}
+<nav class="breadcrumb" aria-label="breadcrumbs">
+  <ul>
+    <li><a href="/">Home</a></li>
+    <li class="is-active"><a href="#" aria-current="page">Excluded Feeds</a></li>
+  </ul>
+</nav>
+{{ end }}
+
+
+{{ define "main" }}
+
+{{ $feeds := (sort .Pages "Title") }}
+
+<h2 class="subtitle is-4">Excluded Feeds</h2>
+
+<p class="block">
+{{ $feeds | len | lang.FormatNumberCustom 0 }} additional feeds were discovered while crawling.
+These feeds were discovered,
+often via <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes/rel/me">rel=me links</a>
+and <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes/rel#alternate">rel=alternate links</a>,
+but are not connected to other feeds via an OPML blogroll.
+As such, these feeds are excluded from the main list.
+</p>
+<p class="block">
+Feeds listed here are ready to join the network by <a href="https://alexsci.com/blog/blogroll-network/#deploy-your-own-discoverable-blogroll">adding their own OPML blogroll</a>.
+</p>
+
+<ul>
+{{- range $feeds -}}
+{{ if strings.Contains .Title "Comments for" }}
+<!-- These are comment feeds, not very interesting -->
+{{ else if strings.Contains .Params.feedlink "/@" }}
+<!-- Likely a Mastodon profile -->
+{{ else }}
+
+<li class="pt-5">
+  {{ if .Title }}
+    {{ .Title | truncate 120 }} -
+  {{ end }}
+  {{ .Params.feedlink }}
+</li>
+{{- end -}}
+{{ end }}
+</ul>
+
+
+{{- end -}}

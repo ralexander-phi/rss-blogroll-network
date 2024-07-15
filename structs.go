@@ -110,6 +110,38 @@ func NewFeedInfo(row Feed) *FeedInfo {
 	return &f
 }
 
+type RejectInfo struct {
+	Title  string           `yaml:"title"`
+	Params RejectInfoParams `yaml:"params"`
+}
+
+type RejectInfoParams struct {
+	FeedLink string `yaml:"feedlink"`
+	FeedID   string `yaml:"feedid"`
+}
+
+func (f *FeedInfo) Reject() {
+	r := RejectInfo{
+		Title: f.Title,
+		Params: RejectInfoParams{
+			FeedLink: f.Params.FeedLink,
+			FeedID:   f.Params.FeedID,
+		},
+	}
+
+	output, err := yaml.Marshal(r)
+	ohno(err)
+
+	// Markdown uses `---` for YAML frontmatter
+	sep := []byte("---\n")
+	output = append(sep, output...)
+	output = append(output, sep...)
+
+	path := "content/excluded/feed-" + r.Params.FeedID + ".md"
+	err = os.WriteFile(path, output, os.FileMode(int(0660)))
+	ohno(err)
+}
+
 func (f *FeedInfo) Save() {
 	output, err := yaml.Marshal(f)
 	ohno(err)

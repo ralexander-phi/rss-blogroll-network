@@ -609,6 +609,8 @@ func (a *Analysis) Analyze() {
 		// Ignore feeds outside the network or without content
 		if feed.Params.InNetwork && len(feed.Params.LastPostTitle) > 0 {
 			feed.Save()
+		} else {
+			feed.Reject()
 		}
 	}
 
