@@ -1,6 +1,6 @@
 ---
 title: Python in Science
-date: "2024-03-07T20:29:14-03:00"
+date: "2024-07-13T03:05:19-03:00"
 description: Scientific adventures with Python.
 params:
   feedlink: https://feeds.feedburner.com/PythonInScience

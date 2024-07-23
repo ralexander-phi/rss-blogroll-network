@@ -247,12 +247,12 @@ params:
   recommender: []
   categories:
   - Personal
-  - cookery
-  - cooking
+  - ascii
+  - code
   - dancast
-  - physics
-  - published on gemini
-  - tea
+  - geeky
+  - programming
+  - unicode
   relme:
     https://dan-q.github.io/: true
     https://danq.blog/: true
@@ -263,22 +263,22 @@ params:
     https://keybase.io/dq: true
     https://m.danq.me/@blog: true
     https://m.danq.me/@dan: true
-  last_post_title: '[Article] A Pressure Cooker for Tea'
-  last_post_description: I'm told that black tea brewed at 90℃ is bad, but brewed
-    at 100℃ is good. What if we built a specialised pressure cooker that released
-    tea into superheated water at, say, 110℃? Could that be...
-  last_post_date: "2024-07-09T13:13:41+01:00"
-  last_post_link: https://danq.me/2024/07/09/tea-pressure/
+  last_post_title: '[Article] The Elegance of the ASCII Table'
+  last_post_description: ASCII, a standard whose legacy defines to this day how most
+    of the letters and numbers in your computer get encoded into ones and zeroes,
+    is elegant and beautiful. Via lessons in computer history,
+  last_post_date: "2024-07-21T08:59:10+01:00"
+  last_post_link: https://danq.me/2024/07/21/ascii/
   last_post_categories:
   - Personal
-  - cookery
-  - cooking
+  - ascii
+  - code
   - dancast
-  - physics
-  - published on gemini
-  - tea
+  - geeky
+  - programming
+  - unicode
   last_post_language: ""
-  last_post_guid: 203050d80bb11fc754e9f5b28ae503b2
+  last_post_guid: 60fa8096a77374ff0d1059018f2f458e
   score_criteria:
     cats: 0
     description: 3

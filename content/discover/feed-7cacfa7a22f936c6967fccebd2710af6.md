@@ -8,6 +8,7 @@ params:
   feedid: 7cacfa7a22f936c6967fccebd2710af6
   websites:
     https://blogs.gnome.org/lferrett: true
+    https://blogs.gnome.org/lferrett/: false
   blogrolls: []
   in_blogrolls:
   - title: Planet Ubuntu

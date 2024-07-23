@@ -256,14 +256,14 @@ params:
     https://keybase.io/dq: true
     https://m.danq.me/@blog: true
     https://m.danq.me/@dan: true
-  last_post_title: Comment on [Article] A Pressure Cooker for Tea by Spencer
-  last_post_description: You should make a t-shirt with this design and the text "science
-    not compromise". Hilarious!
-  last_post_date: "2024-07-10T06:31:36+01:00"
-  last_post_link: https://danq.me/2024/07/09/tea-pressure/#comment-251601
+  last_post_title: Comment on [Article] The Elegance of the ASCII Table by The Elegance
+    of the ASCII Table thewub on July 22, 2024 at 17:31 Hacker
+  last_post_description: '[…] Article URL: https://danq.me/2024/07/21/ascii/ […]'
+  last_post_date: "2024-07-23T00:11:33+01:00"
+  last_post_link: https://danq.me/2024/07/21/ascii/#comment-252166
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 76812fd1470b47069e65336956c33f4e
+  last_post_guid: b162a1f4f2eefda478f3df3301eb80c5
   score_criteria:
     cats: 0
     description: 3

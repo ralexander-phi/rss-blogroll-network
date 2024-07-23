@@ -1,6 +1,6 @@
 ---
 title: mew news
-date: "2022-09-12T21:13:25+02:00"
+date: "2024-07-21T20:29:07+02:00"
 description: News and updates from mew.tv
 params:
   feedlink: https://mew.tv/feeds/news.atom
@@ -19,13 +19,13 @@ params:
   - https://hacdias.com/feed.xml
   categories: []
   relme: {}
-  last_post_title: SDL and C++ on Windows 95
+  last_post_title: "25"
   last_post_description: ""
-  last_post_date: "2022-09-12T21:13:25+02:00"
-  last_post_link: https://mew.tv/tech/sdl95.html
+  last_post_date: "2024-07-21T20:29:07+02:00"
+  last_post_link: https://mew.tv/pulp/25.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 0d0c4a4e84fc9ec5e6470fcc5c41234a
+  last_post_guid: 4204e652c4fba8900a4cc9b44ce0cd2c
   score_criteria:
     cats: 0
     description: 3

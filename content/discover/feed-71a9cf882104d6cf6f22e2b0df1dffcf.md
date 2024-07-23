@@ -30,15 +30,15 @@ params:
   - https://danq.uk/feed/
   categories: []
   relme: {}
-  last_post_title: Johnny Wakelin – In Zaire (1976)
+  last_post_title: Moonchild Sanelly – Sweet & Savage (COLORS)
   last_post_description: RSS Club is a secret to everyone!This post is certified "written
-    by human".Subscribe to this blog's RSS Feed here.More info on RSS Club.In 1974,
-    Johnny Wakelin got the idea to write a song about a
-  last_post_date: "2024-07-04T17:11:46Z"
-  last_post_link: https://amf.didiermary.fr/rss-club/johnny-wakelin-zaire-rumble-jungle/
+    by human".Subscribe to this blog's RSS Feed here.More info on RSS Club.A special
+    rendition of her new single “Sweet & Savage,” a
+  last_post_date: "2024-07-20T19:03:06Z"
+  last_post_link: https://amf.didiermary.fr/rss-club/moonchild-sanelly-sweet-savage-colors/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 8a25ee8a9f9cfe602f79cea9c1b3125b
+  last_post_guid: 36a79ca2e8828e9f4827f0fe475eb072
   score_criteria:
     cats: 0
     description: 3

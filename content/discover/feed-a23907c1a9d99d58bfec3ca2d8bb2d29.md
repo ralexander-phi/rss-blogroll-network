@@ -8,6 +8,7 @@ params:
   feedid: a23907c1a9d99d58bfec3ca2d8bb2d29
   websites:
     https://adam.rosi-kessel.org/weblog: true
+    https://adam.rosi-kessel.org/weblog/: false
   blogrolls: []
   in_blogrolls:
   - title: Planet Debian

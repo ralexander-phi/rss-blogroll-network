@@ -18,16 +18,16 @@ params:
   - https://hacdias.com/feed.xml
   categories: []
   relme: {}
-  last_post_title: Writing a Unix clone in about a month
+  last_post_title: So you want to compete with or replace open source
   last_post_description: |-
-    I needed a bit of a break from “real work” recently, so I started a new
-    programming project that was low-stakes and purely recreational. On April 21st,
-    I set out to see how much of a Unix-like
-  last_post_date: "2024-05-24T00:00:00Z"
-  last_post_link: https://drewdevault.com/2024/05/24/2024-05-24-Bunnix.html
+    We are living through an interesting moment in source-available software.1
+    The open source movement has always had, and continues to have, a solid
+    grounding in grassroots programmers building tools
+  last_post_date: "2024-07-16T00:00:00Z"
+  last_post_link: https://drewdevault.com/2024/07/16/2024-07-16-So-you-want-to-compete-with-FOSS.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 1bc4c1a5c5210937ee5f43eef39dfd8e
+  last_post_guid: f00d1e601bd0df0683fd9dcb1739e99c
   score_criteria:
     cats: 0
     description: 3

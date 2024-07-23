@@ -17,17 +17,17 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Polis - a FLOSS Tool for Civic Participation -- Initial Evaluation
-    and Adaptation (episode 2/5)
+  last_post_title: Polis - a FLOSS Tool for Civic Participation -- Issues extending
+    Polis and adjusting our Goals
   last_post_description: |-
-    Here comes the 2nd article of the 5-episode blog post series written by Guido Berhörster, member of staff at my company Fre(i)e Software GmbH.
+    Here comes the 3rd article of the 5-episode blog post series on Polis, written by Guido Berhörster, member of staff at my company Fre(i)e Software GmbH.
 
-    Enjoy also this read on Guido's work on Polis
-  last_post_date: "2024-07-03T19:56:24Z"
-  last_post_link: https://sunweavers.net/blog/node/146
+    Enjoy also this read on Guido's work on
+  last_post_date: "2024-07-21T12:58:50Z"
+  last_post_link: https://sunweavers.net/blog/node/148
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 1ac2821b7c8e27c5e8785bab10577297
+  last_post_guid: 4906995fec648be768062a92284ff60c
   score_criteria:
     cats: 0
     description: 0

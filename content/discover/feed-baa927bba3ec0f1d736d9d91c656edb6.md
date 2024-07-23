@@ -1,6 +1,6 @@
 ---
-title: The Universe of Discourse
-date: "2024-07-05T18:22:00Z"
+title: The Universe of Disco
+date: "2024-07-12T14:35:00Z"
 description: The Universe of Discourse (Mark Dominus Blog)
 params:
   feedlink: https://blog.plover.com/index.atom
@@ -16,16 +16,16 @@ params:
   recommended: []
   recommender: []
   categories:
-  - /math
+  - /misc
   relme: {}
-  last_post_title: A triviality about numbers that look like abbc
+  last_post_title: Loki the comedian
   last_post_description: ""
-  last_post_date: "2024-07-05T18:22:00Z"
-  last_post_link: https://blog.plover.com/math/multiple-of-37.html
+  last_post_date: "2024-07-12T14:35:00Z"
+  last_post_link: https://blog.plover.com/misc/goat-scrote.html
   last_post_categories:
-  - /math
+  - /misc
   last_post_language: ""
-  last_post_guid: 9d0efaf960e6fbc63a5efc0d01e96cff
+  last_post_guid: 974806a04d6b0b9efdf0c81cad4f8cd7
   score_criteria:
     cats: 0
     description: 3

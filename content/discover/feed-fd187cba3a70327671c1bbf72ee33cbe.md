@@ -21,6 +21,7 @@ params:
     https://en.liujiacai.net/: true
     https://mastodon.social/@liujiacai: true
     https://rusttalk.github.io/: true
+    https://ziglang.cc/: true
   last_post_title: Embed git commit in Zig programs
   last_post_description: |-
     Whether you are writing a fancy database, or simple CLI program, it's always helpful to embed git commit into the binary.

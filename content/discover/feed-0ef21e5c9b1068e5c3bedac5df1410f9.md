@@ -1,6 +1,6 @@
 ---
 title: Qt Blog
-date: "2024-07-10T09:33:30Z"
+date: "2024-07-17T09:00:00Z"
 description: Explore the Qt Blog for the latest insights on e.g. Qt Creator, your
   go-to source for cross-platform development tips and updates.
 params:
@@ -17,30 +17,34 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Android
-  - Qt for Android
+  - Qt
+  - QtNetworkAuth
+  - Security
   relme: {}
-  last_post_title: Qt Tools for Android Studio 2.0 Released
-  last_post_description: We are happy to announce the release of the Qt Tools for
-    Android Studio version 2.0. It can be downloaded from the JetBrains marketplace.
-  last_post_date: "2024-07-10T08:14:40Z"
-  last_post_link: https://www.qt.io/blog/qt-tools-for-android-studio-2.0-released
+  last_post_title: 'Security advisory: Recently discovered HTTP2 handling issue impacts
+    Qt'
+  last_post_description: Whenever a TLS connection is started for a server that supports
+    HTTP2 and has sent some data to the application then Qt will send data to the
+    server even if the TLS certificate does not match the
+  last_post_date: "2024-07-17T09:00:00Z"
+  last_post_link: https://www.qt.io/blog/recently-discovered-http2-handling
   last_post_categories:
-  - Android
-  - Qt for Android
+  - Qt
+  - QtNetworkAuth
+  - Security
   last_post_language: ""
-  last_post_guid: 04dad1164650ae39696b8eac91a8bc3a
+  last_post_guid: 2a7af4907d6d64fe6a78f2adeb534496
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
-    postcats: 2
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 16
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true

@@ -23,7 +23,9 @@ params:
   recommender: []
   categories:
   - IFTTT
+  - crafting
   - general
+  - sdcc
   - via-instagram
   relme:
     https://artlung.com/: true
@@ -36,16 +38,18 @@ params:
     https://github.com/artlung: true
     https://stackoverflow.com/users/63094/artlung: true
     https://xoxo.zone/@artlung: true
-  last_post_title: Pre-sun coming out
-  last_post_description: from Instagram https://instagr.am/p/C9YfrlzyJBF/ via IFTTT
-  last_post_date: "2024-07-14T00:23:40Z"
-  last_post_link: https://artlung.com/blog/2024/07/13/pre-sun-coming-out/
+  last_post_title: 'Prep for #SDCC'
+  last_post_description: from Instagram https://instagr.am/p/C9temsmJ_Vy/ via IFTTT
+  last_post_date: "2024-07-22T03:58:46Z"
+  last_post_link: https://artlung.com/blog/2024/07/21/prep-for-sdcc/
   last_post_categories:
   - IFTTT
+  - crafting
   - general
+  - sdcc
   - via-instagram
   last_post_language: ""
-  last_post_guid: 63edf474e3941c7cab9ad5b977a133f3
+  last_post_guid: f8aee00e7a521b8ac8a0b50aa4bc6a99
   score_criteria:
     cats: 0
     description: 3

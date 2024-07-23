@@ -16,35 +16,29 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Erlang/Elixir
-  - Uncategorized
-  - elixir
-  - erlang
+  - Meet the team
   relme: {}
-  last_post_title: The Strategic Advantage of Outsourcing with Erlang and Elixir
-  last_post_description: This article explores how Erlang and Elixir programming languages
-    support business outsourcing by offering superior security, scalability, and flexibility,
-    ultimately helping companies achieve their
-  last_post_date: "2024-07-04T10:59:36Z"
-  last_post_link: https://www.erlang-solutions.com/blog/the-strategic-advantage-of-outsourcing-with-erlang-and-elixir/
+  last_post_title: 'Meet the team: Nico Gerpe'
+  last_post_description: |-
+    Welcome to our "Meet the Team" series! In this first edition, we introduce you Nico Gerpe, the Business Unit Lead for the Americas team.
+    The post Meet the team: Nico Gerpe appeared first on Erlang
+  last_post_date: "2024-07-18T11:06:23Z"
+  last_post_link: https://www.erlang-solutions.com/blog/meet-the-team-nico-gerpe/
   last_post_categories:
-  - Erlang/Elixir
-  - Uncategorized
-  - elixir
-  - erlang
+  - Meet the team
   last_post_language: ""
-  last_post_guid: b8771005efc5ca84c1bb59e493216681
+  last_post_guid: c22df3d2191e3b6fbe704fe3841c43ce
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
-    postcats: 3
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 17
+  score: 15
   ispodcast: false
   isnoarchive: false
   innetwork: true

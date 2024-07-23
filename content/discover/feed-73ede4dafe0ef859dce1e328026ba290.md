@@ -1,6 +1,6 @@
 ---
 title: blog.jmp.chat's blog
-date: "2023-06-12T10:47:13Z"
+date: "2023-09-13T20:19:51Z"
 description: ""
 params:
   feedlink: https://blog.jmp.chat/atom.xml
@@ -16,22 +16,24 @@ params:
   recommended: []
   recommender: []
   categories:
-  - beta
-  - launch
+  - android
+  - fossy
   - newsletter
-  - pricing
+  - sim
+  - staff
   relme: {}
-  last_post_title: JMP is Launched and Out of Beta
+  last_post_title: 'Newsletter: Summer in Review'
   last_post_description: ""
-  last_post_date: "2023-06-12T10:47:13Z"
-  last_post_link: http://blog.jmp.chat/b/launch-2023
+  last_post_date: "2023-09-13T20:19:51Z"
+  last_post_link: http://blog.jmp.chat/b/septermber-newsletter-2023
   last_post_categories:
-  - beta
-  - launch
+  - android
+  - fossy
   - newsletter
-  - pricing
+  - sim
+  - staff
   last_post_language: ""
-  last_post_guid: c651e6cfbb5304ef3e268d6f9cebd82f
+  last_post_guid: a7b2e548b3f90cf375e0a4086b6de0ab
   score_criteria:
     cats: 0
     description: 0

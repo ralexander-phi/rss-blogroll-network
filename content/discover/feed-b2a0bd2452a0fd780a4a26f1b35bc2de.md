@@ -39,12 +39,12 @@ params:
     https://colly.com/: true
     https://github.com/colly: true
     https://mastodon.social/@colly: true
-  last_post_title: Delia’s Third Happening
-  last_post_description: Not long now, Nottingham! Join us in beautiful St John’s,
-    Carrington, on Saturday 20th July and witness The Young Vanish perform the Lost
-    in Translation OST, preceded by a 45-minute set from me,
-  last_post_date: "2024-07-08T12:00:00+01:00"
-  last_post_link: https://colly.com/stream/delias-third-happening
+  last_post_title: A few days up North
+  last_post_description: |-
+    Photos from a short trip to Edinburgh, Dundee and Newcastle. Five days encompassing long drives, gigs, exhibitions, architecture, unrivalled baked goods and plenty of rain.          Edinburgh
+    Our
+  last_post_date: "2024-07-18T11:30:00+01:00"
+  last_post_link: https://colly.com/articles/a-few-days-up-north
   last_post_categories: []
   last_post_language: ""
   last_post_guid: e3ac7d1718f9914ab65d09a0de9f6ef9

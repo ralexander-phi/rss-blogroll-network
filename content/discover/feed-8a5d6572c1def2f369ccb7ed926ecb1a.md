@@ -1,6 +1,6 @@
 ---
 title: Subtle Echo
-date: "2024-06-24T17:47:23Z"
+date: "2024-07-12T18:28:08Z"
 description: ""
 params:
   feedlink: https://subtle-echo.pika.page/posts_feed
@@ -24,14 +24,16 @@ params:
     https://lorenzo.omg.lol/now: true
     https://mastodon.social/@lorenzobehna: true
     https://subtle-echo.pika.page/: true
-  last_post_title: A Love Letter to the Playdate
-  last_post_description: I was so excited when I heard about the Playdate in the summer
-    of 2021! I made sure to be ready for the pre-order and was lucky enough to get...
-  last_post_date: "2024-06-24T17:47:24Z"
-  last_post_link: https://subtleecho.online/posts/a-love-letter-to-the-playdate
+    https://subtleecho.online/: true
+  last_post_title: Just sharing two excellent book tracking Websites/Apps
+  last_post_description: I don’t read a lot of books. My reading is more centred around
+    RSS and Mastodon. Every time I do get into reading books though, I enjoy it a
+    lot....
+  last_post_date: "2024-07-12T18:56:15Z"
+  last_post_link: https://subtleecho.online/posts/just-sharing-two-excellent-book-tracking-websites-apps
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 397889c274c412ca5d3ac614ab018692
+  last_post_guid: 62d9414cdc4872c893c7bfdccb4cc494
   score_criteria:
     cats: 0
     description: 0

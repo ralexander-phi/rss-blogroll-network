@@ -8,6 +8,7 @@ params:
   feedid: cecacbacee7cf67964c8b4d1b4d0ed6c
   websites:
     https://blogs.gnome.org/lkundrak: true
+    https://blogs.gnome.org/lkundrak/: false
   blogrolls: []
   in_blogrolls:
   - title: Planet GNOME

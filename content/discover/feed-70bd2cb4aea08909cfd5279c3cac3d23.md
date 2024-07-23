@@ -34,16 +34,17 @@ params:
   - https://kevq.uk/feed/
   - https://kevq.uk/home.rss
   - https://kevquirk.com/feed
+  - https://kevquirk.com/feed/
   - https://kevquirk.com/notes-feed
   categories: []
   relme: {}
-  last_post_title: Cities need more trees
-  last_post_description: A case for planting more trees in urban areas.
-  last_post_date: "2024-07-01T07:53:00Z"
-  last_post_link: https://herman.bearblog.dev/cities-need-more-trees/
+  last_post_title: Upcoming changes to the discovery feed
+  last_post_description: Bear's discovery feed improvements and a call for feedback
+  last_post_date: "2024-07-19T06:00:00Z"
+  last_post_link: https://herman.bearblog.dev/discovery-feed-changes/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: d1859a4004cc0f711ef0ddab5979b420
+  last_post_guid: 48ad6a3d2bb2ba355f9ab25c07d85c9a
   score_criteria:
     cats: 0
     description: 3

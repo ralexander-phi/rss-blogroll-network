@@ -8,6 +8,7 @@ params:
   feedid: 92ff85adaedd75d46d33a6c13a6df91f
   websites:
     https://www.leaningforward.com/blog: false
+    https://www.leaningforward.com/blog/: true
   blogrolls: []
   in_blogrolls:
   - title: blogroll.opml
@@ -38,8 +39,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 1
-  score: 11
+    website: 2
+  score: 12
   ispodcast: false
   isnoarchive: false
   innetwork: true

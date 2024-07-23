@@ -9,6 +9,7 @@ params:
   feedid: 274d8ecb9dd01cad67d4bbaec02756bf
   websites:
     https://www.flamingspork.com/blog: true
+    https://www.flamingspork.com/blog/: false
   blogrolls: []
   in_blogrolls:
   - title: Planet Linux Australia

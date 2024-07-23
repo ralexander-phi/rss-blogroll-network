@@ -287,4 +287,7 @@ params:
   - title: CommitStrip
     description: The blog relating the daily life of web agency developers
     id: 6563b55e1c0ad9cb06775ddc27d4136a
+  - title: gRegorLove.com
+    description: ""
+    id: c2852d793e0edd5258dbae860c41b1e5
 ---

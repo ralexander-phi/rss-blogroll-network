@@ -19,17 +19,16 @@ params:
   - https://jeroensangers.com/podcast.xml
   categories: []
   relme: {}
-  last_post_title: Links (79)
+  last_post_title: Links (80)
   last_post_description: |-
-    Michael Lewis (author of a recent book on FTX)'s Blind Side
-    Xylitol bad?
-    Demons and Internal Family Systems
-    GLP1 analogues do not cause muscle loss in excess to what one would expect via caloric
-  last_post_date: "2024-06-11T00:00:00Z"
-  last_post_link: https://nintil.com/links-79/
+    AI companies need to make a lot of money for the current market state (NVIDIA going to the moon) to make sense. Right now it's far from that.
+    Interview with the current co-CEO of Netflix
+    Lambda
+  last_post_date: "2024-07-14T00:00:00Z"
+  last_post_link: https://nintil.com/links-80/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 9c2e81f2010594395c213fb266ee2d58
+  last_post_guid: 8211ac7bad3a234e0dacc983926c84f0
   score_criteria:
     cats: 0
     description: 0

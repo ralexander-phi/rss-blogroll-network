@@ -16,23 +16,18 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Products with unordered n-tuples
+  last_post_title: Help me attend ICFP in Milan!
   last_post_description: |-
-    Products with unordered n-tuples
+    tl;dr: if you appreciate my past or ongoing contributions to the
+    Haskell community, please consider helping me get to ICFP this year by donating
+    via my ko-fi page!
 
-
-
-
-    Recently, Dani Rybe wrote this really cool blog
-    post
-    (in turn based on this old post by Samuel
-    Gélineau)
-    about encoding truly unordered n-tuples in Haskell. This
-  last_post_date: "2024-06-25T00:00:00Z"
-  last_post_link: http://byorgey.github.io/blog/posts/2024/06/25/unordered-n-tuple-product.html
+    Working at a small liberal arts
+  last_post_date: "2024-07-20T00:00:00Z"
+  last_post_link: http://byorgey.github.io/blog/posts/2024/07/20/ko-fi-help-me-attend-icfp.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: a93f0dcd54a6063603ad1c2485539ab2
+  last_post_guid: 1f308b0799301afef0e31d4abe48911b
   score_criteria:
     cats: 0
     description: 3

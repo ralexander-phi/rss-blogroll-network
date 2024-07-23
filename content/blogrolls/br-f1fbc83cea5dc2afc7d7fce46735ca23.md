@@ -1,6 +1,6 @@
 ---
 title: Planète GNOME-FR
-date: Thu, 11 Jul 2024 03:29:31 GMT
+date: Mon, 22 Jul 2024 23:25:37 GMT
 description: ""
 params:
   link: https://planeta.gnome.cl/opml.xml

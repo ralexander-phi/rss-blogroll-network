@@ -21,16 +21,15 @@ params:
   - http://scripting.com/rssNightly.xml
   categories: []
   relme: {}
-  last_post_title: 'Coming of Age during Wartime in Sudan: A Conversation with Omnia
-    Mustafa'
-  last_post_description: Omina Mustafa and Khadijah Abdurqhman discuss Mustafa’s experience
-    of race and racialization as an African Arab person from northern Sudan, and the
-    atrocities being committed against the people of
-  last_post_date: "2024-07-10T14:14:33Z"
-  last_post_link: https://logicmag.io/issue-21-medicine-and-the-body/coming-of-age-during-wartime-in-sudan-a-conversation-with-omnia-mustafa
+  last_post_title: قبور وراء النافذة / “Graves behind the Window” معذبو الأرض / “The
+    Wretched of the Earth”
+  last_post_description: A selection of poems by Gazan poet Anees Ghanima, Translator’s
+    Note Leena Aboutaleb, and preface by Abdalhadi Alijla
+  last_post_date: "2024-07-22T17:40:07Z"
+  last_post_link: https://logicmag.io/issue-21-medicine-and-the-body/2-poems
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: f9e70facebe04eef9ee963b651039596
+  last_post_guid: 11ae2e826ee9ac1c8988d0054f55941d
   score_criteria:
     cats: 0
     description: 3

@@ -13,6 +13,9 @@ params:
   - title: Thoughts of the FSFE Community (English)
     description: ""
     id: 271938bec31271627e1dea6fefe264bb
+  - title: Thoughts of the FSFE Community (English)
+    description: ""
+    id: ec5620188ea145cd15cff0d5719ab8d8
   recommended: []
   recommender: []
   categories:

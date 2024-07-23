@@ -1,6 +1,6 @@
 ---
 title: Kitty Giraudel
-date: "2024-06-18T07:15:27Z"
+date: "2024-07-22T07:03:10Z"
 description: I’m Kitty Giraudel, a non-binary trans frontend developer based in Berlin,
   focused on accessibility and inclusivity.
 params:
@@ -19,13 +19,13 @@ params:
   - https://chrisburnell.com/feed.xml
   categories: []
   relme: {}
-  last_post_title: From ESLint and Prettier to Biome
+  last_post_title: Feature toggles with webpack
   last_post_description: ""
-  last_post_date: "2024-06-01T00:00:00Z"
-  last_post_link: https://kittygiraudel.com/2024/06/01/from-eslint-and-prettier-to-biome/
+  last_post_date: "2024-07-22T00:00:00Z"
+  last_post_link: https://kittygiraudel.com/2024/07/22/feature-toggles-with-webpack/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: dd796373b64f3bcd004cff3bb8f9b091
+  last_post_guid: 16852706378786874735cd7719ef3368
   score_criteria:
     cats: 0
     description: 3

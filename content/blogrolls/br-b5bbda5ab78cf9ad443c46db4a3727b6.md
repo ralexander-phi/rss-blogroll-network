@@ -1,6 +1,6 @@
 ---
 title: Planet GNOME
-date: Thu, 11 Jul 2024 03:03:37 GMT
+date: Mon, 22 Jul 2024 23:06:47 GMT
 description: ""
 params:
   link: https://planet.gnome.org/opml.xml
@@ -730,4 +730,13 @@ params:
   - title: My GSoC Blog
     description: ""
     id: 7a10cc0c90b1eaa291008acd53792f25
+  - title: diegoebe - planetgnome
+    description: ""
+    id: be30ff9fde99503e4d3d0999c09abc4b
+  - title: This Week in GNOME
+    description: Recent content on This Week in GNOME
+    id: 867b9b328f08fb53dcede21c51e20168
+  - title: Girin Studio
+    description: Arts and Everything
+    id: e211f30e70045dd9ef122a794ba00d2e
 ---

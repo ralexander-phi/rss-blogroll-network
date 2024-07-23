@@ -1,6 +1,6 @@
 ---
 title: DSHR's Blog
-date: "2024-07-10T12:07:08-07:00"
+date: "2024-07-22T08:57:07-07:00"
 description: I'm David Rosenthal, and this is a place to discuss the work I'm doing
   in Digital Preservation.
 params:
@@ -134,26 +134,25 @@ params:
   - web archiving
   - web3
   relme: {}
-  last_post_title: Engineering For The Long Term
+  last_post_title: Accelerated Computing
   last_post_description: ""
-  last_post_date: "2024-07-09T08:16:53-07:00"
-  last_post_link: https://blog.dshr.org/2024/07/engineering-for-long-term.html
+  last_post_date: "2024-07-16T08:00:00-07:00"
+  last_post_link: https://blog.dshr.org/2024/07/accelerated-computing.html
   last_post_categories:
   - nvidia
-  - personal
   last_post_language: ""
-  last_post_guid: 5c941a35dd5ee73c5d9d4041455cb112
+  last_post_guid: 4af060d1b873eed6aefa8723289e65a2
   score_criteria:
     cats: 5
     description: 3
     feedlangs: 0
-    postcats: 2
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 18
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true

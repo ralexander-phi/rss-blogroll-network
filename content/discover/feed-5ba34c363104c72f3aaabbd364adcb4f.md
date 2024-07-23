@@ -20,20 +20,20 @@ params:
   - https://johnjohnston.info/blog/comments/feed/
   - https://johnjohnston.info/blog/feed/
   categories:
-  - Hailo
-  - Raspberry Pi AI Kit
+  - Raspberry Pi 5
+  - Raspberry Pi M.2 HAT+
   relme: {}
-  last_post_title: 'Raspberry Pi AI Kit update: Dataflow Compiler now available'
+  last_post_title: Using the M.2 HAT+ with Raspberry Pi 5
   last_post_description: |-
-    The newly released Hailo Dataflow Compiler (DFC) enables you to use your own data, or even your own model, with the Raspberry Pi AI Kit.
-    The post Raspberry Pi AI Kit update: Dataflow Compiler now
-  last_post_date: "2024-07-10T14:54:24Z"
-  last_post_link: https://www.raspberrypi.com/news/raspberry-pi-ai-kit-update-dataflow-compiler-now-available/
+    Raspberry Pi M.2 HAT+ M Key enables you to connect M.2 peripherals such as NVMe drives and other PCIe accessories to Raspberry Pi 5’s PCIe interface.
+    The post Using the M.2 HAT+ with Raspberry
+  last_post_date: "2024-07-22T09:06:57Z"
+  last_post_link: https://www.raspberrypi.com/news/using-m-2-hat-with-raspberry-pi-5/
   last_post_categories:
-  - Hailo
-  - Raspberry Pi AI Kit
+  - Raspberry Pi 5
+  - Raspberry Pi M.2 HAT+
   last_post_language: ""
-  last_post_guid: 48f0436aa7bc96941eef09d3d8fa3c20
+  last_post_guid: 86ad6bd5c5eb1a6bce102ff67679b72c
   score_criteria:
     cats: 0
     description: 3

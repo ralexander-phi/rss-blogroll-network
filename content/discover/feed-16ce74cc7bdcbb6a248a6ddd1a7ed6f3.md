@@ -1,6 +1,6 @@
 ---
 title: GNU Astronomy Utilities - News
-date: "2024-02-03T23:19:24Z"
+date: "2024-07-13T23:02:17Z"
 description: ""
 params:
   feedlink: https://savannah.gnu.org/news/atom.php?group=gnuastro
@@ -16,13 +16,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Gnuastro 0.22 released
+  last_post_title: Gnuastro 0.23 released
   last_post_description: ""
-  last_post_date: "2024-02-03T23:19:01Z"
-  last_post_link: https://savannah.gnu.org/news/?id=10589
+  last_post_date: "2024-07-13T23:01:56Z"
+  last_post_link: https://savannah.gnu.org/news/?id=10652
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 15aeb165d63bf6583d5af4dbe3c3b662
+  last_post_guid: 5060d54fa22f22d76460b709cf8139d4
   score_criteria:
     cats: 0
     description: 0

@@ -1,6 +1,6 @@
 ---
 title: Tech Art Tiki
-date: "2024-03-30T00:33:16-05:00"
+date: "2024-07-13T01:06:20-05:00"
 description: If it ain't broke, it will be soon.
 params:
   feedlink: https://techarttiki.blogspot.com/feeds/posts/default/-/python

@@ -8,6 +8,7 @@ params:
   feedid: 22f7b2ed2cef5103cc0eafd712b0c102
   websites:
     https://davehunt.co.uk/: true
+    https://davehunt.uk/: false
   blogrolls: []
   in_blogrolls:
   - title: Planet Mozilla

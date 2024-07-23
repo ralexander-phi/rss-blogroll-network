@@ -8,11 +8,15 @@ params:
   feedid: de31cb3e3dcbd20d923c3c040dd48caa
   websites:
     https://blogs.fsfe.org/tobias_platen: true
+    https://blogs.fsfe.org/tobias_platen/: false
   blogrolls: []
   in_blogrolls:
   - title: Thoughts of the FSFE Community (English)
     description: ""
     id: 271938bec31271627e1dea6fefe264bb
+  - title: Thoughts of the FSFE Community (English)
+    description: ""
+    id: ec5620188ea145cd15cff0d5719ab8d8
   recommended: []
   recommender: []
   categories:

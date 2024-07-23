@@ -1,6 +1,6 @@
 ---
 title: Dweller of the Forbidden City
-date: "2024-07-05T14:49:12-07:00"
+date: "2024-07-11T15:48:49-07:00"
 description: ""
 params:
   feedlink: https://dwelleroftheforbiddencity.blogspot.com/feeds/posts/default
@@ -21,6 +21,7 @@ params:
   categories: []
   relme:
     https://dwelleroftheforbiddencity.blogspot.com/: true
+    https://www.blogger.com/profile/10698148651612197118: true
   last_post_title: Sova
   last_post_description: ""
   last_post_date: "2023-06-25T20:42:26-07:00"

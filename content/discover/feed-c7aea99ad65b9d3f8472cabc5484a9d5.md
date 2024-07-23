@@ -21,37 +21,30 @@ params:
   - https://takeonrules.com/site-map/updates/index.xml
   - https://takeonrules.com/tags/emacs/index.xml
   categories:
-  - Connor Alexander
-  - Coyote & Crow
-  - horror
-  - interview
-  - tabletop
+  - announcements
+  - rpgaday
   relme: {}
-  last_post_title: Ahu Tiiko trades Coyote & Crow’s Indigipunk vibes for simmering,
-    woodsy horror
-  last_post_description: Connor Alexander’s first official expansion to the Native-made
-    RPG narrows its genre focus and scope to weave a web of interconnected mysteries.
-  last_post_date: "2024-07-10T22:36:03Z"
-  last_post_link: https://www.rascal.news/ahu-tiiko-trades-coyote-crows-indigipunk-vibes-for-simmering-woodsy-horror/
+  last_post_title: RPGaDAY returns in August
+  last_post_description: The community incentive to spread the word about RPGs returns
+    for its 11th Year.
+  last_post_date: "2024-07-22T21:00:16Z"
+  last_post_link: https://www.rascal.news/rpgaday-returns-in-august/
   last_post_categories:
-  - Connor Alexander
-  - Coyote & Crow
-  - horror
-  - interview
-  - tabletop
+  - announcements
+  - rpgaday
   last_post_language: ""
-  last_post_guid: d46f8ea6558ad52c8cfe04e0baffa4c3
+  last_post_guid: 7e5e1940b1f50c3310b0f759ead043fc
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
-    postcats: 3
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 16
+  score: 15
   ispodcast: false
   isnoarchive: false
   innetwork: true

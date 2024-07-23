@@ -1,6 +1,6 @@
 ---
 title: Of Particular Significance
-date: "2024-07-10T20:10:36Z"
+date: "2024-07-22T20:57:54Z"
 description: Conversations About Science with Theoretical Physicist Matt Strassler
 params:
   feedlink: https://profmattstrassler.com/feed/atom/
@@ -16,39 +16,32 @@ params:
   recommender: []
   categories:
   - Atomic Physics
-  - History of Science
   - Particle Physics
   - Quantum Field Theory
-  - energy
-  - mass
-  - music
-  - particles
-  - quantum field theory
-  - quantum mechanics
-  - waves
+  - atoms
+  - gluons
+  - proton
+  - quarks
   - wavicles
   relme: {}
-  last_post_title: Particles, Waves, and Wavicles
-  last_post_description: In my role as a teacher and explainer of physics, I have
-    found that the ambiguities and subtleties of language can easily create confusion.
-    This is especially true when well-known English words are
-  last_post_date: "2024-07-10T20:10:36Z"
-  last_post_link: https://profmattstrassler.com/2024/07/09/particles-waves-and-wavicles/
+  last_post_title: 'The Standard Model More Deeply: How the Proton is Greater than
+    the Sum of its Parts'
+  last_post_description: The mass of a single proton, often said to be made of three
+    quarks, is almost 1 GeV/c2. To be more precise, a proton’s mass is 0.938 GeV/c2,
+    while that of a neutron is 0.939 GeV/c2. But the masses
+  last_post_date: "2024-07-22T20:57:54Z"
+  last_post_link: https://profmattstrassler.com/2024/07/22/the-standard-model-more-deeply-how-the-proton-is-greater-than-the-sum-of-its-parts/
   last_post_categories:
   - Atomic Physics
-  - History of Science
   - Particle Physics
   - Quantum Field Theory
-  - energy
-  - mass
-  - music
-  - particles
-  - quantum field theory
-  - quantum mechanics
-  - waves
+  - atoms
+  - gluons
+  - proton
+  - quarks
   - wavicles
   last_post_language: ""
-  last_post_guid: d8b7f2369841c39e02b80d3c34752ae9
+  last_post_guid: 8a150fa028583671f6f3b0e28ca2b31a
   score_criteria:
     cats: 0
     description: 3

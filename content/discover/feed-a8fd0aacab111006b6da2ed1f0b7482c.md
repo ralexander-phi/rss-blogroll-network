@@ -17,10 +17,11 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: MR. WEAPON
-  last_post_description: a zine about a funny guy who's got your back. made by jáščer.
-  last_post_date: "2024-07-12T21:57:30Z"
-  last_post_link: https://manyface.neocities.org/zines/mw
+  last_post_title: collections
+  last_post_description: a page of various objects and items and trinkets we own.
+    made by jáščer.
+  last_post_date: "2024-07-21T01:16:17Z"
+  last_post_link: https://manyface.neocities.org/collections
   last_post_categories: []
   last_post_language: ""
   last_post_guid: 7b6ce1e879fd3af75658426099de3cb6

@@ -9,6 +9,7 @@ params:
   websites:
     https://jvalleroy.me/: false
     https://jvalleroy.me/wordpress: true
+    https://jvalleroy.me/wordpress/: false
   blogrolls: []
   in_blogrolls:
   - title: Planet Debian

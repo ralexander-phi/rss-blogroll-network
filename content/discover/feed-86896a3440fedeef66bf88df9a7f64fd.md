@@ -1,6 +1,6 @@
 ---
 title: ✍ Evan Travers
-date: "2024-07-09T14:19:00Z"
+date: "2024-07-16T19:27:00Z"
 description: Evan Travers' Personal Blog
 params:
   feedlink: https://evantravers.com/feed.xml
@@ -31,15 +31,15 @@ params:
   - https://danq.uk/feed/
   categories: []
   relme: {}
-  last_post_title: Stop perfecting your config
-  last_post_description: I suggest following ThePrimeagen’s advice on approaching
-    your configuration. He recommends revisiting your configuration only once every
-    couple of months, which I think is a very healthy and
-  last_post_date: "2024-07-09T09:26:08Z"
-  last_post_link: https://evantravers.com/articles/2024/07/09/stop-perfecting-your-config-arkadiusz-chmura/
+  last_post_title: Tag Refactor Complete
+  last_post_description: "# \n  \n  This is an RSS-only post. It's a secret! Read
+    more about RSS Club.\nI spent some time on calls today going through and refactoring
+    all the tags.\n\nSome I completely removed, like focus and"
+  last_post_date: "2024-07-16T14:37:37Z"
+  last_post_link: https://evantravers.com/articles/2024/07/16/tag-refactor-complete/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 0bda2b2809471eadbabbf5a4fe13dbb2
+  last_post_guid: af820a6de0f31d64b3c6aa28dd3dc838
   score_criteria:
     cats: 0
     description: 3

@@ -18,15 +18,15 @@ params:
   - https://colinwalker.blog/livefeed.xml
   categories: []
   relme: {}
-  last_post_title: I have generally been bored of …
-  last_post_description: I have generally been bored of every experience I have online,
-    whether it’s reading or writing. Nothing feels exciting or enticing. Writing quick
-    thoughts is easy, but it’s much more challenging
-  last_post_date: "2024-07-01T22:45:30+05:30"
-  last_post_link: https://www.amitgawande.com/2024/07/01/i-have-generally.html
+  last_post_title: 15-minutes Conundrum
+  last_post_description: |-
+    Suppose you only have 15 minutes to idle away. Standing in line. Waiting for the next event. What do you do?
+    You may not open anything serious, like a book, or pick up the next task on the list. So
+  last_post_date: "2024-07-21T20:18:03+05:30"
+  last_post_link: https://www.amitgawande.com/2024/07/21/minutes-conundrum.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 4fc3db38dc9a940c58576060ffa2bc57
+  last_post_guid: 561a81e54c58767760548e6963ef9b98
   score_criteria:
     cats: 0
     description: 0

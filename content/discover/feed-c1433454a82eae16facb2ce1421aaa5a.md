@@ -17,33 +17,31 @@ params:
   recommender:
   - https://frankmeeuwsen.com/feed.xml
   categories:
-  - Ethiek
-  - Film
-  - Kunstmatige Intelligentie
+  - Boeken
+  - Filosofie
   relme: {}
-  last_post_title: The Capture
+  last_post_title: Tim Fransen’s morele kompas voor een wankele wereld
   last_post_description: |-
-    In het eerste seizoen maakten we kennis met DI Rachel Carey (gespeeld door Holliday Grainger), die onderzoek doet naar een […]
-    Het bericht The Capture verscheen eerst op Koneksa Mondo.
-  last_post_date: "2024-06-23T06:32:11Z"
-  last_post_link: https://koneksa-mondo.nl/2024/06/23/the-capture/
+    In zijn nieuwste boek “In onze tijd: Leven in het Calamiteitperk” betoogt Tim Fransen dat we in een ‘Calamiteitsperk’ leven […]
+    Het bericht Tim Fransen’s morele kompas voor een wankele
+  last_post_date: "2024-07-19T18:55:12Z"
+  last_post_link: https://koneksa-mondo.nl/2024/07/19/tim-fransens-morele-kompas-voor-een-wankele-wereld/
   last_post_categories:
-  - Ethiek
-  - Film
-  - Kunstmatige Intelligentie
+  - Boeken
+  - Filosofie
   last_post_language: ""
-  last_post_guid: 6b3d6a99c76dcf4334c8e50c17116128
+  last_post_guid: 9b3e9f6474f6d82664fc9a9174556fb0
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
-    postcats: 3
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 17
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true

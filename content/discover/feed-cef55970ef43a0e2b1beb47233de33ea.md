@@ -1,6 +1,6 @@
 ---
 title: gnomelibre.fr
-date: "2024-07-08T10:46:57Z"
+date: "2024-07-22T10:55:29Z"
 description: gnomelibre.fr
 params:
   feedlink: https://www.gnomelibre.fr/feed/atom/
@@ -17,17 +17,17 @@ params:
   categories:
   - Informatique
   relme: {}
-  last_post_title: 'La Formation Informatique par Immersion Totale : Vivre Chez Vos
-    Maîtres'
-  last_post_description: 'La méthode d’apprentissage immersive : vivre et travailler
-    avec des experts L’apprentissage immersif en informatique offre une expérience
-    unique. En vivant chez des experts, nous plongeons'
-  last_post_date: "2024-07-08T10:46:57Z"
-  last_post_link: https://www.gnomelibre.fr/informatique/la-formation-informatique-par-immersion-totale-vivre-chez-vos-maitres/
+  last_post_title: Les Algorithmes Sont-ils Racistes? Ce Qu’on Vous Cache dans les
+    Formations Informatiques
+  last_post_description: Analyse des biais involontaires dans la formation informatique
+    Quand on parle de formation en informatique, on pense souvent aux langages de
+    programmation, aux bases de données, au développement
+  last_post_date: "2024-07-22T10:55:29Z"
+  last_post_link: https://www.gnomelibre.fr/informatique/les-algorithmes-sont-ils-racistes-ce-quon-vous-cache-dans-les-formations-informatiques/
   last_post_categories:
   - Informatique
   last_post_language: ""
-  last_post_guid: 2c2ec6b42b0b0737b1e86e6c458d7fd1
+  last_post_guid: e7e0440e5b6422506235c129d0a81bf3
   score_criteria:
     cats: 0
     description: 3

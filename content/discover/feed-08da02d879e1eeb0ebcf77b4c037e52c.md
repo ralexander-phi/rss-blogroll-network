@@ -21,13 +21,14 @@ params:
   - http://scripting.com/rssNightly.xml
   categories: []
   relme: {}
-  last_post_title: Let's fix it in production
-  last_post_description: One small step for pug, one giant leap for pug kind.
-  last_post_date: "2024-07-06T18:53:55Z"
-  last_post_link: https://activitypub.ghost.org/lets-fix-it-in-production/
+  last_post_title: Mapping out ActivityPub support
+  last_post_description: An overview of our roadmap for the next few months, as well
+    as a preview of some alternative design options.
+  last_post_date: "2024-07-21T11:10:22Z"
+  last_post_link: https://activitypub.ghost.org/mapping-out-activitypub-support/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 03534a384c0bc6cef4b462371ce09d23
+  last_post_guid: 448cdb163ea6dc856a3a839544f76ffa
   score_criteria:
     cats: 0
     description: 3

@@ -17,16 +17,16 @@ params:
   categories:
   - Blog
   relme: {}
-  last_post_title: Expo Curitiba 2024 ¡conociendo la ciudad del futuro!
-  last_post_description: Queremos compartir la experiencia de nuestro CEO, Ariel Anthieni,
-    en Expocuritiba 2024, la Feria Internacional de Ciudades Inteligentes. Durante
-    los días 17 al 22 de marzo, Ariel tuvo el privilegio
-  last_post_date: "2024-07-01T19:37:46Z"
-  last_post_link: https://kan.com.ar/expo-curitiba-2024-conociendo-la-ciudad-del-futuro/
+  last_post_title: IOT Solution Congress en Brasil, nuestra experiencia
+  last_post_description: El pasado mes de junio se llevó a cabo el IOT Solutions Congress
+    en la ciudad de San Pablo, Brasil, donde más de 5.000 personas se reunieron para
+    ver las soluciones más avanzadas en la industria
+  last_post_date: "2024-07-12T17:35:20Z"
+  last_post_link: https://kan.com.ar/iot-solution-congress-en-brasil-nuestra-experiencia/
   last_post_categories:
   - Blog
   last_post_language: ""
-  last_post_guid: 1c1b0a3d6dc8caf70d4606e2f3cea7df
+  last_post_guid: a00f8a3f09aed8d02c4619505c5833ac
   score_criteria:
     cats: 0
     description: 3

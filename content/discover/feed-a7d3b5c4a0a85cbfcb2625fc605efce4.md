@@ -6,7 +6,8 @@ params:
   feedlink: https://adrianroselli.com/feed
   feedtype: rss
   feedid: a7d3b5c4a0a85cbfcb2625fc605efce4
-  websites: {}
+  websites:
+    https://adrianroselli.com/: true
   blogrolls: []
   in_blogrolls:
   - title: Ben Myers's Blogroll
@@ -41,7 +42,8 @@ params:
   - Google
   - Web
   - accessibility
-  relme: {}
+  relme:
+    https://adrianroselli.com/: true
   last_post_title: Don’t Use Web•dev for Accessibility Info
   last_post_description: Web.dev is a site from Google Chrome developer relations
     that provides content both to evangelize Chrome and to more broadly support the
@@ -61,10 +63,10 @@ params:
     postcats: 3
     promoted: 5
     promotes: 0
-    relme: 0
+    relme: 2
     title: 3
-    website: 0
-  score: 15
+    website: 2
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true

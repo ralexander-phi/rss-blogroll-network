@@ -8,6 +8,7 @@ params:
   feedid: 7bdd1a00a9835cf9ac8a82a8f74b2dba
   websites:
     https://rushkoff.com/: true
+    https://rushkoff.com/blog/: false
     https://www.rushkoff.com/blog/: false
   blogrolls: []
   in_blogrolls:
@@ -18,20 +19,19 @@ params:
   recommender:
   - https://frankmeeuwsen.com/feed.xml
   categories:
-  - Blog
+  - Columns
   relme:
     https://rushkoff.com/: true
-  last_post_title: 'Team Human ep. 248: I Will Not Be Autotuned – Live from All Tech
-    Is Human’s Responsible Tech Mixer'
-  last_post_description: Douglas Rushkoff took the stage at All Tech Is Human’s Responsible
-    Tech Mixer to explain why he refuses to be autotuned in the face of technosolutionism
-    and the rise AI. Recorded April 26, 2023, at
-  last_post_date: "2023-06-09T00:57:14Z"
-  last_post_link: https://rushkoff.com/team-human-ep-248-i-will-not-be-autotuned-live-from-all-tech-is-humans-responsible-tech-mixer/
+  last_post_title: Artificial Creativity
+  last_post_description: |-
+    How AI teaches us to distinguish between humans, art, and industry
+    The post Artificial Creativity appeared first on Rushkoff.
+  last_post_date: "2024-07-12T19:40:05Z"
+  last_post_link: https://rushkoff.com/artificial-creativity/
   last_post_categories:
-  - Blog
+  - Columns
   last_post_language: ""
-  last_post_guid: ccb1f37d8aaaa9b515148e7677ad25fa
+  last_post_guid: b7c16b607dc94d5cbb2e83e5e430486e
   score_criteria:
     cats: 0
     description: 3

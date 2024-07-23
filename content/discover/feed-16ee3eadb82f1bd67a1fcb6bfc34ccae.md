@@ -21,19 +21,19 @@ params:
   - Relocating to Herefordshire
   - diary
   relme: {}
-  last_post_title: 'Herefordshire Week 236: Tuesday 2 – Monday 8 July 2024'
-  last_post_description: 'Bacton to Hay Recce. General Election Labour Landslide.
-    Rain. An energetic day on Tuesday: PT at the gym followed by the recce for my
-    next GVWC walk. Left Bacton 10.20am, arrived in Hay 4.30pm give'
-  last_post_date: "2024-07-09T12:06:53Z"
-  last_post_link: https://www.sparklytrainers.com/blog/2024/07/09/herefordshire-week-236-tuesday-2-monday-8-july-2024/
+  last_post_title: 'Herefordshire Week 237: Tuesday 9 – Monday 15 July 2024'
+  last_post_description: Paris postponed. Walking from Dore Abbey to Hay on Wye. Sunshine
+    and pouring rain. Deer, damselflies and flying ants…. Slow start to Tuesday. Heavy
+    rain overnight and on and off during the day. Gym
+  last_post_date: "2024-07-16T09:53:26Z"
+  last_post_link: https://www.sparklytrainers.com/blog/2024/07/16/herefordshire-week-237-tuesday-9-monday-15-july-2024/
   last_post_categories:
   - Herefordshire (UK)
   - Herefordshire Week Notes
   - Relocating to Herefordshire
   - diary
   last_post_language: ""
-  last_post_guid: 97c39a691a4b61ae4fc6038bed418f7a
+  last_post_guid: 05bb092bde1607038b098446df291d5d
   score_criteria:
     cats: 0
     description: 0

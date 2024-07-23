@@ -19,34 +19,32 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Competition
-  - Consumer Choice
-  - United Kingdom
+  - European Union
+  - Openness
   relme: {}
-  last_post_title: The UK’s Digital Markets, Competition, and Consumers Bill will
-    spark the UK’s digital economy, not stifle it
-  last_post_description: In today’s digital age, an open and competitive ecosystem
-    with a diverse range of players is essential for building a resilient economy.
-    New products and ideas must have the opportunity … Read
-  last_post_date: "2024-04-27T05:17:47Z"
-  last_post_link: https://blog.mozilla.org/netpolicy/2024/04/26/dmcc-uk-support/
+  last_post_title: 'Mozilla’s Policy Vision for the new EU Mandate: Advancing Openness,
+    Privacy, Fair Competition, and Choice for all'
+  last_post_description: Greater openness, privacy, fair competition, and meaningful
+    choice online have never been more paramount. With the new European Commission
+    mandate kicking in, we put forward a series of policy
+  last_post_date: "2024-07-17T08:51:41Z"
+  last_post_link: https://blog.mozilla.org/netpolicy/2024/07/17/mozillas-policy-vision-for-the-new-eu-mandate-advancing-openness-privacy-fair-competition-and-choice-for-all/
   last_post_categories:
-  - Competition
-  - Consumer Choice
-  - United Kingdom
+  - European Union
+  - Openness
   last_post_language: ""
-  last_post_guid: 7e00c56026740b48cbdce33dbb60b2b2
+  last_post_guid: eecfa05aaf3bee8088f0d69673409299
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
-    postcats: 3
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 17
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true

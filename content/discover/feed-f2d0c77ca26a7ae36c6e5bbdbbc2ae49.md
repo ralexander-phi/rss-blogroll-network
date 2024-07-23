@@ -25,32 +25,33 @@ params:
   - https://josh.blog/comments/feed
   - https://josh.blog/feed
   categories:
-  - Engineering
-  - accessibility
+  - GitHub Security Lab
+  - Security
+  - Vulnerability research
   relme: {}
-  last_post_title: Exploring the challenges in creating an accessible sortable list
-    (drag-and-drop)
+  last_post_title: 3 ways to get Remote Code Execution in Kafka UI
   last_post_description: |-
-    Drag-and-drop is a highly interactive and visual interface. We often use drag-and-drop to perform tasks like uploading files, reordering browser bookmarks, or even moving a card in solitaire.
-    The
-  last_post_date: "2024-07-09T19:06:50Z"
-  last_post_link: https://github.blog/2024-07-09-exploring-the-challenges-in-creating-an-accessible-sortable-list-drag-and-drop/
+    In this blog post, we'll explain how we discovered three critical vulnerabilities in Kafka UI and how they can be exploited.
+    The post 3 ways to get Remote Code Execution in Kafka UI appeared first on
+  last_post_date: "2024-07-22T15:00:59Z"
+  last_post_link: https://github.blog/2024-07-22-3-ways-to-get-remote-code-execution-in-kafka-ui/
   last_post_categories:
-  - Engineering
-  - accessibility
+  - GitHub Security Lab
+  - Security
+  - Vulnerability research
   last_post_language: ""
-  last_post_guid: 8524374f1c27cc33a8feabeca48b78bb
+  last_post_guid: f5f77cf89fe7525719cedfe8e7721b29
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
-    postcats: 2
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 16
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true

@@ -7,6 +7,7 @@ params:
   feedtype: rss
   feedid: c3bf7c24e1cb419eab9a38cb6c94dceb
   websites:
+    https://www.pythonmorsels.com/articles/: false
     https://www.pythonmorsels.com/topics/: true
   blogrolls: []
   in_blogrolls:
@@ -17,15 +18,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Strings in Python
-  last_post_description: "Strings are used to store text-based data.\n  \n    Strings
-    store text\n    \n      \n        This is a string:\n\n      \n        >>> message
-    = \"This is text\"\n\n\n\n      \n        Python strings store text:\n\n "
-  last_post_date: "2024-07-04T15:16:51Z"
-  last_post_link: https://www.pythonmorsels.com/strings-in-python/
+  last_post_title: Using "else" in a comprehension
+  last_post_description: ">>> counts = [2, -1, 4, 7, -3, 6]\n>>> sanitized_counts
+    = [n for n in counts if n > 0 else 0]\n  File \"<stdin>\", line 1\n    sanitized_counts
+    = [n for n in counts if n > 0 else 0]\n                      "
+  last_post_date: "2024-07-20T16:53:17Z"
+  last_post_link: https://www.pythonmorsels.com/comprehension-with-else/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 4d096c013487777dfaab456be932fd01
+  last_post_guid: 7ed405770e094aefdf96c239c2f5fc24
   score_criteria:
     cats: 0
     description: 3

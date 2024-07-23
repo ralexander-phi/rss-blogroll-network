@@ -23,34 +23,36 @@ params:
   - http://scripting.com/rssNightly.xml
   - https://chrisburnell.com/feed.xml
   categories:
+  - Accessibility
+  - Applications
+  - Authoring
   - Best practices
-  - Career
   - Design
-  - My Back Pages
-  - The Old Man of the Mountain
-  - business
-  - glamorous
-  - love
+  - Standards
+  - State of the Web
+  - apps
+  - architecture
   relme:
     https://front-end.social/@zeldman: true
     https://zeldman.com/: true
-  last_post_title: One weird trick
-  last_post_description: |-
-    Help to help, because we’re built to help.
-    The post One weird trick appeared first on Zeldman on Web and Interaction Design.
-  last_post_date: "2024-07-09T17:11:31Z"
-  last_post_link: https://zeldman.com/2024/07/09/one-weird-trick/
+  last_post_title: What happened to the Share button in Zoom?
+  last_post_description: Zoom has always included a clickable button/badge at the
+    top left of its primary meeting interface window. Click the badge to copy the
+    URL of that meeting. You can then, with just one more click in
+  last_post_date: "2024-07-15T17:08:23Z"
+  last_post_link: https://zeldman.com/2024/07/15/what-happened-to-the-share-button-in-zoom/
   last_post_categories:
+  - Accessibility
+  - Applications
+  - Authoring
   - Best practices
-  - Career
   - Design
-  - My Back Pages
-  - The Old Man of the Mountain
-  - business
-  - glamorous
-  - love
+  - Standards
+  - State of the Web
+  - apps
+  - architecture
   last_post_language: ""
-  last_post_guid: 975e55ed420bddd74b4d7e3bb65386cd
+  last_post_guid: e1174d659841d3a542bd1bc080583903
   score_criteria:
     cats: 0
     description: 3

@@ -1,7 +1,7 @@
 ---
 title: Community Archives - Collabora Office and Collabora Online
 date: "1970-01-01T00:00:00Z"
-description: Your private office in the cloud
+description: Secure Document Collaboration, Controlled by You
 params:
   feedlink: https://www.collaboraoffice.com/category/community/feed/
   feedtype: rss

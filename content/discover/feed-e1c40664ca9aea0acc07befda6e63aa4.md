@@ -19,33 +19,31 @@ params:
   - http://scripting.com/rss.xml
   - http://scripting.com/rssNightly.xml
   categories:
-  - Artificial Intelligence
-  - prompting
+  - VisionPro
   relme:
     https://mastodon.cloud/@Paolo: true
     https://val.demar.in/: true
-  last_post_title: The “think of a number” fallacy
-  last_post_description: Some time a go a colleague commenting on the idea of iterative
-    prompting, suggested to ask GPT to “think about something” and then make a decision
-    on what to write or not to write. The problem
-  last_post_date: "2024-04-15T16:12:16Z"
-  last_post_link: https://val.demar.in/2024/04/the-think-of-a-number-fallacy/
+  last_post_title: Vision Pro, the first few days
+  last_post_description: I picked up my Vision Pro last Friday, as soon as it became
+    available in the UK. These have been busy days, so I haven’t had much time to
+    play with the new toy, but I want to share my first
+  last_post_date: "2024-07-17T07:44:34Z"
+  last_post_link: https://val.demar.in/2024/07/vision-pro-first-few-days/
   last_post_categories:
-  - Artificial Intelligence
-  - prompting
+  - VisionPro
   last_post_language: ""
-  last_post_guid: e3dce404234744b688a73dfef21a13cf
+  last_post_guid: 84e033caaa0e682e7cd32cb7ac32ecc3
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
-    postcats: 2
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 18
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true

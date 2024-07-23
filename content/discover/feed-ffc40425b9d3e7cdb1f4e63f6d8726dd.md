@@ -7,6 +7,8 @@ params:
   feedtype: rss
   feedid: ffc40425b9d3e7cdb1f4e63f6d8726dd
   websites:
+    https://michal.sapka.me/#bsd: false
+    https://michal.sapka.me/#emacs: false
     https://michal.sapka.me/bsd/: false
     https://michal.sapka.me/cool-emacs/: false
     https://michal.sapka.me/emacs/: false
@@ -22,16 +24,17 @@ params:
   - https://marisabel.nl/rss.php
   categories: []
   relme: {}
-  last_post_title: Even bionic implants are being abandoned by companies
+  last_post_title: Nine Princes in Amber (Roger Zelazny, 1970)
   last_post_description: |-
-    Just when I thought tech can’t get any worse, companies are abandoning working implants.
-
-    … Byland had to find out secondhand that the company had abandoned the technology and was on the verge of
-  last_post_date: "2024-07-09T22:22:00+02:00"
-  last_post_link: https://michal.sapka.me/blog/2024/bioninc-impalant-abandoned/
+    That’s one confusing novel.
+    Corwin wakes up in a hospital in New York with amnesia.
+    But the cover of the book has castles and swords!1
+    Well, as it turns out Corwin is one of nine princes of Amber,
+  last_post_date: "2024-07-22T23:21:00+02:00"
+  last_post_link: https://michal.sapka.me/brain-rot/fantasy/chronicles-of-amber/nine-princes-in-amber/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 2e27a9c817282475550cd6de3faa8ef0
+  last_post_guid: 1a286881fd74256686bd813b696edb1a
   score_criteria:
     cats: 0
     description: 3

@@ -17,6 +17,7 @@ params:
   recommender: []
   categories: []
   relme:
+    https://draft.blogger.com/profile/02963297031531256476: true
     https://foreach-hour-life.blogspot.com/: true
     https://i-want-to-paint.blogspot.com/: true
     https://jc-rambling-fool.blogspot.com/: true

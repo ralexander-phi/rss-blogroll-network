@@ -19,18 +19,17 @@ params:
   - https://takeonrules.com/tags/emacs/index.xml
   categories: []
   relme: {}
-  last_post_title: 'Complexity is Not the Enemy: Free Software Should Tackle the Hard
-    Problems'
+  last_post_title: Measuring and Improving Fundraising Success
   last_post_description: |-
-    I received a request to write a blog post about this
-            topic. I'm always open to suggestions.
-            Free software is about freedom and the rights of the
-            users. Yet, I've talked to
-  last_post_date: "2024-07-10T06:58:41-07:00"
-  last_post_link: https://jxself.org/complexity.shtml
+    Following up on Essential Elements of
+            Effective Fundraising Strategies, evaluating the impact
+            and effectiveness of fundraising campaigns is a multifaceted
+            and ongoing process
+  last_post_date: "2024-07-16T07:22:51-07:00"
+  last_post_link: https://jxself.org/measuring-and-improving-fundraising-success.shtml
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: de25f8b8a4460da0aa4e8fa027c0e1b0
+  last_post_guid: f0c1f46ce296c675333095c675fc5164
   score_criteria:
     cats: 0
     description: 3

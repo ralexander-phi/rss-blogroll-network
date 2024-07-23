@@ -1,6 +1,6 @@
 ---
 title: PyDev adventures
-date: "2024-06-13T18:35:10-07:00"
+date: "2024-07-05T14:13:47-07:00"
 description: |-
   Posting about venturing (and creating) PyDev.
   LINKS:    PyDev.org       Blog RSS       Twitter RSS

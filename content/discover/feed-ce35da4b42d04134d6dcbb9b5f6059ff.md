@@ -9,7 +9,6 @@ params:
   websites:
     https://www.my-it-brain.de/: false
     https://www.my-it-brain.de/wordpress: true
-    https://www.my-it-brain.de/wordpress/: false
   blogrolls: []
   in_blogrolls:
   - title: planet.debianforum.de
@@ -18,25 +17,32 @@ params:
   recommended: []
   recommender: []
   categories:
+  - AAP
   - Ansible
-  - conditionals
-  - is defined
-  - variables
+  - Ansible Automation Platform
+  - Automation Platform
+  - Inventory
+  - Inventory Source
+  - Proxmox
   relme:
     https://www.my-it-brain.de/wordpress: true
-  last_post_title: Beispiele für Ansibles ‚var is defined‘
-  last_post_description: In diesem Beitrag gebe ich einige Beispiele mit Erklärungen
-    zu Ansible Conditionals, welche mir in der Dokumentation fehlen. Dieser Artikel
-    dient mir zur Erinnerung und mag Einsteigern helfen, ein
-  last_post_date: "2024-07-08T05:00:00Z"
-  last_post_link: https://www.my-it-brain.de/wordpress/beispiele-fuer-ansibles-var-is-defined/
+  last_post_title: Wie wird im Ansible Automation Controller eine neue Inventory Source
+    hinzugefügt?
+  last_post_description: In diesem Überblick beschreibe ich am Beispiel der Proxmox
+    inventory source, wie eine eigene Inventory Source im Ansible Automation Controller
+    hinzugefügt werden kann. Die folgenden Schritte wurden
+  last_post_date: "2024-07-22T05:00:00Z"
+  last_post_link: https://www.my-it-brain.de/wordpress/wie-wird-im-ansible-automation-controller-eine-neue-inventory-source-hinzugefuegt/
   last_post_categories:
+  - AAP
   - Ansible
-  - conditionals
-  - is defined
-  - variables
+  - Ansible Automation Platform
+  - Automation Platform
+  - Inventory
+  - Inventory Source
+  - Proxmox
   last_post_language: ""
-  last_post_guid: e243f43ab041c391b83a6fd33cee4351
+  last_post_guid: c7c1bddf5b2df60f0987e44585593dd2
   score_criteria:
     cats: 0
     description: 3

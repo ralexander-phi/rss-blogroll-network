@@ -1,6 +1,6 @@
 ---
 title: What's new
-date: "2024-07-09T16:41:41Z"
+date: "2024-07-17T21:53:00Z"
 description: Updates on my research and expository papers, discussion of open problems,
   and other maths-related topics.  By Terence Tao
 params:

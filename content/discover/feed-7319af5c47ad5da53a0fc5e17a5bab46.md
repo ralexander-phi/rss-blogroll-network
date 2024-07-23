@@ -1,6 +1,6 @@
 ---
 title: Eshel Yaron
-date: "2024-02-11T00:00:00Z"
+date: "2024-07-18T00:00:00Z"
 description: RSS Feed of eshelyaron.com
 params:
   feedlink: https://eshelyaron.com/rss.xml
@@ -19,30 +19,26 @@ params:
   - https://takeonrules.com/site-map/updates/index.xml
   - https://takeonrules.com/tags/emacs/index.xml
   categories:
-  - emacs
+  - emacs,lisp
   relme:
     https://emacs.ch/@eshel: true
     https://eshelyaron.com/: true
-  last_post_title: Fixing a Twenty Six Years Old Emacs Bug
+  last_post_title: On Buglet-Bindings
   last_post_description: |-
-    They got it backward those days…
-    Created on [2024-02-10], last updated [2024-02-11]
+    On Buglet-Bindings
+    Highlighting a pervasive Emacs Lisp bug
+    Created on [2024-07-15], last updated [2024-07-16]
 
 
 
-    A couple of weeks ago, an interesting bug report landed on the Emacs
-    bug tracker:
-
-
-
-
-    Subject: bug#68762: 30.0
-  last_post_date: "2024-02-10T00:00:00Z"
-  last_post_link: https://eshelyaron.com/posts/2024-02-10-fixing-a-twenty-six-years-old-emacs-bug.html
+    This post is about a class of bugs that you run into left and right in
+    Emacs Lisp code
+  last_post_date: "2024-07-15T00:00:00Z"
+  last_post_link: https://eshelyaron.com/posts/2024-07-15-on-buglet-bindings.html
   last_post_categories:
-  - emacs
+  - emacs,lisp
   last_post_language: ""
-  last_post_guid: 3bdb2b4918be13e5921a5a4e7e2bdf6e
+  last_post_guid: befe75f0b45c58f2da068032ec92d1b1
   score_criteria:
     cats: 0
     description: 3

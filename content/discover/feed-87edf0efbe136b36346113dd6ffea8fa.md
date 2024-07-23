@@ -20,14 +20,14 @@ params:
   - https://marisabel.nl/rss.php
   categories: []
   relme: {}
-  last_post_title: Learning to Say "I Don't Know"
-  last_post_description: A short musing on three words that more than a few people
-    are unwilling or unable to say
-  last_post_date: "2024-07-05T06:31:58Z"
-  last_post_link: https://scottnesbitt.online/i-dont-know.html
+  last_post_title: On This Blog as a Numbers Station
+  last_post_description: Some thoughts about how I view personal blogs (and not just
+    my own)
+  last_post_date: "2024-07-19T06:37:18Z"
+  last_post_link: https://scottnesbitt.online/numbers.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 63ecd59fce632a842d2cfc6d67551750
+  last_post_guid: 2f9a5b02a30a1c960946b4e88ff094f6
   score_criteria:
     cats: 0
     description: 3

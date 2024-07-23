@@ -1,6 +1,6 @@
 ---
 title: Derek Kedziora
-date: "2024-07-06T12:21:35+02:00"
+date: "2024-07-20T15:02:27+02:00"
 description: The place on the web where I do more procrastinating than writing
 params:
   feedlink: https://derekkedziora.com/feed.xml
@@ -34,16 +34,16 @@ params:
   relme:
     https://derekkedziora.com/: true
     https://mstdn.social/@derekkedziora: true
-  last_post_title: Intensive practice
-  last_post_description: I don’t like the word retreat when talking about a period
-    of intensive practice. It feels too closed off, whereas the point of intestive
-    practice is to return to the world, albeit with a different
-  last_post_date: "2024-07-05T21:13:00+02:00"
-  last_post_link: https://derekkedziora.com/notes/2024-07-05-intensive-practice
+  last_post_title: Slow news
+  last_post_description: As I turned my phone back on after a week of intensive meditation
+    practice this Sunday, I quickly checked in with my wife. She sent a video of our
+    cat, so I guessed that meant everything was ok. But
+  last_post_date: "2024-07-16T12:30:00+02:00"
+  last_post_link: https://derekkedziora.com/notes/2024-07-16-slow-news
   last_post_categories:
   - notes
   last_post_language: ""
-  last_post_guid: 85441925366f5f3d61b0aea8df24d99e
+  last_post_guid: 51be2cd6b67d09281010bb0fb0bb58c6
   score_criteria:
     cats: 0
     description: 3

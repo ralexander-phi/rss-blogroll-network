@@ -41,13 +41,13 @@ params:
   - https://hacdias.com/feed.xml
   categories: []
   relme: {}
-  last_post_title: A Crossword Puzzle
+  last_post_title: President Venn Diagram
   last_post_description: ""
-  last_post_date: "2024-07-10T04:00:00Z"
-  last_post_link: https://xkcd.com/2957/
+  last_post_date: "2024-07-22T04:00:00Z"
+  last_post_link: https://xkcd.com/2962/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: bd850c76faa3ffa23e1ca5551daad41e
+  last_post_guid: df80209b1ebc16833ee2d23411ffea1f
   score_criteria:
     cats: 0
     description: 3

@@ -16,66 +16,58 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Adversary in the Middle
-  - AitM
   - Blog
-  - CVE-2024-3094
-  - CVE-2024-31497
-  - CVSS 10
-  - CVSS 8.8
-  - ECDSA-Nonce-Generierung
-  - NIST P-521
-  - NIST SP-800-186
-  - PKI
-  - PoC-Code
-  - PuTTY
-  - Public Key Infrastruktur
-  - QSC
-  - Quantum Safe Cryptography
-  - Schwachstellen
-  - Schwachstellen-Management
-  - Schwachstellenmanagement
-  - Schwachstellenscan
-  - Schwachstellentests
-  - TortoiseGit
-  - TortoiseSVN
-  - WinSCP
-  - XZ Utils
+  - CrowdStrike
+  - Cyber Resilience Act
+  - Falcon-Software
+  - Microsoft Azure-Cloud
+  - Open Source
+  - Windows servers
+  - Windows-PCs
+  - air traffic paralysis
+  - centralization risks
+  - checkout systems failure
+  - critical infrastructure
+  - digital supply chain
+  - faulty update
+  - global disruptions
+  - it security
+  - liability issues
+  - open source advantages
+  - quality improvement
+  - security incident
+  - software use
   relme: {}
-  last_post_title: 'CVE-2024-31497: PuTTY Forfeits Client ECDSA Private Keys'
-  last_post_description: Public-key cryptography underpins enterprise network security
-    and thus, securing the confidentiality of private keys is one of the most critical
-    IT security challenges for preventing unauthorized
-  last_post_date: "2024-07-01T08:00:46Z"
-  last_post_link: https://www.greenbone.net/en/blog/cve-2024-31497-putty-forfeits-client-ecdsa-private-keys/
+  last_post_title: '“Only 62 minutes”: From security provider to security problem'
+  last_post_description: '“Your company can be ruined in just 62 minutes”: This is
+    how the security provider Crowdstrike advertises. Now the US manufacturer has
+    itself caused an estimated multi-billion-dollar loss due to'
+  last_post_date: "2024-07-22T11:25:19Z"
+  last_post_link: https://www.greenbone.net/en/blog/only-62-minutes-from-security-provider-to-security-problem/
   last_post_categories:
-  - Adversary in the Middle
-  - AitM
   - Blog
-  - CVE-2024-3094
-  - CVE-2024-31497
-  - CVSS 10
-  - CVSS 8.8
-  - ECDSA-Nonce-Generierung
-  - NIST P-521
-  - NIST SP-800-186
-  - PKI
-  - PoC-Code
-  - PuTTY
-  - Public Key Infrastruktur
-  - QSC
-  - Quantum Safe Cryptography
-  - Schwachstellen
-  - Schwachstellen-Management
-  - Schwachstellenmanagement
-  - Schwachstellenscan
-  - Schwachstellentests
-  - TortoiseGit
-  - TortoiseSVN
-  - WinSCP
-  - XZ Utils
+  - CrowdStrike
+  - Cyber Resilience Act
+  - Falcon-Software
+  - Microsoft Azure-Cloud
+  - Open Source
+  - Windows servers
+  - Windows-PCs
+  - air traffic paralysis
+  - centralization risks
+  - checkout systems failure
+  - critical infrastructure
+  - digital supply chain
+  - faulty update
+  - global disruptions
+  - it security
+  - liability issues
+  - open source advantages
+  - quality improvement
+  - security incident
+  - software use
   last_post_language: ""
-  last_post_guid: 0a2d31d124b3d09aa4497feb279bc025
+  last_post_guid: 2baa64b92529c0c7b578f74610cc54eb
   score_criteria:
     cats: 0
     description: 3

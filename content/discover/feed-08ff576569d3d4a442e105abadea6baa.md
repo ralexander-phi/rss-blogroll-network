@@ -1,6 +1,6 @@
 ---
 title: Trey Hunner - Python
-date: "2024-06-20T17:14:09-07:00"
+date: "2024-07-11T08:54:02-07:00"
 description: ""
 params:
   feedlink: https://treyhunner.com/python.xml

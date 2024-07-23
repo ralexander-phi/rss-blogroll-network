@@ -1,6 +1,6 @@
 ---
 title: Русская планета Emacs
-date: Thu, 11 Jul 2024 03:33:41 +0000
+date: Mon, 22 Jul 2024 23:33:56 +0000
 description: ""
 params:
   link: https://planet.emacslife.com/ru/opml.xml

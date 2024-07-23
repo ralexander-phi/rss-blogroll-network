@@ -1,6 +1,6 @@
 ---
 title: simply.
-date: "2024-07-07T23:19:59Z"
+date: "2024-07-20T13:16:32Z"
 description: it’s personal and micro – simply.
 params:
   feedlink: https://simply.joejenett.com/feed.xml
@@ -51,9 +51,9 @@ params:
     https://wiki.jenett.org/: true
     https://wiki.joejenett.com/: true
   last_post_title: Lonita’s Creative Idea of the Day
-  last_post_description: In his late teens, he would sometimes travel from school
-    in Gainesville to home in Miami Beach for the weekend. His BMW had a faring and
-    windshield and was great for the 6-hour trip. He loved that
+  last_post_description: '#Creative Idea of the Day Write a short story exactly as
+    many words long as how old you are in years. In his late teens, he would sometimes
+    travel from school in Gainesville to home in Miami Beach'
   last_post_date: "2024-06-12T18:26:53Z"
   last_post_link: https://simply.joejenett.com/creative-idea-of-the-day/
   last_post_categories:

@@ -30,16 +30,15 @@ params:
   - https://danq.uk/feed/
   categories: []
   relme: {}
-  last_post_title: Social media and teen mental health – Week in security with Tony
-    Anscombe
-  last_post_description: Social media sites are designed to make their users come
-    back for more. Do laws restricting children's exposure to addictive social media
-    feeds have teeth or are they a political gimmick?
-  last_post_date: "2024-07-04T14:31:24Z"
-  last_post_link: https://www.welivesecurity.com/en/videos/social-media-teen-mental-health-week-security-tony-anscombe/
+  last_post_title: 'Beyond the blue screen of death: Why software updates matter'
+  last_post_description: The widespread IT outages triggered by a faulty CrowdStrike
+    update have put software updates in the spotlight. Here’s why you shouldn’t dread
+    them.
+  last_post_date: "2024-07-19T16:20:11Z"
+  last_post_link: https://www.welivesecurity.com/en/cybersecurity/beyond-blue-screen-death-software-updates/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: be27598adbff9731a698aa630b2e8fee
+  last_post_guid: f6df8655ca38d64d9b6434389ed41b5a
   score_criteria:
     cats: 0
     description: 3

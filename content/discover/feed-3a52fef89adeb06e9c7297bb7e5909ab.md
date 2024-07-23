@@ -1,6 +1,6 @@
 ---
 title: Sasquach wears a yellow hat
-date: "2024-05-20T08:34:57-07:00"
+date: "2024-07-19T16:45:45-07:00"
 description: My adventures though this world, and perhaps the next.
 params:
   feedlink: https://www.sorced.com/feeds/posts/default?alt=atom

@@ -29,15 +29,16 @@ params:
     https://jackbaty.com/: true
     https://mastodon.social/@batybot: true
     https://social.lol/@jbaty: true
-  last_post_title: Everything.rss is deprecated
-  last_post_description: I am shutting down the Digital Ocean instance running RSSBridge,
-    and I don't want to move or maintain it, which means https://baty.net/everything.rss
-    will no longer contain aggregated RSS feeds for
-  last_post_date: "2024-07-10T12:55:00Z"
-  last_post_link: https://baty.net/journal/2024/07/10/everything-rss-is-deprecated
+  last_post_title: SilverBullet
+  last_post_description: |-
+    Today I learned about SilverBullet
+
+    SilverBullet is a note-taking application optimized for people with a hacker mindset. We all take notes. There’s a million note taking applications out there.
+  last_post_date: "2024-07-22T16:55:00Z"
+  last_post_link: https://baty.net/journal/2024/07/22/silverbullet
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: f7cf1b0e2e1bc7d19e75ceb81984f722
+  last_post_guid: 232a2f00c79b132e7197f82a503297af
   score_criteria:
     cats: 0
     description: 3

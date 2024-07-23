@@ -20,14 +20,13 @@ params:
   - https://takeonrules.com/tags/emacs/index.xml
   categories: []
   relme: {}
-  last_post_title: "\U0001F48E Issue 424 - JRuby funding at Red Hat stopped – call
-    for sponsors"
+  last_post_title: "\U0001F48E Issue 426 - Ruby methods are colorless"
   last_post_description: ""
-  last_post_date: "2024-07-04T13:42:00-08:00"
-  last_post_link: https://ruby.libhunt.com/newsletter/424
+  last_post_date: "2024-07-18T13:42:00-08:00"
+  last_post_link: https://ruby.libhunt.com/newsletter/426
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 2c42d844805376dac35a852c3cb2f479
+  last_post_guid: 43f80bb4e83ee06d9bda89f8eab332d1
   score_criteria:
     cats: 0
     description: 3

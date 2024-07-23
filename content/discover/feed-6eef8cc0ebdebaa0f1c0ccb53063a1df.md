@@ -32,13 +32,13 @@ params:
   - https://danq.uk/feed/
   categories: []
   relme: {}
-  last_post_title: Colin (Scotch Pete)'s birthday is in 7 days
-  last_post_description: It's on Saturday 13 July 2024.
-  last_post_date: "2024-07-06T00:00:00Z"
-  last_post_link: https://abnib.co.uk/#colin-2024-7@birthdays.abnib.co.uk
+  last_post_title: Andy K's birthday is in 7 days
+  last_post_description: It's on Tuesday 23 July 2024.
+  last_post_date: "2024-07-16T00:00:00Z"
+  last_post_link: https://abnib.co.uk/#andy_k-2024-7@birthdays.abnib.co.uk
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: ddf915012845e20e99568f6510f7f2b9
+  last_post_guid: b80c4e0ed272a3074ef76766d1d06ead
   score_criteria:
     cats: 0
     description: 3

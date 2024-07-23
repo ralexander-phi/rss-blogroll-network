@@ -19,15 +19,15 @@ params:
   - https://jeroensangers.com/podcast.xml
   categories: []
   relme: {}
-  last_post_title: 24 unexpected hours in NYC
-  last_post_description: I'm almost done with research work on my upcoming guidebook
-    as my wife and I review the final 14th stadium up in Seattle on Sunday. This past
-    weekend we visited the fields furthest from Oregon,
-  last_post_date: "2024-07-03T03:59:59Z"
-  last_post_link: https://a.wholelottanothing.org/24-unexpected-hours-in-nyc/
+  last_post_title: My long strange trip into home automation
+  last_post_description: Over the past few years I've written about things I've done
+    around my home, like putting in a five-acre wide WiFi network or tapping a NFC
+    tag to unlock the front door, and I think I've finally
+  last_post_date: "2024-07-17T19:47:15Z"
+  last_post_link: https://a.wholelottanothing.org/my-long-strange-trip-into-home-automation/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 2335306ddb455937eac41a9e47021652
+  last_post_guid: 2cdd24a09e6bfae42161d4dbe05ef77b
   score_criteria:
     cats: 0
     description: 3

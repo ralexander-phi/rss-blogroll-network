@@ -8,6 +8,7 @@ params:
   feedid: 3a6fd6b5fdb5fb9906d9f04b765bdb9d
   websites:
     https://blogs.gnome.org/shaunm: true
+    https://blogs.gnome.org/shaunm/: false
   blogrolls: []
   in_blogrolls:
   - title: Planet GNOME

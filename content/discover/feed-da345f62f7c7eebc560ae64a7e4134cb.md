@@ -1,6 +1,6 @@
 ---
 title: GROGNARDIA
-date: "2024-07-10T20:52:18-04:00"
+date: "2024-07-22T19:30:51-04:00"
 description: Musings and Memories from a Lifetime of Roleplaying
 params:
   feedlink: https://grognardia.blogspot.com/feeds/posts/default
@@ -585,6 +585,7 @@ params:
   - tri tac
   - tricky owlbear
   - troll lord
+  - truman
   - tsr
   - tubb
   - tucholka
@@ -646,27 +647,17 @@ params:
   - zothique
   relme:
     https://grognardia.blogspot.com/: true
-  last_post_title: A (Very) Partial Pictorial History of Trolls
+    https://www.blogger.com/profile/00341941102398271464: true
+  last_post_title: Can You Spot the Hidden Deathtrap in this Room?
   last_post_description: ""
-  last_post_date: "2024-07-08T00:00:00-04:00"
-  last_post_link: https://grognardia.blogspot.com/2024/07/a-very-partial-pictorial-history-of_0297871625.html
+  last_post_date: "2024-07-22T15:00:00-04:00"
+  last_post_link: https://grognardia.blogspot.com/2024/07/can-you-spot-hidden-deathtrap-in-this.html
   last_post_categories:
-  - 2e
-  - ADnD
-  - anderson
-  - art
-  - dee
-  - diterlizzi
-  - grenadier
-  - holloway
-  - miniatures
-  - monsters
-  - nicholson
-  - sutherland
-  - trampier
-  - tsr
+  - dragon magazine
+  - foglio
+  - humor
   last_post_language: ""
-  last_post_guid: ed3725d25c295fe1d9cb6df02f655d6f
+  last_post_guid: 0da1c5ba1bb029f02b5197cfb4202faf
   score_criteria:
     cats: 5
     description: 3

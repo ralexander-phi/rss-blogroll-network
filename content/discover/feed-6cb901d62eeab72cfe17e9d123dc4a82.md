@@ -16,15 +16,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Ready Player Mode
-  last_post_description: "03 July 2024 Ready Player Mode\n \n\n  \n\n \nAs an Emacs
-    user, I eventually made the leap over to  dired as my file manager of choice.
-    Dired has  magical things like wdired. But this post isn't so much"
-  last_post_date: "2024-07-03T18:20:05+01:00"
-  last_post_link: https://lmno.lol/alvaro/ready-player-mode
+  last_post_title: Real Player Mode now on MELPA
+  last_post_description: "A few weeks ago, I  announced Ready Player Mode's availability
+    on  GitHub. As of today, you can  find it on MELPA.\n\n\n \nReady Player Mode
+    is  a lightweight major mode to open media (audio/video) files"
+  last_post_date: "2024-07-21T19:15:56+01:00"
+  last_post_link: https://lmno.lol/alvaro/real-player-mode-now-on-melpa
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 52c46c2d4bb42c51175e2f70c970d451
+  last_post_guid: 2c44ff7516a7ec0f3f63927635b95863
   score_criteria:
     cats: 0
     description: 3

@@ -23,15 +23,15 @@ params:
   relme:
     https://github.com/jamesvandyne/: true
     https://jamesvandyne.com/: true
-  last_post_title: 'The Week #210'
-  last_post_description: "\U0001F363 There was a time when all sushi didn't rotate
-    and rotating sushi was different. But times change and now most sushi in Japan
-    is of the rotating variety and sushi that doesn't rotate is different"
-  last_post_date: "2024-07-08T21:21:55Z"
-  last_post_link: https://jamesvandyne.com/ecfbbbd4-18f8-48f4-b50d-e5746992759c
+  last_post_title: 'The Week #212'
+  last_post_description: "\U0001F1FA\U0001F1F8 Joe Biden is no longer in the race
+    for POTUS. It seems like Harris might be the actual nominee on the ballot. I'm
+    not entirely sure where she stands on the issues I care about, but I have a"
+  last_post_date: "2024-07-22T21:49:04Z"
+  last_post_link: https://jamesvandyne.com/62450c2b-1399-4db3-af06-e8c668652d3a
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: f8d2e88cafc738864de4fea85a89bc88
+  last_post_guid: 5337a95f32d92479849bf9228ea12cb3
   score_criteria:
     cats: 0
     description: 0

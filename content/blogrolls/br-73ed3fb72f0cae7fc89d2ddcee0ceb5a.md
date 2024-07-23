@@ -1,6 +1,6 @@
 ---
 title: The Document Foundation Planet
-date: Thu, 11 Jul 2024 03:02:48 GMT
+date: Mon, 22 Jul 2024 23:02:36 GMT
 description: ""
 params:
   link: https://planet.documentfoundation.org/opml.xml
@@ -114,7 +114,7 @@ params:
     description: Programmer 4 life
     id: f8efe244a4699e15ebec297dae0167e3
   - title: Community Archives - Collabora Office and Collabora Online
-    description: Your private office in the cloud
+    description: Secure Document Collaboration, Controlled by You
     id: fd14c0c547dea178b9d0d8b0fe2ec1d2
   - title: pranavk.me
     description: ""
@@ -203,4 +203,8 @@ params:
   - title: ~rriemann
     description: Personal Blog of Robert Riemann, PhD.
     id: cbf1837c2c80632238c5fcb655472e09
+  - title: LibreOffice – BlogSophy
+    description: “Philosophy is a peculiarly stubborn attempt to think clearly.” ~
+      William James
+    id: 6d7af6cc060e3e975e063e12142783fb
 ---

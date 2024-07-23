@@ -19,45 +19,40 @@ params:
   recommender:
   - https://chrisburnell.com/feed.xml
   categories:
-  - architecture
-  - articles
-  - blogging
-  - blogs
-  - categories
-  - categorisation
-  - development
-  - directory
-  - frontend
-  - information
-  - linking
-  - links
-  - resources
-  - sharing
+  - adtech
+  - advertising
+  - behavioural
+  - browsers
+  - chrome
+  - contextual
+  - firefox
+  - google
+  - mozilla
+  - privacy
+  - surveillance
+  - tracking
   relme: {}
-  last_post_title: Directory enquiries
-  last_post_description: |-
-    I was having a discussion with some of my peers a little while back. We were collectively commenting on the state of education and documentation for front-end development.
-
-    A lot of the old stalwarts
-  last_post_date: "2024-07-10T10:03:20Z"
-  last_post_link: https://adactio.com/journal/21278
+  last_post_title: Ad tech
+  last_post_description: Back when South by Southwest wasn’t terrible, there used
+    to be an annual panel called Browser Wars populated with representatives from
+    the main browser vendors (except for Apple, obviously, who
+  last_post_date: "2024-07-16T14:57:05Z"
+  last_post_link: https://adactio.com/journal/21285
   last_post_categories:
-  - architecture
-  - articles
-  - blogging
-  - blogs
-  - categories
-  - categorisation
-  - development
-  - directory
-  - frontend
-  - information
-  - linking
-  - links
-  - resources
-  - sharing
+  - adtech
+  - advertising
+  - behavioural
+  - browsers
+  - chrome
+  - contextual
+  - firefox
+  - google
+  - mozilla
+  - privacy
+  - surveillance
+  - tracking
   last_post_language: ""
-  last_post_guid: 9ceabc6cc03a7d4bbfd4d24d19a5b3af
+  last_post_guid: 6f06152f8477f9c20aec55d3e16c598f
   score_criteria:
     cats: 0
     description: 3

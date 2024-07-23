@@ -19,17 +19,15 @@ params:
   categories:
   - Fiction
   relme: {}
-  last_post_title: DOCTOR WHO SEASON 1 IN REVIEW
-  last_post_description: |-
-    WELCOME ABOARD THE TARDIS
-    In this episode, we discuss the entire season 1, our likes, our dislikes, the fun and the silly. We also get into theories for Season 2 and EPISODE RANKINGS!
-    .
-    This podcast
-  last_post_date: "2024-07-02T16:21:46Z"
-  last_post_link: https://podcasters.spotify.com/pod/show/bad-wolf-broadcast/episodes/DOCTOR-WHO-SEASON-1-IN-REVIEW-e2liq17
+  last_post_title: 'DEEP DIVE: 15TH DOCTOR INITIAL THOUGHTS'
+  last_post_description: "WELCOME ABOARD THE TARDIS\nIn this episode, take a deep
+    dive into our initial thoughts of Ncuti Gatwa as the Fifteenth Doctor. \n.\nThis
+    podcast is available on Spotify, Apple Podcast and wherever you"
+  last_post_date: "2024-07-16T13:37:43Z"
+  last_post_link: https://podcasters.spotify.com/pod/show/bad-wolf-broadcast/episodes/DEEP-DIVE-15TH-DOCTOR-INITIAL-THOUGHTS-e2m3b61
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 94886ebe2f17bf2b4f5ef553f56cb529
+  last_post_guid: de7d1759f0139ad463dd6bd2c4c0a1d8
   score_criteria:
     cats: 1
     description: 3

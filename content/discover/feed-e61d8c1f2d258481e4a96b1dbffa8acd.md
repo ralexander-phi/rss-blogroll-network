@@ -18,29 +18,28 @@ params:
   categories:
   - text mining, natural language processing, data science, digital humanities
   relme: {}
-  last_post_title: Generative-AI Summarization
-  last_post_description: Ann Blair's book Too Much To Know overflows with techniques
-    of how pre-early modern scholars dealt with information overload. One of the more
-    oft-used techniques is summarization. With the advent of
-  last_post_date: "2024-06-27T00:00:00-04:00"
-  last_post_link: https://distantreader.org/blog/summarization/
+  last_post_title: Lexicon Enhancers
+  last_post_description: 'This posting describes a number of Python scripts used to
+    enhance a lexicon, where a lexicon is defined as a list of desirable, meaningful
+    words.Keywords: hacks; lexicons; Source: This is the'
+  last_post_date: "2024-07-12T00:00:00-04:00"
+  last_post_link: https://distantreader.org/blog/lexicon-enhancers/
   last_post_categories:
-  - large-language models (LLMs)
-  - libraries and librarianship
-  - summarization
+  - hacks
+  - lexicons
   last_post_language: ""
-  last_post_guid: 8ff45e7ffbba097456d830699c490467
+  last_post_guid: 629128d56bd1e49fc6637d7a6eb818c7
   score_criteria:
     cats: 1
     description: 3
     feedlangs: 1
-    postcats: 3
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 16
+  score: 15
   ispodcast: false
   isnoarchive: false
   innetwork: true

@@ -1,6 +1,6 @@
 ---
 title: NOT ALL WHO WANDER ARE LOST
-date: "2024-07-11T04:32:59Z"
+date: "2024-07-23T00:27:58Z"
 description: 'Not All Who Wander Are Lost: Longform thoughts and shorter reflections
   as I journey along.'
 params:
@@ -21,13 +21,13 @@ params:
   - https://marisabel.nl/rss.php
   categories: []
   relme: {}
-  last_post_title: Sunday Review (07-06-2024)
-  last_post_description: A review of the week ending on July 5, 2024
-  last_post_date: "2024-07-08T03:16:10Z"
-  last_post_link: https://wand3r.net/sunday-review-07-06-2024/
+  last_post_title: Sunday (er...Monday) Review (7-21-24)
+  last_post_description: A review of my past week.
+  last_post_date: "2024-07-22T23:25:31Z"
+  last_post_link: https://wand3r.net/sunday-ermonday-review-7-21-24/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: df3e3395f512dca8d98d3e20b0c07715
+  last_post_guid: ceb2e95cb14a2f3cfcf982874381c615
   score_criteria:
     cats: 0
     description: 3

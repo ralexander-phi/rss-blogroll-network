@@ -16,19 +16,18 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Haberler
+  - Duyurular
   relme: {}
-  last_post_title: Pardus Projesi, Gelecek İçin Teknoloji Temalı 6. Verimlilik ve
-    Teknoloji Fuarı’nda İlgi Odağı Oldu!
-  last_post_description: Bu yıl 6’ncısı düzenlenen Verimlilik ve Teknoloji Fuarı,
-    Türkiye Verimlilik Vakfı ve Ankara Bilim Üniversitesi’nin ev sahipliğinde, 08-10
-    Şubat 2024 tarihlerinde ATO Congresium’da
-  last_post_date: "2024-02-28T10:28:40Z"
-  last_post_link: https://www.pardus.org.tr/haberler/pardus-projesi-gelecek-icin-teknoloji-temali-6-verimlilik-ve-teknoloji-fuarinda-ilgi-odagi-oldu/
+  last_post_title: Pardus 23.2 Sürümü Yayımlandı
+  last_post_description: TÜBİTAK ULAKBİM tarafından geliştirilmeye devam edilen Pardus’un
+    23.2 sürümü yayımlandı. Pardus 23.2; Pardus 23 ailesinin ikinci ara sürümüdür.
+    En yeni Pardus’ u hemen şimdi
+  last_post_date: "2024-07-16T14:06:17Z"
+  last_post_link: https://www.pardus.org.tr/duyurular/pardus-23-2-surumu-yayimlandi/
   last_post_categories:
-  - Haberler
+  - Duyurular
   last_post_language: ""
-  last_post_guid: 67d762a387409366202e7154a01a660d
+  last_post_guid: 0ce80b238772c6c478eeb0efaf11ebe2
   score_criteria:
     cats: 0
     description: 0

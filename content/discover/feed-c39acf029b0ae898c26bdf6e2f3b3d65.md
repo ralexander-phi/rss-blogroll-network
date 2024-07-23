@@ -1,6 +1,6 @@
 ---
 title: Home Assistant
-date: "2024-07-10T21:58:21Z"
+date: "2024-07-22T15:34:23Z"
 description: ""
 params:
   feedlink: https://www.home-assistant.io/atom.xml

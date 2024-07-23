@@ -1,6 +1,6 @@
 ---
 title: BASTIONLAND
-date: "2024-07-10T08:52:14+01:00"
+date: "2024-07-22T00:05:58+01:00"
 description: A BASTION OF ODDITY
 params:
   feedlink: https://www.bastionland.com/feeds/posts/default
@@ -273,13 +273,14 @@ params:
   - x-files
   relme:
     https://www.bastionland.com/: true
-  last_post_title: Hired MACs
+    https://www.blogger.com/profile/11717684225248546716: true
+  last_post_title: July of 5, 10, and 15 years ago
   last_post_description: ""
-  last_post_date: "2024-07-10T08:51:33+01:00"
-  last_post_link: https://www.bastionland.com/2024/07/hired-macs.html
+  last_post_date: "2024-07-17T10:49:00+01:00"
+  last_post_link: https://www.bastionland.com/2024/07/july-of-5-10-and-15-years-ago.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 53f5787ae37fddbc90e1ba43735ab313
+  last_post_guid: 07c8da6e09574949f7f7365984cff4e7
   score_criteria:
     cats: 5
     description: 3

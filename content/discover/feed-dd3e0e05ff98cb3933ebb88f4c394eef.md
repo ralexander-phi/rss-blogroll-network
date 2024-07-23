@@ -23,6 +23,7 @@ params:
   - https://amoreconviviallife.wordpress.com/feed/
   - https://arialdomartini.github.io/atom
   - https://arne.me/articles/atom.xml
+  - https://arne.me/articles/atom.xsml
   - https://atthis.link/rss.xml
   - https://avdi.codes/feed/
   - https://bankuei.wordpress.com/feed/
@@ -80,6 +81,7 @@ params:
   - https://matthiasott.com/rss
   - https://maziriansgarden.blogspot.com/feeds/posts/default?alt=rss
   - https://monstersandmanuals.blogspot.com/feeds/posts/default
+  - https://monstersandmanuals.blogspot.com/feeds/posts/default?alt=rss
   - https://mythlands-erce.blogspot.com/feeds/posts/default
   - https://necroticgnome.com/blogs/news.atom
   - https://nesslabs.com/feed
@@ -146,31 +148,33 @@ params:
   recommender: []
   categories:
   - personal
+  - reflections
   relme:
     https://dice.camp/@takeonrules: true
     https://github.com/jeremyf: true
     https://takeonrules.com/: true
-  last_post_title: On Leaving the Land of Goshen
-  last_post_description: "Summary: \nIn July we plan to move from Indiana to Michigan.
-    \ In this post, I reflect on the trees that have grown up during our residency
-    at our Goshen home.\n\n        \n\n[Differences, not uniformity,]"
-  last_post_date: "2024-07-09T11:47:39-04:00"
-  last_post_link: https://takeonrules.com/2024/07/09/on-leaving-the-land-of-goshen/
+  last_post_title: Attachment and Release
+  last_post_description: "Summary: \nA reflection on stiff hands and the lake shore
+    calm.\n\n        Over the last month I’ve been spending my evenings moving or
+    unpacking…or both.\nMy hands feel tight, as though they are"
+  last_post_date: "2024-07-22T12:36:33-04:00"
+  last_post_link: https://takeonrules.com/2024/07/22/attachment-and-release/
   last_post_categories:
   - personal
+  - reflections
   last_post_language: ""
-  last_post_guid: cea9c4dde8f654a6ba4d6dca3ce48d77
+  last_post_guid: dabd1370eed5bf922d5ed38ec7aec090
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
-    postcats: 1
+    postcats: 2
     promoted: 0
     promotes: 10
     relme: 2
     title: 3
     website: 2
-  score: 22
+  score: 23
   ispodcast: false
   isnoarchive: false
   innetwork: true

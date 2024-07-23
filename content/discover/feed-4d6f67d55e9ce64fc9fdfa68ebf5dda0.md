@@ -31,6 +31,7 @@ params:
   - https://world.hey.com/dhh/feed.atom
   - https://www.curtisfamily.org.uk/feed/
   - https://www.manton.org/feed.xml
+  - https://www.michalzelazny.com/feed
   - https://www.michalzelazny.com/feed/
   - https://blog.numericcitizen.me/podcast.xml
   - https://excited-pixels.com/comments/feed/
@@ -41,7 +42,6 @@ params:
   - https://om.co/comments/feed/
   - https://www.feedio.co/@thenewsprint/feed
   - https://www.curtisfamily.org.uk/comments/feed/
-  - https://www.michalzelazny.com/feed
   recommender: []
   categories:
   - Technology
@@ -51,7 +51,7 @@ params:
   last_post_description: In a week, I’ll be preparing to fly to Croatia for a three-week
     vacation with my wife. I’m still considering several aspects of the trip. How
     much blogging should I do during this time? Should I
-  last_post_date: "2024-06-15T23:18:04+02:00"
+  last_post_date: "2024-06-15T17:18:04-04:00"
   last_post_link: https://blog.numericcitizen.me/2024/06/15/ponedring.html
   last_post_categories: []
   last_post_language: ""

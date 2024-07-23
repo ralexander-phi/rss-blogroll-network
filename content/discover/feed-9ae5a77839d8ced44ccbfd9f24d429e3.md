@@ -23,15 +23,15 @@ params:
     https://github.com/mihobu: true
     https://mihobu.lol/: true
     https://social.lol/@mihobu: true
-  last_post_title: We Need to Let Go of the Dots and Dashes
+  last_post_title: Shokz OpenRun Headphones
   last_post_description: |-
-    There’s a good article in the July/August 2024 issues of On the Air, ARRL’s magazine geared toward new hams, that offers advice on learning the Morse Code.
-    I’m all for this. I love Morse Code,
-  last_post_date: "2024-07-13T14:19:00Z"
-  last_post_link: https://mihobu.lol/2024/07/we-need-to-let-go-of-the-dots-and-dashes
+    My new Shokz bone conduction headphones
+    While traveling recently, I found myself with a little time to kill between flights at Harry Reid International Airport[^lf] in Las Vegas so I popped into
+  last_post_date: "2024-07-22T23:00:00Z"
+  last_post_link: https://mihobu.lol/2024/07/shokz-openrun-headphones
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: c3527db26e60bbe6adfabfc284af60dc
+  last_post_guid: ab2bc086c9c96772a5f244383ca8bfef
   score_criteria:
     cats: 0
     description: 3

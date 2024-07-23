@@ -1,6 +1,6 @@
 ---
 title: Swords &amp; Stitchery - Old Time Sewing &amp; Table Top Rpg Blog
-date: "2024-07-10T15:28:47-07:00"
+date: "2024-07-22T16:32:20-07:00"
 description: A blog about sewing machine repairs,but mainly my hobbies which include
   old school role playing games, science fiction,films, horror, and general geekery.
   Sit down and stay a spell.
@@ -735,6 +735,7 @@ params:
   - At The Mountains of Madness
   - Atari Force
   - Athurian Rpg's
+  - Atlach-Nacha
   - Atlantandria Port City Of Accursed
   - Atlantandria Port City Of Accursed Atlantis
   - Atlantandria Port City Of Accursed Atlantis Campaign
@@ -1405,6 +1406,7 @@ params:
   - Cultclassic  Seventies TV Series
   - Cultclassic  Seventies TV Series Reimagined
   - Cultclassic Eighties Films
+  - Cultclassic Eighties TV shows
   - Cultclassic Films
   - Cultclassic Lovecraft Films
   - Cultclassic Science Fiction Films
@@ -3368,6 +3370,7 @@ params:
   - Obscene Serpent Religion
   - Occult Relics
   - Occult Wars
+  - Octogorilla
   - Odin
   - Ogres
   - Ogres of the Olden Lands
@@ -3660,6 +3663,7 @@ params:
   - Postcards from Avalidad rpg
   - Postmortem Studios
   - Poul Anderson
+  - Powder Keg
   - Power Armor
   - Powered Armor
   - Prayer Breakfast White Star Rpg Session Report 1
@@ -4080,6 +4084,7 @@ params:
   - Shawn Fisher
   - Sheet Ghouls
   - Sheet Phantoms
+  - Shelob of The Lidless Eye
   - Shemarrian Nation Adventure Rifts Sourcebook
   - Shield Maidens  of Sea Rune (JG1010)
   - Shield Maidens of Sea Rune
@@ -4219,6 +4224,7 @@ params:
   - Spellbook games
   - Spelljammer
   - Spells
+  - Spiders
   - Spies
   - Spies of Light Elf
   - Spirits of Heaven & Hell
@@ -4693,6 +4699,7 @@ params:
   - The Heroic Fantasy Handbook
   - The Hidden In Shadows blog
   - The Hidden Serpent
+  - The Highwayman TV show
   - The Hill Cantons
   - The Hmelatharchuro
   - The Holiday Scrapbook Murders Affair
@@ -5477,6 +5484,7 @@ params:
   - Xoth.net publishing
   - Xplorers
   - Xulhlan
+  - "Y"
   - YOG·SOTHOTH (the key and guardian of the gate)
   - YS1 The Outpost of the Outer Ones
   - YS1 The Outpost of the Outer Ones by Jeremy Reaban
@@ -5619,22 +5627,26 @@ params:
   - western
   - “Ynys Bach”
   relme:
+    https://darkcornersofrpging.blogspot.com/: true
     https://swordsandstitchery.blogspot.com/: true
-  last_post_title: Everything In World War Two & Your Mother - The Free Marvel Super
-    Heroes rpg Netbook Adventure 'In The Shadows of Evil'- Middle East Madness Session
-    Report 2
-  last_post_description: So if you've been following our World War II campaign 'In
-    The Shadows of Evil' which is a free netbook adventure. We really dug in as we
-    took a hook flight to Egypt aboard a very nosey passenger
-  last_post_date: "2024-07-10T09:15:36-07:00"
-  last_post_link: https://swordsandstitchery.blogspot.com/2024/07/everything-in-world-war-two-your-mother.html
+    https://thomassewingmachines.blogspot.com/: true
+    https://www.blogger.com/profile/11243274667834930867: true
+  last_post_title: 'Enter The Psycho Warriors - Ascendant Rpg Session Report  - Capital
+    City Casefiles #2: Served Cold By Karl Gustav-'
+  last_post_description: The PC's have been called into a new mission as they've made
+    a cosmic entity report after encountering the High Evolutionary last session.
+    Now the PC's are to perform a raid on an illicit drug lab
+  last_post_date: "2024-07-21T16:30:28-07:00"
+  last_post_link: https://swordsandstitchery.blogspot.com/2024/07/enter-psycho-warriors-ascendant-rpg.html
   last_post_categories:
-  - '''In The Shadows of Evil'''
-  - Campaign
-  - Marvel Super Heroes Rpg
+  - Alexander Marcis
+  - Ascendant rpg system
+  - 'Capital City Casefiles #2: Served Cold'
+  - Karl Gustav
+  - OSR Commentary
   - Session Report
   last_post_language: ""
-  last_post_guid: 35bfbddf422809788c642a30535bc504
+  last_post_guid: 2d40bdfcc5524e1aed5bdbe3bf05adfa
   score_criteria:
     cats: 5
     description: 3

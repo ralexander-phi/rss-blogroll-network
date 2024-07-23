@@ -16,20 +16,20 @@ params:
   recommender: []
   categories:
   - emacs
-  - lsp
+  - nix
   relme: {}
-  last_post_title: Orderless completion in lsp-mode
+  last_post_title: Emacs via Nix with mu4e
   last_post_description: |-
-    If you, like me, are using corfu to get in-buffer completion and extend it
-    with orderless to make it even more powerful, you might have noticed that you
-    lose the orderless style as soon as you enter
-  last_post_date: "2024-05-04T06:49:00+02:00"
-  last_post_link: https://magnus.therning.org/2024-05-04-orderless-completion-in-lsp-mode.html
+    I've been running development versions of Emacs ever since I switched to Wayland
+    and needed the PGTK code. The various X-git packages on AUR makes that easy,
+    as long as one doesn't mind building the
+  last_post_date: "2024-07-21T01:04:00+02:00"
+  last_post_link: https://magnus.therning.org/2024-07-21-emacs-via-nix-with-mu4e.html
   last_post_categories:
   - emacs
-  - lsp
+  - nix
   last_post_language: ""
-  last_post_guid: 61308fb272c633a7fb476f5748858ffe
+  last_post_guid: c962d29a1a7ae469557f88d123dda17d
   score_criteria:
     cats: 0
     description: 3

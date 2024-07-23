@@ -11,7 +11,7 @@ params:
   blogrolls:
   - https://josh.blog/.well-known/recommendations.opml
   in_blogrolls:
-  - title: Your Feeds
+  - title: Blogroll Network Seeds
     description: ""
     id: c33ed4f6ab2b4055fadbfad39d41c36e
   - title: robalexdev

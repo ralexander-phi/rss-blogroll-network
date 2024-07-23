@@ -36,23 +36,21 @@ params:
   - technology
   - web development
   relme: {}
-  last_post_title: Weeknotes 7th July 2024
-  last_post_description: It's been a very quiet week, between recent trips to Canada
-    and The Netherlands I'm definitely in hibernation mode.There was an election,
-    and the Tories have finally gone away, so that was nice
-  last_post_date: "2024-07-10T15:36:20Z"
-  last_post_link: https://polytechnic.co.uk/blog/2024/07/weeknotes-7th-july-2024/
+  last_post_title: Weeknotes 14th July 2024
+  last_post_description: Saw Hundreds Of Beavers (stop sniggering at the back), it
+    was an absolute riot. Like watching a live action Looney Tunes cartoon crossed
+    with a Let's Play of the weirdest video game you ever saw.
+  last_post_date: "2024-07-16T09:21:02Z"
+  last_post_link: https://polytechnic.co.uk/blog/2024/07/weeknotes-14th-july-2024/
   last_post_categories:
   - cinema
   - diary
-  - internet society
+  - film
   - me
-  - plotly
-  - programming
-  - python
+  - uppcinema
   - weeknotes
   last_post_language: ""
-  last_post_guid: 7d6d9e9b12c87bdf9557b57f3940f856
+  last_post_guid: c20346c8588c9fd713016d5f9d741789
   score_criteria:
     cats: 5
     description: 3

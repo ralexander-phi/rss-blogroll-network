@@ -16,31 +16,30 @@ params:
   recommended: []
   recommender: []
   categories:
+  - Administration
   - Announcements
-  - flatpak
-  - linux
-  - maintenance
-  - snap
-  - software
+  - ipv6
+  - minimal
+  - ping
+  - restart
   - ubuntu
   relme: {}
-  last_post_title: 'Enhanced uCareSystem 24.06.0: Desktop Terminal Upgrade and Acknowledgments
-    for Supporters'
-  last_post_description: "The previous release of uCareSystem, version 24.05.0, introduced
-    enhanced maintenance and cleanup capabilities for flatpak packages. The uCareSystem
-    24.06.0 has a special treat for desktop users \U0001F642"
-  last_post_date: "2024-06-16T20:49:14Z"
-  last_post_link: https://utappiablog.wordpress.com/2024/06/16/enhanced-ucaresystem-24-06-0-desktop-terminal-upgrade-and-acknowledgments-for-supporters/
+  last_post_title: 'uCareSystem 24.07.14: Improved System Restart Detection'
+  last_post_description: uCareSystem has had the ability to detect if a system reboot
+    is needed after applying maintenance tasks for some time now. With the new release,
+    it will also show you the list of packages that
+  last_post_date: "2024-07-14T17:03:34Z"
+  last_post_link: https://utappiablog.wordpress.com/2024/07/14/ucaresystem-24-07-14-improved-system-restart-detection/
   last_post_categories:
+  - Administration
   - Announcements
-  - flatpak
-  - linux
-  - maintenance
-  - snap
-  - software
+  - ipv6
+  - minimal
+  - ping
+  - restart
   - ubuntu
   last_post_language: ""
-  last_post_guid: 0660af9556eb7fb5feced98c9a1e1520
+  last_post_guid: 797b572b453596083e88890a8c614fe5
   score_criteria:
     cats: 0
     description: 3

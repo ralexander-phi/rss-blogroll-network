@@ -23,6 +23,7 @@ params:
   - RPG
   - WTF
   relme:
+    https://draft.blogger.com/profile/12067621123008652431: true
     https://gluonic.blogspot.com/: true
     https://iteration-zero.blogspot.com/: true
     https://www.blogger.com/profile/12067621123008652431: true

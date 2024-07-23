@@ -8,6 +8,7 @@ params:
   feedid: 2f02a05b9ae2b09d6abb5aa771db4a68
   websites:
     https://go.dev/blog: false
+    https://go.dev/blog/: false
   blogrolls: []
   in_blogrolls:
   - title: Miniflux

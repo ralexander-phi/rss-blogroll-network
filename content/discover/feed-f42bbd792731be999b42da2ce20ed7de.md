@@ -22,30 +22,31 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Sensibilisation
+  - Article de presse
+  - Le Logiciel Libre
   relme: {}
-  last_post_title: 'Fête des Possibles : une occasion à saisir pour sensibiliser de
-    nouveaux publics au logiciel libre !'
-  last_post_description: Une nouvelle édition de la Fête des Possibles, projet impulsé
-    et coordonné par le Collectif pour une Transition Citoyenne (CTC), aura lieu du
-    13 septembre au 13 octobre 2024. Des centaines
-  last_post_date: "2024-07-10T12:21:01Z"
-  last_post_link: https://www.april.org/fete-des-possibles-une-occasion-a-saisir-pour-sensibiliser-de-nouveaux-publics-au-logiciel-libre
+  last_post_title: Revue de presse de l’April pour la semaine 29 de l’année 2024
+  last_post_description: "Le lundi 15 juillet\n                  2024.\n                    \n
+    \                     Le Guide d’accompagnement du programme de\n                      technologie
+    au cycle 4, daté de février 2024"
+  last_post_date: "2024-07-22T10:00:07Z"
+  last_post_link: https://www.april.org/revue-de-presse-de-l-april-pour-la-semaine-29-de-l-annee-2024
   last_post_categories:
-  - Sensibilisation
+  - Article de presse
+  - Le Logiciel Libre
   last_post_language: ""
-  last_post_guid: e1daa865be4044981144b054eeac1dc7
+  last_post_guid: 44969e89d889965658843db94218a94a
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
-    postcats: 1
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 15
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true

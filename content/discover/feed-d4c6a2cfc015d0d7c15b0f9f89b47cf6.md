@@ -18,103 +18,75 @@ params:
   - https://jabel.blog/feed.xml
   - https://jabel.blog/podcast.xml
   categories:
-  - Chicago
-  - Ecology
-  - Emily Monosson
-  - Fire
-  - Steve Brussate
-  - The Field Museum
-  - The Rise and Reign of the Mammals
-  - ancestor worship
-  - ancient fossils
-  - biology
-  - blight
-  - chewing
-  - climate change
-  - cooking
-  - decline of reptiles
-  - dinosaur
-  - dinosaurs
-  - evolution
-  - evolutionary biology
-  - fall of dinosaurs
-  - fire myths
-  - first mammal
-  - fossils
-  - fungal epidemics
-  - fungal infections
-  - fungal pandemics
-  - fungi
-  - global warming
-  - inner fire
-  - mass extinction
-  - mastication
-  - metabolism
-  - morganucodon
-  - nature
-  - proto-mammal
-  - protomammal
-  - rise of mammals
-  - saprophytic fungi
+  - Academic science
+  - Physics
+  - Sam Avery Norrell
+  - Schrodinger's Cat
+  - calculating cats
+  - cat
+  - chemistry
+  - computation
+  - computer science
+  - computers
+  - factoring prime numbers
+  - flow of information
+  - information-proof box
+  - laser trap
+  - many worlds
+  - physics
+  - quantum
+  - quantum bits
+  - quantum computers
+  - quantum computing
+  - quantum computing made easy
+  - quantum decoherence
+  - quantum mechanics
+  - quantum mechanics for children
+  - quantum physics
   - science
-  - teeth
-  - tooth
-  - warm blood
-  - warm bloodedness
-  - wildlife
+  - understanding quantum computers
+  - understanding quantum computing
+  - wave function
+  - wave function collapse
   relme: {}
-  last_post_title: On the toothy origins of our inner fire.
-  last_post_description: With one weird trick, morganucodon kept our kind from being
-    killed by saprophytic fungi.
-  last_post_date: "2024-04-04T17:39:59Z"
-  last_post_link: https://fcbrowncloud.com/2024/04/04/on-the-toothy-origins-of-our-inner-fire/
+  last_post_title: 'On quantum computers: wavelike cats calculate faster than you.'
+  last_post_description: Hypothetical, calculator-wielding cats can help us understand
+    the workings of a quantum computer.
+  last_post_date: "2024-07-15T15:55:45Z"
+  last_post_link: https://fcbrowncloud.com/2024/07/15/on-quantum-computers-wavelike-cats-calculate-faster-than-you/
   last_post_categories:
-  - Chicago
-  - Ecology
-  - Emily Monosson
-  - Fire
-  - Steve Brussate
-  - The Field Museum
-  - The Rise and Reign of the Mammals
-  - ancestor worship
-  - ancient fossils
-  - biology
-  - blight
-  - chewing
-  - climate change
-  - cooking
-  - decline of reptiles
-  - dinosaur
-  - dinosaurs
-  - evolution
-  - evolutionary biology
-  - fall of dinosaurs
-  - fire myths
-  - first mammal
-  - fossils
-  - fungal epidemics
-  - fungal infections
-  - fungal pandemics
-  - fungi
-  - global warming
-  - inner fire
-  - mass extinction
-  - mastication
-  - metabolism
-  - morganucodon
-  - nature
-  - proto-mammal
-  - protomammal
-  - rise of mammals
-  - saprophytic fungi
+  - Academic science
+  - Physics
+  - Sam Avery Norrell
+  - Schrodinger's Cat
+  - calculating cats
+  - cat
+  - chemistry
+  - computation
+  - computer science
+  - computers
+  - factoring prime numbers
+  - flow of information
+  - information-proof box
+  - laser trap
+  - many worlds
+  - physics
+  - quantum
+  - quantum bits
+  - quantum computers
+  - quantum computing
+  - quantum computing made easy
+  - quantum decoherence
+  - quantum mechanics
+  - quantum mechanics for children
+  - quantum physics
   - science
-  - teeth
-  - tooth
-  - warm blood
-  - warm bloodedness
-  - wildlife
+  - understanding quantum computers
+  - understanding quantum computing
+  - wave function
+  - wave function collapse
   last_post_language: ""
-  last_post_guid: cc9bd041eb950d729c08e9e3aca8f4ac
+  last_post_guid: aee0f90f68f151d73122ddeed904601c
   score_criteria:
     cats: 0
     description: 3

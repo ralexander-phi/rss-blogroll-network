@@ -8,6 +8,7 @@ params:
   feedid: 0da3b6b7c6f13556fc2fcdc64dda50e2
   websites:
     https://www.nathalielawhead.com/candybox: true
+    https://www.nathalielawhead.com/candybox/: false
   blogrolls: []
   in_blogrolls:
   - title: Dan Q's Blogroll

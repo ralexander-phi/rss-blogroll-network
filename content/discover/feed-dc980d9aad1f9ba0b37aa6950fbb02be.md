@@ -31,62 +31,31 @@ params:
   - https://danq.me/kind/note/feed/
   - https://danq.uk/comments/feed/
   - https://danq.uk/feed/
-  categories:
-  - architecture
-  - articles
-  - blogging
-  - blogs
-  - categories
-  - categorisation
-  - development
-  - directory
-  - frontend
-  - information
-  - linking
-  - links
-  - resources
-  - sharing
+  categories: []
   relme:
     https://adactio.com/: true
     https://adactio.medium.com/: true
     https://github.com/adactio: true
     https://mastodon.social/@adactio: true
     https://resilientwebdesign.com/: true
-  last_post_title: Notes – David Bushell
-  last_post_description: |-
-    David is on board. Who else?
-
-    adactio.com/links/21280
-  last_post_date: "2024-07-10T14:32:30Z"
-  last_post_link: https://dbushell.com/notes/2024-07-10T11:39Z/
-  last_post_categories:
-  - architecture
-  - articles
-  - blogging
-  - blogs
-  - categories
-  - categorisation
-  - development
-  - directory
-  - frontend
-  - information
-  - linking
-  - links
-  - resources
-  - sharing
+  last_post_title: Afternoon session
+  last_post_description: Afternoon session
+  last_post_date: "2024-07-22T15:18:07Z"
+  last_post_link: https://adactio.com/notes/21295
+  last_post_categories: []
   last_post_language: ""
-  last_post_guid: b8d9b89c3050164fcd686b16a5fc3d99
+  last_post_guid: 3b464087ea31111f0c190b10a98152e4
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
-    postcats: 3
+    postcats: 0
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 19
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true

@@ -9,12 +9,18 @@ params:
   websites:
     https://coryd.dev/: false
     https://coryd.dev/books: false
+    https://coryd.dev/books/: false
     https://coryd.dev/contact: false
     https://coryd.dev/feeds: true
+    https://coryd.dev/feeds/: false
     https://coryd.dev/links: false
+    https://coryd.dev/links/: false
     https://coryd.dev/music: false
+    https://coryd.dev/music/: false
     https://coryd.dev/now: false
+    https://coryd.dev/now/: false
     https://coryd.dev/watching: false
+    https://coryd.dev/watching/: false
     https://coryd.dev/webrings: false
   blogrolls: []
   in_blogrolls:
@@ -41,15 +47,15 @@ params:
     https://coryd.dev/webrings: true
     https://github.com/cdransf: true
     https://social.lol/@cory: true
-  last_post_title: Building out a books page
-  last_post_description: I had a ton of fun reading about how Melanie put together
-    her reading page that I thought I'd write up a quick post on how I built mine.I've
-    cycled from Goodreads to Oku to Goodreads to The
-  last_post_date: "2024-07-03T22:40:00Z"
-  last_post_link: https://feedpress.me/link/23795/16733476/building-out-a-books-page
+  last_post_title: It turns out a CMS can be pretty awesome
+  last_post_description: Having a CMS to update your site can be awesome. It's not
+    strictly necessary and mine is entirely over-engineered but here we are. It's
+    helpful on mobile, it's been incredibly useful on desktop.My
+  last_post_date: "2024-07-18T16:50:00Z"
+  last_post_link: https://feedpress.me/link/23795/16747451/it-turns-out-a-cms-can-be-pretty-awesome
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 041163696a0c0e04a72bc12f1e4ffc78
+  last_post_guid: 38a2741cee281aea34db1ac9dc097e4e
   score_criteria:
     cats: 0
     description: 3

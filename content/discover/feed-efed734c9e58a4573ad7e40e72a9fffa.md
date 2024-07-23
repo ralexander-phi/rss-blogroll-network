@@ -8,6 +8,7 @@ params:
   feedid: efed734c9e58a4573ad7e40e72a9fffa
   websites:
     https://jodischneider.com/blog: true
+    https://jodischneider.com/blog/: false
   blogrolls: []
   in_blogrolls:
   - title: Planet Code4Lib

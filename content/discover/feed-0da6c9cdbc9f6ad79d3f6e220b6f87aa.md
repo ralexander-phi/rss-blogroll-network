@@ -20,30 +20,28 @@ params:
   - http://scripting.com/rss.xml
   - http://scripting.com/rssNightly.xml
   categories:
-  - Meta
-  - Threads
+  - Kamala Harris
   relme: {}
-  last_post_title: Adam Mosseri on the first year of Threads
-  last_post_description: With more than 175 million monthly users, Meta has its sights
-    set on overtaking Twitter
-  last_post_date: "2024-07-03T14:30:49Z"
-  last_post_link: https://www.platformer.news/threads-175-million-users-adam-mosseri-interview/
+  last_post_title: How Kamala Harris sees the tech industry
+  last_post_description: 'Plus: Zuckerberg and Trump, is X "back," and other questions
+    about the brand-new 2024 presidential campaign'
+  last_post_date: "2024-07-23T00:09:42Z"
+  last_post_link: https://www.platformer.news/kamala-harris-nomination-zuckerberg-trump-x-threads/
   last_post_categories:
-  - Meta
-  - Threads
+  - Kamala Harris
   last_post_language: ""
-  last_post_guid: bab64588cdb1399a66a8527664b4b0c9
+  last_post_guid: ecaf9b84b5478e1529633f8a0d80c311
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
-    postcats: 2
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 15
+  score: 14
   ispodcast: false
   isnoarchive: false
   innetwork: true

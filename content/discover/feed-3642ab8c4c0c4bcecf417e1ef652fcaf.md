@@ -16,30 +16,30 @@ params:
   recommended: []
   recommender: []
   categories:
-  - C++
+  - Embedded
   - KDAB Blogs
   - KDAB on Qt
-  - Rust
   - Technical
   - Whitepapers & Published Articles
+  - embedded
   - whitepaper
   relme: {}
-  last_post_title: The Smarter Way to Rust
-  last_post_description: If you’ve been following our blog, you’re likely aware of
-    Rust’s growing presence in embedded systems. While Rust excels in safety-by-design,
-    it’s also common to find it integrated with C++.
-  last_post_date: "2024-06-27T08:00:04Z"
-  last_post_link: https://www.kdab.com/the-smarter-way-to-rust/
+  last_post_title: Behind the Scenes of Embedded Updates
+  last_post_description: An over-the-air (OTA) update capability is an increasingly
+    critical part of any embedded product to close cybersecurity vulnerabilities,
+    allow just-in-time product rollouts, stomp out bugs, and
+  last_post_date: "2024-07-18T08:00:36Z"
+  last_post_link: https://www.kdab.com/behind-the-scenes-of-embedded-updates/
   last_post_categories:
-  - C++
+  - Embedded
   - KDAB Blogs
   - KDAB on Qt
-  - Rust
   - Technical
   - Whitepapers & Published Articles
+  - embedded
   - whitepaper
   last_post_language: ""
-  last_post_guid: 0821032b13acf9c041b1466141a59cf4
+  last_post_guid: 0428a3a84136beab4c54e92f0092689c
   score_criteria:
     cats: 0
     description: 3

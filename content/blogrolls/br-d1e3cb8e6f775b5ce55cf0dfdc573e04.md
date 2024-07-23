@@ -1,6 +1,6 @@
 ---
 title: ""
-date: "2024-07-12T19:21:43.886+00:00"
+date: "2024-07-22T04:09:38.015+00:00"
 description: ""
 params:
   link: https://www.benji.dog/blogroll.opml
@@ -116,4 +116,8 @@ params:
       week, hosts Dom Nero and Adam Volerich explore a movie by finding the scene
       at its core–what David Lynch calls an "Eye of the
     id: 47ac61d57357594d535bed01b1daf98e
+  - title: Pablo Morales
+    description: Entire Site RSS Feed Blog RSS Feed Photography RSS Feed Podcast RSS
+      Feed
+    id: ccc9a3066f0cf4b78454016735c97e08
 ---

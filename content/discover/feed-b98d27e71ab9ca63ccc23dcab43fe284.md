@@ -1,6 +1,6 @@
 ---
 title: Alastair Johnston
-date: "2024-06-28T12:05:07+01:00"
+date: "2024-07-15T16:04:15+01:00"
 description: ""
 params:
   feedlink: https://alastairjohnston.com/feed.xml
@@ -18,18 +18,18 @@ params:
   - https://colinwalker.blog/dailyfeed.xml
   - https://colinwalker.blog/livefeed.xml
   categories:
-  - AI
+  - life
   relme: {}
-  last_post_title: My AI Declaration
-  last_post_description: My work is made by a human for humans. Nothing on my website,
-    none of the text or images have been created or developed using any Artificial
-    Intelligence tools. (With the exception of this single
-  last_post_date: "2024-06-28T12:05:07+01:00"
-  last_post_link: https://alastairjohnston.com/ai/
+  last_post_title: Stevie Nicks Still Rocks
+  last_post_description: Attached to my door was a black and white picture of a blonde
+    woman in full song. The ragged edge down the long side betrayed the fact that
+    it had been torn out of a book. Next to my room, on my best
+  last_post_date: "2024-07-15T16:04:15+01:00"
+  last_post_link: https://alastairjohnston.com/stevie-nicks/
   last_post_categories:
-  - AI
+  - life
   last_post_language: ""
-  last_post_guid: 7847998654b66280caa2b93fac4ffec2
+  last_post_guid: 822529db69c0b26b9ca22b3dbbd946da
   score_criteria:
     cats: 0
     description: 0
