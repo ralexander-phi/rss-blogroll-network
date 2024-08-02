@@ -11,8 +11,6 @@ params:
   websites:
     https://meyerweb.com/: false
     https://meyerweb.com/eric/thoughts: true
-    https://meyerweb.com/eric/thoughts/: false
-    https://meyerweb.com/feeds/excuse/: false
   blogrolls: []
   in_blogrolls:
   - title: Planet Igalia
@@ -21,34 +19,31 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Hacks
-  - JavaScript
-  - Tools
   - Web
+  - Writing
   relme:
     https://meyerweb.com/eric/thoughts: true
-  last_post_title: 'Bookmarklet: Load All GitHub Comments'
-  last_post_description: A quick way to load all the comments on a GitHub issue.
-  last_post_date: "2024-02-05T14:49:46Z"
-  last_post_link: https://meyerweb.com/eric/thoughts/2024/02/05/bookmarklet-load-all-github-comments/
+  last_post_title: Design for Real Life News!
+  last_post_description: Design for Real Life’s rights have been returned to Sara
+    and me, and we’ve cut the price by about half (or more in some regions).
+  last_post_date: "2024-07-22T15:22:01Z"
+  last_post_link: https://meyerweb.com/eric/thoughts/2024/07/22/design-for-real-life-news/
   last_post_categories:
-  - Hacks
-  - JavaScript
-  - Tools
   - Web
+  - Writing
   last_post_language: ""
-  last_post_guid: 12b659133495cb7ecbaeb5cb27993f0d
+  last_post_guid: eaea4e040da743747c90aa26114bafab
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
-    postcats: 3
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 19
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true

@@ -11,8 +11,6 @@ params:
   websites:
     https://meyerweb.com/: false
     https://meyerweb.com/eric/thoughts: true
-    https://meyerweb.com/eric/thoughts/: false
-    https://meyerweb.com/feeds/excuse/: false
   blogrolls: []
   in_blogrolls:
   - title: Chris Burnell Blogroll
@@ -22,29 +20,31 @@ params:
   recommender:
   - https://chrisburnell.com/feed.xml
   categories:
-  - Rebecca
+  - Web
+  - Writing
   relme:
     https://meyerweb.com/eric/thoughts: true
-  last_post_title: A Decade Later, A Decade Lost
-  last_post_description: I woke up this morning about an hour ahead of my alarm, the
-    sky already light, birds calling.
-  last_post_date: "2024-06-07T22:00:03Z"
-  last_post_link: https://meyerweb.com/eric/thoughts/2024/06/07/a-decade-later-a-decade-lost/
+  last_post_title: Design for Real Life News!
+  last_post_description: Design for Real Life’s rights have been returned to Sara
+    and me, and we’ve cut the price by about half (or more in some regions).
+  last_post_date: "2024-07-22T15:22:01Z"
+  last_post_link: https://meyerweb.com/eric/thoughts/2024/07/22/design-for-real-life-news/
   last_post_categories:
-  - Rebecca
+  - Web
+  - Writing
   last_post_language: ""
-  last_post_guid: 91c662b4ea513eb01edc89dccfc82e27
+  last_post_guid: 3c44170b82ad890a8a0347ef8083fd26
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
-    postcats: 1
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 17
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true

@@ -1,6 +1,6 @@
 ---
 title: WhereGroup
-date: "2024-07-10T15:58:14+02:00"
+date: "2024-07-22T15:36:50+02:00"
 description: ""
 params:
   feedlink: https://wheregroup.com/blog/rss-osgeo?type=9818
@@ -15,33 +15,32 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Community
   - OSGeo
-  - Software
+  - Projekte
   relme: {}
-  last_post_title: Mapbender-Anwendungen einfach direkt aus QGIS heraus erstellen
-  last_post_description: Mit unserem neuen Plugin für QGIS ist es nun möglich, QGIS-Desktop-Projekte
-    mit nur ganz wenigen Schritten als WMS und gleichzeitig als Mapbender Anwendungen
-    zu veröffentlichen.
-  last_post_date: "2024-06-27T11:30:00+02:00"
-  last_post_link: https://wheregroup.com/blog/mapbender-anwendungen-einfach-direkt-aus-qgis-heraus-erstellen/
+  last_post_title: 'Volumendifferenzen, Zonenstatistik und mehr: wie Geoinformationssysteme
+    (GIS) beim Wiederaufbau des Ahrtals helfen'
+  last_post_description: Geoinformationssysteme unterstützen beim Wiederaufbau im
+    Ahrtal nach der katastrophalen Flutkatastrophe 2021. Mit QGIS machen wir Daten
+    sichtbar für diese Herkulesaufgabe, um Maßnahmen für den
+  last_post_date: "2024-07-12T13:47:00+02:00"
+  last_post_link: https://wheregroup.com/blog/einsatz-von-geoinformationssystemen-gis-beim-wiederaufbau-des-ahrtals/
   last_post_categories:
-  - Community
   - OSGeo
-  - Software
+  - Projekte
   last_post_language: ""
-  last_post_guid: 8b5fdecde4d88e8560397d42630acfe7
+  last_post_guid: 88fe81c42f455aa0a5bb7a3fc430945f
   score_criteria:
     cats: 0
     description: 0
     feedlangs: 1
-    postcats: 3
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 12
+  score: 11
   ispodcast: false
   isnoarchive: false
   innetwork: true

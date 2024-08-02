@@ -244,15 +244,16 @@ params:
   - https://www.zylstra.org/blog/comments/feed/
   - https://xkcd.com/atom.xml
   - https://youdo.blog/comments/feed/
+  - https://www.zinzolin.fr/comments/feed/
+  - https://www.zinzolin.fr/feed/
   recommender: []
   categories:
   - Personal
-  - ascii
-  - code
-  - dancast
-  - geeky
-  - programming
-  - unicode
+  - art
+  - blogging
+  - php
+  - rss club
+  - wordpress
   relme:
     https://dan-q.github.io/: true
     https://danq.blog/: true
@@ -263,22 +264,21 @@ params:
     https://keybase.io/dq: true
     https://m.danq.me/@blog: true
     https://m.danq.me/@dan: true
-  last_post_title: '[Article] The Elegance of the ASCII Table'
-  last_post_description: ASCII, a standard whose legacy defines to this day how most
-    of the letters and numbers in your computer get encoded into ones and zeroes,
-    is elegant and beautiful. Via lessons in computer history,
-  last_post_date: "2024-07-21T08:59:10+01:00"
-  last_post_link: https://danq.me/2024/07/21/ascii/
+  last_post_title: '[Article] RSS Club: Draw Me A Comment! [RSS Exclusive!]'
+  last_post_description: 'I''ve been working on a truly bonkers idea: a WordPress
+    theme extension that allows selected posts to accept drawings, rather than text,
+    as comments.'
+  last_post_date: "2024-08-01T10:37:20+01:00"
+  last_post_link: https://danq.me/2024/08/01/rss-club-draw-me-a-comment/
   last_post_categories:
   - Personal
-  - ascii
-  - code
-  - dancast
-  - geeky
-  - programming
-  - unicode
+  - art
+  - blogging
+  - php
+  - rss club
+  - wordpress
   last_post_language: ""
-  last_post_guid: 60fa8096a77374ff0d1059018f2f458e
+  last_post_guid: 0107ccb6c045e5b10548a958c8e084a0
   score_criteria:
     cats: 0
     description: 3

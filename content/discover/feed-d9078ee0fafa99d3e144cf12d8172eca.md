@@ -18,9 +18,8 @@ params:
     id: 9c926b53f0c9c2eae0b00ac7b25b6099
   recommended: []
   recommender:
-  - https://roytang.net/all/feed/rss/
+  - https://roytang.net/all/feed/rss
   - https://roytang.net/blog/feed/rss
-  - https://roytang.net/blog/feed/rss/
   - https://roytang.net/index.xml
   - https://therealadam.com/feed.xml
   categories:

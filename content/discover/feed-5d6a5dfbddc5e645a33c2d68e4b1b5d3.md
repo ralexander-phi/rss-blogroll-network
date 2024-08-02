@@ -26,6 +26,7 @@ params:
   - '["personal"]'
   relme:
     https://bulltown.2022.joejenett.com/: true
+    https://bulltown.joejenett.com/: true
     https://directory.jenett.org/: true
     https://directory.joejenett.com/: true
     https://fediverse-webring-enthusiasts.glitch.me/profiles/jenett_toot.community/index.html: true

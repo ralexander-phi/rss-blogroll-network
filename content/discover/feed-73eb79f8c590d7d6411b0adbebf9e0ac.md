@@ -1,5 +1,5 @@
 ---
-title: The Tutanota Blog
+title: The Tuta Blog
 date: "1970-01-01T00:00:00Z"
 description: Privacy, release notes and other stuff
 params:
@@ -16,15 +16,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 10 types of identity theft and how to spot the warning signs.
+  last_post_title: All The Data Facebook Collects - And How To Stop It
   last_post_description: |-
-    Every day we are able to do more and more tasks online. Things that used to require us to physically go somewhere like transferring money or booking an appointment are
-    now easily completed in seconds
-  last_post_date: "2024-07-10T00:00:00Z"
-  last_post_link: https://tuta.com/blog/types-of-identity-theft
+    Facebook has positioned itself as an internet cornerstone. From humble beginnings, the tech giant has become a major data predator.
+    Let's take a look at what kinds of information Facebook is
+  last_post_date: "2024-01-24T00:00:00Z"
+  last_post_link: https://tuta.com/blog/what-does-facebook-know-about-me
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: a84da4c6889196bb9ae9454dbc9f9862
+  last_post_guid: d96aa55ef73ff9e43b1a937f23f82d43
   score_criteria:
     cats: 0
     description: 3

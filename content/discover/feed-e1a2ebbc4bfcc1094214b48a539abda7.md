@@ -9,7 +9,6 @@ params:
   websites:
     https://mxb.dev/: true
     https://mxb.dev/notes: false
-    https://mxb.dev/notes/: false
   blogrolls: []
   in_blogrolls:
   - title: Chris Burnell Blogroll

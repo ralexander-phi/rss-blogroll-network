@@ -7,7 +7,6 @@ params:
   feedtype: rss
   feedid: c3bf7c24e1cb419eab9a38cb6c94dceb
   websites:
-    https://www.pythonmorsels.com/articles/: false
     https://www.pythonmorsels.com/topics/: true
   blogrolls: []
   in_blogrolls:

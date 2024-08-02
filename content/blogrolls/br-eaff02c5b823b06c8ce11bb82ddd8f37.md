@@ -41,15 +41,12 @@ params:
   - title: Derek Sivers blog
     description: ""
     id: 6e3da53ecb685922657a934e426b3021
-  - title: Cal Newport
-    description: Computer Scientist & Bestselling Author
-    id: cd20f0fec4cbe87d737ee49003b704f1
-  - title: Raúl Hernández González | @rahego
-    description: Ideas y reflexiones para una vida más sencilla, equilibrada y significativa
-    id: cc85c57f2afd92899c655335cb9ae5af
   - title: Chase McCoy
     description: Chase McCoy explores, builds, & writes about the web
     id: ef6c257d2350cb6356fa4e316fc5fc5c
+  - title: Raúl Hernández González | @rahego
+    description: Ideas y reflexiones para una vida más sencilla, equilibrada y significativa
+    id: cc85c57f2afd92899c655335cb9ae5af
   - title: Harold Jarche
     description: Work is learning. Learning is the work.
     id: 7202435fc67d9c91ef5911d33e7bc975
@@ -68,10 +65,10 @@ params:
   - title: Hulry
     description: Be 1% better every day
     id: 14f666cfa223e304203c3f485f790f10
-  - title: Wait But Why
-    description: ""
-    id: fd6a523d6f12781672b1d238c8404c6b
   - title: Tim Harford
     description: The Undercover Economist
     id: 99e3299d5643ae139035e2e7b7893a89
+  - title: Wait But Why
+    description: ""
+    id: fd6a523d6f12781672b1d238c8404c6b
 ---

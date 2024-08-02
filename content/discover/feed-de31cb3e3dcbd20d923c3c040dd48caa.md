@@ -8,7 +8,6 @@ params:
   feedid: de31cb3e3dcbd20d923c3c040dd48caa
   websites:
     https://blogs.fsfe.org/tobias_platen: true
-    https://blogs.fsfe.org/tobias_platen/: false
   blogrolls: []
   in_blogrolls:
   - title: Thoughts of the FSFE Community (English)

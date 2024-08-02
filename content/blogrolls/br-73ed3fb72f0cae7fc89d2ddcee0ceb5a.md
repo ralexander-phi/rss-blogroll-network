@@ -92,18 +92,21 @@ params:
   - title: LibreOffice – @Siqi
     description: A tech lover in his ÃŸ !
     id: 588cacd40c7d56715cbd47e9cd437984
-  - title: LibreOffice – Jacobo's home at Igalia
-    description: '[jacobo@igalia ~]'
-    id: 054e0ae75661ab169d47aede3d78e54a
   - title: The What of How
     description: ""
     id: 2fa25cd483c02a579099fa547602eb87
+  - title: LibreOffice – Jacobo's home at Igalia
+    description: '[jacobo@igalia ~]'
+    id: 054e0ae75661ab169d47aede3d78e54a
   - title: Dave Tardon
     description: Babbling of a code monkey
     id: 82ab0e6b806e45c3c18782a5804d8309
   - title: Tomaz's dev blog
     description: ""
     id: 8e12f750a198bae860ee574bfd1cedae
+  - title: Community Archives - Collabora Office and Collabora Online
+    description: Secure Document Collaboration, Controlled by You
+    id: fd14c0c547dea178b9d0d8b0fe2ec1d2
   - title: Random technical stuff
     description: Don't expect romance, you only get computing here.
     id: b856123fe1bdb31503dd07383383eb4c
@@ -113,21 +116,18 @@ params:
   - title: Mariuz's Blog
     description: Programmer 4 life
     id: f8efe244a4699e15ebec297dae0167e3
-  - title: Community Archives - Collabora Office and Collabora Online
-    description: Secure Document Collaboration, Controlled by You
-    id: fd14c0c547dea178b9d0d8b0fe2ec1d2
   - title: pranavk.me
     description: ""
     id: e9fe322887a2823ef3514d1748de5a1f
   - title: libreoffice – dennisroczek
     description: ""
     id: 46c6b07c5fc670bcd8e15b8001e71a0f
-  - title: jan the viking
-    description: libreoffice
-    id: 93b98c0992ffe9e8b3f1a1da6424dffc
   - title: LibreOffice – Things that have escaped from my mind
     description: Assorted notes and thoughts of potential usefulness
     id: 82f877632ad6daa39557a0572089a1d4
+  - title: jan the viking
+    description: libreoffice
+    id: 93b98c0992ffe9e8b3f1a1da6424dffc
   - title: LibreOffice Design Team
     description: Blog site from the design and UX teams working on LibreOffice
     id: 4c594360b3d04394182e628b178a284b
@@ -135,6 +135,9 @@ params:
     description: Blog for the LibreOffice Developers Community; Tutorials, tips and
       tricks for working with the LibreOffice code
     id: 9e69d13681d796ea75fc8467dd1ad374
+  - title: LibreOffice QA Blog
+    description: Updates from the Quality Assurance community
+    id: b640487cf9786fcc625fe364f7af4f67
   - title: LibreOffice – Brno hat
     description: Blog of Jiri Eischmann
     id: edcec71445c4ac8094c22b39450fc67e
@@ -147,43 +150,47 @@ params:
   - title: Mike Kaganski's blog
     description: ""
     id: c01be1b633eb0226987dbe8a8440f6e7
-  - title: LibreOffice
-    description: a modern Office Suite
-    id: 7d8f9ffa252f6021586179d9a17e71a0
   - title: dniM ruoY nepO
     description: '"The mind is not a vessel to be filled but a fire to be kindled."
       — Plutarch'
     id: cfe9148b982c1605cf8c07dc4a358540
-  - title: LibreOffice QA Blog
-    description: Updates from the Quality Assurance community
-    id: b640487cf9786fcc625fe364f7af4f67
-  - title: Olivier Hallot
-    description: Hacking LibreOffice Documentation
-    id: 780e810168a692b59700595c6a1b217b
+  - title: LibreOffice
+    description: a modern Office Suite
+    id: 7d8f9ffa252f6021586179d9a17e71a0
   - title: LibreOffice – Tamás Bunth
     description: Blog, LibreOffice, Collabora
     id: ff4f33246ff7f32a4511635e649e86e2
-  - title: Stories by Ekansh Jha on Medium
-    description: Stories by Ekansh Jha on Medium
-    id: d16ed0fb5100fdf671b7c6f381434328
+  - title: Olivier Hallot
+    description: Hacking LibreOffice Documentation
+    id: 780e810168a692b59700595c6a1b217b
   - title: Saurav Chirania
     description: ""
     id: 321eee58dd172c84f841469ef77bce82
+  - title: Stories by Ekansh Jha on Medium
+    description: Stories by Ekansh Jha on Medium
+    id: d16ed0fb5100fdf671b7c6f381434328
   - title: Stacktrace
     description: Random stuff related to my interests
     id: 77339d6472e36c38779b1713d4dfff26
-  - title: GSoC'20 Ahmed ElShreif - LibreOffice
-    description: ""
-    id: 3e17cea25b464747794c1699c11fb3a6
   - title: libreoffice – allotropia software blog
     description: Open Source, Open Standards & a lot of fun!
     id: 2721be350ff48d450814c7c6a905e6e1
   - title: Mastering LibreOffice
     description: Random Notes of An LibreOffice Enthusiast
     id: c9453a5bd317eaa39d09f3cbbae28924
+  - title: GSoC'20 Ahmed ElShreif - LibreOffice
+    description: ""
+    id: 3e17cea25b464747794c1699c11fb3a6
   - title: LibreOffice Information
     description: How to develop LibreOffice, news, and more
     id: 824248d5f6848aa416c4e5859c335492
+  - title: GSoC 20 – quwex's blog
+    description: ""
+    id: 026ba1174f24565b02c91237b87b23ad
+  - title: LibreOffice – BlogSophy
+    description: “Philosophy is a peculiarly stubborn attempt to think clearly.” ~
+      William James
+    id: 6d7af6cc060e3e975e063e12142783fb
   - title: my short notes
     description: ""
     id: 48f39a8331061a0b0a55d73a5f47ea4b
@@ -191,9 +198,6 @@ params:
     description: All content written by me is by default released freely under the
       Public License.
     id: 5c992517c62736a50635cde69cacf27d
-  - title: GSoC 20 – quwex's blog
-    description: ""
-    id: 026ba1174f24565b02c91237b87b23ad
   - title: LibreOffice CI Test Selection with Machine Learning
     description: GSoC'23 Project
     id: 43fef6cc95f385378de891c6cf67dbeb
@@ -203,8 +207,4 @@ params:
   - title: ~rriemann
     description: Personal Blog of Robert Riemann, PhD.
     id: cbf1837c2c80632238c5fcb655472e09
-  - title: LibreOffice – BlogSophy
-    description: “Philosophy is a peculiarly stubborn attempt to think clearly.” ~
-      William James
-    id: 6d7af6cc060e3e975e063e12142783fb
 ---

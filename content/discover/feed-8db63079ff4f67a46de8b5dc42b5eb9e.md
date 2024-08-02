@@ -8,7 +8,6 @@ params:
   feedid: 8db63079ff4f67a46de8b5dc42b5eb9e
   websites:
     https://blogs.fsfe.org/wkossen: true
-    https://blogs.fsfe.org/wkossen/: false
   blogrolls: []
   in_blogrolls:
   - title: Thoughts of the FSFE Community (English)

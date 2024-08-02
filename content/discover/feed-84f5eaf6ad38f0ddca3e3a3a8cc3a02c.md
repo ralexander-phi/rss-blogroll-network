@@ -18,16 +18,18 @@ params:
   - http://scripting.com/rss.xml
   - http://scripting.com/rssNightly.xml
   categories:
-  - photographs
+  - journal
   relme: {}
-  last_post_title: Ocean Beach, I
-  last_post_description: San Francisco, July 2024.
-  last_post_date: "2024-07-10T20:04:26Z"
-  last_post_link: https://aows.co/blog/2024/7/10/ocean-beach-i
+  last_post_title: No other place I’d rather be
+  last_post_description: 'The feeling is always there, some days I’m barely aware
+    of it; other days, it almost hurts: the desire to hit the road again. And yet,
+    there’s no place I’d rather be than San Francisco right'
+  last_post_date: "2024-07-22T20:14:56Z"
+  last_post_link: https://aows.co/blog/2024/7/22/no-other-place-id-rather-be
   last_post_categories:
-  - photographs
+  - journal
   last_post_language: ""
-  last_post_guid: b3dbe056bda8946251bbbafa756fd259
+  last_post_guid: 88c65225ef93c29b25ef9e12e8df1dff
   score_criteria:
     cats: 0
     description: 3

@@ -151,6 +151,7 @@ params:
   - 127 Avenue C
   - 127 Avenue D
   - 127 E. 7th St.
+  - 127-129 Second Ave.
   - "128"
   - 128 E. 13th St.
   - 128 E. Seventh St.
@@ -308,6 +309,7 @@ params:
   - "1928"
   - "1929"
   - 193 Avenue B
+  - 193 Avenue C
   - "1933"
   - 194 E. Second St.
   - 194 First Ave.
@@ -3552,6 +3554,7 @@ params:
   - Grey Era
   - Griddle Melts
   - Grieve goes to the movies
+  - Grillify-NYC
   - Grocer John's
   - Groupon
   - GrowNYC
@@ -3572,6 +3575,7 @@ params:
   - Gyu-Kaku
   - H
   - H Mart
+  - H owl! Happening
   - HAGS
   - HBO
   - HDFCs
@@ -5043,6 +5047,7 @@ params:
   - Monsieur Vo
   - Montauk Salt Cave
   - Montessori school
+  - Moody Tongue
   - Moonraker
   - Moonstruck Diner
   - Moonstruck Eatery
@@ -5074,6 +5079,7 @@ params:
   - Mousey's Bar
   - Movie Nights On The Elevated Acre
   - Movie Under the Stars
+  - Movin' Mobility
   - Moxie
   - Moxy East Village
   - Moxy Hotels
@@ -6404,6 +6410,7 @@ params:
   - Sorcerer's Apprentice
   - Souen
   - Sounds
+  - SourAji
   - South Bronx
   - South Brooklyn Pizza
   - South Florida
@@ -7541,6 +7548,7 @@ params:
   - Water Taxi Beach
   - Water Witch
   - Wattle Cafe
+  - Wayne & Sons
   - Wayne Kramer
   - We pack and deliver like UPS trucks
   - We're No. 4
@@ -7551,6 +7559,7 @@ params:
   - Wednesdays at A's
   - Week in Grieview
   - Week in Griview
+  - Week n Grieview
   - Weekend at Bernie's
   - Wegmans
   - Wells Fargo
@@ -10773,29 +10782,28 @@ params:
   - zpizza
   - Íxta
   relme: {}
-  last_post_title: On 2nd Avenue and 2nd Street, an empty lot and lots of questions
-    about what's next
-  last_post_description: Photos and reporting by Stacie Joy Rumors are circulating
-    that Gemini Rosemont will proceed with the development company's original plans
-    to build an 11-story mixed-use building on the vacant NE
-  last_post_date: "2024-07-10T09:30:00Z"
-  last_post_link: http://evgrieve.com/2024/07/on-2nd-avenue-and-2nd-street-empty-lot.html
+  last_post_title: East Village mainstay Katinka is closing after 45 years on 9th
+    Street
+  last_post_description: The two opened their closet-sized shop in 1979 at 303 E.
+    Ninth St. just east of Second Avenue... offering hand-made pieces — including
+    shirts, vests, quilts and rugs — all made and imported from
+  last_post_date: "2024-07-22T09:27:00Z"
+  last_post_link: http://evgrieve.com/2024/07/east-village-mainstay-katinka-is.html
   last_post_categories:
-  - 42-46 Second Ave.
-  - Robert Proto
+  - Katinka
   last_post_language: ""
-  last_post_guid: a6fc7d5a73abf5d0adfd1a6b7e7b9ccc
+  last_post_guid: 8a3a1376b9e5c4a1e61521a4712e3d61
   score_criteria:
     cats: 5
     description: 3
     feedlangs: 0
-    postcats: 2
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 20
+  score: 19
   ispodcast: false
   isnoarchive: false
   innetwork: true

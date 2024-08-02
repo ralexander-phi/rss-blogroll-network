@@ -220,15 +220,15 @@ params:
   - yoon-suin
   - zombies
   relme: {}
-  last_post_title: Impending Big Yoon Suin News and Big Oops
-  last_post_description: This is probably as suitable a forum for this post as any;
-    many of you will know that I have been slaving over the finalisation of Yoon Suin
-    2nd edition, and that a v.01 PDF has gone out to
-  last_post_date: "2024-07-09T21:15:00Z"
-  last_post_link: http://monstersandmanuals.blogspot.com/2024/07/impending-big-yoon-suin-news-and-big.html
+  last_post_title: Personal Reflections on the OSR at 1,990 Posts
+  last_post_description: This post is the 1,989th published at Monsters & Manuals.
+    That's a lot. I have been writing this nonsense for sixteen years, which might
+    actually be before some readers were even born. (Are teenagers
+  last_post_date: "2024-07-19T12:40:00Z"
+  last_post_link: http://monstersandmanuals.blogspot.com/2024/07/personal-reflections-on-osr-at-1990.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 0aa89a876a942eeb93de0269830a81f6
+  last_post_guid: 3823325485d7788af5cab6fcf7168726
   score_criteria:
     cats: 5
     description: 3

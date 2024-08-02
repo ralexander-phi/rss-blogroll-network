@@ -244,6 +244,8 @@ params:
   - https://www.zylstra.org/blog/comments/feed/
   - https://xkcd.com/atom.xml
   - https://youdo.blog/comments/feed/
+  - https://www.zinzolin.fr/comments/feed/
+  - https://www.zinzolin.fr/feed/
   recommender: []
   categories: []
   relme:
@@ -256,14 +258,16 @@ params:
     https://keybase.io/dq: true
     https://m.danq.me/@blog: true
     https://m.danq.me/@dan: true
-  last_post_title: Comment on [Article] The Elegance of the ASCII Table by The Elegance
-    of the ASCII Table thewub on July 22, 2024 at 17:31 Hacker
-  last_post_description: '[…] Article URL: https://danq.me/2024/07/21/ascii/ […]'
-  last_post_date: "2024-07-23T00:11:33+01:00"
-  last_post_link: https://danq.me/2024/07/21/ascii/#comment-252166
+  last_post_title: 'Comment on [Article] RSS Club: Draw Me A Comment! [RSS Exclusive!]
+    by Chris'
+  last_post_description: |-
+    Q23DRW:24116:#067587#b70934:1722530726:80c378dbba12d4047501dd66eed1551fb4306926387f434b0b7c30b3e372dbec:
+    P0 P0 M157.5,131.7 L165.3,160 L171.9,186.2 L173.7,195.8 L176.4,211.4 L177.4,219.5 L177.4,219.2
+  last_post_date: "2024-08-01T17:47:03+01:00"
+  last_post_link: https://danq.me/2024/08/01/rss-club-draw-me-a-comment/#comment-252693
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: b162a1f4f2eefda478f3df3301eb80c5
+  last_post_guid: 281d7943271975622c6c4724cfff090c
   score_criteria:
     cats: 0
     description: 3

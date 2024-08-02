@@ -8,7 +8,7 @@ params:
   feedid: 3d60ce9af4465dbc218eb0e5168feff1
   websites:
     https://chriskirknielsen.com/: false
-    https://chriskirknielsen.com/designs/: false
+    https://chriskirknielsen.com/designs: false
     https://chriskirknielsen.com/webring/: false
   blogrolls: []
   in_blogrolls:

@@ -9,18 +9,12 @@ params:
   websites:
     https://coryd.dev/: false
     https://coryd.dev/books: false
-    https://coryd.dev/books/: false
     https://coryd.dev/contact: false
     https://coryd.dev/feeds: true
-    https://coryd.dev/feeds/: false
     https://coryd.dev/links: false
-    https://coryd.dev/links/: false
     https://coryd.dev/music: false
-    https://coryd.dev/music/: false
     https://coryd.dev/now: false
-    https://coryd.dev/now/: false
     https://coryd.dev/watching: false
-    https://coryd.dev/watching/: false
     https://coryd.dev/webrings: false
   blogrolls: []
   in_blogrolls:
@@ -42,6 +36,7 @@ params:
     https://coryd.dev/: true
     https://coryd.dev/contact: true
     https://coryd.dev/feeds: true
+    https://coryd.dev/mastodon: true
     https://coryd.dev/music: true
     https://coryd.dev/now: true
     https://coryd.dev/webrings: true

@@ -17,7 +17,7 @@ feed_urls:
   - https://planet.dsource.org/opml.xml
   - https://planet.evolix.org/opml.xml
   - https://planet.freedesktop.org/opml.xml
-  - https://planet.fsfe.org/en/opml.xml
+  - https://planet.fsfe.org/opml.xml
   - https://planet.grep.be/opml.xml
   - https://planet.hamakor.org.il/opml.xml
   - https://planet.haskell.org/opml.xml

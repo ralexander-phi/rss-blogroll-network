@@ -30,15 +30,15 @@ params:
   - https://danq.uk/feed/
   categories: []
   relme: {}
-  last_post_title: Flailing About With My Mower
-  last_post_description: |-
-    Back in May I wrote about an evening stroll in the field and leaving the grass to grow. Since then, things have escalated...A LOT.
-    Ok, quick recap; we last left it with me saying that we were
-  last_post_date: "2024-07-07T10:40:00+01:00"
-  last_post_link: https://kevquirk.com/blog/flailing-about-with-my-mower
+  last_post_title: Everybody's Free (To Write Websites)
+  last_post_description: "Everybody's Free (To Write Websites)\n              by Sara
+    JoyA parody of the \"Wear Sunscreen\" thing from the late 90s. This is just fabulous.\n
+    \             Read Post →\n            \n          \n    "
+  last_post_date: "2024-07-17T21:10:00+01:00"
+  last_post_link: https://kevquirk.com/blog/everybody-s-free-to-write-websites
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 701423a4595596ae15dea405688b7f67
+  last_post_guid: 59cb0ed2873a834a4fd62b89ac76de21
   score_criteria:
     cats: 0
     description: 3

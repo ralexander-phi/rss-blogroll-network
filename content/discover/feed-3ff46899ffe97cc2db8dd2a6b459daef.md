@@ -6,7 +6,8 @@ params:
   feedlink: https://mraw.org/blog/index.rss
   feedtype: rss
   feedid: 3ff46899ffe97cc2db8dd2a6b459daef
-  websites: {}
+  websites:
+    https://mraw.org/blog/: true
   blogrolls: []
   in_blogrolls:
   - title: Planet Debian
@@ -44,8 +45,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 0
-  score: 13
+    website: 2
+  score: 15
   ispodcast: false
   isnoarchive: false
   innetwork: true

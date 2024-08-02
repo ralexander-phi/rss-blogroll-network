@@ -20,19 +20,19 @@ params:
   categories:
   - Arts
   relme: {}
-  last_post_title: American Bloods
-  last_post_description: In a forlorn Fourth of July week, in the pit of an unpresidential,
-    anti-presidential campaign year, 2024, we welcome back John Kaag, who writes history
-    with a philosophical flair, never more colorful
-  last_post_date: "2024-07-04T01:36:29Z"
-  last_post_link: https://radioopensource.org/american-bloods/
+  last_post_title: Political Football
+  last_post_description: In the strangeness of mid-summer 2024, the cosmopolitan novelist
+    Joseph O’Neill is our bridge between the Republican convention in Milwaukee and
+    the Summer Olympics in Paris. He knows both sides of
+  last_post_date: "2024-07-18T20:33:44Z"
+  last_post_link: https://radioopensource.org/political-football/
   last_post_categories:
   - Aired
   - Podcast
   - Shows
   - This Week
   last_post_language: ""
-  last_post_guid: 2a0970408bca6ca4360b4cb47d0319fe
+  last_post_guid: 06507ce6a38825103d0da05fe06644c2
   score_criteria:
     cats: 1
     description: 3

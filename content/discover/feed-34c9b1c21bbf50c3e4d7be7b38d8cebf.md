@@ -7,8 +7,6 @@ params:
   feedtype: rss
   feedid: 34c9b1c21bbf50c3e4d7be7b38d8cebf
   websites:
-    https://michal.sapka.me/#bsd: false
-    https://michal.sapka.me/#emacs: false
     https://michal.sapka.me/bsd/: false
     https://michal.sapka.me/emacs/: true
   blogrolls: []

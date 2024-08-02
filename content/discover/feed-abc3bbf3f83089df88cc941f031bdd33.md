@@ -19,13 +19,13 @@ params:
   - https://alexsci.com/blog/rss.xml
   categories: []
   relme: {}
-  last_post_title: The Smorgasbord of Windows Terminal… Windows
+  last_post_title: Eleventy v3.0.0-beta.1 is now available!
   last_post_description: ""
-  last_post_date: "2024-06-30T00:00:00Z"
-  last_post_link: https://www.zachleat.com/web/smorgasbord-windows-terminal/
+  last_post_date: "2024-08-01T00:00:00Z"
+  last_post_link: https://www.zachleat.com/web/eleventy-three-beta/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 03ba43cdf44282de2d3b3bcae1fedce8
+  last_post_guid: 504060a8432cbd1681794a5fc4427287
   score_criteria:
     cats: 0
     description: 3

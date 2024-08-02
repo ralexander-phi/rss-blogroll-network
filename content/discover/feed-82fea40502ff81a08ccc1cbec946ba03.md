@@ -19,26 +19,22 @@ params:
   - https://johnjohnston.info/blog/comments/feed/
   - https://johnjohnston.info/blog/feed/
   categories:
-  - Memories
-  - family
-  - grandfather
-  - podcasting
-  - storytelling
+  - On Media
+  - On Sharing
+  - attribution
   relme: {}
-  last_post_title: Isadore/Ira & Abraham/Alan “like a distant radio station”
-  last_post_description: Podcasting, it’s still a thing, eh? Everyone is doing them,
-    posting them in their substa– no not everyone. But to play my old man internet
-    card, I was rambling Podcasting Schmodcasting back when
-  last_post_date: "2024-07-10T00:44:38Z"
-  last_post_link: https://cogdogblog.com/2024/07/isadore-ira-abraham-alan-like-a-distant-radio-station/
+  last_post_title: The State of Finding Image Attribution
+  last_post_description: It’s more than tattered and a while since I blabbed about
+    the spurious nature of online practices of attribution. I was somewhat inspired
+    here by interesting analysis of Why I Attribute made by
+  last_post_date: "2024-07-24T03:48:17Z"
+  last_post_link: https://cogdogblog.com/2024/07/state-of-attribution/
   last_post_categories:
-  - Memories
-  - family
-  - grandfather
-  - podcasting
-  - storytelling
+  - On Media
+  - On Sharing
+  - attribution
   last_post_language: ""
-  last_post_guid: 75525d3c7f697ebda14ce0cf34be2fa1
+  last_post_guid: 0f1b37fd2c0b56b5bc0b074dd8463243
   score_criteria:
     cats: 0
     description: 3

@@ -1,6 +1,6 @@
 ---
 title: diamond geezer
-date: "2024-07-10T19:13:03+01:00"
+date: "2024-07-22T23:46:34+01:00"
 description: Life viewed from London E3
 params:
   feedlink: https://diamondgeezer.blogspot.com/atom.xml
@@ -17,13 +17,13 @@ params:
   - https://visitmy.website/feed.xml
   categories: []
   relme: {}
-  last_post_title: Strand
+  last_post_title: Numberplate games and how to play them
   last_post_description: ""
-  last_post_date: "2024-07-10T14:53:53+01:00"
-  last_post_link: http://diamondgeezer.blogspot.com/2024/07/strand.html
+  last_post_date: "2024-07-22T13:40:10+01:00"
+  last_post_link: http://diamondgeezer.blogspot.com/2024/07/numberplate-games-and-how-to-play-them.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 04c7da9403e34f1298c8665208a861ae
+  last_post_guid: 15eb0a7f8c66efd4e7d4214393d6bdac
   score_criteria:
     cats: 0
     description: 3

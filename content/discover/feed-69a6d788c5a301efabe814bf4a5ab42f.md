@@ -9,7 +9,6 @@ params:
   feedtype: rss
   feedid: 69a6d788c5a301efabe814bf4a5ab42f
   websites:
-    http://www.liceomanzonicaserta.it/lug/: false
     https://www.liceomanzonicaserta.it/lug: true
     https://www.liceomanzonicaserta.it/lug/: false
   blogrolls: []

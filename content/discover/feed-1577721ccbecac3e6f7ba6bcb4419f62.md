@@ -18,25 +18,25 @@ params:
   - http://scripting.com/rss.xml
   - http://scripting.com/rssNightly.xml
   categories:
-  - Inside Nelio
-  - Nelio A/B Testing
-  - Plugins
-  - Release
+  - Opinion
+  - Tips
+  - WordPress
+  - WordPress Advanced
   relme: {}
-  last_post_title: Nelio A/B Testing 7.0 – Support for Dynamic Caching, Elementor
-    Template Tests, and more
-  last_post_description: The latest version of our plugin now supports Dynamic Caching
-    to speed up alternative content loading, enables Elementor’s template testing,
-    and makes it possible to export data. Here’s all you
-  last_post_date: "2024-06-27T15:00:00Z"
-  last_post_link: https://neliosoftware.com/blog/nelio-ab-testing-7-faster-alternative-loading-and-elementor-templates/
+  last_post_title: DevTips – Function Composition to Validate and Sanitize Data in
+    Your REST APIs
+  last_post_description: One of the first things web developers learn is the importance
+    of data validation and sanitization. Let's see how you can be more efficient at
+    it by using function composition in your REST API
+  last_post_date: "2024-07-11T15:00:00Z"
+  last_post_link: https://neliosoftware.com/blog/devtips-function-composition-to-validate-and-sanitize-data-in-wp-rest-api/
   last_post_categories:
-  - Inside Nelio
-  - Nelio A/B Testing
-  - Plugins
-  - Release
+  - Opinion
+  - Tips
+  - WordPress
+  - WordPress Advanced
   last_post_language: ""
-  last_post_guid: aacf83f83536fcc16049f252708f8a64
+  last_post_guid: 5b60339f57f1705d16b2fe69f771f102
   score_criteria:
     cats: 0
     description: 3

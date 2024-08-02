@@ -16,12 +16,12 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Using GitHub Pages to host a locally built site
-  last_post_description: 'Something I recently ran into: How do you build a site locally
-    and host the resulting built version of the site on GitHub Pages? Here’s one way
-    to do it. First, have a make all target that builds'
-  last_post_date: "2024-07-10T00:00:00Z"
-  last_post_link: https://blog.zgp.org/github-pages-for-locally-made-site/
+  last_post_title: Sunday Internet optimism
+  last_post_description: Over on the social media sites there have been a bunch of
+    very serious posts from very serious people explaining how surveillance advertising
+    is here to stay and the best we can do is put some
+  last_post_date: "2024-07-21T00:00:00Z"
+  last_post_link: https://blog.zgp.org/internet-optimism/
   last_post_categories: []
   last_post_language: ""
   last_post_guid: 03f21262a5e1c145241b86688042902e

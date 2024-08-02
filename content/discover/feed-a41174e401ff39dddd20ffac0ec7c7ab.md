@@ -19,30 +19,32 @@ params:
   - http://scripting.com/rssNightly.xml
   categories:
   - "1"
-  - 10th circuit
-  - 4th amendment
-  - corban elmore
-  - evidence
-  - patrick smith
-  - warrant
+  - activision blizzard
+  - antitrust
+  - ftc
+  - gamepass
+  - micrososft
+  - price hikes
+  - xbox
   relme: {}
-  last_post_title: Appeals Court Tells Cops They Can’t Hold A House Hostage For Hours
-    Before Finally Deciding To Get A Warrant
-  last_post_description: Most people would respond to a possible drug overdose by
-    seeking immediate medical attention and following up with medical professionals
-    to see how the victim is faring. I mean, that’s what the
-  last_post_date: "2024-07-11T03:14:00Z"
-  last_post_link: https://www.techdirt.com/2024/07/10/appeals-court-tells-cops-they-cant-hold-a-house-hostage-for-hours-before-finally-deciding-to-get-a-warrant/
+  last_post_title: 'FTC: Um, That Xbox Game Pass Price Hike Also Contradicts What
+    Microsoft Told The Courts In Activision Blizzard Aquisition'
+  last_post_description: Late last year, the FTC appealed the decision by the court
+    to allow Microsoft’s acquisition of Activision Blizzard to go through by denying
+    the FTC’s requested injunction against it. Since then,
+  last_post_date: "2024-07-22T22:15:28Z"
+  last_post_link: https://www.techdirt.com/2024/07/22/ftc-um-that-xbox-game-pass-price-hike-also-contradicts-what-microsoft-told-the-courts-in-activision-blizzard-aquisition/
   last_post_categories:
   - "1"
-  - 10th circuit
-  - 4th amendment
-  - corban elmore
-  - evidence
-  - patrick smith
-  - warrant
+  - activision blizzard
+  - antitrust
+  - ftc
+  - gamepass
+  - micrososft
+  - price hikes
+  - xbox
   last_post_language: ""
-  last_post_guid: 70a94b134691cb865213f8874ceddcfe
+  last_post_guid: 1a6dd3e3c3eaa944663f9b6f5b29dea8
   score_criteria:
     cats: 0
     description: 0

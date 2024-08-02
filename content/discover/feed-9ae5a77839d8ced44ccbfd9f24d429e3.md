@@ -7,8 +7,8 @@ params:
   feedtype: rss
   feedid: 9ae5a77839d8ced44ccbfd9f24d429e3
   websites:
+    https://blog.mihobu.lol/webrings: false
     https://mihobu.lol/: true
-    https://mihobu.lol/webrings: false
     https://photos.mihobu.lol/: false
     https://scraps.mihobu.lol/: false
   blogrolls: []

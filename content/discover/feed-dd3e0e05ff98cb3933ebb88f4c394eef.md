@@ -22,7 +22,6 @@ params:
   - https://alphastream.org/index.php/feed/
   - https://amoreconviviallife.wordpress.com/feed/
   - https://arialdomartini.github.io/atom
-  - https://arne.me/articles/atom.xml
   - https://arne.me/articles/atom.xsml
   - https://atthis.link/rss.xml
   - https://avdi.codes/feed/
@@ -80,7 +79,6 @@ params:
   - https://majesticflywhisk.blogspot.com/feeds/posts/default?alt=rss
   - https://matthiasott.com/rss
   - https://maziriansgarden.blogspot.com/feeds/posts/default?alt=rss
-  - https://monstersandmanuals.blogspot.com/feeds/posts/default
   - https://monstersandmanuals.blogspot.com/feeds/posts/default?alt=rss
   - https://mythlands-erce.blogspot.com/feeds/posts/default
   - https://necroticgnome.com/blogs/news.atom

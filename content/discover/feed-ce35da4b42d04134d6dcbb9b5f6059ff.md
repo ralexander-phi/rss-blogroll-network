@@ -9,6 +9,7 @@ params:
   websites:
     https://www.my-it-brain.de/: false
     https://www.my-it-brain.de/wordpress: true
+    https://www.my-it-brain.de/wordpress/: false
   blogrolls: []
   in_blogrolls:
   - title: planet.debianforum.de

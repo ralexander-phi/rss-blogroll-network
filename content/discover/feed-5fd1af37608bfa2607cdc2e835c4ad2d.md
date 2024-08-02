@@ -30,8 +30,7 @@ params:
   - https://danq.uk/comments/feed/
   - https://danq.uk/feed/
   categories: []
-  relme:
-    https://mijndertstuij.nl/: true
+  relme: {}
   last_post_title: Default apps 2024
   last_post_description: 'Here''s a fun new thing in the blogosphere: sharing your
     default apps. I saw a few people I follow do it and borrowed the format, as one
@@ -48,10 +47,10 @@ params:
     postcats: 0
     promoted: 5
     promotes: 0
-    relme: 2
+    relme: 0
     title: 3
     website: 2
-  score: 16
+  score: 14
   ispodcast: false
   isnoarchive: false
   innetwork: true

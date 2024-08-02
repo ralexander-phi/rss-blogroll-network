@@ -6,32 +6,29 @@ params:
   link: https://planet.gnome.org/opml.xml
   blogroll_id: b5bbda5ab78cf9ad443c46db4a3727b6
   recommends:
-  - title: Edward Hervey
-    description: GStreamer hacking, FOSS ramblings and sometimes cheese-related posts
-    id: a73bb545a4706ef74e8eb073d49912c1
   - title: Christian F.K. Schaller
     description: Blog talking about Fedora, GNOME, GStreamer and related topics. Anything
       I write in this blog is me speaking as a member of the open source community,
       official Red Hat communication happens on Redhat
     id: 23565a064142cb4180bdf40ff2bbb969
+  - title: Edward Hervey
+    description: GStreamer hacking, FOSS ramblings and sometimes cheese-related posts
+    id: a73bb545a4706ef74e8eb073d49912c1
   - title: Jan Schmidt
     description: Coding blog - GStreamer, OpenHMD mostly
     id: 6e47e89e530f0b04111057217a9779c1
   - title: Robotic Tendencies
     description: The personal blog of Robert McQueen
     id: 9f64b0612bce1793983c3f0c22fa8baf
-  - title: English – Le blog de Olivier Crête
-    description: Just another WordPress site
-    id: 3ca196551314c5d6b982ed9172e572ea
   - title: Thibault Saunier's blog
     description: thiblahute hacking web log
     id: adbfd3a03857f5d7658553b6b3eaf057
   - title: Posts | Sebastian Pölsterl
     description: Posts
     id: fd90bcbb5b783d573c2d90560ce634b6
-  - title: coaxion.net – slomo's blog
-    description: random thoughts and other things
-    id: 28745a0b3a2ff65a39617bcd392c986e
+  - title: English – Le blog de Olivier Crête
+    description: Just another WordPress site
+    id: 3ca196551314c5d6b982ed9172e572ea
   - title: Stuff Michael Meeks is doing
     description: things, of varying degrees of uselessness, that I did
     id: 38c20ffc82e175d1202d4f37fef8e466
@@ -51,9 +48,6 @@ params:
   - title: seb128's blog
     description: Just another GNOME Blogs weblog
     id: 424339c8a207dc0f0ee603dd14d8074c
-  - title: Glorified Markov Chain
-    description: ""
-    id: 136ba1e5939511fa569973b3d374de99
   - title: Yuri Konotopov (Юрий Конотопов)
     description: GNOME Shell Extensions repository and GNOME Shell integration
     id: 2e584283c252c6dba9f53c08c242be35
@@ -63,15 +57,18 @@ params:
   - title: Frederic Crozat blog
     description: ""
     id: 9b55c3e6111cd6b118f2db179bf04072
+  - title: Glorified Markov Chain
+    description: ""
+    id: 136ba1e5939511fa569973b3d374de99
   - title: Jonathan Blandford
     description: ChangeLog
     id: 26b59f43d24a6c9e9c8ec10d9a8836b9
-  - title: Rodrigo Moya
-    description: From lost to the river
-    id: 3d9eb37512a6d51f3dd423bab034a0a3
   - title: Federico's Blog
     description: ""
     id: 80db77f5accb6e09d5c6e8ead0622336
+  - title: Rodrigo Moya
+    description: From lost to the river
+    id: 3d9eb37512a6d51f3dd423bab034a0a3
   - title: Miguel de Icaza
     description: Miguel de Icaza's Blog
     id: ffe70129852ca7433831935d9f27a68f
@@ -87,9 +84,6 @@ params:
   - title: Swfblag
     description: Swfdec, GStreamer, Cairo, GNOME, me
     id: e7918bf150ead3cb0b309fbf6b57a149
-  - title: Benjamin Otte – GTK Development Blog
-    description: All things GTK
-    id: 094cf374119d75131150caf255caec7a
   - title: Sri Ramkrishna
     description: Just another GNOME Blogs weblog
     id: db610029236571e30d9c4830648d0fed
@@ -99,15 +93,15 @@ params:
   - title: The Gist
     description: Thoughts on open source, tech comm, and XML
     id: 3a6fd6b5fdb5fb9906d9f04b765bdb9d
-  - title: Calum’s Wee GNOME Blog
-    description: Usability an' that
-    id: 0659e5003e6512ec8534839ffa93cc7f
+  - title: Benjamin Otte – GTK Development Blog
+    description: All things GTK
+    id: 094cf374119d75131150caf255caec7a
   - title: Matthew Garrett
     description: Matthew Garrett - Dreamwidth Studios
     id: f97d44d7c4aa367ef336d3df9408e932
-  - title: Even a Stopped Clock
-    description: Random musings of a semi-sane designer from lesser Europe.
-    id: d924d5bd111d595e1e3a1c3aa0fd8107
+  - title: Calum’s Wee GNOME Blog
+    description: Usability an' that
+    id: 0659e5003e6512ec8534839ffa93cc7f
   - title: Colin Walters
     description: I put my pants on just like the rest of you -- one leg at a time.
       Except, once my pants are on, I make Free Software.
@@ -118,23 +112,25 @@ params:
   - title: alexl – GTK Development Blog
     description: All things GTK
     id: 711ab2751dffca4ac7d61b586a7fd707
+  - title: Even a Stopped Clock
+    description: Random musings of a semi-sane designer from lesser Europe.
+    id: d924d5bd111d595e1e3a1c3aa0fd8107
   - title: Carlos Garnacho
     description: Just another GNOME Blogs weblog
     id: 5e50f5b4496b49bbd5afbe7414ba727f
+  - title: fishsoup
+    description: Owen Taylor on Coding, Food, etc.
+    id: eb585230490bd2b49825cd57c9774585
   - title: McEs, A Hacker Life
     description: Behdad Esfahbod's daily notes on GNOME, Pango, Fedora, Persian Computing,
       Bob Dylan, and Dan Bern!
     id: 7ce343700304e3bee33831be743847e5
-  - title: fishsoup
-    description: Owen Taylor on Coding, Food, etc.
-    id: eb585230490bd2b49825cd57c9774585
   - title: Morten Welinder
     description: No Shiny Glass Beads, Please
     id: 318474b90f35e53409babd4afd45f735
-  - title: English – Christian Kellner
-    description: The safety net of the ocean is nonlinear, even with what crabs dream
-      of!
-    id: 383b7400a0b74bd4e4c3052b369a5eac
+  - title: Testbit
+    description: Timjâ€™s bits and tests
+    id: f4f42eaebd32afb13275f80d78e054a0
   - title: Thomas Wood
     description: My Weblog
     id: c4acc40cf000124d0a82dbe030cb73a2
@@ -153,15 +149,16 @@ params:
   - title: Olav Vitters
     description: ""
     id: 79512773a47e65f37404074fe91ad825
-  - title: Testbit
-    description: Timjâ€™s bits and tests
-    id: f4f42eaebd32afb13275f80d78e054a0
-  - title: Emmanuele Bassi – GTK Development Blog
-    description: All things GTK
-    id: b2d0dd059d2abb2366b68c2ed19e50cc
   - title: halting problem - gnome
     description: ""
     id: accf982407f0ecaca77538cb3380e1b3
+  - title: English – Christian Kellner
+    description: The safety net of the ocean is nonlinear, even with what crabs dream
+      of!
+    id: 383b7400a0b74bd4e4c3052b369a5eac
+  - title: Emmanuele Bassi – GTK Development Blog
+    description: All things GTK
+    id: b2d0dd059d2abb2366b68c2ed19e50cc
   - title: ChrisLord.net
     description: ""
     id: d29fc4cb18d4588a8c011d7293d952cc
@@ -183,15 +180,15 @@ params:
   - title: Coin web de Frédéric Péters
     description: ""
     id: 4870316a9c2aeff952c629f442421ad5
+  - title: Pid Eins
+    description: ""
+    id: 92a90a718a21cf3ed20d9ec4a81bcab5
   - title: GNOME – Xavier Claessens
     description: Just another GNOME Blogs weblog
     id: f0d2e6112ee218705f0208083c57a446
   - title: Tristan's World
     description: Just another GNOME Blogs weblog
     id: 13597fea21a37a44c22b7b1050a4cd40
-  - title: Pid Eins
-    description: ""
-    id: 92a90a718a21cf3ed20d9ec4a81bcab5
   - title: Coder's Log
     description: Views and journeys of a hopeless programmer, named Zeeshan Ali Khan.
     id: 2cd7b0addfab0fa5fc9a251810681b01
@@ -204,72 +201,72 @@ params:
   - title: Ray Strode
     description: So...
     id: 994fb03c51971cbbb552f23f77459c70
+  - title: Mart Raudsepp
+    description: Just another Gentoo Blogs site
+    id: 2aa3758d071726dd2c435c7c7e3f92cf
   - title: gimp – gimpfoo.de
     description: Mitchs blog
     id: 5c64e09db6b77d76bd4c28b3ecfdbf50
   - title: Gnome – The world won't listen
     description: Alberto Garcia's blog
     id: ada4420540299122cdb043c7a4886b01
-  - title: Et tu, Cthulhu
-    description: 'Personal blag of Hans Petter Jansson: Fun with computers edition'
-    id: 8a06d299b155335b39bde1cf6a4d5853
   - title: ken’s blog
     description: a geek rants!
     id: d3424ea9efe9d869604db824332dff01
-  - title: Base-Art - Philippe Normand
-    description: ""
-    id: a316c0ff05ea0e76cd94de56d2eff2f8
-  - title: Bob's development blog
-    description: Musings on open-source, GNOME, Ubuntu etc
-    id: 81cb887a53052dc35c7058df7a6ff736
   - title: Philip Withnall
     description: Free software, the outdoors and the environment.
     id: a3819ed1c77054895af50dc8915271c9
+  - title: Bob's development blog
+    description: Musings on open-source, GNOME, Ubuntu etc
+    id: 81cb887a53052dc35c7058df7a6ff736
   - title: Tomeu Vizoso
     description: ""
     id: d02d981cb947ee440196f807d2adee8b
+  - title: Et tu, Cthulhu
+    description: 'Personal blag of Hans Petter Jansson: Fun with computers edition'
+    id: 8a06d299b155335b39bde1cf6a4d5853
   - title: Happenings in GNOME
     description: Details of Christian's work on GNOME
     id: 60013381c1c7c17cdacd88e5e6ff60e3
-  - title: Nacho's Blog
-    description: Just another GNOME Blogs weblog
-    id: 8053e66aca8697ab1a99d4d483d6fb01
   - title: Marina'z Blog
     description: Establishing clarity
     id: 1f7528e67f0cbf1c74980b356956689a
+  - title: Nacho's Blog
+    description: Just another GNOME Blogs weblog
+    id: 8053e66aca8697ab1a99d4d483d6fb01
   - title: Igalia – infapi00
     description: I have seen the truth and it doesn't make sense
     id: bc4cea845c94f009574dac0d52171212
-  - title: Will Thompson
-    description: GNOME, Endless OS, and the like
-    id: d594d6c825b117e4e1544d428b389c88
   - title: Planet GNOME – mariospr.org
     description: Ramblings from the dark side of the moon
     id: 865393ff3ebf392ec6f02f1ad09ab28d
+  - title: diegoebe - planetgnome
+    description: ""
+    id: be30ff9fde99503e4d3d0999c09abc4b
   - title: Goings on
     description: Just another GNOME Blogs site
     id: 76e54c287ecba64a6a8a1ef96f48495e
+  - title: Will Thompson
+    description: GNOME, Endless OS, and the like
+    id: d594d6c825b117e4e1544d428b389c88
   - title: mclasen – GTK Development Blog
     description: All things GTK
     id: 962a9250031920a0137858dffbf0089e
-  - title: Cosimo’s blog.
-    description: things about GNOME and music
-    id: dc4ef1ddf775b2b559761ebe45da5c01
   - title: f/oss – Arun Raghavan
     description: Open source hacker
     id: 73da80726a9ecedd33a180a332e77236
-  - title: Javier Jardón
-    description: Just another GNOME Blogs weblog
-    id: a85beed7b83cbb90e25b6f5b9073fd58
+  - title: Cosimo’s blog.
+    description: things about GNOME and music
+    id: dc4ef1ddf775b2b559761ebe45da5c01
   - title: Planet GNOME – The Open Sourcerer
     description: Jeff on technology, business and society
     id: 930a8d096b59de4f003e22da00b7eeb6
+  - title: Javier Jardón
+    description: Just another GNOME Blogs weblog
+    id: a85beed7b83cbb90e25b6f5b9073fd58
   - title: Debarshi's den
     description: ""
     id: c0a85543d36343a530ed5bdcbf2186f0
-  - title: 'Comments on:'
-    description: Just another Blogs-test.igalia.com site
-    id: 212066068f5f8c6da7ff490a0fbbeca3
   - title: Form and Function
     description: Allan Day's GNOME Blog
     id: 21d1f55dd924164e27a97febd1d68431
@@ -282,12 +279,12 @@ params:
   - title: ""
     description: ""
     id: 10e2e13258c799089ce629f9b1625cf7
-  - title: Martin Pitt
-    description: Recent content on Martin Pitt
-    id: 46955b5338285c39f113eeed6e5f1617
   - title: Joaquim Rocha
     description: Joaquim Rocha's blog
     id: 6a398bf5c3b14f3db76f2aecaf3febe3
+  - title: Martin Pitt
+    description: Recent content on Martin Pitt
+    id: 46955b5338285c39f113eeed6e5f1617
   - title: Nirbheek’s Rantings
     description: ""
     id: 8bae4bf275bbef9b5edf7255de002deb
@@ -301,21 +298,18 @@ params:
   - title: Kat's log
     description: ""
     id: df1f317edb61b10a94435b515a41edd8
-  - title: Mart Raudsepp
-    description: Just another Gentoo Blogs site
-    id: 2aa3758d071726dd2c435c7c7e3f92cf
-  - title: ar.xjuan.Blog
-    description: Just another GNOME Blogs site
-    id: 002c7b14445cd9321872098811b1f77a
   - title: pgo – Javi's corner
     description: Linux, Open Source, events, technology and more
     id: bfb2e0c2dfdd1b35ce409d7a3eaa9ed6
-  - title: GNOME – Sólo para Mí!
-    description: un mundo como el tuyo...
-    id: a7029837659debb10da4ed1a11d98ca8
+  - title: ar.xjuan.Blog
+    description: Just another GNOME Blogs site
+    id: 002c7b14445cd9321872098811b1f77a
   - title: sakananote with English
     description: ""
     id: 607a8b1d9a3f224974bfd8f881fe62d9
+  - title: GNOME – Sólo para Mí!
+    description: un mundo como el tuyo...
+    id: a7029837659debb10da4ed1a11d98ca8
   - title: GNOME Planet – SIGQUIT
     description: '... and core dumped'
     id: 7eef49267bea30c2499cf8081dad792d
@@ -331,12 +325,12 @@ params:
   - title: __anish__
     description: ""
     id: 920d80a2b187deee24571eda15cfabc2
-  - title: Curiosity-driven development
-    description: Development diary of a developer sailing on the seas of open-source
-    id: 644a36810cdc2e527d741f6ed49a2c8f
   - title: My experience with GNOME
     description: On the way to open source
     id: 98807f612bb559ad886ed189552c3046
+  - title: Curiosity-driven development
+    description: Development diary of a developer sailing on the seas of open-source
+    id: 644a36810cdc2e527d741f6ed49a2c8f
   - title: 'knocte :: MonoTema'
     description: Those who say it can't be done shouldn't interrupt the ones who are
       doing it.
@@ -344,21 +338,21 @@ params:
   - title: Bastian's Bottled Messages
     description: My GNOME hideout..
     id: 57a9551e584f6360872dc79f12702fcc
-  - title: j1m.net
-    description: notes from the mousepad
-    id: 52d4b86bb5b940119bae9e9fe57a5d54
   - title: Michael Catanzaro's Blog
     description: On Fedora Workstation, GNOME, Epiphany, and WebKitGTK
     id: 78a8fcaf252d8f3b5cfa3fc9dc97a573
   - title: feaneron
     description: Scratching my own free software itches
     id: 6b9d3130875411738091d66cdaf4aa25
-  - title: BinLi
-    description: another GNOME Lover!
-    id: 5ab8f9a93985e555f1368764c90d02ef
   - title: feaneron – GTK Development Blog
     description: All things GTK
     id: 9846c47dc405f1d932a0e26031e32d6d
+  - title: BinLi
+    description: another GNOME Lover!
+    id: 5ab8f9a93985e555f1368764c90d02ef
+  - title: j1m.net
+    description: notes from the mousepad
+    id: 52d4b86bb5b940119bae9e9fe57a5d54
   - title: Sam Thursfield
     description: Software and technology from Galicia, Spain
     id: c00a58b9ad20f7319fd929058c7a5d5b
@@ -425,23 +419,21 @@ params:
   - title: TingPing’s blog
     description: Development blog of TingPing
     id: a6712a45445796e74ae0b78519711398
+  - title: Girin Studio
+    description: Arts and Everything
+    id: e211f30e70045dd9ef122a794ba00d2e
+  - title: Adrien Plazas
+    description: ""
+    id: 90d9239f363edadfdcdb9434c506c6e1
   - title: GNOME – Ximions Blog
     description: Yet another Wordpress weblog
     id: e54eef67b0c66bf7632fd277f9803680
-  - title: gnome – Blog | Javier Martinez Canillas
-    description: $ cat /dev/random
-    id: 737e272a8640e8a29c25801b257035a5
   - title: GNOME – gabrielivascu
     description: ""
     id: 96eb5ccc263cac317a380f51efded7eb
   - title: Space and Meaning
     description: Tobias Bernard's GNOME Blog
     id: 12d94dcb5503f5f1f30e6ee96f089699
-  - title: Ismael Olea — web personal
-    description: |-
-      Pastoreando procomunes desde 1994 — Shepherding the commons since 1994
-       - just the English posts
-    id: 4dbfc718acc7290d7fadd1b28519868a
   - title: Heisenbugs of a Heisenlife
     description: Ramblings of an uncertain being
     id: 0f93a7f3bc48f0a84a517bba9461647c
@@ -451,36 +443,32 @@ params:
   - title: freesoftware – APEBOX.ORG
     description: we like kittens and spoons and cake
     id: bda888e85b5bb375dd502d63aff1c7e4
-  - title: Adrien Plazas
-    description: ""
-    id: 90d9239f363edadfdcdb9434c506c6e1
   - title: GNOME – n.
     description: Turning Ideas Into Reality
     id: b49e96ff7a0b84839cd4647f1ff50b13
   - title: GNOME – Treviño's Blog
     description: That's my blog... Life and Linux
     id: ca07e8aed61d87718067d3b372010deb
+  - title: gnome – Blog | Javier Martinez Canillas
+    description: $ cat /dev/random
+    id: 737e272a8640e8a29c25801b257035a5
   - title: Meg Ford
     description: ""
     id: b9806854fae352bb9b5e01a9e13e1f32
-  - title: Blog
-    description: ""
-    id: cc8b8c716b3b4e3da2b631dc79e51fab
+  - title: Ismael Olea — web personal
+    description: |-
+      Pastoreando procomunes desde 1994 — Shepherding the commons since 1994
+       - just the English posts
+    id: 4dbfc718acc7290d7fadd1b28519868a
   - title: Kalev Lember
     description: ""
     id: e3614c04696f2d1144d987f7bafcaf23
-  - title: danigm.net - gnome
-    description: ""
-    id: 0ed66a93501b84ba13d99bb5299c1f21
-  - title: Dylan McCall
-    description: ""
-    id: e2a7cbfc5a8519d2403a251fd76844b7
-  - title: Notes
-    description: Recent content on Notes
-    id: a3563079c7c99b222274a69ff669bde0
   - title: White Tuesdays
     description: My blog on GNOME, programming, maps and stuff.
     id: a3076066ba122b4897180efb400bee6a
+  - title: Dylan McCall
+    description: ""
+    id: e2a7cbfc5a8519d2403a251fd76844b7
   - title: baedert-gsoc
     description: ""
     id: 2e3df123ad22ac3395a509e359238513
@@ -490,37 +478,39 @@ params:
   - title: GNOME – raresvisalom
     description: ""
     id: 1d8f9379ce19a14184ea65fe3d3e8ffe
+  - title: danigm.net - gnome
+    description: ""
+    id: 0ed66a93501b84ba13d99bb5299c1f21
   - title: alexandru pandelea
     description: ""
     id: 187cf51b79bf8f533b13b93b0309a93e
+  - title: Blog
+    description: ""
+    id: cc8b8c716b3b4e3da2b631dc79e51fab
+  - title: Notes
+    description: Recent content on Notes
+    id: a3563079c7c99b222274a69ff669bde0
   - title: Rust in Peace
     description: Just another GNOME Blogs site
     id: 4420e0552aa221b6248ccf2333e02cd6
   - title: oliverp – Getting to know GNOME
     description: Featuring the people side of GNOME
     id: e8dfc706d2679f841dc165b5a7c53107
-  - title: Opropst
-    description: Notes from Oliver Propst
-    id: 0eb9e00f7d4cd61b73bdd30679a1f214
-  - title: bits and bobs
-    description: ""
-    id: 8863ba58ce4ca66270ce25e6b0860b46
   - title: de Nittis Ludovico's blog
     description: ""
     id: 40a0553bae7344d589586ed115903c59
+  - title: bits and bobs
+    description: ""
+    id: 8863ba58ce4ca66270ce25e6b0860b46
+  - title: Opropst
+    description: Notes from Oliver Propst
+    id: 0eb9e00f7d4cd61b73bdd30679a1f214
   - title: Colors of Noise - Entries tagged planetgnome
     description: Entries tagged planetgnome
     id: 53d7f9abe25d3d8956c734846ece3e5a
-  - title: Diário do Isaque
-    description: 'Esta é uma página pessoal, criada para promover as coisas que eu
-      gosto: programação C/C++, Java, Linux, Anime, Mangá, ...'
-    id: 9de3055762325b6772b04fd542724476
   - title: Julian's Code Corner
     description: ""
     id: 4ea56d46efdec602bbbad507b33fd10b
-  - title: Hans de Goede
-    description: Hans de Goede - Dreamwidth Studios
-    id: 8a53335d14fb0dc745193cdaffba15cd
   - title: Chris's Design & Development
     description: ""
     id: b49311e2290072c8696b9d5c9cc3f42e
@@ -533,28 +523,25 @@ params:
   - title: Felix Häcker
     description: Just another development blog
     id: d725420463ac9f39a6bd8ae83de5a79a
-  - title: Felix on This Week in GNOME
-    description: Recent content in Felix on This Week in GNOME
-    id: 7b2c8585674d96f98ad861354eb05bd6
-  - title: gnome on Nick Richards
-    description: Recent content in gnome on Nick Richards
-    id: 98f401dc3b6a3b8c638f693da9ce3017
-  - title: Bilal Elmoussaoui - My Blog
-    description: Personal blog & portfolio
-    id: 1c674b9ba788f61b0c3795224592b706
+  - title: Diário do Isaque
+    description: 'Esta é uma página pessoal, criada para promover as coisas que eu
+      gosto: programação C/C++, Java, Linux, Anime, Mangá, ...'
+    id: 9de3055762325b6772b04fd542724476
+  - title: Hans de Goede
+    description: Hans de Goede - Dreamwidth Studios
+    id: 8a53335d14fb0dc745193cdaffba15cd
   - title: barthalion's blog
     description: Recent content on barthalion's blog
     id: 71114ce228246669e75c8eff4ba7208f
   - title: Blog about what I do
     description: by antoniof
     id: c75f5980388976ebad8a0f0c0c75316b
-  - title: Posts - Valentin David
-    description: ""
-    id: 45337bdfd738e0a655a4a2c327a84b68
-  - title: Best Web, Mobile Apps Development in India by RavSam Web Solutions | Blogs
-    description: RavSam Web Solutions is an expert in Web Design, Web Development,
-      Mobile Apps Development, Software Development, and Automation services.
-    id: 56f972a17832c89c5b31d4f90a7f9136
+  - title: Bilal Elmoussaoui - My Blog
+    description: Personal blog & portfolio
+    id: 1c674b9ba788f61b0c3795224592b706
+  - title: gnome on Nick Richards
+    description: Recent content in gnome on Nick Richards
+    id: 98f401dc3b6a3b8c638f693da9ce3017
   - title: Martín Abente Lahaye
     description: Just another GNOME Blogs site
     id: 6c7edd2e5d76a77f5dd71d932983f0bc
@@ -567,84 +554,82 @@ params:
   - title: Indulgent Ramblings
     description: Recent content on Indulgent Ramblings
     id: 0131a62c825687d7e82af78546719f3f
-  - title: Mantoh Nasah Kuma
-    description: Software dev and Open source Enthusiast
-    id: 26dbabdf1a6c2db6b293d30c5997642b
+  - title: Best Web, Mobile Apps Development in India by RavSam Web Solutions | Blogs
+    description: RavSam Web Solutions is an expert in Web Design, Web Development,
+      Mobile Apps Development, Software Development, and Automation services.
+    id: 56f972a17832c89c5b31d4f90a7f9136
   - title: Technical Credit | Gnome
     description: IT Blog
     id: 84939df00a6c5c8a46607a4028c2b243
-  - title: Cassidy James Blaede
-    description: Building useful, usable, delightful products that respect privacy.
-    id: 56a8a3cf31765f7976a03c73e855ee78
-  - title: Julian's blog
-    description: My blog site.
-    id: f8431fea460d386f33d8eaf2d0c3b02f
+  - title: Posts - Valentin David
+    description: ""
+    id: 45337bdfd738e0a655a4a2c327a84b68
+  - title: Mantoh Nasah Kuma
+    description: Software dev and Open source Enthusiast
+    id: 26dbabdf1a6c2db6b293d30c5997642b
   - title: Maximiliano
     description: Personal development blog
     id: 571971035ff4d704874a1869701ca2b3
-  - title: Planet GNOME worthy – The place of many musings
-    description: ""
-    id: f7b93bfedd512806948cf2a4857b3e8f
+  - title: Cassidy James Blaede
+    description: Building useful, usable, delightful products that respect privacy.
+    id: 56a8a3cf31765f7976a03c73e855ee78
   - title: Manuel Genovés
     description: ""
     id: bbae5a4641391d8341d0cd0733ea4630
   - title: Revelations of an imposter
     description: Things you probably already knew
     id: 58e26caaad7a130dc056e44b3c727227
-  - title: Ondřej Holý
-    description: Programmer Blog
-    id: de6efd1c4619fd690ccc5ed6674d1613
   - title: Dhanuka's web log
     description: ""
     id: 128dd467aedc0d2a89160e3a9eb6f7ce
-  - title: TheEvilSkeleton
-    description: ""
-    id: 786af216f66082842c7de9d83dd5552d
+  - title: Julian's blog
+    description: My blog site.
+    id: f8431fea460d386f33d8eaf2d0c3b02f
   - title: News about Newsflash
     description: ""
     id: ba64968bc07aaa1206cd1ec4c414bf84
-  - title: Kai A. Hiller
-    description: GSoC 2021 Blog
-    id: 8d995eda7ac7a93088888f6a16169c88
-  - title: Posts on swick's blog
-    description: Recent content in Posts on swick's blog
-    id: 9262033005c9288e16619e5eadbe59ab
-  - title: Andy Holmes
-    description: Mused and Bemused
-    id: 41438a325618e628774f6023fe6f4335
+  - title: TheEvilSkeleton
+    description: ""
+    id: 786af216f66082842c7de9d83dd5552d
   - title: GNOME adventures in mobile
     description: ""
     id: 83efbc9b09768646605a874d7079154b
+  - title: Andy Holmes
+    description: Mused and Bemused
+    id: 41438a325618e628774f6023fe6f4335
   - title: GNOME Accessibility
     description: ""
     id: ac1ca0422acc73daac0eb10c496a37de
-  - title: Sonny's
-    description: ""
-    id: 93457ca876f6df9fcc68fd85e88ea346
-  - title: planet-gnome on Ivan Molodetskikh’s Webpage
-    description: Recent content in planet-gnome on Ivan Molodetskikh’s Webpage
-    id: 6011679642a5e3256ef75814a45450c9
-  - title: GNOME Shell & Mutter
-    description: Development blog for GNOME Shell and Mutter
-    id: 62404bfb02f2bb7252de54c13786ab46
   - title: Flathub Documentation Blog
     description: Flathub Documentation Blog
     id: 18c7d94e0dc2370f178893e25ff54a21
-  - title: 'DEV Community: redoC-A2k'
-    description: The latest articles on DEV Community by redoC-A2k (@redoca2k).
-    id: ed3a47712fff343b92c8b87bf9de8311
+  - title: GNOME Shell & Mutter
+    description: Development blog for GNOME Shell and Mutter
+    id: 62404bfb02f2bb7252de54c13786ab46
   - title: News – The GNOME Foundation
     description: Building a diverse and sustainable free software ecosystem
     id: b9932df0669302ceaa5bab7e7b1e4223
+  - title: Fedora Planet Archives – /home/jwf/
+    description: Free & Open Source, technology, travel, and life reflections
+    id: d920d3172a91de51a93768ecbbe1a427
+  - title: 'DEV Community: redoC-A2k'
+    description: The latest articles on DEV Community by redoC-A2k (@redoca2k).
+    id: ed3a47712fff343b92c8b87bf9de8311
+  - title: This Week in GNOME
+    description: Recent content on This Week in GNOME
+    id: 867b9b328f08fb53dcede21c51e20168
+  - title: Posts on swick's blog
+    description: Recent content in Posts on swick's blog
+    id: 9262033005c9288e16619e5eadbe59ab
+  - title: Shinigami's Blog
+    description: Adventures in Open Source
+    id: dc73ace15dd254b7ddd21b6f992440c1
   - title: Stories by Asmit Malakannawar on Medium
     description: Stories by Asmit Malakannawar on Medium
     id: acbe42029ca411fa83958e9bea96c491
   - title: 'DEV Community: Aman Kumar'
     description: The latest articles on DEV Community by Aman Kumar (@amankrx).
     id: 3f065b1aabb352dcd5a60a6520838ef5
-  - title: Shinigami's Blog
-    description: Adventures in Open Source
-    id: dc73ace15dd254b7ddd21b6f992440c1
   - title: Space Penguin
     description: Marco Melorio's GNOME blog
     id: 89897585ef678da180891beb99e80fef
@@ -655,88 +640,82 @@ params:
     description: This blog is about my experiences as a contributor for the GNOME
       Foundation in GSoC'22.
     id: f5832123f4aeb6058a10dedab2e7b97e
-  - title: Fedora Planet Archives – /home/jwf/
-    description: Free & Open Source, technology, travel, and life reflections
-    id: d920d3172a91de51a93768ecbbe1a427
+  - title: planet-gnome on Ivan Molodetskikh’s Webpage
+    description: Recent content in planet-gnome on Ivan Molodetskikh’s Webpage
+    id: 6011679642a5e3256ef75814a45450c9
   - title: My Blog
     description: Recent content on My Blog
     id: 52688483d0e15393c575c654af810bfc
-  - title: gnome on kyte codes
-    description: Recent content in gnome on kyte codes
-    id: 4b033195efff8e069517c63048d61fc9
-  - title: Stories by Akshay Warrier on Medium
-    description: Stories by Akshay Warrier on Medium
-    id: f8f52305865d3cbb0d0e27f0feae6d4a
-  - title: Stories by Pooja Patel on Medium
-    description: Stories by Pooja Patel on Medium
-    id: c97bbd8266d678ff1154688279c06224
   - title: Blogs by Aryan
     description: Some casual blogs and some related to my GSoC journey
     id: 1b6c1d3231f251ccd4f112d16af59eab
-  - title: SeaDve
-    description: Application developer based in the Philippines
-    id: 10c46bbd2bcceeeb67b8d599727e32c4
+  - title: Stories by Pooja Patel on Medium
+    description: Stories by Pooja Patel on Medium
+    id: c97bbd8266d678ff1154688279c06224
+  - title: Stories by Akshay Warrier on Medium
+    description: Stories by Akshay Warrier on Medium
+    id: f8f52305865d3cbb0d0e27f0feae6d4a
+  - title: gnome on kyte codes
+    description: Recent content in gnome on kyte codes
+    id: 4b033195efff8e069517c63048d61fc9
   - title: GNOME on pesader
     description: Recent content in GNOME on pesader
     id: 3dee4894cb7d830afebd443fd442ab51
-  - title: Jainil
-    description: Software Development and Computer Science Blogs
-    id: fbae7602745d57cfaae66a3b55d15a04
+  - title: SeaDve
+    description: Application developer based in the Philippines
+    id: 10c46bbd2bcceeeb67b8d599727e32c4
+  - title: SoNiC-HeRE
+    description: Aspiring software-developer and a self taught designer. Focusing
+      on web dev and blockchain. An open source enthusiast and a part time freelancer.
+      When not working you could find me listening to songs
+    id: 097860a45a30040f419b028ceaeb1edc
   - title: Stories by Tanmay on Medium
     description: Stories by Tanmay on Medium
     id: 448958602709fa45da5cfa3e04327293
   - title: Stories by Gurmannat Sohal on Medium
     description: Stories by Gurmannat Sohal on Medium
     id: 23b0feec481670ddd66b62d7e3cf6cfc
+  - title: Jainil
+    description: Software Development and Computer Science Blogs
+    id: fbae7602745d57cfaae66a3b55d15a04
   - title: Stories by Gotam Gorabh on Medium
     description: Stories by Gotam Gorabh on Medium
     id: 40936082fda3706942d27731a7979473
   - title: Stories by Pratham Gupta on Medium
     description: Stories by Pratham Gupta on Medium
     id: 4ab1529b366accadb3f0930c6fc87eda
-  - title: SoNiC-HeRE
-    description: Aspiring software-developer and a self taught designer. Focusing
-      on web dev and blockchain. An open source enthusiast and a part time freelancer.
-      When not working you could find me listening to songs
-    id: 097860a45a30040f419b028ceaeb1edc
-  - title: Dorothy Kabarozi
-    description: Portfolio
-    id: 6d32607235d099652899c48fd9338067
   - title: Tibilius' Blog
     description: Recent content on Tibilius' Blog
     id: 21748a8e34e7140c38bb3c9fd7fea482
-  - title: 'Embracing Growth, Curiosity, and Inclusivity: My Outreachy Journey from
-      Bamenda, Cameroon to GNOME'
-    description: ""
-    id: e48bcb09f22403009819a367a54aa4a7
+  - title: Dorothy Kabarozi
+    description: Portfolio
+    id: 6d32607235d099652899c48fd9338067
   - title: Stories by Bharat Tyagi on Medium
     description: Stories by Bharat Tyagi on Medium
     id: ca7e9f477819ca02b53ec1f70354aa31
+  - title: José's blog
+    description: José's blog
+    id: e474225937fad4ef0bea125f0ca95a4c
   - title: Demigod's Blog
     description: ""
     id: cbf8a0d93ef2de94b3710bf5f5d08512
   - title: Stories by Tamnjong Larry Tabeh on Medium
     description: Stories by Tamnjong Larry Tabeh on Medium
     id: 72b02ab3293b0acfe6f4ee835f365f2a
-  - title: Udo's Blog
-    description: 'My GNOME Outreachy experience: Project & Learnings'
-    id: 7940f0c7f107dcd239d5e3b3a2bf6437
-  - title: rachleona's GSoC
-    description: My time with GNOME for Google Summer of Code 2024
-    id: df7390f6ef07254f5e7d094f276164c2
-  - title: José's blog
-    description: José's blog
-    id: e474225937fad4ef0bea125f0ca95a4c
   - title: My GSoC Blog
     description: ""
     id: 7a10cc0c90b1eaa291008acd53792f25
-  - title: diegoebe - planetgnome
+  - title: rachleona's GSoC
+    description: My time with GNOME for Google Summer of Code 2024
+    id: df7390f6ef07254f5e7d094f276164c2
+  - title: Udo's Blog
+    description: 'My GNOME Outreachy experience: Project & Learnings'
+    id: 7940f0c7f107dcd239d5e3b3a2bf6437
+  - title: 'Embracing Growth, Curiosity, and Inclusivity: My Outreachy Journey from
+      Bamenda, Cameroon to GNOME'
     description: ""
-    id: be30ff9fde99503e4d3d0999c09abc4b
-  - title: This Week in GNOME
-    description: Recent content on This Week in GNOME
-    id: 867b9b328f08fb53dcede21c51e20168
-  - title: Girin Studio
-    description: Arts and Everything
-    id: e211f30e70045dd9ef122a794ba00d2e
+    id: e48bcb09f22403009819a367a54aa4a7
+  - title: Ondřej Holý
+    description: Programmer Blog
+    id: de6efd1c4619fd690ccc5ed6674d1613
 ---

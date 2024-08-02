@@ -8,7 +8,6 @@ params:
   feedid: 4ea56d46efdec602bbbad507b33fd10b
   websites:
     https://blogs.gnome.org/jsparber: true
-    https://blogs.gnome.org/jsparber/: false
   blogrolls: []
   in_blogrolls:
   - title: Planet GNOME

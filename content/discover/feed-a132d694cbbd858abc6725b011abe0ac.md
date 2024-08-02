@@ -8,7 +8,6 @@ params:
   feedid: a132d694cbbd858abc6725b011abe0ac
   websites:
     https://blogs.igalia.com/apuentes: true
-    https://blogs.igalia.com/apuentes/: false
   blogrolls: []
   in_blogrolls:
   - title: Planet Igalia

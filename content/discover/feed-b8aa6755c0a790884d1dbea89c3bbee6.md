@@ -8,7 +8,6 @@ params:
   feedid: b8aa6755c0a790884d1dbea89c3bbee6
   websites:
     https://gnu.wildebeest.org/blog/man-di: true
-    https://gnu.wildebeest.org/blog/man-di/: false
   blogrolls: []
   in_blogrolls:
   - title: Planet Classpath

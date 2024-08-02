@@ -67,8 +67,6 @@ params:
   - https://yiming.dev/rss.xml
   - https://alexandrawolfe.ca/feed/?type=rss
   - https://birming.com/feed/?type=rss
-  - https://cmdr-nova.online/comments/feed/
-  - https://cmdr-nova.online/feed/
   - https://iwebthings.joejenett.com/feed.xml
   - https://iwebthings.joejenett.com/iwd.atom
   - https://jamesg.blog/feeds/posts.xml

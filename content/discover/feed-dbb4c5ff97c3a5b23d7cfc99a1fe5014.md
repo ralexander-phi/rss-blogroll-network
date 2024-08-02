@@ -8,7 +8,6 @@ params:
   feedid: dbb4c5ff97c3a5b23d7cfc99a1fe5014
   websites:
     https://blogs.scummvm.org/djsrv: true
-    https://blogs.scummvm.org/djsrv/: false
   blogrolls: []
   in_blogrolls:
   - title: ScummVM Planet

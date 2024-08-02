@@ -8,7 +8,6 @@ params:
   feedid: 65a49e4ffca05c88d4cedd69ac6c7e1d
   websites:
     https://blogs.fsfe.org/nanda: true
-    https://blogs.fsfe.org/nanda/: false
   blogrolls: []
   in_blogrolls:
   - title: Thoughts of the FSFE Community (English)
