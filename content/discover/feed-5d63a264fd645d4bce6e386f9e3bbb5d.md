@@ -97,6 +97,7 @@ params:
     https://indieweb.social/@immarisabel: true
     https://marisabel.nl/: true
     https://marisabel.nl/public/blog.php: true
+    https://marisabelmunoz.com/: true
   last_post_title: Whispers of Awakening Bytes
   last_post_description: This essay has been in development for about four months,
     perhaps longer if you include the conception of the idea. I am by no means a scholar.

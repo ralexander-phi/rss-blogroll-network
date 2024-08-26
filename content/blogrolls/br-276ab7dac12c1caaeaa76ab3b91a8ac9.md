@@ -319,4 +319,7 @@ params:
   - title: Blog on Alexandre Neto
     description: Recent content in Blog on Alexandre Neto
     id: 3f605c7b37d29f2907d8cf7c6579efd6
+  - title: Markus Neteler Consulting
+    description: Geospatial Analysis - Remote sensing - GRASS GIS
+    id: a4e7039ec9d4c6e8bb179bdf924e4eb8
 ---
