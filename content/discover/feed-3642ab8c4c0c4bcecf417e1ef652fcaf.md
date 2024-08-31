@@ -16,30 +16,30 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Embedded
+  - C++
+  - DSP
   - KDAB Blogs
   - KDAB on Qt
+  - Multimedia
+  - Qt
   - Technical
-  - Whitepapers & Published Articles
-  - embedded
-  - whitepaper
   relme: {}
-  last_post_title: Behind the Scenes of Embedded Updates
-  last_post_description: An over-the-air (OTA) update capability is an increasingly
-    critical part of any embedded product to close cybersecurity vulnerabilities,
-    allow just-in-time product rollouts, stomp out bugs, and
-  last_post_date: "2024-07-18T08:00:36Z"
-  last_post_link: https://www.kdab.com/behind-the-scenes-of-embedded-updates/
+  last_post_title: Implementing an Audio Mixer, Part 1
+  last_post_description: Motivation When using Qt Multimedia to play audio files,
+    it’s common to use QMediaPlayer, as it supports a larger variety of formats than
+    QSound and QSoundEffect. Consider a Qt application with
+  last_post_date: "2024-08-22T07:00:59Z"
+  last_post_link: https://www.kdab.com/implementing-an-audio-mixer-part-1/
   last_post_categories:
-  - Embedded
+  - C++
+  - DSP
   - KDAB Blogs
   - KDAB on Qt
+  - Multimedia
+  - Qt
   - Technical
-  - Whitepapers & Published Articles
-  - embedded
-  - whitepaper
   last_post_language: ""
-  last_post_guid: 0428a3a84136beab4c54e92f0092689c
+  last_post_guid: f6d3d924a59a0b1f1029313258532436
   score_criteria:
     cats: 0
     description: 3

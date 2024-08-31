@@ -16,10 +16,10 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: MODULE 2024.06.01
-  last_post_description: 'New track: igpx'
+  last_post_title: ART 2024.07.29
+  last_post_description: WALLPAPERS!
   last_post_date: "1970-01-01T00:00:00Z"
-  last_post_link: https://giantghost.net/
+  last_post_link: https://giantghost.net/wallpapers.html
   last_post_categories: []
   last_post_language: ""
   last_post_guid: f4c2bfe350b92517906e7581fa4203fd

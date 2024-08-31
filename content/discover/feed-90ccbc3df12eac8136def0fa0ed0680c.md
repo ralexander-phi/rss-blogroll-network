@@ -8,6 +8,7 @@ params:
   feedid: 90ccbc3df12eac8136def0fa0ed0680c
   websites:
     https://miketaylr.com/posts: true
+    https://miketaylr.com/posts/: false
   blogrolls: []
   in_blogrolls:
   - title: Planet Mozilla

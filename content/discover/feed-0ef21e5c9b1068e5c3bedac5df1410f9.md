@@ -1,6 +1,6 @@
 ---
 title: Qt Blog
-date: "2024-07-17T09:00:00Z"
+date: "2024-08-30T10:52:33Z"
 description: Explore the Qt Blog for the latest insights on e.g. Qt Creator, your
   go-to source for cross-platform development tips and updates.
 params:
@@ -17,23 +17,38 @@ params:
   recommended: []
   recommender: []
   categories:
+  - .NET
+  - Application Development
+  - C++
+  - Desktop
+  - Dev Loop
+  - Development
+  - QML
   - Qt
-  - QtNetworkAuth
-  - Security
+  - Qt/.NET
+  - Visual Studio
+  - Windows
   relme: {}
-  last_post_title: 'Security advisory: Recently discovered HTTP2 handling issue impacts
-    Qt'
-  last_post_description: Whenever a TLS connection is started for a server that supports
-    HTTP2 and has sent some data to the application then Qt will send data to the
-    server even if the TLS certificate does not match the
-  last_post_date: "2024-07-17T09:00:00Z"
-  last_post_link: https://www.qt.io/blog/recently-discovered-http2-handling
+  last_post_title: Qt/.NET — Using QML in a .NET WPF application
+  last_post_description: Qt/.NET is a proposed toolkit for interoperability between
+    C++ and .NET, including a Qt-based custom native host for managed assemblies,
+    as well as a native-to-managed adapter module that provides
+  last_post_date: "2024-08-30T09:30:00Z"
+  last_post_link: https://www.qt.io/blog/qt-dotnet-using-qml-in-a-dotnet-wpf-application
   last_post_categories:
+  - .NET
+  - Application Development
+  - C++
+  - Desktop
+  - Dev Loop
+  - Development
+  - QML
   - Qt
-  - QtNetworkAuth
-  - Security
+  - Qt/.NET
+  - Visual Studio
+  - Windows
   last_post_language: ""
-  last_post_guid: 2a7af4907d6d64fe6a78f2adeb534496
+  last_post_guid: 9de126bdd4876d9c1f15926ea05a2d04
   score_criteria:
     cats: 0
     description: 3

@@ -1,6 +1,6 @@
 ---
 title: pages tagged python-planet
-date: "2024-06-18T21:46:33-04:00"
+date: "2024-08-20T09:51:31-04:00"
 description: anarcat
 params:
   feedlink: https://anarc.at/tag/python-planet/index.rss
@@ -16,33 +16,27 @@ params:
   recommended: []
   recommender: []
   categories:
+  - debian
   - debian-planet
-  - meta
+  - packaging
   - python-planet
-  - theming
-  - typography
-  - usability
+  - upgrade
   relme: {}
-  last_post_title: Playing with fonts again
+  last_post_title: Why I should be running Debian unstable right now
   last_post_description: |-
-    I am getting increasingly frustrated by Fira Mono's lack of italic
-    support so I am looking at alternative fonts
-    again.
-
-    Commit Mono
-
-    This time I seem to be settling on either Commit Mono or
-  last_post_date: "2024-05-29T17:38:49-04:00"
-  last_post_link: https://anarc.at/blog/2024-05-29-playing-with-fonts-again/
+    So a common theme on the Internet about Debian is so old. And
+    right, I am getting close to the stage that I feel a little laggy: I
+    am using a bunch of backports for packages I need, and I'm missing
+  last_post_date: "2024-08-15T23:41:27-04:00"
+  last_post_link: https://anarc.at/blog/2024-08-15-why-trixie/
   last_post_categories:
+  - debian
   - debian-planet
-  - meta
+  - packaging
   - python-planet
-  - theming
-  - typography
-  - usability
+  - upgrade
   last_post_language: ""
-  last_post_guid: f3060d58f481de98999289eb9f8e6e2a
+  last_post_guid: 623e171bbfca62035b996e4cd66fe43e
   score_criteria:
     cats: 0
     description: 3

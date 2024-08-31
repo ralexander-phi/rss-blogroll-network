@@ -18,36 +18,31 @@ params:
   - http://scripting.com/rss.xml
   - http://scripting.com/rssNightly.xml
   categories:
-  - Opinion
-  - Tips
-  - WordPress
-  - WordPress Advanced
+  - Inside Nelio
+  - Test of the Month
   relme: {}
-  last_post_title: DevTips – Function Composition to Validate and Sanitize Data in
-    Your REST APIs
-  last_post_description: One of the first things web developers learn is the importance
-    of data validation and sanitization. Let's see how you can be more efficient at
-    it by using function composition in your REST API
-  last_post_date: "2024-07-11T15:00:00Z"
-  last_post_link: https://neliosoftware.com/blog/devtips-function-composition-to-validate-and-sanitize-data-in-wp-rest-api/
+  last_post_title: Test of the Month – Consistent Pricing Throughout Sales Funnel
+  last_post_description: Building an effective pricing page to convert prospects into
+    customers is complicated. How you show prices can make a big difference. Do you
+    show the full price upfront, including all taxes and fees,
+  last_post_date: "2024-08-22T15:00:00Z"
+  last_post_link: https://neliosoftware.com/blog/test-of-the-month-consistent-pricing-throughout-sales-funnel/
   last_post_categories:
-  - Opinion
-  - Tips
-  - WordPress
-  - WordPress Advanced
+  - Inside Nelio
+  - Test of the Month
   last_post_language: ""
-  last_post_guid: 5b60339f57f1705d16b2fe69f771f102
+  last_post_guid: 9e54611f5255afe059dc4caecaf5c777
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
-    postcats: 3
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 15
+  score: 14
   ispodcast: false
   isnoarchive: false
   innetwork: true

@@ -1,6 +1,6 @@
 ---
 title: QtWebKit Developer Journal
-date: "2023-11-16T08:33:07+01:00"
+date: "2024-08-28T21:06:05+02:00"
 description: Ramblings from developers working on QtWebKit
 params:
   feedlink: https://qtwebkit.blogspot.com/feeds/posts/default/-/qt

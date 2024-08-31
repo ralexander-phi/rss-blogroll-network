@@ -1,6 +1,6 @@
 ---
 title: Talk Python To Me
-date: "2024-07-22T00:00:00-08:00"
+date: "2024-08-24T00:00:00-08:00"
 description: Talk Python to Me is a weekly podcast hosted by developer and entrepreneur
   Michael Kennedy. We dive deep into the popular packages and software developers,
   data scientists, and incredible hobbyists
@@ -27,19 +27,20 @@ params:
     https://mkennedy.codes/search: true
     https://talkpython.fm/: true
     https://training.talkpython.fm/: true
-  last_post_title: '#471: Learning and teaching Pandas'
+  last_post_title: '#475: Python Language Summit 2024'
   last_post_description: |-
-    Reuven Lerner on Twitter: @reuvenmlerner
-    Pandas Workout Book: manning.com
-    Bamboo Weekly: Solar eclipse: bambooweekly.com
-    Bamboo Weekly: Avocado hand: bambooweekly.com
-    Scaling data science across
-  last_post_date: "2024-07-22T00:00:00-08:00"
-  last_post_link: https://talkpython.fm/episodes/show/471/learning-and-teaching-pandas
+    Seth on Mastodon: @sethmlarson@fosstodon.org
+    Seth on Twitter: @sethmlarson
+    Seth on Github: github.com
+
+    The Python Language Summit 2024: blogspot.com
+    PEP 2026: Calendar versioning for Python: github
+  last_post_date: "2024-08-24T00:00:00-08:00"
+  last_post_link: https://talkpython.fm/episodes/show/475/python-language-summit-2024
   last_post_categories:
   - Technology
   last_post_language: ""
-  last_post_guid: 4fb3a48a083ab25d38632b826a63356e
+  last_post_guid: 71c86523727e188bc1d4f04b3dae7b37
   score_criteria:
     cats: 1
     description: 3

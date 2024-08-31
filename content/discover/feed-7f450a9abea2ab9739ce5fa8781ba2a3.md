@@ -1,6 +1,6 @@
 ---
 title: FLOSSLinux
-date: "2024-07-23T00:31:56+01:00"
+date: "2024-07-24T01:12:52+01:00"
 description: Random musings about Free/Libre/Open Source Software - and also about
   Linux and the way that the world is, gadgets and trends
 params:

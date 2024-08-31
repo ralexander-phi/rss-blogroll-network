@@ -1,6 +1,6 @@
 ---
 title: Eclipse and Java Blog by Michael Scharf
-date: "2024-07-19T14:34:47+02:00"
+date: "2024-07-25T01:31:50+02:00"
 description: Here I collect interesting links and findings about eclipse and java...
 params:
   feedlink: https://www.blogger.com/feeds/17681521/posts/default

@@ -17,15 +17,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Flexbox Cats (a.k.a fixing images in flexbox)
-  last_post_description: In my previous post I discussed my most recent contributions
-    to flexbox code in WebKit mainly targeted at reducing the number of interoperability
-    issues among the most popular browsers. The ultimate
-  last_post_date: "2021-01-20T10:45:48Z"
-  last_post_link: https://blogs.igalia.com/svillar/2021/01/20/flexbox-cats-a-k-a-fixing-images-in-flexbox/
+  last_post_title: 'A New Way to Browse: Eye Tracking Comes to Wolvic!'
+  last_post_description: We’re thrilled to share some exciting news with you. Wolvic
+    is about to transform how you interact with the web in a VR environment with the
+    introduction of eye tracking support! Starting with the
+  last_post_date: "2024-08-26T07:07:07+01:00"
+  last_post_link: https://blogs.igalia.com/svillar/post/wolvic-eye-tracking/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 9b840dbdcaf65072b1b4b66c701734ed
+  last_post_guid: d1ed2f6afda7445a27a3dd63c6cc404e
   score_criteria:
     cats: 0
     description: 3

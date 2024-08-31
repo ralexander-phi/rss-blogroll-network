@@ -40,8 +40,7 @@ params:
   - https://thejollyteapot.com/feed.rss
   - https://www.eddiedale.com/blog-feed
   - https://www.lkhrs.com/blog/index.xml
-  - https://baty.net/feed
-  - https://btxx.org/index.atom
+  - https://baty.net/index.xml
   - https://chriscoyier.net/feed/
   - https://email-is-good.com/comments/feed/
   - https://email-is-good.com/feed/
@@ -70,16 +69,15 @@ params:
     https://fosstodon.org/@kev: true
     https://github.com/kevquirk: true
     https://kevquirk.com/: true
-    https://social.lol/@kevquirk: true
-  last_post_title: Everybody's Free (To Write Websites)
-  last_post_description: "Everybody's Free (To Write Websites)\n              by Sara
-    JoyA parody of the \"Wear Sunscreen\" thing from the late 90s. This is just fabulous.\n
-    \             Read Post →\n            \n          \n    "
-  last_post_date: "2024-07-17T21:10:00+01:00"
-  last_post_link: https://kevquirk.com/blog/everybody-s-free-to-write-websites
+  last_post_title: The Blackest Heart
+  last_post_description: "✍️ Written by: Brian Lee Durfee\n                  \U0001F3F7
+    Genre: Fantasy\n                  \U0001F5D3 Published: 01 September 2007\n                  \U0001F4C4
+    Pages: 911\n                  \U0001F9D0 My rating:"
+  last_post_date: "2024-08-28T08:50:00+01:00"
+  last_post_link: https://kevquirk.com/blog/the-blackest-heart
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 4efe9e627c4e8fd07d4b553f30b6508c
+  last_post_guid: 59df4a419dc22c9aa19a05984c14384b
   score_criteria:
     cats: 0
     description: 3

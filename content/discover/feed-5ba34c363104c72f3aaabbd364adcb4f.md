@@ -21,19 +21,19 @@ params:
   - https://johnjohnston.info/blog/feed/
   categories:
   - Raspberry Pi 5
-  - Raspberry Pi M.2 HAT+
+  - Raspberry Pi AI Kit
   relme: {}
-  last_post_title: Using the M.2 HAT+ with Raspberry Pi 5
+  last_post_title: How to set up the Raspberry Pi AI Kit with Raspberry Pi 5
   last_post_description: |-
-    Raspberry Pi M.2 HAT+ M Key enables you to connect M.2 peripherals such as NVMe drives and other PCIe accessories to Raspberry Pi 5’s PCIe interface.
-    The post Using the M.2 HAT+ with Raspberry
-  last_post_date: "2024-07-22T09:06:57Z"
-  last_post_link: https://www.raspberrypi.com/news/using-m-2-hat-with-raspberry-pi-5/
+    Learn how to run rpicam-apps camera demos using the Hailo AI neural network accelerator.
+    The post How to set up the Raspberry Pi AI Kit with Raspberry Pi 5 appeared first on Raspberry Pi.
+  last_post_date: "2024-08-30T08:21:21Z"
+  last_post_link: https://www.raspberrypi.com/news/how-to-set-up-the-raspberry-pi-ai-kit-with-raspberry-pi-5/
   last_post_categories:
   - Raspberry Pi 5
-  - Raspberry Pi M.2 HAT+
+  - Raspberry Pi AI Kit
   last_post_language: ""
-  last_post_guid: 86ad6bd5c5eb1a6bce102ff67679b72c
+  last_post_guid: 6d0e7aa4a1ce56aa0691cd401a4bd3f6
   score_criteria:
     cats: 0
     description: 3

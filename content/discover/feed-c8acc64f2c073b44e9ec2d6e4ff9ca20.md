@@ -1,6 +1,6 @@
 ---
 title: Andy Bell
-date: "2024-02-14T13:21:31Z"
+date: "2024-08-27T13:11:36Z"
 description: ""
 params:
   feedlink: https://andy-bell.co.uk/feed.xml
@@ -18,13 +18,13 @@ params:
   - https://chrisburnell.com/feed.xml
   categories: []
   relme: {}
-  last_post_title: 14 ways to supercharge your workflow with AI
+  last_post_title: Just use fucking paper, man
   last_post_description: ""
-  last_post_date: "2024-02-14T13:21:31Z"
-  last_post_link: https://andy-bell.co.uk/14-ways-to-supercharge-your-workflow-with-ai
+  last_post_date: "2024-08-27T13:11:36Z"
+  last_post_link: https://andy-bell.co.uk/just-fucking-use-paper-man
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 273a6454138b3da6506311caa3da828a
+  last_post_guid: d1585876808fa36bd0c72d152a97f126
   score_criteria:
     cats: 0
     description: 0

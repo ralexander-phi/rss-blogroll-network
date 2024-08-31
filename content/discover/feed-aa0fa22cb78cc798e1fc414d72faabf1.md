@@ -1,6 +1,6 @@
 ---
 title: Nicholas Bate
-date: "2024-07-22T08:25:56+01:00"
+date: "2024-08-30T06:59:39+01:00"
 description: Business of Life + Life of Business
 params:
   feedlink: https://feeds.feedburner.com/NicholasBate
@@ -17,13 +17,15 @@ params:
   - https://frankmcpherson.blog/feed.xml
   categories: []
   relme: {}
-  last_post_title: Believe in Aliens
-  last_post_description: They released PPT & e-mail to crush and destroy Planet Earth.
-  last_post_date: "2024-07-22T08:25:56+01:00"
-  last_post_link: https://blog.strategicedge.co.uk/2024/07/believe-in-aliens.html
+  last_post_title: On Writing, 118
+  last_post_description: Write every day. Write fast. Write when you do want to. Write
+    when you don't want to. Write a lot. Edit a lot. From quantity produce beautiful
+    quality. Write anyplace. Write from keyboard. Write with
+  last_post_date: "2024-08-30T07:28:56+01:00"
+  last_post_link: https://blog.strategicedge.co.uk/2024/08/on-writing--1.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 7bbeb4963330afcb5bf1f2a32b4e9595
+  last_post_guid: 9d2c069f3abf29bc695f257055ed79da
   score_criteria:
     cats: 0
     description: 3

@@ -8,6 +8,7 @@ params:
   feedid: a4e7039ec9d4c6e8bb179bdf924e4eb8
   websites:
     https://neteler.org/: false
+    https://neteler.org/markus-neteler-consulting/: true
   blogrolls: []
   in_blogrolls:
   - title: Planet OSGeo
@@ -49,8 +50,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 1
-  score: 16
+    website: 2
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true

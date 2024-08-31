@@ -1,6 +1,6 @@
 ---
 title: Star Shaped
-date: "2024-01-02T00:00:00Z"
+date: "2024-07-23T00:00:00Z"
 description: A blog about web development, knitting, and other assorted things.
 params:
   feedlink: https://www.star-shaped.org/feed.xml
@@ -17,13 +17,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 2023 year in review
+  last_post_title: Back to blogging
   last_post_description: ""
-  last_post_date: "2024-01-02T00:00:00Z"
-  last_post_link: https://www.star-shaped.org/2023-year-in-review/
+  last_post_date: "2024-07-23T00:00:00Z"
+  last_post_link: https://www.star-shaped.org/back-to-blogging/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 69b1f31415a0fd735dbda1ff414c9f94
+  last_post_guid: 1d4a0c681448225203fa63a69ac1aa2b
   score_criteria:
     cats: 0
     description: 3

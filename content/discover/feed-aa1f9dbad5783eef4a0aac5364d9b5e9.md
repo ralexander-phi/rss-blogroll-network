@@ -173,7 +173,7 @@ params:
   - https://www.buttersafe.com/feed/atom/
   - https://colinwalker.blog/dailyfeed.xml
   - https://cosmicqbit.dev/blog/index.xml
-  - https://derekkedziora.com/feed/essays.xml
+  - https://degruchy.org/comments/feed/
   - https://distributed.blog/comments/feed/
   - https://distributed.blog/feed/
   - https://drikkes.com/?feed=comments-rss2
@@ -239,12 +239,12 @@ params:
   - https://www.nathalielawhead.com/candybox/comments/feed
   - https://www.optipess.com/comments/feed/
   - https://www.optipess.com/feed/
+  - https://polyamorousmisanthrope.com/wordpress/comments/feed/
   - https://www.schneier.com/comments/feed/
   - https://www.schneier.com/feed/
   - https://www.zylstra.org/blog/comments/feed/
   - https://xkcd.com/atom.xml
   - https://youdo.blog/comments/feed/
-  - https://www.zinzolin.fr/comments/feed/
   - https://www.zinzolin.fr/feed/
   recommender: []
   categories: []
@@ -258,16 +258,18 @@ params:
     https://keybase.io/dq: true
     https://m.danq.me/@blog: true
     https://m.danq.me/@dan: true
-  last_post_title: 'Comment on [Article] RSS Club: Draw Me A Comment! [RSS Exclusive!]
-    by Chris'
+  last_post_title: Comment on [Article] Roll Your Own Antispam by Dan Q
   last_post_description: |-
-    Q23DRW:24116:#067587#b70934:1722530726:80c378dbba12d4047501dd66eed1551fb4306926387f434b0b7c30b3e372dbec:
-    P0 P0 M157.5,131.7 L165.3,160 L171.9,186.2 L173.7,195.8 L176.4,211.4 L177.4,219.5 L177.4,219.2
-  last_post_date: "2024-08-01T17:47:03+01:00"
-  last_post_link: https://danq.me/2024/08/01/rss-club-draw-me-a-comment/#comment-252693
+    In reply to <a href="https://danq.me/2024/08/29/roll-your-own-antispam/#comment-254080">Spencer</a>.
+
+    Yup! That's the honeypot I hinted at!
+
+    Turns out spammers these days are mostly wise to that
+  last_post_date: "2024-08-29T18:47:18+01:00"
+  last_post_link: https://danq.me/2024/08/29/roll-your-own-antispam/#comment-254082
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 281d7943271975622c6c4724cfff090c
+  last_post_guid: f88f2155462dd2173a7cd46c0a638323
   score_criteria:
     cats: 0
     description: 3

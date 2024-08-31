@@ -1,6 +1,6 @@
 ---
 title: Pavillon rouge et noir
-date: "2024-07-18T11:41:16+02:00"
+date: "2024-08-28T14:00:21+02:00"
 description: Pavillon rouge et noir, le blog de Pablo Rauzy
 params:
   feedlink: https://p4bl0.net/feed/rss2
@@ -16,35 +16,33 @@ params:
   recommended: []
   recommender: []
   categories:
-  - librisme
-  - vidéo
+  - réseau
   relme:
     https://mamot.fr/@p4bl0: true
     https://p4bl0.net/: true
     https://pablo.plus/: true
     https://pablockchain.fr/: true
-  last_post_title: Si c'est “gratuit”, c'est toi qui produis à Pas Sage En Seine 2024
-  last_post_description: L'enregistrement vidéo de la conférence Si c'est “gratuit”,
-    c'est toi qui produis que j'ai donnée lors du festival Pas Sage En Seine 2024
-    le dimanche 2 juin a été mise en ligne sur PeerTube,
-  last_post_date: "2024-07-17T13:12:00+02:00"
-  last_post_link: https://p4bl0.net/post/2024/06/Si-c-est-gratuit-c-est-toi-qui-produis-a-Pas-Sage-En-Seine-2024
+  last_post_title: Telegram n'est pas une messagerie sécurisée
+  last_post_description: Depuis l'arrestation du PDG de Telegram ce samedi 24 août,
+    les médias qui en parlent qualifient systématiquement Telegram de “messagerie
+    cryptée”. C'est complètement faux, Telegram n'est pas
+  last_post_date: "2024-08-26T17:35:00+02:00"
+  last_post_link: https://p4bl0.net/post/2024/08/Telegram-n-est-pas-une-messagerie-securisee
   last_post_categories:
-  - librisme
-  - vidéo
+  - réseau
   last_post_language: ""
-  last_post_guid: b4e49983d7fab2fdb111c0a2b98bd6b1
+  last_post_guid: 9ee891975bb9114a0839157a32005510
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
-    postcats: 2
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 18
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true

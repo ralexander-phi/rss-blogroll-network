@@ -16,28 +16,28 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: All The Data Facebook Collects - And How To Stop It
-  last_post_description: |-
-    Facebook has positioned itself as an internet cornerstone. From humble beginnings, the tech giant has become a major data predator.
-    Let's take a look at what kinds of information Facebook is
-  last_post_date: "2024-01-24T00:00:00Z"
-  last_post_link: https://tuta.com/blog/what-does-facebook-know-about-me
+  last_post_title: Why we need an open European search index.
+  last_post_description: Search engines are the gatekeepers of the spread of information.
+    If search results are controlled by a few Big Tech companies like Google, Microsoft,
+    and Yahoo we need open alternatives that are not
+  last_post_date: "2024-08-28T00:00:00Z"
+  last_post_link: https://tuta.com/blog/what-is-search-indexing
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: d96aa55ef73ff9e43b1a937f23f82d43
+  last_post_guid: eba2fab1f3b6a4b55db23a2439ebfbe3
   score_criteria:
     cats: 0
     description: 3
-    feedlangs: 0
+    feedlangs: 1
     postcats: 0
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 11
+  score: 12
   ispodcast: false
   isnoarchive: false
   innetwork: true
-  language: ""
+  language: en
 ---

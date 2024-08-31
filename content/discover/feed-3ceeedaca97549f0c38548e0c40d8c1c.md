@@ -18,18 +18,15 @@ params:
   categories: []
   relme:
     https://www.djangoproject.com/weblog/: true
-  last_post_title: 'Django security releases issued: 5.0.7 and 4.2.14'
-  last_post_description: |-
-    In accordance with our security release policy, the Django team
-    is issuing releases for
-    Django 5.0.7 and
-    Django 4.2.14.
-    These releases address the security issues detailed below. We encourage
-  last_post_date: "2024-07-09T09:00:00-05:00"
-  last_post_link: https://www.djangoproject.com/weblog/2024/jul/09/security-releases/
+  last_post_title: Could you host DjangoCon Europe 2026? Call for organizers
+  last_post_description: We are looking for the next group of organizers to own and
+    lead the 2026 DjangoCon Europe conference. Could your town - or your football
+    stadium, circus tent, private island or city hall - host this
+  last_post_date: "2024-08-28T07:59:23-05:00"
+  last_post_link: https://www.djangoproject.com/weblog/2024/aug/28/could-you-host-djangocon-europe-2026-cfp/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 4661df942305c28919bb992370ba78f4
+  last_post_guid: b2df2d66130d422527bb091055b0a11c
   score_criteria:
     cats: 0
     description: 3

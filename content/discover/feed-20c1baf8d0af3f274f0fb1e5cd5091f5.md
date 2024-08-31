@@ -8,6 +8,7 @@ params:
   feedid: 20c1baf8d0af3f274f0fb1e5cd5091f5
   websites:
     https://blogs.igalia.com/jkim: true
+    https://blogs.igalia.com/jkim/: false
   blogrolls: []
   in_blogrolls:
   - title: Planet Igalia

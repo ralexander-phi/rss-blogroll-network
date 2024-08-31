@@ -145,15 +145,15 @@ params:
   - yield
   relme:
     https://pyright.blogspot.com/: true
-  last_post_title: Graphviz - Editing a DAG Hamilton Graph dot File
-  last_post_description: companylogo [label="" image="fauxcompanylogo.png" shape="box",
-    width=5.10 height=0.6 fixedsize=true]The DAG Hamilton logo listed first appears
-    to end up in the upper left part of the diagram most of
-  last_post_date: "2024-07-06T01:10:00Z"
-  last_post_link: https://pyright.blogspot.com/2024/07/graphviz-editing-dag-hamilton-graph-dot.html
+  last_post_title: Embedding an SVG in a graphviz Generated SVG and More DAG Hamilton
+  last_post_description: Wow, it looks like you just collected every piece of information
+    you could about all the dimensions and smashed it all together in the final SVG
+    document at the end.Yes.Hey, why is that one node just
+  last_post_date: "2024-08-10T01:39:00Z"
+  last_post_link: https://pyright.blogspot.com/2024/08/embedding-svg-in-graphviz-generated-svg.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 34a5084412fe66d086ed10831a2568d8
+  last_post_guid: 7e163a2c783b5ecb21ba3af43d3a5914
   score_criteria:
     cats: 5
     description: 3

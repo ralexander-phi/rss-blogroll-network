@@ -1,6 +1,6 @@
 ---
 title: another day another vice another roll of the dice
-date: "2024-07-15T15:29:42-07:00"
+date: "2024-08-28T09:42:47-07:00"
 description: hacks, diffs and problems
 params:
   feedlink: https://techtonik.rainforce.org/feeds/posts/default/-/python

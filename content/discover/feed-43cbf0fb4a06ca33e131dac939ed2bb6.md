@@ -20,19 +20,19 @@ params:
   categories:
   - Arts
   relme: {}
-  last_post_title: Political Football
-  last_post_description: In the strangeness of mid-summer 2024, the cosmopolitan novelist
-    Joseph O’Neill is our bridge between the Republican convention in Milwaukee and
-    the Summer Olympics in Paris. He knows both sides of
-  last_post_date: "2024-07-18T20:33:44Z"
-  last_post_link: https://radioopensource.org/political-football/
+  last_post_title: The Harris Machine
+  last_post_description: 'There’s a puzzle in this podcast, and it comes with our
+    prize sociologist, Tressie McMillan Cottom. It’s roughly this: How does Kamala
+    Harris, after the Democratic convention in Chicago and for'
+  last_post_date: "2024-08-29T21:19:16Z"
+  last_post_link: https://radioopensource.org/the-harris-machine/
   last_post_categories:
   - Aired
   - Podcast
   - Shows
   - This Week
   last_post_language: ""
-  last_post_guid: 06507ce6a38825103d0da05fe06644c2
+  last_post_guid: 47bc1c20f32bfef87af2a4bcb30ed7df
   score_criteria:
     cats: 1
     description: 3

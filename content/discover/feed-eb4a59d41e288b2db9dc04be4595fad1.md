@@ -21,34 +21,31 @@ params:
   - http://scripting.com/rssNightly.xml
   categories:
   - News
-  - Tesla
-  - electric trucks
-  - kia
   relme: {}
-  last_post_title: Elon delays Optimus, Hyundai gets nervous, and a REAL work truck
-  last_post_description: On today’s episode of Quick Charge, the Cybertruck gets homolgated
-    in Canada, Elon delays the Optimus robot for up to a full year, Hyundai’s feeling
-    skittish about a possible victory for Donald
-  last_post_date: "2024-07-23T00:05:57Z"
-  last_post_link: https://electrek.co/2024/07/22/elon-delays-optimus-hyundai-gets-nervous-and-a-real-work-truck/
+  last_post_title: BYD’s bold move in Germany could spell big trouble for Volkswagen
+  last_post_description: |-
+    China’s leading EV maker, BYD, is making big moves to gain a foothold in Europe. BYD’s latest deal could spell big trouble for Volkswagen in Germany.
+
+
+
+     more…
+  last_post_date: "2024-08-30T14:41:39Z"
+  last_post_link: https://electrek.co/2024/08/30/byds-bold-move-germany-could-spell-big-trouble-volkswagen/
   last_post_categories:
   - News
-  - Tesla
-  - electric trucks
-  - kia
   last_post_language: ""
-  last_post_guid: 730f82003954362dabc58e61368bd8f7
+  last_post_guid: bb97d78a21bbbf057ca00a46ab8a1690
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
-    postcats: 3
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 17
+  score: 15
   ispodcast: false
   isnoarchive: false
   innetwork: true

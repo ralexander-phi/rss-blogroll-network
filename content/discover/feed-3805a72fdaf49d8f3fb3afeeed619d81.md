@@ -1,6 +1,6 @@
 ---
 title: DFW Pythoneers
-date: "2024-03-21T04:50:32-07:00"
+date: "2024-08-28T06:12:19-07:00"
 description: A Python user group active in the Dallas-Fort Worth area since 2004.
 params:
   feedlink: https://dfwpython.blogspot.com/feeds/posts/default

@@ -19,31 +19,37 @@ params:
   - https://takeonrules.com/site-map/updates/index.xml
   - https://takeonrules.com/tags/emacs/index.xml
   categories:
-  - Rules
-  - advancement
+  - Cosmere
+  - Dark Souls
+  - Words
+  - underworld
+  - video game
   relme: {}
-  last_post_title: XP Potential as Inverse Encumbrance
-  last_post_description: Back in March, prompted by a discussion on Discord, I was
-    perusing Jon Peterson’s Playing at the World to see if there was any discussion
-    of rerolling HP on level up. Sadly, I was unable to locate
-  last_post_date: "2024-06-21T22:18:02Z"
-  last_post_link: https://www.necropraxis.com/2024/06/21/xp-potential-as-inverse-encumbrance/
+  last_post_title: Anor Londo of the Cosmere
+  last_post_description: I just recently finished my second reading of Elantris; I
+    first read it last year during Summer of 2023. I came late to Sanderson, being
+    repelled by the “hard fantasy” reputation, finally
+  last_post_date: "2024-08-03T17:24:34Z"
+  last_post_link: https://www.necropraxis.com/2024/08/03/anor-londo-of-the-cosmere/
   last_post_categories:
-  - Rules
-  - advancement
+  - Cosmere
+  - Dark Souls
+  - Words
+  - underworld
+  - video game
   last_post_language: ""
-  last_post_guid: 91f942862f06098a96a413f3bab77d59
+  last_post_guid: 93b054e0110dbcad27a3960ed1fc86a3
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
-    postcats: 2
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 16
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true

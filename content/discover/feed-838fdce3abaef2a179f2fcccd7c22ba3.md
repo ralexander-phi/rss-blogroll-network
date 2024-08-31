@@ -10,7 +10,7 @@ params:
   feedtype: rss
   feedid: 838fdce3abaef2a179f2fcccd7c22ba3
   websites:
-    https://buttondown.email/ownyourweb: true
+    https://buttondown.email/ownyourweb: false
   blogrolls: []
   in_blogrolls:
   - title: Colin Walker's readroll
@@ -19,9 +19,6 @@ params:
   - title: Miniflux
     description: ""
     id: fda84502db7085febafcd07db448a7b5
-  - title: Kev Quirk's Blogroll
-    description: ""
-    id: af94d85e509bec272bc4314eb947a67d
   - title: Kev Quirk's Blogroll
     description: ""
     id: d3c6398765901e01429e7ceffd5164f1
@@ -38,22 +35,23 @@ params:
   - https://kevq.uk/feed/
   - https://kevq.uk/home.rss
   - https://kevquirk.com/feed
+  - https://kevquirk.com/feed/
   - https://kevquirk.com/notes-feed
   - https://marisabel.nl/feeds/blog.php
+  - https://marisabel.nl/feeds/combined.php
   - https://marisabel.nl/feeds/tech-blog.php
   - https://marisabel.nl/rss.php
   categories: []
-  relme:
-    https://buttondown.email/ownyourweb: true
-  last_post_title: 'Own Your Web – Issue 14: Webmentions'
-  last_post_description: "Hi All! \U0001F917\nImagine, just for a second, a future
-    in which we all have our own websites and that those sites are at the center of
-    everything we do and create online. Wouldn’t it be amazing to be"
-  last_post_date: "2024-04-29T23:48:03Z"
-  last_post_link: https://buttondown.email/ownyourweb/archive/issue-14/
+  relme: {}
+  last_post_title: 'Own Your Web – Issue 15: Home Sweet Home'
+  last_post_description: "Hi All! \U0001F917\nLet’s talk about the first thing many
+    of your visitors will see and thus one of the most important places on any personal
+    website: the home page. “The home” is where you leave a"
+  last_post_date: "2024-08-04T18:38:19Z"
+  last_post_link: https://buttondown.com/ownyourweb/archive/issue-15/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 32456807da746a9c5a052467153a94ae
+  last_post_guid: 4d1006c303e3bb71961a4603624866ab
   score_criteria:
     cats: 0
     description: 3
@@ -61,10 +59,10 @@ params:
     postcats: 0
     promoted: 5
     promotes: 0
-    relme: 2
+    relme: 0
     title: 3
-    website: 2
-  score: 16
+    website: 1
+  score: 13
   ispodcast: false
   isnoarchive: false
   innetwork: true

@@ -11,9 +11,6 @@ params:
   in_blogrolls:
   - title: Thoughts of the FSFE Community (English)
     description: ""
-    id: 271938bec31271627e1dea6fefe264bb
-  - title: Thoughts of the FSFE Community (English)
-    description: ""
     id: ec5620188ea145cd15cff0d5719ab8d8
   recommended: []
   recommender: []
@@ -24,12 +21,12 @@ params:
   - Unix
   - operating systems
   relme: {}
-  last_post_title: Reconsidering Classic Programming Interfaces
-  last_post_description: Since my last update, I have been able to spend some time
-    gradually broadening and hopefully improving the support for classic programming
-    interfaces in my L4Re-based experiments, centred around a
-  last_post_date: "2024-06-03T22:59:25Z"
-  last_post_link: https://blogs.fsfe.org/pboddie/?p=2830
+  last_post_title: Reformulating the Operating System
+  last_post_description: As noted previously, two of my interests in recent times
+    have been computing history and microkernel-based operating systems. Having perused
+    academic and commercial literature in the computing field
+  last_post_date: "2024-07-27T16:43:13Z"
+  last_post_link: https://blogs.fsfe.org/pboddie/?p=2760
   last_post_categories:
   - English
   - Free Software
@@ -37,7 +34,7 @@ params:
   - Unix
   - operating systems
   last_post_language: ""
-  last_post_guid: 33e74463917893248986dae6251eeb29
+  last_post_guid: e0ab531cb6ed9dad5f08be81f516608f
   score_criteria:
     cats: 0
     description: 3

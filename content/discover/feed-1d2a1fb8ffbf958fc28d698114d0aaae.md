@@ -22,12 +22,7 @@ params:
   categories:
   - Gygax 75 Challenge
   relme:
-    https://jellysawgames.blogspot.com/: true
     https://plundergrounds.blogspot.com/: true
-    https://radiorevival.blogspot.com/: true
-    https://raysreading.blogspot.com/: true
-    https://viridianscroll.blogspot.com/: true
-    https://www.blogger.com/profile/18398394072713660199: true
   last_post_title: 164 Revisiting Logic in Fantasy
   last_post_description: ""
   last_post_date: "2020-12-16T07:54:49-08:00"

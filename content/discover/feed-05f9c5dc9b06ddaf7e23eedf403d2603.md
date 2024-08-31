@@ -8,11 +8,9 @@ params:
   feedid: 05f9c5dc9b06ddaf7e23eedf403d2603
   websites:
     https://blogs.fsfe.org/tonnerre: true
+    https://blogs.fsfe.org/tonnerre/: false
   blogrolls: []
   in_blogrolls:
-  - title: Thoughts of the FSFE Community (English)
-    description: ""
-    id: 271938bec31271627e1dea6fefe264bb
   - title: Thoughts of the FSFE Community (English)
     description: ""
     id: ec5620188ea145cd15cff0d5719ab8d8

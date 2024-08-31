@@ -1,6 +1,6 @@
 ---
 title: Jani's Blog
-date: "2024-03-20T00:00:00Z"
+date: "2024-08-28T00:00:00Z"
 description: Jani's blog.
 params:
   feedlink: https://blogs.igalia.com/jani/feed/feed.xml
@@ -16,13 +16,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Bringing WebKit back to Android.
+  last_post_title: 'Bringing WebKit back to Android: Progress and Perspectives'
   last_post_description: ""
-  last_post_date: "2024-03-20T00:00:00Z"
-  last_post_link: https://blogs.igalia.com/jani/bringing-webkit-back-to-android/
+  last_post_date: "2024-08-28T00:00:00Z"
+  last_post_link: https://blogs.igalia.com/jani/bringing-webkit-back-to-android-progress-and-perspectives/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 834105bfdca51d40a23461e50a670857
+  last_post_guid: a4a115fb5a5dd2145a880aa54b05ce95
   score_criteria:
     cats: 0
     description: 3

@@ -20,21 +20,20 @@ params:
   categories:
   - Block Themes
   - Gutenberg
-  - Site Editor
+  - WooCommerce
   relme: {}
-  last_post_title: 'Gutenberg Changelog #104 – Block Themes, Gutenberg 18.8, WordPress
-    6.6'
-  last_post_description: 'In this episode, Carolina Nymark and Birgit Pauli-Haack
-    discuss Block Themes, Gutenberg 18.8, WordPress 6.6 and more. Show Notes / Transcript
-    Show Notes Special Guest: Carolina Nymark WordPress'
-  last_post_date: "2024-07-21T09:44:13Z"
-  last_post_link: https://gutenbergtimes.com/podcast/gutenberg-changelog-104-block-themes-gutenberg-18-8/
+  last_post_title: 'Gutenberg Changelog #105 – Gutenberg 18.9, Block Themes and WooCommerce'
+  last_post_description: 'Ellen Bauer and Birgit Pauli-Haack discuss Gutenberg 18.9,
+    Block Themes, WooCommerce and more. Show Notes / Transcript Show Notes Special
+    Guest: Ellen Bauer Learn.WordPress Upcoming Events Developer'
+  last_post_date: "2024-08-04T06:28:37Z"
+  last_post_link: https://gutenbergtimes.com/podcast/gutenberg-changelog-105-gutenberg-18-9-block-themes-and-woocommerce/
   last_post_categories:
   - Block Themes
   - Gutenberg
-  - Site Editor
+  - WooCommerce
   last_post_language: ""
-  last_post_guid: 35095a5f99b2acfbfb66f76fff017790
+  last_post_guid: 80d26da8e006734a1c31508fd7d56e5a
   score_criteria:
     cats: 0
     description: 3

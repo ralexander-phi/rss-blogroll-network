@@ -1,6 +1,6 @@
 ---
 title: Olivier's Eclipse Blog
-date: "2024-02-18T23:45:52-05:00"
+date: "2024-08-29T00:34:37-04:00"
 description: Opinions of a JDT/Core committer
 params:
   feedlink: https://www.blogger.com/feeds/8100450921822056061/posts/default

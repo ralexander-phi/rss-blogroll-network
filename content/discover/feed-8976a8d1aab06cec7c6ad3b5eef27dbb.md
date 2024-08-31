@@ -18,39 +18,33 @@ params:
   - Debian
   - Development
   - English
-  - FLOSS
   - Freedesktop
   - GNOME
-  - General
   - KDE
   - Linux
   - OpenSUSE
   - Ubuntu
-  - linux
-  - wayland
+  - freedesktop
   relme: {}
-  last_post_title: Wayland really breaks things… Just for now?
-  last_post_description: This post is in part a response to an aspect of Nate’s post
-    “Does Wayland really break everything?“, but also my reflection on discussing
-    Wayland protocol additions, a unique pleasure that I
-  last_post_date: "2024-01-11T16:24:00Z"
-  last_post_link: https://blog.tenstral.net/2024/01/wayland-really-breaks-things-just-for-now.html
+  last_post_title: Freedesktop Specs Website Update
+  last_post_description: The Freedesktop.org Specifications directory contains a list
+    of common specifications that have accumulated over the decades and define how
+    common desktop environment functionality works. The
+  last_post_date: "2024-08-04T18:54:37Z"
+  last_post_link: https://blog.tenstral.net/2024/08/freedesktop-specs-website-update.html
   last_post_categories:
   - Debian
   - Development
   - English
-  - FLOSS
   - Freedesktop
   - GNOME
-  - General
   - KDE
   - Linux
   - OpenSUSE
   - Ubuntu
-  - linux
-  - wayland
+  - freedesktop
   last_post_language: ""
-  last_post_guid: 76661d7705835ec29a77c28797e5b341
+  last_post_guid: 7048d3a6973ebb95e40d9c21b451f0a9
   score_criteria:
     cats: 0
     description: 3

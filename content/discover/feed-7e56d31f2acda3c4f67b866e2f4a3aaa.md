@@ -1,6 +1,6 @@
 ---
 title: Security.NL maakt Nederland veilig
-date: "2024-07-23T02:30:01+02:00"
+date: "2024-08-30T17:00:01+02:00"
 description: Security.NL maakt Nederland veilig
 params:
   feedlink: https://www.security.nl/rss/headlines.xml
@@ -18,14 +18,14 @@ params:
   - https://hacdias.com/feed.xml
   categories: []
   relme: {}
-  last_post_title: '''Cellebrite kan data van up-to-date vergrendelde iPhones halen'''
-  last_post_description: De nieuwste software van forensisch bedrijf Cellebrite kan
-    data van up-to-date vergrendelde iPhones halen, zo blijkt uit nieuwe ...
-  last_post_date: "2024-07-22T15:17:00+02:00"
-  last_post_link: https://www.security.nl/posting/851051/%27Cellebrite+kan+data+van+up-to-date+vergrendelde+iPhones+halen%27?channel=rss
+  last_post_title: 'FBI: honderden organisaties getroffen door RansomHub-ransomware'
+  last_post_description: Sinds begin van dit jaar zijn honderden organisaties getroffen
+    door de RansomHub-ransomware, waaronder organisaties in de ...
+  last_post_date: "2024-08-30T15:03:00+02:00"
+  last_post_link: https://www.security.nl/posting/855913/FBI%3A+honderden+organisaties+getroffen+door+RansomHub-ransomware?channel=rss
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: ac2a5628f0ae8f6e0deaaa83b03a7ad8
+  last_post_guid: 3807a150949e23c38a954afa4aa3b4f5
   score_criteria:
     cats: 0
     description: 3

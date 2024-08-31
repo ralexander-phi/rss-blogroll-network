@@ -1,6 +1,6 @@
 ---
 title: Home Assistant
-date: "2024-07-22T15:34:23Z"
+date: "2024-08-30T13:14:02Z"
 description: ""
 params:
   feedlink: https://www.home-assistant.io/atom.xml
@@ -20,13 +20,14 @@ params:
   - https://jlelse.blog/index.xml
   categories: []
   relme: {}
-  last_post_title: '2024.7: Time to resize your cards!'
+  last_post_title: HACS 2.0 - The best way to share community-made projects just got
+    better
   last_post_description: ""
-  last_post_date: "2024-07-03T00:00:00Z"
-  last_post_link: https://www.home-assistant.io/blog/2024/07/03/release-20247/
+  last_post_date: "2024-08-21T00:00:01Z"
+  last_post_link: https://www.home-assistant.io/blog/2024/08/21/hacs-the-best-way-to-share-community-made-projects/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 38250e94928569d822e91f9bdbf319df
+  last_post_guid: efce15e619e62bc59721f5a1ecabd3ba
   score_criteria:
     cats: 0
     description: 0

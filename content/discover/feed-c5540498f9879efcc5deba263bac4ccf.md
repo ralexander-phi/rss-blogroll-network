@@ -15,16 +15,17 @@ params:
   recommended: []
   recommender:
   - https://marisabel.nl/feeds/blog.php
+  - https://marisabel.nl/feeds/combined.php
   - https://marisabel.nl/feeds/tech-blog.php
   - https://marisabel.nl/rss.php
   categories: []
   relme: {}
-  last_post_title: The "right" kind of scissors
-  last_post_description: "This is part of IndieWeb Carnival July 2024 on the topic
-    of Tools.\n\t  I'm a lefty. When I was in kindergarten, my teacher there wanted
-    me to use lefty scissors. I refused. Vehemently. Why, I am not"
+  last_post_title: Things I want to do during summer
+  last_post_description: The summer holidays are here and I have plans. So yeah, this
+    is a simple to-do list of big and small things. Maybe posting it to my blog will
+    keep me more accountable. We'll see how that goes...
   last_post_date: "1970-01-01T00:00:00Z"
-  last_post_link: https://theresmiling.neocities.org/blog/2024/07/right-kind-of-scissors.html
+  last_post_link: https://theresmiling.neocities.org/blog/2024/07/summer-list.html
   last_post_categories: []
   last_post_language: ""
   last_post_guid: 71858bc7d950fbd80d9eaf066aa29460

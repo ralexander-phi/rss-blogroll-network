@@ -8,6 +8,7 @@ params:
   feedid: 3514008fedacbe72fdfde9b7c4e3f268
   websites:
     https://blogs.igalia.com/gpiccoli: true
+    https://blogs.igalia.com/gpiccoli/: false
   blogrolls: []
   in_blogrolls:
   - title: Planet Igalia

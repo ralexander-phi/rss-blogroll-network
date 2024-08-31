@@ -8,6 +8,7 @@ params:
   feedid: f55ad40ed986ccbf4cb4138da37e3edb
   websites:
     https://blogs.scummvm.org/hax0kartik: true
+    https://blogs.scummvm.org/hax0kartik/: false
   blogrolls: []
   in_blogrolls:
   - title: ScummVM Planet

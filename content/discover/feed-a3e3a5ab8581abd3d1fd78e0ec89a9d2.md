@@ -8,6 +8,7 @@ params:
   feedid: a3e3a5ab8581abd3d1fd78e0ec89a9d2
   websites:
     https://blogs.scummvm.org/krish: true
+    https://blogs.scummvm.org/krish/: false
   blogrolls: []
   in_blogrolls:
   - title: ScummVM Planet

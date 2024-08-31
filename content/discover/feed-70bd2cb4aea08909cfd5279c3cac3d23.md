@@ -19,9 +19,6 @@ params:
     id: 4e2ec23ac536a5d58f2702b4603e3554
   - title: Kev Quirk's Blogroll
     description: ""
-    id: af94d85e509bec272bc4314eb947a67d
-  - title: Kev Quirk's Blogroll
-    description: ""
     id: d3c6398765901e01429e7ceffd5164f1
   recommended: []
   recommender:
@@ -34,6 +31,7 @@ params:
   - https://kevq.uk/feed/
   - https://kevq.uk/home.rss
   - https://kevquirk.com/feed
+  - https://kevquirk.com/feed/
   - https://kevquirk.com/notes-feed
   categories: []
   relme: {}

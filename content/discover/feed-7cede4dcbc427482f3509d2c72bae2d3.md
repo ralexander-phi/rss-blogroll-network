@@ -12,13 +12,7 @@ params:
   in_blogrolls:
   - title: Dan Q's Blogroll
     description: ""
-    id: 7e0e72d6fd1109a16363155b4cda88a8
-  - title: Dan Q's Blogroll
-    description: ""
     id: efa39f8903d9f955318300588291f9c0
-  - title: Dan Q's Blogroll
-    description: ""
-    id: 42e729b4ed4d139b08eaa2f55f3a9b49
   - title: davewiner/blogroll
     description: davewiner's subscription list, blogroll category. List created by
       feedlandDatabase v0.7.55.
@@ -30,24 +24,20 @@ params:
   recommender:
   - http://scripting.com/rss.xml
   - http://scripting.com/rssNightly.xml
-  - https://danq.blog/comments/feed/
-  - https://danq.blog/feed/
   - https://danq.me/comments/feed/
   - https://danq.me/feed/
   - https://danq.me/kind/article/feed/
   - https://danq.me/kind/note/feed/
-  - https://danq.uk/comments/feed/
-  - https://danq.uk/feed/
   - https://hacdias.com/feed.xml
   categories: []
   relme: {}
-  last_post_title: President Venn Diagram
+  last_post_title: Stranded
   last_post_description: ""
-  last_post_date: "2024-07-22T04:00:00Z"
-  last_post_link: https://xkcd.com/2962/
+  last_post_date: "2024-08-28T04:00:00Z"
+  last_post_link: https://xkcd.com/2978/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: df80209b1ebc16833ee2d23411ffea1f
+  last_post_guid: 85b0bc68a4f60e39bd21f70647e31758
   score_criteria:
     cats: 0
     description: 3

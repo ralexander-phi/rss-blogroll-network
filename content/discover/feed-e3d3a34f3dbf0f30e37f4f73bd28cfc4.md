@@ -18,25 +18,21 @@ params:
   categories:
   - PlanetDebian
   relme: {}
-  last_post_title: How about allocating more buildd resource for armel and armhf?
+  last_post_title: apt-upgrade-canary - PoC apt JSON hook use case
   last_post_description: |-
-    This article is cross-posting from grow-your-ideas. This is just an idea.
+    apt-upgrade-canary is a helper program to alert when upgrading
+    packages via apt.
 
-    salsa.debian.org
+    If there are some packages which causes a critical or serious
+    bug, it shows warnings for terminal.
 
-    The problem
-
-    According to Developer Machines [1],
-    current buildd machines are like this:
-
-
-    armel: 4 buildd
-  last_post_date: "2024-03-23T21:15:15+09:00"
-  last_post_link: https://kenhys.hatenablog.jp/entry/2024/03/23/211515
+    Then you can stay
+  last_post_date: "2024-07-24T21:03:47+09:00"
+  last_post_link: https://kenhys.hatenablog.jp/entry/2024/07/24/210347
   last_post_categories:
   - PlanetDebian
   last_post_language: ""
-  last_post_guid: 91032e0c4867d23affe9ca79359796c8
+  last_post_guid: 83a4388589888a8592c21a8d58d1f994
   score_criteria:
     cats: 0
     description: 0

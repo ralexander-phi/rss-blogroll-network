@@ -1,6 +1,6 @@
 ---
 title: I hack, therefore I am
-date: "2024-03-13T04:51:53+02:00"
+date: "2024-08-28T10:41:03+03:00"
 description: ""
 params:
   feedlink: https://blog.ikotler.org/feeds/posts/default

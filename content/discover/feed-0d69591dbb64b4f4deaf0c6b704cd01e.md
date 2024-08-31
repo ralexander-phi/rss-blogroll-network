@@ -1,6 +1,6 @@
 ---
 title: 'Kebe Says: a blog by Dan McD.'
-date: "2024-03-12T22:19:24-04:00"
+date: "2024-08-30T00:46:47-04:00"
 description: Dan McDonald -- illumos engineer and RTI advocate at Joyent.  This blog
   formerly resided on Sun's blog roll as, "End-to-end... and everything in between."
 params:

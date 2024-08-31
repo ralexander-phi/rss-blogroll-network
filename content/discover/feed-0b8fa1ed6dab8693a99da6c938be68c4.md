@@ -1,6 +1,6 @@
 ---
 title: Clearleft | Blog
-date: "2024-07-23T01:20:27+01:00"
+date: "2024-08-30T15:55:05+01:00"
 description: The latest news from Clearleft
 params:
   feedlink: https://clearleft.com/thinking/rss
@@ -17,16 +17,17 @@ params:
   - https://chrisburnell.com/feed.xml
   categories: []
   relme: {}
-  last_post_title: That was UX London 2024
+  last_post_title: 'Service design panel: How employee experience shapes customer
+    outcomes'
   last_post_description: |-
-    UX London 2024 is done …and it was magnificent!
+    It’s a compelling notion that 'behind every great customer experience is a great employee experience'. But does that match reality?
 
-          It’s always weird when an event like this moves from being something in the future to something in the past. I’ve spent the year so far
-  last_post_date: "2024-06-27T09:17:00+01:00"
-  last_post_link: https://clearleft.com/thinking/that-was-ux-london-2024
+          Here at Clearleft we talk a lot about ‘internal service
+  last_post_date: "2024-08-22T13:00:00+01:00"
+  last_post_link: https://clearleft.com/thinking/service-design-panel-discussion-recap
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 24850961126a2ddf754ef7195e2ba940
+  last_post_guid: f501fa1c3677ec15416db8599d532fc6
   score_criteria:
     cats: 0
     description: 3

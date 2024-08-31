@@ -1,6 +1,6 @@
 ---
 title: Happenings in Python Usergroups
-date: "2024-07-04T01:56:05-04:00"
+date: "2024-08-28T13:14:41-04:00"
 description: Here are collected postings from the various Python usergroups around
   the world, giving notice of upcoming events or summaries of meetings just past.
 params:

@@ -1,6 +1,6 @@
 ---
 title: mark.py
-date: "2024-03-08T02:07:01+08:00"
+date: "2024-08-28T02:03:35+08:00"
 description: Things that spring to my mind on pywinauto, betterbatch and other stuff.
 params:
   feedlink: https://pywinauto.blogspot.com/atom.xml

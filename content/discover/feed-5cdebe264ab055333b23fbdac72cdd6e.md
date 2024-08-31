@@ -1,7 +1,7 @@
 ---
-title: Planet FSFE on irl.xyz
+title: Planet FSFE on IRL.XYZ
 date: "1970-01-01T00:00:00Z"
-description: Recent content in Planet FSFE on irl.xyz
+description: Recent content in Planet FSFE on IRL.XYZ
 params:
   feedlink: https://irl.xyz/tags/planet-fsfe/index.xml
   feedtype: rss
@@ -9,9 +9,6 @@ params:
   websites: {}
   blogrolls: []
   in_blogrolls:
-  - title: Thoughts of the FSFE Community (English)
-    description: ""
-    id: 271938bec31271627e1dea6fefe264bb
   - title: Thoughts of the FSFE Community (English)
     description: ""
     id: ec5620188ea145cd15cff0d5719ab8d8

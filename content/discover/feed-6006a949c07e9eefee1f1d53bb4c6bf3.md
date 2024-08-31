@@ -16,31 +16,38 @@ params:
   recommender: []
   categories:
   - emacs
-  - nix
   relme: {}
-  last_post_title: Emacs via Nix with mu4e
+  last_post_title: Removing symlink question
   last_post_description: |-
-    I've been running development versions of Emacs ever since I switched to Wayland
-    and needed the PGTK code. The various X-git packages on AUR makes that easy,
-    as long as one doesn't mind building the
-  last_post_date: "2024-07-21T01:04:00+02:00"
-  last_post_link: https://magnus.therning.org/2024-07-21-emacs-via-nix-with-mu4e.html
+    I'm not sure why, but all of a sudden I started getting this question every time
+    emacs starts
+
+
+
+
+    Symbolic link to Git-controlled source file; follow link?
+
+
+
+
+    After some searching I found out that
+  last_post_date: "2024-08-11T08:41:00+02:00"
+  last_post_link: https://magnus.therning.org/2024-08-11-removing-symlink-question.html
   last_post_categories:
   - emacs
-  - nix
   last_post_language: ""
-  last_post_guid: c962d29a1a7ae469557f88d123dda17d
+  last_post_guid: 253d6df0660ada0b60f0f84bdc8f7e9d
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
-    postcats: 2
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 13
+  score: 12
   ispodcast: false
   isnoarchive: false
   innetwork: true

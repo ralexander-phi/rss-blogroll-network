@@ -25,22 +25,27 @@ params:
   - https://josh.blog/comments/feed
   - https://josh.blog/feed
   categories:
-  - GitHub Security Lab
-  - Security
-  - Vulnerability research
+  - AI
+  - Collaboration
+  - News & insights
+  - Policy
+  - open source
   relme: {}
-  last_post_title: 3 ways to get Remote Code Execution in Kafka UI
-  last_post_description: |-
-    In this blog post, we'll explain how we discovered three critical vulnerabilities in Kafka UI and how they can be exploited.
-    The post 3 ways to get Remote Code Execution in Kafka UI appeared first on
-  last_post_date: "2024-07-22T15:00:59Z"
-  last_post_link: https://github.blog/2024-07-22-3-ways-to-get-remote-code-execution-in-kafka-ui/
+  last_post_title: 2024 is the biggest global election year in history. What’s at
+    stake for developers?
+  last_post_description: GitHub is considering what is at stake for our users and
+    platform, how we can take responsible action to support free and fair elections,
+    and how developers contribute to resilient democratic
+  last_post_date: "2024-08-28T16:57:07Z"
+  last_post_link: https://github.blog/news-insights/policy-news-and-insights/2024-is-the-biggest-global-election-year-in-history-whats-at-stake-for-developers/
   last_post_categories:
-  - GitHub Security Lab
-  - Security
-  - Vulnerability research
+  - AI
+  - Collaboration
+  - News & insights
+  - Policy
+  - open source
   last_post_language: ""
-  last_post_guid: f5f77cf89fe7525719cedfe8e7721b29
+  last_post_guid: a562bb9143f0ba3954333b29adb51176
   score_criteria:
     cats: 0
     description: 3

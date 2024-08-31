@@ -6,7 +6,8 @@ params:
   feedlink: https://datasciencefacile.altervista.org/feed/
   feedtype: rss
   feedid: de33841b6c038acc50547ca0fcccaae6
-  websites: {}
+  websites:
+    https://datasciencefacile.altervista.org/: true
   blogrolls: []
   in_blogrolls:
   - title: ""
@@ -42,8 +43,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 0
-  score: 15
+    website: 2
+  score: 17
   ispodcast: false
   isnoarchive: false
   innetwork: true

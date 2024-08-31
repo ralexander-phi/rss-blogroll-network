@@ -8,6 +8,7 @@ params:
   feedid: 464e9a2f7b0b4d623e9b7add379bcf8f
   websites:
     https://www.fitzsim.org/blog: true
+    https://www.fitzsim.org/blog/: false
   blogrolls: []
   in_blogrolls:
   - title: Planet Classpath

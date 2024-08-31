@@ -1,6 +1,6 @@
 ---
 title: Heisenbugs of a Heisenlife
-date: "2024-02-19T07:36:34-08:00"
+date: "2024-08-28T14:03:37-07:00"
 description: Ramblings of an uncertain being
 params:
   feedlink: https://heisenbugs.blogspot.com/feeds/posts/default/-/FreeDesktop

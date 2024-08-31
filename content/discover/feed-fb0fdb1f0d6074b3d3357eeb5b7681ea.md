@@ -17,19 +17,19 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Meta
+  - Haskell
   relme: {}
-  last_post_title: I nixified my blog
+  last_post_title: 'Haskell Nuggets: k-means'
   last_post_description: |-
-    Happy new year! It’s been a while (almost three years) since my last post.
-    But it’s a new year, a new me – and I just recently started working at a new job writing Haskell where everything
-    is
-  last_post_date: "2023-01-01T21:21:32Z"
-  last_post_link: https://blog.jle.im/entry/i-nixified-my-blog.html
+    AI is hot, so let’s talk about some “classical machine learning” in Haskell
+    with k-means clustering! Let’s throw in some dependent types too.
+    There are a bazillion ways of implementing such a
+  last_post_date: "2024-07-26T19:06:27Z"
+  last_post_link: https://blog.jle.im/entry/haskell-nuggets-kmeans.html
   last_post_categories:
-  - Meta
+  - Haskell
   last_post_language: ""
-  last_post_guid: 6e6847b43ec03ab1cc810ae7ee5ce076
+  last_post_guid: ccf51ccd7963017e2b61ce72ba6284d2
   score_criteria:
     cats: 0
     description: 3

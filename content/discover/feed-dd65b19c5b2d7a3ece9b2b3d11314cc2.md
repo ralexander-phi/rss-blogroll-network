@@ -1,6 +1,6 @@
 ---
 title: paritybit.ca
-date: "2023-07-27T19:20:36Z"
+date: "2024-08-25T15:34:53Z"
 description: ""
 params:
   feedlink: https://www.paritybit.ca/feed.xml
@@ -27,13 +27,13 @@ params:
   - https://takeonrules.com/tags/emacs/index.xml
   categories: []
   relme: {}
-  last_post_title: Computers as Workspaces
+  last_post_title: Moving Across the Ocean
   last_post_description: ""
-  last_post_date: "2023-05-09T00:00:00Z"
-  last_post_link: http://www.paritybit.ca/blog/computers-as-workspaces.html
+  last_post_date: "2024-08-25T00:00:00Z"
+  last_post_link: http://www.paritybit.ca/blog/moving-across-the-ocean/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: e7e88edafdab59baee2291ea78ea475e
+  last_post_guid: 7c361d73301419c9843ffb00f5496cc0
   score_criteria:
     cats: 0
     description: 0

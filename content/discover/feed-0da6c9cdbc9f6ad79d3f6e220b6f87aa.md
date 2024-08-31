@@ -20,17 +20,17 @@ params:
   - http://scripting.com/rss.xml
   - http://scripting.com/rssNightly.xml
   categories:
-  - Kamala Harris
+  - Telegram
   relme: {}
-  last_post_title: How Kamala Harris sees the tech industry
-  last_post_description: 'Plus: Zuckerberg and Trump, is X "back," and other questions
-    about the brand-new 2024 presidential campaign'
-  last_post_date: "2024-07-23T00:09:42Z"
-  last_post_link: https://www.platformer.news/kamala-harris-nomination-zuckerberg-trump-x-threads/
+  last_post_title: The three cases against Telegram
+  last_post_description: Pavel Durov has a lot to answer for â€” but how he is prosecuted
+    could reshape the internet
+  last_post_date: "2024-08-30T00:12:58Z"
+  last_post_link: https://www.platformer.news/telegram-pavel-durov-charged-encryption-liability/
   last_post_categories:
-  - Kamala Harris
+  - Telegram
   last_post_language: ""
-  last_post_guid: ecaf9b84b5478e1529633f8a0d80c311
+  last_post_guid: 6cea7a4f0a4736ce8a961446e53112ac
   score_criteria:
     cats: 0
     description: 3

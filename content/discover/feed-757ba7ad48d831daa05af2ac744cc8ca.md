@@ -1,6 +1,6 @@
 ---
 title: ArcLib Development Blog
-date: "2024-03-12T17:14:15-07:00"
+date: "2024-08-29T16:36:19-07:00"
 description: ""
 params:
   feedlink: https://arclib.blogspot.com/feeds/posts/default

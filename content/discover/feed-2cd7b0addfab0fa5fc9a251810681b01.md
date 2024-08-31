@@ -1,6 +1,6 @@
 ---
 title: Coder's Log
-date: "2024-05-24T14:24:00-07:00"
+date: "2024-08-29T01:32:16-07:00"
 description: Views and journeys of a hopeless programmer, named Zeeshan Ali Khan.
 params:
   feedlink: https://www.blogger.com/feeds/3575421168816814786/posts/default

@@ -44,10 +44,13 @@ params:
   - https://www.manton.org/feed
   - https://www.stonekettle.com/feeds/posts/default
   - https://andysylvester.com/comments/feed/
-  - https://baty.net/feed
+  - https://baty.net/posts/index.xml
   - https://blog.penelopetrunk.com/comments/feed/
   - https://blog.penelopetrunk.com/feed/
   - https://blog.scottlowe.org/feed.xml
+  - https://blog.strategicedge.co.uk/atom.xml
+  - https://blog.strategicedge.co.uk/index.rdf
+  - https://blog.strategicedge.co.uk/rss.xml
   - https://boffosocko.com/category/mathematics/feed/
   - https://boffosocko.com/category/microcast/feed/
   - https://boffosocko.com/category/podcast/feed/
@@ -101,15 +104,15 @@ params:
   categories: []
   relme:
     https://frankmcpherson.blog/: true
-  last_post_title: A People's AI
-  last_post_description: Over the last year we’ve seen Microsoft, Google, and now
-    Apple demonstrate what they are doing with AI.  As a somewhat casual observer,
-    it seems to me all of these announcements fall in what I will
-  last_post_date: "2024-06-13T10:24:37-04:00"
-  last_post_link: https://frankmcpherson.blog/2024/06/13/a-peoples-ai.html
+  last_post_title: Techsploder Pixel 9 Overview
+  last_post_description: Today I watched Jason Howell’s video overview of the new
+    Pixel 9 phone. Rather than being an opinionated review, this overview does a good
+    job of showing the features of the new phone, and I
+  last_post_date: "2024-08-24T11:58:16-04:00"
+  last_post_link: https://frankmcpherson.blog/2024/08/24/techsploder-pixel-overview.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: e0b3515e8d7996b1ac52c9b79c4bae49
+  last_post_guid: 856d2d180f716aa7e8114af44588c7a4
   score_criteria:
     cats: 0
     description: 0

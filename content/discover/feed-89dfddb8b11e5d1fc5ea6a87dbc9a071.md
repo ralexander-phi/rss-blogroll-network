@@ -18,16 +18,19 @@ params:
   - https://hacdias.com/feed.xml
   categories: []
   relme: {}
-  last_post_title: So you want to compete with or replace open source
+  last_post_title: Rust for Linux revisited
   last_post_description: |-
-    We are living through an interesting moment in source-available software.1
-    The open source movement has always had, and continues to have, a solid
-    grounding in grassroots programmers building tools
-  last_post_date: "2024-07-16T00:00:00Z"
-  last_post_link: https://drewdevault.com/2024/07/16/2024-07-16-So-you-want-to-compete-with-FOSS.html
+    Ugh. Drew’s blogging about Rust again.
+
+    – You
+    I promise to be nice.
+    Two years ago, seeing the Rust-for-Linux project starting to get the ball
+    rolling, I wrote “Does Rust belong in the Linux
+  last_post_date: "2024-08-30T00:00:00Z"
+  last_post_link: https://drewdevault.com/2024/08/30/2024-08-30-Rust-in-Linux-revisited.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: f00d1e601bd0df0683fd9dcb1739e99c
+  last_post_guid: 09bf532a122369c10f1d864a626b2ea7
   score_criteria:
     cats: 0
     description: 3

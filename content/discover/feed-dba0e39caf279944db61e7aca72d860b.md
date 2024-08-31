@@ -1,6 +1,6 @@
 ---
 title: MuuBlog
-date: "2024-03-07T20:26:14+01:00"
+date: "2024-08-28T19:37:51+02:00"
 description: MuuBlog - All things Muu
 params:
   feedlink: https://muublog.blogspot.com/feeds/posts/default/-/emacs

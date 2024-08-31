@@ -18,26 +18,26 @@ params:
   - http://scripting.com/rss.xml
   - http://scripting.com/rssNightly.xml
   categories:
+  - Creators
   - Product News
   - Recent News
   - Sidebar - Featured
-  - Technology and Innovation
   - Threads
   relme: {}
-  last_post_title: What Is the Fediverse?
-  last_post_description: "The fediverse is a global social network of interconnected
-    servers that allows people to communicate across different platforms. \nThe post
-    What Is the Fediverse? appeared first on Meta."
-  last_post_date: "2024-06-25T17:10:26Z"
-  last_post_link: https://about.fb.com/news/2024/06/what-is-the-fediverse/
+  last_post_title: New Threads Features for Creators and Businesses
+  last_post_description: |-
+    We're introducing new web features to help you understand how your Threads content is performing and simplify the planning process.
+    The post New Threads Features for Creators and Businesses appeared
+  last_post_date: "2024-08-15T17:00:24Z"
+  last_post_link: https://about.fb.com/news/2024/08/new-threads-features-for-creators-and-businesses/
   last_post_categories:
+  - Creators
   - Product News
   - Recent News
   - Sidebar - Featured
-  - Technology and Innovation
   - Threads
   last_post_language: ""
-  last_post_guid: ecac439feb882912e0f183f0ee11d9a9
+  last_post_guid: ba579245ef15ff2c33ff671741add6bb
   score_criteria:
     cats: 0
     description: 0

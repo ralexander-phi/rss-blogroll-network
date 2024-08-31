@@ -1,6 +1,6 @@
 ---
 title: GNU Chinese Translators Team - News
-date: "2024-06-07T10:45:51Z"
+date: "2024-08-16T08:17:31Z"
 description: ""
 params:
   feedlink: https://savannah.gnu.org/news/atom.php?group=www-zh-cn
@@ -16,13 +16,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: copyright notices in www.gnu.org translations
+  last_post_title: Join us in saying goodbye to our beloved FSF office on August 16!
   last_post_description: ""
-  last_post_date: "2024-06-07T10:15:59Z"
-  last_post_link: https://savannah.gnu.org/news/?id=10641
+  last_post_date: "2024-08-16T08:15:50Z"
+  last_post_link: https://savannah.gnu.org/news/?id=10665
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 636cec10b1d21255bf4890e1164d8103
+  last_post_guid: cda94a62ab00ac9d3c9f480839959a85
   score_criteria:
     cats: 0
     description: 0

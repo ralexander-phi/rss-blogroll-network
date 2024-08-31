@@ -23,7 +23,7 @@ params:
   relme: {}
   last_post_title: '"Web components" considered harmful'
   last_post_description: '"Web components" (the term) can be inaccurate, misleading,
-    and yes, harmful.'
+    and sure, harmful.'
   last_post_date: "2024-05-28T00:00:00Z"
   last_post_link: https://www.mayank.co/blog/web-components-considered-harmful/
   last_post_categories: []

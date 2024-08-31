@@ -19,21 +19,21 @@ params:
   recommended: []
   recommender: []
   categories:
-  - European Union
-  - Openness
+  - Behavioral Advertising
+  - Privacy Preserving Advertising
   relme: {}
-  last_post_title: 'Mozilla’s Policy Vision for the new EU Mandate: Advancing Openness,
-    Privacy, Fair Competition, and Choice for all'
-  last_post_description: Greater openness, privacy, fair competition, and meaningful
-    choice online have never been more paramount. With the new European Commission
-    mandate kicking in, we put forward a series of policy
-  last_post_date: "2024-07-17T08:51:41Z"
-  last_post_link: https://blog.mozilla.org/netpolicy/2024/07/17/mozillas-policy-vision-for-the-new-eu-mandate-advancing-openness-privacy-fair-competition-and-choice-for-all/
+  last_post_title: 'Privacy-Preserving Attribution: Testing for a New Era of Privacy
+    in Digital Advertising'
+  last_post_description: The internet has become a massive web of surveillance, with
+    advertisers and advertising platforms collecting detailed information about people’s
+    online activity. At Mozilla, we believe this
+  last_post_date: "2024-08-22T09:27:09Z"
+  last_post_link: https://blog.mozilla.org/netpolicy/2024/08/22/ppa-update/
   last_post_categories:
-  - European Union
-  - Openness
+  - Behavioral Advertising
+  - Privacy Preserving Advertising
   last_post_language: ""
-  last_post_guid: eecfa05aaf3bee8088f0d69673409299
+  last_post_guid: a0735aa1faf71ccd17acd45777a50439
   score_criteria:
     cats: 0
     description: 3

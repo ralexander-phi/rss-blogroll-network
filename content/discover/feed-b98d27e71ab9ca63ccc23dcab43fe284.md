@@ -8,6 +8,7 @@ params:
   feedid: b98d27e71ab9ca63ccc23dcab43fe284
   websites:
     https://alastairjohnston.com/: false
+    https://alastairjohnston.com/hello/: false
   blogrolls: []
   in_blogrolls:
   - title: Colin Walker's readroll

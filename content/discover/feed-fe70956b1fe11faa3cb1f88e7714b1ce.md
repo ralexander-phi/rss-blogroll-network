@@ -1,6 +1,6 @@
 ---
 title: readerunner
-date: "2024-04-16T13:04:45Z"
+date: "2024-08-01T13:59:42Z"
 description: maths and computing experiments
 params:
   feedlink: https://readerunner.wordpress.com/feed/atom/

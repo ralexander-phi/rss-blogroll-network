@@ -1,6 +1,6 @@
 ---
 title: Louis-Philippe Véronneau
-date: "2024-04-20T00:00:00-04:00"
+date: "2024-08-08T00:00:00-04:00"
 description: ""
 params:
   feedlink: https://veronneau.org/feeds/languages/en.atom.xml
@@ -16,23 +16,24 @@ params:
   recommender: []
   categories:
   - blog
+  - debconf
   - debian
-  - montreal
   relme: {}
-  last_post_title: Montreal's Debian & Stuff - March 2024
+  last_post_title: A Selection of DebConf24 Talks
   last_post_description: |-
-    Time really flies when you are really busy you have fun! Our Montréal
-    Debian User Group met on Sunday March 31st and I only just found the time to
-    write our report :)
-    This time around, 9 of us we
-  last_post_date: "2024-04-20T00:00:00-04:00"
-  last_post_link: https://veronneau.org/montreals-debian-stuff-march-2024.html
+    DebConf24 is now over! I'm very happy I was able to attend this year. If
+    you haven't had time to look at the schedule yet, here is a
+    selection of talks I liked.
+
+    What happens if I delete setup.py?: a
+  last_post_date: "2024-08-08T00:00:00-04:00"
+  last_post_link: https://veronneau.org/a-selection-of-debconf24-talks.html
   last_post_categories:
   - blog
+  - debconf
   - debian
-  - montreal
   last_post_language: ""
-  last_post_guid: 31010e2837642e2a6b9ea17cbcd2c77f
+  last_post_guid: 2b5df3cc0437a7fba57a4deb4a6e3ccf
   score_criteria:
     cats: 0
     description: 0

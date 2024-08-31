@@ -6,8 +6,7 @@ params:
   feedlink: https://joaquimrocha.com/rss.xml
   feedtype: rss
   feedid: 6a398bf5c3b14f3db76f2aecaf3febe3
-  websites:
-    https://joaquimrocha.com/: true
+  websites: {}
   blogrolls: []
   in_blogrolls:
   - title: Planet GNOME
@@ -33,8 +32,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 2
-  score: 13
+    website: 0
+  score: 11
   ispodcast: false
   isnoarchive: false
   innetwork: true

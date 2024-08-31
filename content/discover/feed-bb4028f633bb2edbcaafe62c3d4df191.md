@@ -1,6 +1,6 @@
 ---
 title: Quantum Frontiers
-date: "2024-07-08T00:07:02Z"
+date: "2024-08-12T20:38:58Z"
 description: A blog by the Institute for Quantum Information and Matter @ Caltech
 params:
   feedlink: https://quantumfrontiers.com/feed/atom/
@@ -15,33 +15,31 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Experimental highlights
-  - Real science
   - Reflections
+  - Theoretical highlights
   relme: {}
-  last_post_title: My favorite rocket scientist
-  last_post_description: Whenever someone protests, “I’m not a rocket scientist,”
-    I think of my friend Jamie Rankin. Jamie is a researcher at Princeton University,
-    and she showed me her lab this June. When I first met
-  last_post_date: "2024-07-08T00:07:02Z"
-  last_post_link: https://quantumfrontiers.com/2024/07/07/my-favorite-rocket-scientist/
+  last_post_title: Always appropriate
+  last_post_description: I met boatloads of physicists as a master’s student at the
+    Perimeter Institute for Theoretical Physics in Waterloo, Canada. Researchers pass
+    through Perimeter like diplomats through my current
+  last_post_date: "2024-08-12T20:38:58Z"
+  last_post_link: https://quantumfrontiers.com/2024/08/11/always-appropriate/
   last_post_categories:
-  - Experimental highlights
-  - Real science
   - Reflections
+  - Theoretical highlights
   last_post_language: ""
-  last_post_guid: 9fd4f81be22a4a619bb38fb86f721db6
+  last_post_guid: f3c15a2ef74e9be5e37d4a2c0ef35d3f
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
-    postcats: 3
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 15
+  score: 14
   ispodcast: false
   isnoarchive: false
   innetwork: true

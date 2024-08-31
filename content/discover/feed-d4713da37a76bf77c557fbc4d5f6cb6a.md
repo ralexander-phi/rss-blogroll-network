@@ -8,6 +8,7 @@ params:
   feedid: d4713da37a76bf77c557fbc4d5f6cb6a
   websites:
     https://blogs.igalia.com/tonikitoo: true
+    https://blogs.igalia.com/tonikitoo/: false
   blogrolls: []
   in_blogrolls:
   - title: Planet Igalia

@@ -1,6 +1,6 @@
 ---
 title: Le blog d'Emmanuel - Mot-clé - april
-date: "2022-10-17T17:52:37+02:00"
+date: "2024-08-20T08:50:20+02:00"
 description: ""
 params:
   feedlink: https://blog.fedora-fr.org/eseyman/feed/tag/april/atom
@@ -18,7 +18,7 @@ params:
   relme: {}
   last_post_title: La sécurité, Bugzilla et Debian
   last_post_description: ""
-  last_post_date: "2011-10-21T22:55:00+02:00"
+  last_post_date: "2011-10-21T23:55:00+02:00"
   last_post_link: https://blog.fedora-fr.org/eseyman/post/La-s%C3%A9curit%C3%A9%2C-Bugzilla-et-Debian
   last_post_categories: []
   last_post_language: ""

@@ -1,7 +1,7 @@
 ---
-title: Michael Burkhardt’s Weblog
+title: As Long As There’s Coffee
 date: "1970-01-01T00:00:00Z"
-description: Michael Burkhardt’s Weblog
+description: Another Weblog by Michael Burkhardt
 params:
   feedlink: https://mihobu.lol/rss.xml
   feedtype: rss
@@ -9,8 +9,7 @@ params:
   websites:
     https://blog.mihobu.lol/webrings: false
     https://mihobu.lol/: true
-    https://photos.mihobu.lol/: false
-    https://scraps.mihobu.lol/: false
+    https://mihobu.lol/webrings: false
   blogrolls: []
   in_blogrolls:
   - title: Feeds for cssjoy webri.ng
@@ -22,16 +21,20 @@ params:
   relme:
     https://github.com/mihobu: true
     https://mihobu.lol/: true
+    https://photos.mihobu.lol/: true
+    https://scraps.mihobu.lol/: true
     https://social.lol/@mihobu: true
-  last_post_title: Shokz OpenRun Headphones
+  last_post_title: Fun with QR Codes
   last_post_description: |-
-    My new Shokz bone conduction headphones
-    While traveling recently, I found myself with a little time to kill between flights at Harry Reid International Airport[^lf] in Las Vegas so I popped into
-  last_post_date: "2024-07-22T23:00:00Z"
-  last_post_link: https://mihobu.lol/2024/07/shokz-openrun-headphones
+    Script M
+    AC Avatar
+    Cactus Avatar
+    QArt Codes are QR codes that incorporate pictures by encoding values with no inherent errors. I used the QArt Coder website to make a few that point to my website.
+  last_post_date: "2024-08-28T12:15:00Z"
+  last_post_link: https://mihobu.lol/2024/08/qr-codes
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: ab2bc086c9c96772a5f244383ca8bfef
+  last_post_guid: 11c21de85736ce987e7e82a96324decc
   score_criteria:
     cats: 0
     description: 3

@@ -11,6 +11,8 @@ params:
   websites:
     https://meyerweb.com/: false
     https://meyerweb.com/eric/thoughts: true
+    https://meyerweb.com/eric/thoughts/: false
+    https://meyerweb.com/feeds/excuse/: false
   blogrolls: []
   in_blogrolls:
   - title: Chris Burnell Blogroll

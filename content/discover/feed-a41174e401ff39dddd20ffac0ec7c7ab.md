@@ -19,32 +19,31 @@ params:
   - http://scripting.com/rssNightly.xml
   categories:
   - "1"
-  - activision blizzard
-  - antitrust
-  - ftc
-  - gamepass
-  - micrososft
-  - price hikes
-  - xbox
+  - "911"
+  - at&t
+  - deregulation
+  - fcc
+  - outage
+  - telecom
+  - wireless
   relme: {}
-  last_post_title: 'FTC: Um, That Xbox Game Pass Price Hike Also Contradicts What
-    Microsoft Told The Courts In Activision Blizzard Aquisition'
-  last_post_description: Late last year, the FTC appealed the decision by the court
-    to allow Microsoft’s acquisition of Activision Blizzard to go through by denying
-    the FTC’s requested injunction against it. Since then,
-  last_post_date: "2024-07-22T22:15:28Z"
-  last_post_link: https://www.techdirt.com/2024/07/22/ftc-um-that-xbox-game-pass-price-hike-also-contradicts-what-microsoft-told-the-courts-in-activision-blizzard-aquisition/
+  last_post_title: AT&T Has To Settle Over Another 911 Outage, This Time For $950k
+  last_post_description: As a “trusted ally” in the government’s vast and unaccountable
+    domestic surveillance programs, AT&T receives oodles of government favors. From
+    broad and often mindless deregulation and massive
+  last_post_date: "2024-08-30T12:27:00Z"
+  last_post_link: https://www.techdirt.com/2024/08/30/att-has-to-settle-over-another-911-outage-this-time-for-950k/
   last_post_categories:
   - "1"
-  - activision blizzard
-  - antitrust
-  - ftc
-  - gamepass
-  - micrososft
-  - price hikes
-  - xbox
+  - "911"
+  - at&t
+  - deregulation
+  - fcc
+  - outage
+  - telecom
+  - wireless
   last_post_language: ""
-  last_post_guid: 1a6dd3e3c3eaa944663f9b6f5b29dea8
+  last_post_guid: cea3f3cfecf6b8a739652cca62bc6392
   score_criteria:
     cats: 0
     description: 0

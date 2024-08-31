@@ -15,19 +15,21 @@ params:
   recommended: []
   recommender:
   - https://roytang.net/all/feed/rss
+  - https://roytang.net/all/feed/rss/
   - https://roytang.net/blog/feed/rss
+  - https://roytang.net/blog/feed/rss/
   - https://roytang.net/index.xml
   categories: []
   relme: {}
-  last_post_title: Everybody's Free (To Write Websites)
-  last_post_description: "Everybody's Free (To Write Websites)\n              by Sara
-    JoyA parody of the \"Wear Sunscreen\" thing from the late 90s. This is just fabulous.\n
-    \             Read Post →\n            \n          \n    "
-  last_post_date: "2024-07-17T21:10:00+01:00"
-  last_post_link: https://kevquirk.com/blog/everybody-s-free-to-write-websites
+  last_post_title: The Blackest Heart
+  last_post_description: "✍️ Written by: Brian Lee Durfee\n                  \U0001F3F7
+    Genre: Fantasy\n                  \U0001F5D3 Published: 01 September 2007\n                  \U0001F4C4
+    Pages: 911\n                  \U0001F9D0 My rating:"
+  last_post_date: "2024-08-28T08:50:00+01:00"
+  last_post_link: https://kevquirk.com/blog/the-blackest-heart
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 53e38286e6f6007b297785f71f50e30e
+  last_post_guid: 317ffdfe264dd8e361b59051d1856074
   score_criteria:
     cats: 0
     description: 3

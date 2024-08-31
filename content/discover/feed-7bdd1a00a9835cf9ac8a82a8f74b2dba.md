@@ -8,6 +8,7 @@ params:
   feedid: 7bdd1a00a9835cf9ac8a82a8f74b2dba
   websites:
     https://rushkoff.com/: true
+    https://rushkoff.com/blog/: false
     https://www.rushkoff.com/blog/: false
   blogrolls: []
   in_blogrolls:
@@ -18,19 +19,19 @@ params:
   recommender:
   - https://frankmeeuwsen.com/feed.xml
   categories:
-  - Columns
+  - Essays
   relme:
     https://rushkoff.com/: true
-  last_post_title: Artificial Creativity
+  last_post_title: 'Nonbinary: A Memoir – Afterward'
   last_post_description: |-
-    How AI teaches us to distinguish between humans, art, and industry
-    The post Artificial Creativity appeared first on Rushkoff.
-  last_post_date: "2024-07-12T19:40:05Z"
-  last_post_link: https://rushkoff.com/artificial-creativity/
+    Rushkoff reflects on Genesis P-Orridge's life and legacy in an essay published as the afterword of Nonbinary.
+    The post Nonbinary: A Memoir – Afterward appeared first on Rushkoff.
+  last_post_date: "2024-08-28T13:13:49Z"
+  last_post_link: https://rushkoff.com/nonbinary-a-memoir-afterward/
   last_post_categories:
-  - Columns
+  - Essays
   last_post_language: ""
-  last_post_guid: b7c16b607dc94d5cbb2e83e5e430486e
+  last_post_guid: ea1d52830c99f5ade66748d6e84852e8
   score_criteria:
     cats: 0
     description: 3

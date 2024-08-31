@@ -16,29 +16,31 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Meet the team
+  - MongooseIM
+  - MongooseIM Instant Messaging
   relme: {}
-  last_post_title: 'Meet the team: Nico Gerpe'
+  last_post_title: 5 Ways MongooseIM Provides Scalable and Future-Proof Messaging
   last_post_description: |-
-    Welcome to our "Meet the Team" series! In this first edition, we introduce you Nico Gerpe, the Business Unit Lead for the Americas team.
-    The post Meet the team: Nico Gerpe appeared first on Erlang
-  last_post_date: "2024-07-18T11:06:23Z"
-  last_post_link: https://www.erlang-solutions.com/blog/meet-the-team-nico-gerpe/
+    MongooseIM delivers scalable, secure, and future-proof messaging, perfect for growing businesses.
+    The post 5 Ways MongooseIM Provides Scalable and Future-Proof Messaging  appeared first on Erlang
+  last_post_date: "2024-08-29T09:13:25Z"
+  last_post_link: https://www.erlang-solutions.com/blog/5-ways-mongooseim-provides-scalable-and-future-proof-messaging/
   last_post_categories:
-  - Meet the team
+  - MongooseIM
+  - MongooseIM Instant Messaging
   last_post_language: ""
-  last_post_guid: c22df3d2191e3b6fbe704fe3841c43ce
+  last_post_guid: e7d16deb260348b229bb05e4b2f695a3
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
-    postcats: 1
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 15
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true

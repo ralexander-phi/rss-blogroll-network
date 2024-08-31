@@ -19,22 +19,24 @@ params:
   recommended: []
   recommender:
   - https://roytang.net/all/feed/rss
+  - https://roytang.net/all/feed/rss/
   - https://roytang.net/blog/feed/rss
+  - https://roytang.net/blog/feed/rss/
   - https://roytang.net/index.xml
   - https://therealadam.com/feed.xml
   categories:
-  - Tech Life
+  - Management
   relme: {}
-  last_post_title: Rands Useful App Awards 2024
-  last_post_description: You’re not going with that title, are you? I might. There
-    are no actual trophies or awards. Correct. There are three Rands Useful App Awards
-    this year, but before I award them, I will define the
-  last_post_date: "2024-07-08T15:35:28Z"
-  last_post_link: https://randsinrepose.com/archives/rands-useful-app-awards-2024/
+  last_post_title: Late Again
+  last_post_description: Awkward. Seven of us now. Sitting around the table. Five
+    minutes since the start of the meeting. We’ve used up our chit-chat allowance
+    and wonder if you will show. In the scheme of things relevant
+  last_post_date: "2024-08-19T16:22:41Z"
+  last_post_link: https://randsinrepose.com/archives/late-again/
   last_post_categories:
-  - Tech Life
+  - Management
   last_post_language: ""
-  last_post_guid: 80b792de5e71f8ae09c6657a03d3285a
+  last_post_guid: 1bf7d2ee64a95d28fdae4ec28640dccd
   score_criteria:
     cats: 0
     description: 0

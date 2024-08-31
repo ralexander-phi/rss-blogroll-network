@@ -18,13 +18,13 @@ params:
   - https://chrisburnell.com/feed.xml
   categories: []
   relme: {}
-  last_post_title: The Life
+  last_post_title: A Mistake
   last_post_description: ""
-  last_post_date: "2023-10-28T00:00:00Z"
-  last_post_link: https://lindsaykwardell.com/blog/the-life/
+  last_post_date: "2024-08-28T00:00:00Z"
+  last_post_link: https://lindsaykwardell.com/blog/a-mistake/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: c6a0594df146c0ca05b0774919d919df
+  last_post_guid: 872dde6a31d06591e9519e176dd59955
   score_criteria:
     cats: 0
     description: 3

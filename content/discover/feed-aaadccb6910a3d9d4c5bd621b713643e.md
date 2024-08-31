@@ -1,6 +1,6 @@
 ---
 title: BASTIONLAND
-date: "2024-07-22T00:05:58+01:00"
+date: "2024-08-28T10:34:57+01:00"
 description: A BASTION OF ODDITY
 params:
   feedlink: https://www.bastionland.com/feeds/posts/default
@@ -273,14 +273,13 @@ params:
   - x-files
   relme:
     https://www.bastionland.com/: true
-    https://www.blogger.com/profile/11717684225248546716: true
-  last_post_title: July of 5, 10, and 15 years ago
+  last_post_title: Landscapes of the Arthurian Tarot
   last_post_description: ""
-  last_post_date: "2024-07-17T10:49:00+01:00"
-  last_post_link: https://www.bastionland.com/2024/07/july-of-5-10-and-15-years-ago.html
+  last_post_date: "2024-08-28T10:34:26+01:00"
+  last_post_link: https://www.bastionland.com/2024/08/landscapes-of-arthurian-tarot.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 07c8da6e09574949f7f7365984cff4e7
+  last_post_guid: 9d86101325830ba3b5a2c84666bd25f1
   score_criteria:
     cats: 5
     description: 3

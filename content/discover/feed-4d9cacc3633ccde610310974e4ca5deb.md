@@ -18,15 +18,15 @@ params:
   categories: []
   relme:
     https://thanosapollo.org/: true
-  last_post_title: Penicillins Presentation Summarized
-  last_post_description: A summarized version of my presentation on penicillins for
-    my pharmacology course. Penicillins are β-lactams antibacterial drugs that inhibit
-    bacterial cell wall synthesis, thus categorized as
-  last_post_date: "2024-06-12T00:00:00+03:00"
-  last_post_link: https://thanosapollo.org/post/penicillins-presentation/
+  last_post_title: 'Rewriting Gnosis: 0.4.0 release'
+  last_post_description: |-
+    What’s the most important thing for storing knowledge?
+    I’d say proper organization of said knowledge, such as with decks for each subject and meaningful tags linking related concepts together
+  last_post_date: "2024-08-07T00:00:00Z"
+  last_post_link: https://thanosapollo.org/post/gnosis-0-4-0-release/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 74ce24d7189f8e2db385b2fb9fc3852a
+  last_post_guid: 992e957585a41750a04137090485116d
   score_criteria:
     cats: 0
     description: 3

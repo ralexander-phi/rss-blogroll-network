@@ -1,6 +1,6 @@
 ---
 title: WhereGroup
-date: "2024-07-22T15:36:50+02:00"
+date: "2024-08-30T15:36:26+02:00"
 description: ""
 params:
   feedlink: https://wheregroup.com/blog/rss-osgeo?type=9818
@@ -15,21 +15,20 @@ params:
   recommended: []
   recommender: []
   categories:
+  - Community
   - OSGeo
-  - Projekte
   relme: {}
-  last_post_title: 'Volumendifferenzen, Zonenstatistik und mehr: wie Geoinformationssysteme
-    (GIS) beim Wiederaufbau des Ahrtals helfen'
-  last_post_description: Geoinformationssysteme unterstützen beim Wiederaufbau im
-    Ahrtal nach der katastrophalen Flutkatastrophe 2021. Mit QGIS machen wir Daten
-    sichtbar für diese Herkulesaufgabe, um Maßnahmen für den
-  last_post_date: "2024-07-12T13:47:00+02:00"
-  last_post_link: https://wheregroup.com/blog/einsatz-von-geoinformationssystemen-gis-beim-wiederaufbau-des-ahrtals/
+  last_post_title: Plugins entwickeln für PhpStorm am Beispiel von Mapbender
+  last_post_description: Integrierte Entwicklungsumgebungen (IDEs) bringen von Haus
+    aus schon viel Funktionalität mit. Fehlt allerdings noch eine Funktionalität,
+    lässt sich diese oft auch über ein selbst entwickeltes
+  last_post_date: "2024-08-14T15:40:00+02:00"
+  last_post_link: https://wheregroup.com/blog/plugins-entwickeln-fuer-phpstorm-am-beispiel-von-mapbender/
   last_post_categories:
+  - Community
   - OSGeo
-  - Projekte
   last_post_language: ""
-  last_post_guid: 88fe81c42f455aa0a5bb7a3fc430945f
+  last_post_guid: 0b6fa8ea20297792c2391bedaa4757a2
   score_criteria:
     cats: 0
     description: 0

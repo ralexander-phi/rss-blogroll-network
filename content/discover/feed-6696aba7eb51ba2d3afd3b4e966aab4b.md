@@ -18,15 +18,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Making Magic Happen
-  last_post_description: For many patrons, libraries are synonymous with books and
-    reading. However, people don’t always take advantage of reader’s advisory services
-    offered by libraries. Rather than approaching
+  last_post_title: Letter from the Editors
+  last_post_description: ""
   last_post_date: "2024-06-17T00:00:00-07:00"
-  last_post_link: https://ital.corejournals.org/index.php/ital/article/view/17133
+  last_post_link: https://ital.corejournals.org/index.php/ital/article/view/17169
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 457a651b1441c0eb02de85bf7556f0ca
+  last_post_guid: 8d0cd11255938a166660a25feb9c443c
   score_criteria:
     cats: 0
     description: 3

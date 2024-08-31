@@ -16,7 +16,8 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Uncategorized
+  - News
+  - Tips
   relme: {}
   last_post_title: OTB works with QGis 3.36
   last_post_description: The OTB Provider QGis plugin is now available on QGis plugin
@@ -25,20 +26,21 @@ params:
   last_post_date: "2024-03-25T09:20:27Z"
   last_post_link: https://www.orfeo-toolbox.org/otb-works-with-qgis-3-36/
   last_post_categories:
-  - Uncategorized
+  - News
+  - Tips
   last_post_language: ""
   last_post_guid: 2a68e703b4a323e30211b4a567acbc39
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
-    postcats: 1
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 15
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true

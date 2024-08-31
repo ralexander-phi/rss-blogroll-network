@@ -16,28 +16,25 @@ params:
   recommender: []
   categories:
   - Development
-  - Linux
-  - OpenSource
   - Planet
-  - build
-  - xz
+  - Truth
+  - math
+  - programming
   relme: {}
-  last_post_title: xz backdoor and autotools insanity
-  last_post_description: |-
-    I argue autotools' convoluted nature is what enabled the xz backdoor in the first place.
-
-    The truth is nobody needs to use autotools, and I show why.
-  last_post_date: "2024-04-05T02:01:11Z"
-  last_post_link: https://felipec.wordpress.com/2024/04/04/xz-backdoor-and-autotools-insanity/
+  last_post_title: Everyone is using modulo wrong
+  last_post_description: All programmers use the modulo operator, but virtually none
+    have stopped to consider what it actually is, and that's why one of the most powerful
+    features of it doesn't work in most programming
+  last_post_date: "2024-08-12T02:04:19Z"
+  last_post_link: https://felipec.wordpress.com/2024/08/11/everyone-is-using-modulo-wrong/
   last_post_categories:
   - Development
-  - Linux
-  - OpenSource
   - Planet
-  - build
-  - xz
+  - Truth
+  - math
+  - programming
   last_post_language: ""
-  last_post_guid: 69bd2740ff767de866cdf0bd257f3fe3
+  last_post_guid: 988a279921d932d603e493e0335dcb4a
   score_criteria:
     cats: 0
     description: 0

@@ -21,15 +21,15 @@ params:
   - http://scripting.com/rssNightly.xml
   categories: []
   relme: {}
-  last_post_title: قبور وراء النافذة / “Graves behind the Window” معذبو الأرض / “The
-    Wretched of the Earth”
-  last_post_description: A selection of poems by Gazan poet Anees Ghanima, Translator’s
-    Note Leena Aboutaleb, and preface by Abdalhadi Alijla
-  last_post_date: "2024-07-22T17:40:07Z"
-  last_post_link: https://logicmag.io/issue-21-medicine-and-the-body/2-poems
+  last_post_title: '“This Whole Other Monster”: Resisting ICE’s “Alternatives to Detention”
+    Program with Mario Perez'
+  last_post_description: '“Let’s call it for what it is: they’re not there to support
+    you, they’re there to deport you.”'
+  last_post_date: "2024-08-26T06:12:53Z"
+  last_post_link: https://logicmag.io/issue-21-medicine-and-the-body/this-whole-other-monster-resisting-ices-alternatives-to-detention-program
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 11ae2e826ee9ac1c8988d0054f55941d
+  last_post_guid: b1a2e4b90bb9fc0f27697b79f76fcad7
   score_criteria:
     cats: 0
     description: 3

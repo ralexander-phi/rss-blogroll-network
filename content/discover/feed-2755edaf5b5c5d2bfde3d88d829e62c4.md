@@ -1,6 +1,6 @@
 ---
 title: The penguin moves
-date: "2024-07-22T01:05:29+02:00"
+date: "2024-08-29T10:01:32+02:00"
 description: Random musings on embedded/mobile linux platforms and Free/Commercial
   ecosystems built around them.
 params:

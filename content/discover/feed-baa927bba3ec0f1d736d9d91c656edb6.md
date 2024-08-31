@@ -1,6 +1,6 @@
 ---
 title: The Universe of Disco
-date: "2024-07-12T14:35:00Z"
+date: "2024-08-24T20:55:00Z"
 description: The Universe of Discourse (Mark Dominus Blog)
 params:
   feedlink: https://blog.plover.com/index.atom
@@ -18,14 +18,14 @@ params:
   categories:
   - /misc
   relme: {}
-  last_post_title: Loki the comedian
+  last_post_title: Dancing bread
   last_post_description: ""
-  last_post_date: "2024-07-12T14:35:00Z"
-  last_post_link: https://blog.plover.com/misc/goat-scrote.html
+  last_post_date: "2024-08-24T20:55:00Z"
+  last_post_link: https://blog.plover.com/misc/dancing-bread.html
   last_post_categories:
   - /misc
   last_post_language: ""
-  last_post_guid: 974806a04d6b0b9efdf0c81cad4f8cd7
+  last_post_guid: a08cd9c9b3aa9a90d12f96462345df6b
   score_criteria:
     cats: 0
     description: 3

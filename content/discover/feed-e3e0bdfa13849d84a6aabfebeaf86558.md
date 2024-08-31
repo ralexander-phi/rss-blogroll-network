@@ -1,6 +1,6 @@
 ---
 title: The Foreman Blog
-date: "2024-07-21T11:34:21+03:00"
+date: "2024-08-28T21:59:49+03:00"
 description: ""
 params:
   feedlink: https://www.blogger.com/feeds/6789674575954398874/posts/default/-/foreman/puppet

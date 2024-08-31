@@ -16,18 +16,19 @@ params:
   recommended: []
   recommender:
   - https://marisabel.nl/feeds/blog.php
+  - https://marisabel.nl/feeds/combined.php
   - https://marisabel.nl/feeds/tech-blog.php
   - https://marisabel.nl/rss.php
   categories: []
   relme: {}
-  last_post_title: On This Blog as a Numbers Station
-  last_post_description: Some thoughts about how I view personal blogs (and not just
-    my own)
-  last_post_date: "2024-07-19T06:37:18Z"
-  last_post_link: https://scottnesbitt.online/numbers.html
+  last_post_title: Use Plain Text Email?
+  last_post_description: A meditation on what's wrong with the site Use plain text
+    email
+  last_post_date: "2024-08-02T07:06:47Z"
+  last_post_link: https://scottnesbitt.online/email.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 2f9a5b02a30a1c960946b4e88ff094f6
+  last_post_guid: 924a83ff6a06e6637bdf65ba5df71164
   score_criteria:
     cats: 0
     description: 3

@@ -1,5 +1,5 @@
 ---
-title: Thoughts and Tribulations of a Compulsive Creator
+title: Numeric Citizen Blog
 date: "1970-01-01T00:00:00Z"
 description: I'm a compulsive creator (words, images, videos, podcasts). It's not
   always an easy journey, but it is a rewarding one. The podcast is all about sharing

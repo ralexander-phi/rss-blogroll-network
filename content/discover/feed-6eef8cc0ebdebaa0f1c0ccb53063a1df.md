@@ -13,32 +13,24 @@ params:
   in_blogrolls:
   - title: Dan Q's Blogroll
     description: ""
-    id: 7e0e72d6fd1109a16363155b4cda88a8
-  - title: Dan Q's Blogroll
-    description: ""
     id: efa39f8903d9f955318300588291f9c0
-  - title: Dan Q's Blogroll
-    description: ""
-    id: 42e729b4ed4d139b08eaa2f55f3a9b49
   recommended: []
   recommender:
-  - https://danq.blog/comments/feed/
-  - https://danq.blog/feed/
   - https://danq.me/comments/feed/
   - https://danq.me/feed/
   - https://danq.me/kind/article/feed/
   - https://danq.me/kind/note/feed/
-  - https://danq.uk/comments/feed/
-  - https://danq.uk/feed/
   categories: []
   relme: {}
-  last_post_title: Andy K's birthday is in 7 days
-  last_post_description: It's on Tuesday 23 July 2024.
-  last_post_date: "2024-07-16T00:00:00Z"
-  last_post_link: https://abnib.co.uk/#andy_k-2024-7@birthdays.abnib.co.uk
+  last_post_title: Iona's 4th birthday is in 7 days
+  last_post_description: |-
+    It's on Monday 2 September 2024.
+                On WhatsApp? Send greetings via Matt P.
+  last_post_date: "2024-08-26T00:00:00Z"
+  last_post_link: https://abnib.co.uk/#iona-2024-7@birthdays.abnib.co.uk
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: b80c4e0ed272a3074ef76766d1d06ead
+  last_post_guid: fab314339aea63addb3c4d219fa7452f
   score_criteria:
     cats: 0
     description: 3

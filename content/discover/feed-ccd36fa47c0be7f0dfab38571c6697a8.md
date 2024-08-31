@@ -1,6 +1,6 @@
 ---
 title: Werden wir Helden für einen Tag
-date: "2024-07-04T14:16:46+02:00"
+date: "2024-08-23T14:00:37+02:00"
 description: ""
 params:
   feedlink: https://chainsawriot.com/feed/by_tag/emacs.xml

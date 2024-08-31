@@ -16,15 +16,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Prepping for Travel
-  last_post_description: Currently I’m preparing to leave for a week long trip to
-    Tokyo! This was pretty spontaneous, we found out very late that we would be getting
-    a month off over the new year in college. Me and friend
-  last_post_date: "2024-01-11T23:01:03-05:00"
-  last_post_link: https://d00k.net/about/journal/2024-01-11/
+  last_post_title: A new way to theme the Quickscreen in Rockbox
+  last_post_description: For the past year, I’ve been working on a major redesign
+    of Themify, my user-customisable Rockbox theme. It’s proven to be my most ambitious
+    Rockbox project yet, aiming to create a level of user
+  last_post_date: "2024-07-24T15:48:28-04:00"
+  last_post_link: https://d00k.net/blog/quickscreen_rockbox_tags/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 9bd86956532e3dc1f1ba9c70b7a10ea4
+  last_post_guid: 68edf3d51f4563011fd341f8d279b7d1
   score_criteria:
     cats: 0
     description: 3

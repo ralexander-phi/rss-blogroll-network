@@ -28,21 +28,23 @@ params:
   - https://johnjohnston.info/blog/comments/feed/
   - https://johnjohnston.info/blog/feed/
   - https://roytang.net/all/feed/rss
+  - https://roytang.net/all/feed/rss/
   - https://roytang.net/blog/feed/rss
+  - https://roytang.net/blog/feed/rss/
   - https://roytang.net/index.xml
   categories: []
   relme:
     https://phire.place/@vasta: true
     https://www.inthemargins.ca/: true
-  last_post_title: 'Media Diet: May and June'
+  last_post_title: 'Media Diet: July and August'
   last_post_description: |-
     A quick look at the movies, television shows, and books that have captured my attention over the past two months.
-    Shrinking TV shows about father-daughter relationships will always have a cherished
-  last_post_date: "2024-06-29T18:38:00-04:00"
-  last_post_link: https://www.inthemargins.ca/media-diet-0624
+    Julia When I was reading 1984 in middle school, I never really considered what the
+  last_post_date: "2024-08-28T19:58:00-04:00"
+  last_post_link: https://www.inthemargins.ca/media-diet-0824
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: a80e7d9372b28983903093c523ad850e
+  last_post_guid: 262fd1f198328e4593552eb74c2b9c81
   score_criteria:
     cats: 0
     description: 3

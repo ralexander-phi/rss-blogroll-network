@@ -1,6 +1,6 @@
 ---
 title: Eshel Yaron
-date: "2024-07-18T00:00:00Z"
+date: "2024-08-23T00:00:00Z"
 description: RSS Feed of eshelyaron.com
 params:
   feedlink: https://eshelyaron.com/rss.xml
@@ -19,26 +19,25 @@ params:
   - https://takeonrules.com/site-map/updates/index.xml
   - https://takeonrules.com/tags/emacs/index.xml
   categories:
-  - emacs,lisp
+  - emacs,kubernetes,lisp
   relme:
     https://emacs.ch/@eshel: true
     https://eshelyaron.com/: true
-  last_post_title: On Buglet-Bindings
+  last_post_title: Kubed is now on GNU ELPA
   last_post_description: |-
-    On Buglet-Bindings
-    Highlighting a pervasive Emacs Lisp bug
-    Created on [2024-07-15], last updated [2024-07-16]
+    Some updates about my new Emacs package for Kubernetes
+    Created on [2024-08-09], last updated [2024-08-09]
 
 
 
-    This post is about a class of bugs that you run into left and right in
-    Emacs Lisp code
-  last_post_date: "2024-07-15T00:00:00Z"
-  last_post_link: https://eshelyaron.com/posts/2024-07-15-on-buglet-bindings.html
+    Kubed, my new Emacs-based Kubernetes interface, is now available from
+    the official Emacs
+  last_post_date: "2024-08-09T00:00:00Z"
+  last_post_link: https://eshelyaron.com/posts/2024-08-09-kubed-is-now-on-gnu-elpa.html
   last_post_categories:
-  - emacs,lisp
+  - emacs,kubernetes,lisp
   last_post_language: ""
-  last_post_guid: befe75f0b45c58f2da068032ec92d1b1
+  last_post_guid: f08841e006f7f38f2ce9d889e77d7715
   score_criteria:
     cats: 0
     description: 3

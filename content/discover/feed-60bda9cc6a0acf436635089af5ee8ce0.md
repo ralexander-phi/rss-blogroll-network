@@ -21,17 +21,17 @@ params:
   relme:
     https://mjg59.dreamwidth.org/: true
     https://nondeterministic.computer/@mjg59: true
-  last_post_title: SSH agent extensions as an arbitrary RPC mechanism
-  last_post_description: A while back, I wrote about using the SSH agent protocol
-    to satisfy WebAuthn requests. The main problem with this approach is that it required
-    starting the SSH agent with a special argument and also
-  last_post_date: "2024-06-12T02:57:36Z"
-  last_post_link: https://mjg59.dreamwidth.org/69646.html
+  last_post_title: What the fuck is an SBAT and why does everyone suddenly care
+  last_post_description: 'Short version: Secure Boot Advanced Targeting and if that''s
+    enough for you you can skip the rest you''re welcome.Long version: When UEFI Secure
+    Boot was specified, everyone involved was, well, a touch'
+  last_post_date: "2024-08-22T08:52:49Z"
+  last_post_link: https://mjg59.dreamwidth.org/70348.html
   last_post_categories:
   - advogato
   - fedora
   last_post_language: ""
-  last_post_guid: 717c9d199746410f9dc4f5a693df31d1
+  last_post_guid: a49d4e1b90ebd7d6d02c942dd1ed22f2
   score_criteria:
     cats: 0
     description: 3

@@ -8,6 +8,7 @@ params:
   feedid: ac7da9cebc11140ac24413fdc55fbbbd
   websites:
     https://wagenknecht.org/blog: true
+    https://wagenknecht.org/blog/: false
   blogrolls: []
   in_blogrolls:
   - title: Planet Eclipse

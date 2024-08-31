@@ -1,6 +1,6 @@
 ---
 title: Phil on development
-date: "2024-03-19T10:50:32+01:00"
+date: "2024-08-30T05:21:57+02:00"
 description: My thoughts and ideas about software development in the Java and C++
   realm
 params:

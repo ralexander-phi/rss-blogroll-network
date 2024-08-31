@@ -1,6 +1,6 @@
 ---
 title: justinhj's coding blog
-date: "2024-04-07T20:30:43-07:00"
+date: "2024-08-28T08:25:48-07:00"
 description: This site is now archived. My new coding posts are here http://justinhj.github.io
 params:
   feedlink: https://justinsboringpage.blogspot.com/feeds/posts/default/-/emacs

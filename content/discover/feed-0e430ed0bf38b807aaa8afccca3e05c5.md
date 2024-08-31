@@ -17,57 +17,29 @@ params:
   recommender: []
   categories:
   - Blog
-  - CrowdStrike
-  - Cyber Resilience Act
-  - Falcon-Software
-  - Microsoft Azure-Cloud
-  - Open Source
-  - Windows servers
-  - Windows-PCs
-  - air traffic paralysis
-  - centralization risks
-  - checkout systems failure
-  - critical infrastructure
-  - digital supply chain
-  - faulty update
-  - global disruptions
-  - it security
-  - liability issues
-  - open source advantages
-  - quality improvement
-  - security incident
-  - software use
+  - competitors
+  - entry-level
+  - entry-level product
+  - greenbone basic
+  - medium-sized companies
+  - tenable
   relme: {}
-  last_post_title: '“Only 62 minutes”: From security provider to security problem'
-  last_post_description: '“Your company can be ruined in just 62 minutes”: This is
-    how the security provider Crowdstrike advertises. Now the US manufacturer has
-    itself caused an estimated multi-billion-dollar loss due to'
-  last_post_date: "2024-07-22T11:25:19Z"
-  last_post_link: https://www.greenbone.net/en/blog/only-62-minutes-from-security-provider-to-security-problem/
+  last_post_title: Greenbone Basic – Vulnerability Management for SMEs
+  last_post_description: 'Greenbone Basic: Small Businesses Can Now Easily Protect
+    Themselves from Vulnerabilities Cyber attacks have become the greatest threat
+    to modern businesses of all sizes. An abundant amount of attacks'
+  last_post_date: "2024-08-29T07:25:42Z"
+  last_post_link: https://www.greenbone.net/en/blog/greenbone-basic-vulnerability-management-for-smes/
   last_post_categories:
   - Blog
-  - CrowdStrike
-  - Cyber Resilience Act
-  - Falcon-Software
-  - Microsoft Azure-Cloud
-  - Open Source
-  - Windows servers
-  - Windows-PCs
-  - air traffic paralysis
-  - centralization risks
-  - checkout systems failure
-  - critical infrastructure
-  - digital supply chain
-  - faulty update
-  - global disruptions
-  - it security
-  - liability issues
-  - open source advantages
-  - quality improvement
-  - security incident
-  - software use
+  - competitors
+  - entry-level
+  - entry-level product
+  - greenbone basic
+  - medium-sized companies
+  - tenable
   last_post_language: ""
-  last_post_guid: 2baa64b92529c0c7b578f74610cc54eb
+  last_post_guid: 5d63f431ed15f5eded77f6adc1975e44
   score_criteria:
     cats: 0
     description: 3

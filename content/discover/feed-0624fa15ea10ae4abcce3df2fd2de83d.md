@@ -1,6 +1,6 @@
 ---
 title: Careful with that axe, Eugene
-date: "2024-06-29T00:49:50-05:00"
+date: "2024-08-29T14:51:41-05:00"
 description: ""
 params:
   feedlink: https://www.blogger.com/feeds/37383119/posts/default?alt=atom

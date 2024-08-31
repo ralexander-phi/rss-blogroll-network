@@ -1,6 +1,6 @@
 ---
 title: Frank Wierzbicki's Weblog
-date: "2024-03-07T18:26:05-05:00"
+date: "2024-08-28T18:45:41-04:00"
 description: Jython, Python, other stuff.
 params:
   feedlink: https://fwierzbicki.blogspot.com/atom.xml

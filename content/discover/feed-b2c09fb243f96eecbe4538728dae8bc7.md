@@ -1,6 +1,6 @@
 ---
 title: Surgut
-date: "2024-07-14T22:01:49+01:00"
+date: "2024-08-30T01:00:02+01:00"
 description: a personal blog of Dimitri John Ledkov
 params:
   feedlink: https://blog.surgut.co.uk/feeds/posts/default/-/debian-planet

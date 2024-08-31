@@ -16,28 +16,32 @@ params:
   recommender: []
   categories:
   - Sem categoria
+  - linux
+  - mageia
   relme: {}
-  last_post_title: Mageia 9 foi lançada
-  last_post_description: A Mageia 9 foi lançada e muita gente já está usando. Você
-    pode encontrar as notas de lançamento aqui e a errata aqui Um grande obrigado
-    a todos que contribuíram para esta excelente nova versão
-  last_post_date: "2023-09-12T00:08:09Z"
-  last_post_link: https://blog.mageia.org/pt/2023/09/12/mageia-9-foi-lancada/
+  last_post_title: Falha de segurança OpenSSH corrigida
+  last_post_description: OpenSSH é um conjunto de ferramentas de software gratuitas
+    que permitem comunicações seguras através de uma rede de computadores usando o
+    protocolo SSH. Em particular, esta ferramenta permite a
+  last_post_date: "2024-07-15T21:43:35Z"
+  last_post_link: https://blog.mageia.org/pt/2024/07/15/falha-de-seguranca-openssh-corrigida/
   last_post_categories:
   - Sem categoria
+  - linux
+  - mageia
   last_post_language: ""
-  last_post_guid: f8ba4d56ab10a775dedffe59cef32d07
+  last_post_guid: 072b9502f58f3b3b0d2828a83a56a767
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
-    postcats: 1
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 13
+  score: 15
   ispodcast: false
   isnoarchive: false
   innetwork: true

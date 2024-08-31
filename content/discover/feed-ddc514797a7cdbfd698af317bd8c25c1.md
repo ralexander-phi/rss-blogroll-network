@@ -17,16 +17,16 @@ params:
   categories:
   - Blog
   relme: {}
-  last_post_title: IOT Solution Congress en Brasil, nuestra experiencia
-  last_post_description: El pasado mes de junio se llevó a cabo el IOT Solutions Congress
-    en la ciudad de San Pablo, Brasil, donde más de 5.000 personas se reunieron para
-    ver las soluciones más avanzadas en la industria
-  last_post_date: "2024-07-12T17:35:20Z"
-  last_post_link: https://kan.com.ar/iot-solution-congress-en-brasil-nuestra-experiencia/
+  last_post_title: Innovación y Colaboración en FOSS4G Europe 2024
+  last_post_description: ¿Te apasionan las tecnologías geoespaciales de código abierto?
+    Si es así, FOSS4G Europe 2024 en Tartu, Estonia, fue el evento que no debiste
+    perderte. ¿Alguna vez te has preguntado cómo el
+  last_post_date: "2024-08-09T14:39:35Z"
+  last_post_link: https://kan.com.ar/innovacion-y-colaboracion-en-foss4g-europe-2024/
   last_post_categories:
   - Blog
   last_post_language: ""
-  last_post_guid: a00f8a3f09aed8d02c4619505c5833ac
+  last_post_guid: 8f337b24fd469be71081b40217168c46
   score_criteria:
     cats: 0
     description: 3

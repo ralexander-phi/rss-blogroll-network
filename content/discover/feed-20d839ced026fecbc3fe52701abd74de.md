@@ -1,6 +1,6 @@
 ---
 title: Рентгеновская дифракция на пингвине
-date: "2024-07-04T11:36:44+06:00"
+date: "2024-08-28T19:10:32+06:00"
 description: ТеХнический подход к емаксо-питонной плазме
 params:
   feedlink: https://tuxray.blogspot.com/feeds/posts/default/-/emacs

@@ -1,6 +1,6 @@
 ---
 title: Learning (Lib)Tech
-date: "2024-06-13T04:54:47Z"
+date: "2024-07-27T01:52:38Z"
 description: Stories from my Life as a Technologist
 params:
   feedlink: https://cynthiang.ca/feed/atom/
@@ -19,11 +19,12 @@ params:
   - Update
   - reflection
   relme: {}
-  last_post_title: 'Reflection: The second half of my sixth year at GitLab'
+  last_post_title: 'Reflection: The second half of my sixth year at GitLab and learning
+    Strategy &#038; Operations'
   last_post_description: Hard to believe it’s been 6 years, and I certainly didn’t
     imagine working outside of Product and Engineering at any point until it happened.
     Check out the last reflection post if you’re
-  last_post_date: "2024-06-13T04:54:47Z"
+  last_post_date: "2024-07-27T01:52:38Z"
   last_post_link: https://cynthiang.ca/2024/06/13/reflection-the-second-half-of-my-sixth-year-at-gitlab/
   last_post_categories:
   - GitLab

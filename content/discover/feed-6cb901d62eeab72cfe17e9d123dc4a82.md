@@ -16,15 +16,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Real Player Mode now on MELPA
-  last_post_description: "A few weeks ago, I  announced Ready Player Mode's availability
-    on  GitHub. As of today, you can  find it on MELPA.\n\n\n \nReady Player Mode
-    is  a lightweight major mode to open media (audio/video) files"
-  last_post_date: "2024-07-21T19:15:56+01:00"
-  last_post_link: https://lmno.lol/alvaro/real-player-mode-now-on-melpa
+  last_post_title: =*scratch*= v1.3 released
+  last_post_description: "It's been some time since the last release of  *scratch*
+    for iOS. If you haven't heard about  *scratch*, it's a tiny app I built (part
+    of  the org bundle).\n\n\n \n *scratch* enables writing things on"
+  last_post_date: "2024-08-23T18:47:21+01:00"
+  last_post_link: https://lmno.lol/alvaro/scratch-v1-3-released
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 2c44ff7516a7ec0f3f63927635b95863
+  last_post_guid: 8db9b5ac0ad0be7438c441a8d3725202
   score_criteria:
     cats: 0
     description: 3

@@ -2,7 +2,7 @@
 title: Building ActivityPub
 date: "1970-01-01T00:00:00Z"
 description: Ghost is federating over ActivityPub to become part of the world’s largest
-  publishing network.
+  publishing network
 params:
   feedlink: https://activitypub.ghost.org/rss/
   feedtype: rss
@@ -21,14 +21,13 @@ params:
   - http://scripting.com/rssNightly.xml
   categories: []
   relme: {}
-  last_post_title: Mapping out ActivityPub support
-  last_post_description: An overview of our roadmap for the next few months, as well
-    as a preview of some alternative design options.
-  last_post_date: "2024-07-21T11:10:22Z"
-  last_post_link: https://activitypub.ghost.org/mapping-out-activitypub-support/
+  last_post_title: We do this not because it's easy
+  last_post_description: but because we thought it would be easy.
+  last_post_date: "2024-08-25T21:30:09Z"
+  last_post_link: https://activitypub.ghost.org/untitled/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 448cdb163ea6dc856a3a839544f76ffa
+  last_post_guid: 2b54c7fc8833536e2f4c356bb371b58c
   score_criteria:
     cats: 0
     description: 3

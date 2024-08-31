@@ -16,12 +16,12 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Sunday Internet optimism
-  last_post_description: Over on the social media sites there have been a bunch of
-    very serious posts from very serious people explaining how surveillance advertising
-    is here to stay and the best we can do is put some
-  last_post_date: "2024-07-21T00:00:00Z"
-  last_post_link: https://blog.zgp.org/internet-optimism/
+  last_post_title: pile of money fail
+  last_post_description: 'Really good example of a market failure in software quality
+    incentivization: ansuz / ऐरन: “there’s a wee story brewing in…” Read the whole
+    thing. Good counterexample for money talks.'
+  last_post_date: "2024-08-24T00:00:00Z"
+  last_post_link: https://blog.zgp.org/pile-of-money-fail/
   last_post_categories: []
   last_post_language: ""
   last_post_guid: 03f21262a5e1c145241b86688042902e

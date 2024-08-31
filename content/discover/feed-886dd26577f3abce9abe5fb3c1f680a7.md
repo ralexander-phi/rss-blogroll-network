@@ -15,41 +15,32 @@ params:
   recommended: []
   recommender: []
   categories:
-  - ApacheHttpServer
-  - GlassFish
-  - How To ...
   - Jakarta EE
-  - clustering
-  - load-balancing
-  - sticky-sessions
+  - Other
   relme: {}
-  last_post_title: 'How to: Apache Server as a Load Balancer for your GlassFish Cluster'
-  last_post_description: This tutorial will guide you to configure Apache HTTP Server
-    as a load balancer for your GlassFish cluster. It shows how to apply the  sticky
-    session routing mechanism to keep requests within a
-  last_post_date: "2024-02-01T22:45:02Z"
-  last_post_link: https://omnifish.ee/2024/02/02/2640/
+  last_post_title: Boost Performance and Developer Productivity with Jakarta EE 11
+    – World Congress slides
+  last_post_description: At the WeAreDevelopers World Congress 2024, OmniFish presented
+    about what Jakarta EE is, and what the new features are in Jakarta EE 11. Here
+    are the slides from our presentation.
+  last_post_date: "2024-08-08T20:18:36Z"
+  last_post_link: https://omnifish.ee/2024/08/08/boost-performance-and-developer-productivity-world-congress-slides/
   last_post_categories:
-  - ApacheHttpServer
-  - GlassFish
-  - How To ...
   - Jakarta EE
-  - clustering
-  - load-balancing
-  - sticky-sessions
+  - Other
   last_post_language: ""
-  last_post_guid: 6cea362a3b1f2ab57c7e45b61ced50f6
+  last_post_guid: 7ab727e74657566d7b9e6fbada40532c
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
-    postcats: 3
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 15
+  score: 14
   ispodcast: false
   isnoarchive: false
   innetwork: true

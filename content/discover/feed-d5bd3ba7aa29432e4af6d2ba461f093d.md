@@ -1,6 +1,6 @@
 ---
 title: ""
-date: "2024-06-02T19:14:21Z"
+date: "2024-08-04T16:31:50Z"
 description: A place for my random thoughts about software
 params:
   feedlink: https://tookmund.com/feed.xml

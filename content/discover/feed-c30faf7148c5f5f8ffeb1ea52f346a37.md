@@ -12,23 +12,13 @@ params:
   in_blogrolls:
   - title: Dan Q's Blogroll
     description: ""
-    id: 7e0e72d6fd1109a16363155b4cda88a8
-  - title: Dan Q's Blogroll
-    description: ""
     id: efa39f8903d9f955318300588291f9c0
-  - title: Dan Q's Blogroll
-    description: ""
-    id: 42e729b4ed4d139b08eaa2f55f3a9b49
   recommended: []
   recommender:
-  - https://danq.blog/comments/feed/
-  - https://danq.blog/feed/
   - https://danq.me/comments/feed/
   - https://danq.me/feed/
   - https://danq.me/kind/article/feed/
   - https://danq.me/kind/note/feed/
-  - https://danq.uk/comments/feed/
-  - https://danq.uk/feed/
   categories:
   - film
   - music
@@ -36,21 +26,20 @@ params:
   - technology
   - web development
   relme: {}
-  last_post_title: Weeknotes 14th July 2024
-  last_post_description: Saw Hundreds Of Beavers (stop sniggering at the back), it
-    was an absolute riot. Like watching a live action Looney Tunes cartoon crossed
-    with a Let's Play of the weirdest video game you ever saw.
-  last_post_date: "2024-07-16T09:21:02Z"
-  last_post_link: https://polytechnic.co.uk/blog/2024/07/weeknotes-14th-july-2024/
+  last_post_title: Weeknotes 25th August 2024
+  last_post_description: I launched a new Links section for Digital Oxford last week.A
+    directory of digital adjacent people and organisations around Oxfordshire. From
+    co-working spaces and road-warrior friendly venues, to
+  last_post_date: "2024-08-28T12:09:27Z"
+  last_post_link: https://polytechnic.co.uk/blog/2024/08/weeknotes-25th-august-2024/
   last_post_categories:
-  - cinema
   - diary
-  - film
+  - digital oxford
   - me
-  - uppcinema
+  - music
   - weeknotes
   last_post_language: ""
-  last_post_guid: c20346c8588c9fd713016d5f9d741789
+  last_post_guid: 3332d3b0b596a858bd36fe5d0e838711
   score_criteria:
     cats: 5
     description: 3

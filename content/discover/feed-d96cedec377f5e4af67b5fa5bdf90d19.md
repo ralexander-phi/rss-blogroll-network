@@ -1,6 +1,6 @@
 ---
 title: Mäh?
-date: "2024-03-06T02:25:12+01:00"
+date: "2024-08-28T09:22:02+02:00"
 description: |-
   Aus dem Leben eines Mähviehs
   Was ist ein dmaphy?
@@ -12,9 +12,6 @@ params:
   websites: {}
   blogrolls: []
   in_blogrolls:
-  - title: Thoughts of the FSFE Community (English)
-    description: ""
-    id: 271938bec31271627e1dea6fefe264bb
   - title: Thoughts of the FSFE Community (English)
     description: ""
     id: ec5620188ea145cd15cff0d5719ab8d8

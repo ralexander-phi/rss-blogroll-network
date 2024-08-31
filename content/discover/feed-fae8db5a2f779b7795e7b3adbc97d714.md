@@ -1,6 +1,6 @@
 ---
 title: What's new
-date: "2024-07-17T21:53:00Z"
+date: "2024-08-25T23:00:30Z"
 description: Updates on my research and expository papers, discussion of open problems,
   and other maths-related topics.  By Terence Tao
 params:
@@ -16,23 +16,26 @@ params:
   recommended: []
   recommender: []
   categories:
-  - least common multiples
+  - Paul Erdos
+  - Siegel zero
+  - expository
   - math.NT
-  - paper
+  - parity problem
   relme: {}
-  last_post_title: Dense sets of natural numbers with unusually large least common
-    multiples
-  last_post_description: I’ve just uploaded to the arXiv my paper “Dense sets of natural
-    numbers with unusually large least common multiples“. This short paper answers
-    (in the negative) a somewhat obscure question of
-  last_post_date: "2024-07-09T16:41:41Z"
-  last_post_link: https://terrytao.wordpress.com/2024/07/08/dense-sets-of-natural-numbers-with-unusually-large-least-common-multiples/
+  last_post_title: 'Erdos problem #385, the parity problem, and Siegel zeroes'
+  last_post_description: The Erdös problem site was created last year, and announced
+    earlier this year on this blog. Every so often, I have taken a look at a random
+    problem from the site for fun. A few times, I was able to
+  last_post_date: "2024-08-19T20:14:59Z"
+  last_post_link: https://terrytao.wordpress.com/2024/08/19/erdos-problem-385-the-parity-problem-and-siegel-zeroes/
   last_post_categories:
-  - least common multiples
+  - Paul Erdos
+  - Siegel zero
+  - expository
   - math.NT
-  - paper
+  - parity problem
   last_post_language: ""
-  last_post_guid: 7a94c789bebd25db333b724fce83e8ca
+  last_post_guid: 44322d7c7fc2c537aa2a11303008a13e
   score_criteria:
     cats: 0
     description: 3

@@ -1,6 +1,6 @@
 ---
 title: Yoav's blog thing
-date: "2024-06-18T00:00:00Z"
+date: "2024-08-20T00:00:00Z"
 description: Stringing together words about web performance and standards.
 params:
   feedlink: https://blog.yoav.ws/feed/feed.xml

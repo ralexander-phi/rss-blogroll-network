@@ -1,6 +1,6 @@
 ---
 title: GNU Guix — Blog
-date: "2024-07-12T16:46:48Z"
+date: "2024-08-17T20:01:19Z"
 description: ""
 params:
   feedlink: https://guix.gnu.org/feeds/blog.atom
@@ -15,20 +15,19 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Research
+  - Community
   relme: {}
-  last_post_title: 'Source code archiving in Guix: new publication'
+  last_post_title: The European Union must keep funding free software
   last_post_description: |-
-    We are glad to announce the publication of a new research paper entitled
-      Source Code Archiving to the Rescue of Reproducible
-    Deployment   for the  ACM Conference
-    on Reproducibility and
-  last_post_date: "2024-05-31T12:00:00Z"
-  last_post_link: https://guix.gnu.org/blog/2024/source-code-archiving-in-guix-new-publication//
+    Guix is the fruit of a combination of volunteer work by an amazing
+    number of people, work paid for by employers, but also work sponsored by
+    public institutions.  The European Commission’s  Next
+  last_post_date: "2024-07-23T17:30:00Z"
+  last_post_link: https://guix.gnu.org/blog/2024/the-european-union-must-keep-funding-free-software//
   last_post_categories:
-  - Research
+  - Community
   last_post_language: ""
-  last_post_guid: b93cfc525bee6465caba889e351afdc0
+  last_post_guid: 31e25fbf7b048ab1c4cb3827ee02bb45
   score_criteria:
     cats: 0
     description: 0

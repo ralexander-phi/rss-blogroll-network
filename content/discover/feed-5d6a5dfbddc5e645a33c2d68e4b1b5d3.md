@@ -1,6 +1,6 @@
 ---
 title: simply.
-date: "2024-07-20T13:16:32Z"
+date: "2024-08-25T11:27:52Z"
 description: it’s personal and micro – simply.
 params:
   feedlink: https://simply.joejenett.com/feed.xml
@@ -25,7 +25,6 @@ params:
   categories:
   - '["personal"]'
   relme:
-    https://bulltown.2022.joejenett.com/: true
     https://bulltown.joejenett.com/: true
     https://directory.jenett.org/: true
     https://directory.joejenett.com/: true
@@ -51,16 +50,16 @@ params:
     https://toot.community/@jenett: true
     https://wiki.jenett.org/: true
     https://wiki.joejenett.com/: true
-  last_post_title: Lonita’s Creative Idea of the Day
-  last_post_description: '#Creative Idea of the Day Write a short story exactly as
-    many words long as how old you are in years. In his late teens, he would sometimes
-    travel from school in Gainesville to home in Miami Beach'
-  last_post_date: "2024-06-12T18:26:53Z"
-  last_post_link: https://simply.joejenett.com/creative-idea-of-the-day/
+  last_post_title: sunfire
+  last_post_description: My day starts now. It’s taken me this long to get in gear.
+    Three hours in, I’m ready to put challenges aside and move forward. There’s sunfire
+    in my heart now, handmade from the heart of
+  last_post_date: "2024-08-18T12:11:06Z"
+  last_post_link: https://simply.joejenett.com/sunfire/
   last_post_categories:
   - '["personal"]'
   last_post_language: ""
-  last_post_guid: cd69e79b6dcb8bb2ee9c4349e6f6e9b4
+  last_post_guid: d4a02a9c0c97d3deb4d0cc20dd9a0cbf
   score_criteria:
     cats: 0
     description: 3

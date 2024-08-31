@@ -1,6 +1,6 @@
 ---
 title: Dan on Python
-date: "2024-07-05T23:14:03-07:00"
+date: "2024-08-03T18:48:41-07:00"
 description: ""
 params:
   feedlink: https://strombrg.blogspot.com/feeds/posts/default/-/Python

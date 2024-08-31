@@ -21,19 +21,19 @@ params:
   - Relocating to Herefordshire
   - diary
   relme: {}
-  last_post_title: 'Herefordshire Week 237: Tuesday 9 – Monday 15 July 2024'
-  last_post_description: Paris postponed. Walking from Dore Abbey to Hay on Wye. Sunshine
-    and pouring rain. Deer, damselflies and flying ants…. Slow start to Tuesday. Heavy
-    rain overnight and on and off during the day. Gym
-  last_post_date: "2024-07-16T09:53:26Z"
-  last_post_link: https://www.sparklytrainers.com/blog/2024/07/16/herefordshire-week-237-tuesday-9-monday-15-july-2024/
+  last_post_title: 'Herefordshire Week 243: Tuesday 20 – Monday 26 August 2024'
+  last_post_description: Reading, gardening, walking. Another down day on Tuesday
+    – didn’t have a good night’s sleep. Into Hereford (as far as Belmont) in the morning
+    to visit the library and Tescos. Back home for
+  last_post_date: "2024-08-23T14:40:03Z"
+  last_post_link: https://www.sparklytrainers.com/blog/2024/08/23/herefordshire-week-243-tuesday-20-monday-26-august-2024/
   last_post_categories:
   - Herefordshire (UK)
   - Herefordshire Week Notes
   - Relocating to Herefordshire
   - diary
   last_post_language: ""
-  last_post_guid: 05bb092bde1607038b098446df291d5d
+  last_post_guid: 993805dbfb487c22dc039356cb2b2fdd
   score_criteria:
     cats: 0
     description: 0

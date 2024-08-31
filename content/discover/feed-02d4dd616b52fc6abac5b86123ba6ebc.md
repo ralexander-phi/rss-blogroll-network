@@ -220,15 +220,15 @@ params:
   - yoon-suin
   - zombies
   relme: {}
-  last_post_title: Personal Reflections on the OSR at 1,990 Posts
-  last_post_description: This post is the 1,989th published at Monsters & Manuals.
-    That's a lot. I have been writing this nonsense for sixteen years, which might
-    actually be before some readers were even born. (Are teenagers
-  last_post_date: "2024-07-19T12:40:00Z"
-  last_post_link: http://monstersandmanuals.blogspot.com/2024/07/personal-reflections-on-osr-at-1990.html
+  last_post_title: On the Inspirational Power of Mercurial Place Names
+  last_post_description: Because I am a very busy, dedicated and hardworking employee
+    and involved family man, I spend a lot of time dicking around on wikipedia, looking
+    at articles about things like the geological features
+  last_post_date: "2024-08-29T21:44:00Z"
+  last_post_link: http://monstersandmanuals.blogspot.com/2024/08/on-inspirational-power-of-mercurial.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 3823325485d7788af5cab6fcf7168726
+  last_post_guid: c966387e1aa3500e53029b2700111f3e
   score_criteria:
     cats: 5
     description: 3

@@ -1,6 +1,6 @@
 ---
 title: Technomancy
-date: "2023-12-31T22:07:32Z"
+date: "2024-07-25T18:25:39Z"
 description: ""
 params:
   feedlink: https://technomancy.us/atom.xml

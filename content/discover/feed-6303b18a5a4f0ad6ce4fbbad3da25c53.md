@@ -112,6 +112,7 @@ params:
   - https://idealistpropaganda.blogspot.com/feeds/posts/default?alt=rss
   - https://indieweb.org/wiki/index.php?feed=atom&title=Special%3ARecentChanges
   - https://infullflow.net/comments/feed/
+  - https://jan.boddez.net/articles/feed
   - https://jan.boddez.net/comments/feed
   - https://jeroensangers.com/podcast.xml
   - https://localghost.dev/articles.xml
@@ -122,6 +123,7 @@ params:
   - https://localghost.dev/podcasts.xml
   - https://localghost.dev/recipes.xml
   - https://longnow.org/ideas/
+  - https://ochtendgrijs.be/blog/feed/
   - https://ochtendgrijs.be/comments/feed/
   - https://remkusdevries.com/comments/feed/
   - https://remkusdevries.com/feed/
@@ -139,6 +141,7 @@ params:
   - https://werd.io/content/all?_t=rss
   - https://werd.io/content/bookmarkedpages?_t=rss
   - https://www.bjornfranke.nl/comments/feed/
+  - https://www.jeremycherfas.net/blog.rss
   - https://www.neondystopia.com/?feed=comments-rss2
   - https://www.neondystopia.com/?feed=rss2
   - https://www.pelicancrossing.net/netwars/index.xml
@@ -158,15 +161,15 @@ params:
     https://frankmeeuwsen.com/: true
     https://indieweb.org/User:Diggingthedigital.com: true
     https://indieweb.social/@frank: true
-  last_post_title: Dragons on the moon
-  last_post_description: The Long Now Blog published a fascinating interview with
-    Robin Sloan. Regular readers know, I’m a card-carrying fan of Sloan’s work. I
-    am currently at about 80% of the incredible adventure in
-  last_post_date: "2024-07-10T08:32:46+02:00"
-  last_post_link: https://frankmeeuwsen.com/2024/07/10/dragons-on-the.html
+  last_post_title: De nazomer lonkt
+  last_post_description: Vandaag is de laatste echte vrije dag van de vakantie. Ik
+    heb doorgewerkt de afgelopen weken en we zijn niet echt op vakantie geweest. Het
+    was een heerlijke zomervakantie. We mochten in het huis van
+  last_post_date: "2024-08-27T20:21:28+02:00"
+  last_post_link: https://frankmeeuwsen.com/2024/08/27/de-nazomer-lonkt.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: de1a545aa56a6eed725307c7f80359e7
+  last_post_guid: 6c47c1d3806ef7961c273ba5b5e077e1
   score_criteria:
     cats: 0
     description: 0

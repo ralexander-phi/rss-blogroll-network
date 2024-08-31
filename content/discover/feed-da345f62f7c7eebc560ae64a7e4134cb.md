@@ -1,6 +1,6 @@
 ---
 title: GROGNARDIA
-date: "2024-07-22T19:30:51-04:00"
+date: "2024-08-30T10:28:14-04:00"
 description: Musings and Memories from a Lifetime of Roleplaying
 params:
   feedlink: https://grognardia.blogspot.com/feeds/posts/default
@@ -142,6 +142,7 @@ params:
   - copyright
   - cosmology
   - costikyan
+  - counterculture
   - counters
   - crichton
   - crompton
@@ -326,6 +327,7 @@ params:
   - king arthur
   - kirby
   - kline
+  - knave
   - knockspell
   - known world
   - kothar
@@ -383,6 +385,7 @@ params:
   - metamorphosis alpha
   - midderlands
   - miller
+  - milton
   - minaria
   - mind flayers
   - mini-con
@@ -433,6 +436,7 @@ params:
   - ogl
   - ogre
   - old school
+  - oleck
   - open friday
   - ose
   - osr
@@ -454,6 +458,7 @@ params:
   - palmer
   - pangborn
   - pao
+  - parkinson
   - pathfinder rpg
   - pdf
   - peake
@@ -489,6 +494,7 @@ params:
   - random roll
   - ranger
   - rasmussen
+  - raupp
   - ravenloft
   - red sonja
   - refereeing
@@ -647,17 +653,19 @@ params:
   - zothique
   relme:
     https://grognardia.blogspot.com/: true
-    https://www.blogger.com/profile/00341941102398271464: true
-  last_post_title: Can You Spot the Hidden Deathtrap in this Room?
+  last_post_title: 'Level Titles: Beyond D&D'
   last_post_description: ""
-  last_post_date: "2024-07-22T15:00:00-04:00"
-  last_post_link: https://grognardia.blogspot.com/2024/07/can-you-spot-hidden-deathtrap-in-this.html
+  last_post_date: "2024-08-30T00:00:00-04:00"
+  last_post_link: https://grognardia.blogspot.com/2024/08/level-titles-beyond-d.html
   last_post_categories:
-  - dragon magazine
-  - foglio
-  - humor
+  - character classes
+  - ept
+  - gangbusters
+  - level
+  - top secret
+  - tsr
   last_post_language: ""
-  last_post_guid: 0da1c5ba1bb029f02b5197cfb4202faf
+  last_post_guid: 0db69a8f2fad1d8c5b8a1f6aa7aa390b
   score_criteria:
     cats: 5
     description: 3

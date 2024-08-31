@@ -1,6 +1,6 @@
 ---
 title: Qt, linux and everything
-date: "2024-05-14T17:39:50+10:00"
+date: "2024-08-29T01:20:38+10:00"
 description: |-
   thoughts from a developer.
   Author of Hands-on Mobile and Embedded Development with Qt 5 http://bit.ly/HandsOnMobileEmbedded

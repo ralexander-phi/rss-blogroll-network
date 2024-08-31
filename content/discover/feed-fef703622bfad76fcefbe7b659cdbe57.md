@@ -19,24 +19,21 @@ params:
   - title: ""
     description: ""
     id: 7c57874819a3b666310d14cda337b41d
+  - title: ""
+    description: ""
+    id: d1e3cb8e6f775b5ce55cf0dfdc573e04
   recommended: []
   recommender:
-  - https://benji.dog/all.xml
-  - https://benji.dog/bookmarks.xml
   - https://benji.dog/feed.xml
-  - https://benji.dog/photos.xml
-  - https://benji.dog/read.xml
-  - https://benji.dog/watched.xml
   - https://www.benji.dog/all.xml
   - https://www.benji.dog/bookmarks.xml
+  - https://www.benji.dog/feed.xml
   - https://www.benji.dog/photos.xml
   - https://www.benji.dog/read.xml
   - https://www.benji.dog/watched.xml
   categories:
   - IFTTT
-  - crafting
   - general
-  - sdcc
   - via-instagram
   relme:
     https://artlung.com/: true
@@ -49,18 +46,16 @@ params:
     https://github.com/artlung: true
     https://stackoverflow.com/users/63094/artlung: true
     https://xoxo.zone/@artlung: true
-  last_post_title: 'Prep for #SDCC'
-  last_post_description: from Instagram https://instagr.am/p/C9temsmJ_Vy/ via IFTTT
-  last_post_date: "2024-07-22T03:58:46Z"
-  last_post_link: https://artlung.com/blog/2024/07/21/prep-for-sdcc/
+  last_post_title: Looking east. Looking west. Crystal Pier.
+  last_post_description: from Instagram https://instagr.am/p/C_RvMEEvBlp/ via IFTTT
+  last_post_date: "2024-08-30T02:23:44Z"
+  last_post_link: https://artlung.com/blog/2024/08/29/looking-east-looking-west-crystal-pier/
   last_post_categories:
   - IFTTT
-  - crafting
   - general
-  - sdcc
   - via-instagram
   last_post_language: ""
-  last_post_guid: f8aee00e7a521b8ac8a0b50aa4bc6a99
+  last_post_guid: ec45f420e449abb418b1c33fb6b5b27a
   score_criteria:
     cats: 0
     description: 3

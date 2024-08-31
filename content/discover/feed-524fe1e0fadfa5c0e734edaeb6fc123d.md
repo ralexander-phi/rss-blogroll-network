@@ -19,28 +19,44 @@ params:
   - https://takeonrules.com/site-map/updates/index.xml
   - https://takeonrules.com/tags/emacs/index.xml
   categories:
-  - Roleplaytime
+  - News
+  - SDM
+  - System
   - UVG
-  - car battles
-  - golem
-  - osr
-  - racing
+  - Vastlands
+  - beta
+  - free pdf
+  - guidebook
+  - news
+  - rpg
+  - rulebook
+  - update
+  - vastlands
+  - wtf
   relme: {}
-  last_post_title: Exploding Autogolems
-  last_post_description: Recently, someone on the stratometaship (my patreon discord
-    server) asked about thoughts on person-to-vehicle damage. Now, while I’ve always
-    had a fondness for RIFTS-style megadamage … I
-  last_post_date: "2024-06-05T03:03:15Z"
-  last_post_link: https://www.wizardthieffighter.com/2024/exploding-autogolems/
+  last_post_title: Vastlands Guidebook Bootleg Beta Released
+  last_post_description: and the last 24 hours of the Our Golden Age backerkit campaign!
+    Here we are now, nearly at the end of this backerkit sprint. 24 hours to go and
+    909% funded. And I’m finally releasing the Vastlands
+  last_post_date: "2024-08-30T04:35:24Z"
+  last_post_link: https://www.wizardthieffighter.com/2024/vastlands-guidebook-bootleg-beta-released/
   last_post_categories:
-  - Roleplaytime
+  - News
+  - SDM
+  - System
   - UVG
-  - car battles
-  - golem
-  - osr
-  - racing
+  - Vastlands
+  - beta
+  - free pdf
+  - guidebook
+  - news
+  - rpg
+  - rulebook
+  - update
+  - vastlands
+  - wtf
   last_post_language: ""
-  last_post_guid: b9b27cd59878341642a9aec85788b096
+  last_post_guid: fd6204ad69e4fabbf2a6fa48f3a446d8
   score_criteria:
     cats: 0
     description: 3

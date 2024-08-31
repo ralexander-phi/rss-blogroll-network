@@ -11,34 +11,24 @@ params:
   in_blogrolls:
   - title: Dan Q's Blogroll
     description: ""
-    id: 7e0e72d6fd1109a16363155b4cda88a8
-  - title: Dan Q's Blogroll
-    description: ""
     id: efa39f8903d9f955318300588291f9c0
-  - title: Dan Q's Blogroll
-    description: ""
-    id: 42e729b4ed4d139b08eaa2f55f3a9b49
   recommended: []
   recommender:
-  - https://danq.blog/comments/feed/
-  - https://danq.blog/feed/
   - https://danq.me/comments/feed/
   - https://danq.me/feed/
   - https://danq.me/kind/article/feed/
   - https://danq.me/kind/note/feed/
-  - https://danq.uk/comments/feed/
-  - https://danq.uk/feed/
   categories: []
   relme: {}
-  last_post_title: Everybody's Free (To Write Websites)
-  last_post_description: "Everybody's Free (To Write Websites)\n              by Sara
-    JoyA parody of the \"Wear Sunscreen\" thing from the late 90s. This is just fabulous.\n
-    \             Read Post →\n            \n          \n    "
-  last_post_date: "2024-07-17T21:10:00+01:00"
-  last_post_link: https://kevquirk.com/blog/everybody-s-free-to-write-websites
+  last_post_title: The Blackest Heart
+  last_post_description: "✍️ Written by: Brian Lee Durfee\n                  \U0001F3F7
+    Genre: Fantasy\n                  \U0001F5D3 Published: 01 September 2007\n                  \U0001F4C4
+    Pages: 911\n                  \U0001F9D0 My rating:"
+  last_post_date: "2024-08-28T08:50:00+01:00"
+  last_post_link: https://kevquirk.com/blog/the-blackest-heart
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 59cb0ed2873a834a4fd62b89ac76de21
+  last_post_guid: bd11647ca4a606f23baf0794fdf19bd6
   score_criteria:
     cats: 0
     description: 3

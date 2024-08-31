@@ -1,6 +1,6 @@
 ---
 title: Python Bytes
-date: "2024-07-17T00:00:00-08:00"
+date: "2024-08-26T00:00:00-08:00"
 description: |-
   Python Bytes is a weekly podcast hosted by Michael Kennedy and Brian Okken. The show is a short
               discussion on the headlines and noteworthy news in the Python, developer, and data science
@@ -20,16 +20,16 @@ params:
   categories:
   - Technology
   relme: {}
-  last_post_title: '#392 The votes have been counted'
-  last_post_description: "Topics covered in this episode:\n\n\n\t2024 PSF Board Election
-    & Proposed Bylaw Change Results\nSATYRN: A modern Jupyter client for Mac\nIncident
-    Report: Leaked GitHub Personal Access Token\nExtra extra"
-  last_post_date: "2024-07-17T00:00:00-08:00"
-  last_post_link: https://pythonbytes.fm/episodes/show/392/the-votes-have-been-counted
+  last_post_title: '#398 Open source makes you rich? (and other myths)'
+  last_post_description: "Topics covered in this episode:\n\n\n\tOpen Source Myths\nuv
+    0.3.0 and all the excitement\nTop pytest Plugins\nA comparison of hosts / providers
+    for Python serverless functions (aka Faas)\nExtras\nJoke\n\nWatch"
+  last_post_date: "2024-08-26T00:00:00-08:00"
+  last_post_link: https://pythonbytes.fm/episodes/show/398/open-source-makes-you-rich-and-other-myths
   last_post_categories:
   - Technology
   last_post_language: ""
-  last_post_guid: e11d79a38cb93c31101551ebab60deec
+  last_post_guid: 7b200d9bc30d946bdd0ed1e20fca4087
   score_criteria:
     cats: 1
     description: 3

@@ -16,37 +16,33 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Activism
-  - MeredithWhittaker
-  - Research
-  - STS
+  - Archer
+  - TP-LINK
   - Technology
-  - big tech
-  - encryption
-  - privacy
-  - signal
-  - surveillance-capitalism
+  - VR1600v
+  - VoIP
+  - abstraction
+  - modem
+  - router
   relme: {}
-  last_post_title: Digging where she stands – Meredith Whittaker in conversation with
-    Vanessa Toholka at the Wheeler Centre, Melbourne
+  last_post_title: 'When abstraction goes wrong: ISP-hobbled firmware prevents using
+    VoIP with a modem router'
   last_post_description: |-
-    Data, surveillance, artificial intelligence and digging where you stand: Meredith Whittaker stands up to the power of Big Tech
-    The post Digging where she stands – Meredith Whittaker in conversation
-  last_post_date: "2024-06-28T20:15:00Z"
-  last_post_link: https://blog.kathyreid.id.au/2024/06/29/digging-where-she-stands-meredith-whittaker/
+    What does abstraction have to do with ISP-hobbled firmware on a modem router?
+    The post When abstraction goes wrong: ISP-hobbled firmware prevents using VoIP with a modem router appeared first on
+  last_post_date: "2024-08-10T09:42:02Z"
+  last_post_link: https://blog.kathyreid.id.au/2024/08/10/abstraction-goes-wrong-isp-hobbled-firmware-modem-router/
   last_post_categories:
-  - Activism
-  - MeredithWhittaker
-  - Research
-  - STS
+  - Archer
+  - TP-LINK
   - Technology
-  - big tech
-  - encryption
-  - privacy
-  - signal
-  - surveillance-capitalism
+  - VR1600v
+  - VoIP
+  - abstraction
+  - modem
+  - router
   last_post_language: ""
-  last_post_guid: c2e2f451f66f93e80dd4a07e6ef7cab8
+  last_post_guid: 995651824b0b54728eb602c8089843dc
   score_criteria:
     cats: 0
     description: 3

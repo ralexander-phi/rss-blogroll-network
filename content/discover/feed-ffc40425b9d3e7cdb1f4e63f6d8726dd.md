@@ -7,6 +7,8 @@ params:
   feedtype: rss
   feedid: ffc40425b9d3e7cdb1f4e63f6d8726dd
   websites:
+    https://michal.sapka.me/#bsd: false
+    https://michal.sapka.me/#emacs: false
     https://michal.sapka.me/bsd/: false
     https://michal.sapka.me/cool-emacs/: false
     https://michal.sapka.me/emacs/: false
@@ -18,21 +20,22 @@ params:
   recommended: []
   recommender:
   - https://marisabel.nl/feeds/blog.php
+  - https://marisabel.nl/feeds/combined.php
   - https://marisabel.nl/feeds/tech-blog.php
   - https://marisabel.nl/rss.php
   categories: []
   relme: {}
-  last_post_title: Nine Princes in Amber (Roger Zelazny, 1970)
+  last_post_title: 'Broken Sword - Shadow of the Templars: Reforged'
   last_post_description: |-
-    That’s one confusing novel.
-    Corwin wakes up in a hospital in New York with amnesia.
-    But the cover of the book has castles and swords!1
-    Well, as it turns out Corwin is one of nine princes of Amber,
-  last_post_date: "2024-07-22T23:21:00+02:00"
-  last_post_link: https://michal.sapka.me/brain-rot/fantasy/chronicles-of-amber/nine-princes-in-amber/
+    Look ma!
+    And even longer title.
+    But yeah - one of the greatest video games I’ve ever played is getting an HD remaster.
+    It’s time for younger people than me to get an unhealthy image of France
+  last_post_date: "2024-08-27T21:24:00+02:00"
+  last_post_link: https://michal.sapka.me/blog/2024/bs-sottr/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 1a286881fd74256686bd813b696edb1a
+  last_post_guid: 5e8d4818b1e671c327b3d4dea5661de2
   score_criteria:
     cats: 0
     description: 3

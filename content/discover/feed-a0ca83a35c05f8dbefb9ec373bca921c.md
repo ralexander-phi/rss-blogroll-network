@@ -1,6 +1,6 @@
 ---
 title: Java Persistence
-date: "2024-03-08T01:57:35-05:00"
+date: "2024-08-27T06:05:12-04:00"
 description: A blog dedicated to Java Persistence issues and solutions related to
   EclipseLink and Oracle TopLink.
 params:

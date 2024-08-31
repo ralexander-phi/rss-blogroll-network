@@ -21,15 +21,15 @@ params:
   - https://colinwalker.blog/livefeed.xml
   categories: []
   relme: {}
-  last_post_title: becoming obsessed with a sailing lifestyle
-  last_post_description: '[I have been away from the blog for a while. In the meantime,
-    the ideas I want to write about have grown terrifyingly large. Rather than squeezing
-    each in a large post, I wanted to try writing a'
-  last_post_date: "2024-07-04T06:59:00Z"
-  last_post_link: https://lili.bearblog.dev/becoming-obsessed-with-a-sailing-lifestyle/
+  last_post_title: our personal library
+  last_post_description: |-
+    What books in your library will you never read (or read again)? Which books are there as ideals, those which surely you will read soon enough?
+    Then which books must you keep forever, because their
+  last_post_date: "2024-08-21T20:26:00Z"
+  last_post_link: https://lili.bearblog.dev/our-personal-library/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: d5520fef65432ce870ea81961f7942b2
+  last_post_guid: e0c81ef9512b4b79f7fbb54007e34f66
   score_criteria:
     cats: 0
     description: 3

@@ -17,14 +17,13 @@ params:
   - https://chrisburnell.com/feed.xml
   categories: []
   relme: {}
-  last_post_title: Por Primera Vez - Camilo
-  last_post_description: I enjoy this song. It warms my heart so much as a hopeless
-    romantic. Songs in Spanish are so much meaningful to me since it is my first language.…
-  last_post_date: "2024-07-01T19:06:45-07:00"
-  last_post_link: https://lifeofpablo.com/blog/por-primera-vez-camilo
+  last_post_title: Day for Myself
+  last_post_description: I haven't had time for myself in a few weeks.
+  last_post_date: "2024-08-24T21:40:27-07:00"
+  last_post_link: https://lifeofpablo.com/blog/day-for-myself
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 9fea180de0ea50013f5306c8889e834a
+  last_post_guid: a361e9628f5bc92b203196a4d5b65979
   score_criteria:
     cats: 0
     description: 3

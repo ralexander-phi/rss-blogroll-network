@@ -19,16 +19,15 @@ params:
   - http://scripting.com/rssNightly.xml
   categories: []
   relme: {}
-  last_post_title: 'Introducing Distill CLI: An efficient, Rust-powered tool for media
-    summarization'
-  last_post_description: After a few code reviews from Rustaceans at Amazon and a
-    bit of polishing, I'm ready to share the Distill CLI. An open-source tool written
-    in Rust for summarizing meetings and other media that uses
-  last_post_date: "2024-06-18T06:30:00-08:00"
-  last_post_link: https://www.allthingsdistributed.com/2024/06/introducing-distill-cli.html?utm_campaign=inbound&utm_source=rss
+  last_post_title: Empowering builders with the new AWS Asia Pacific (Malaysia) Region
+  last_post_description: Builders are at the heart of AWS. Most recently, I visited
+    Malaysia, the location of the newest AWS Region, our 34th globally, and home to
+    a rapidly evolving technology sector, where businesses of
+  last_post_date: "2024-08-29T06:30:00-08:00"
+  last_post_link: https://www.allthingsdistributed.com/2024/08/empowering-builders-with-new-aws-asia-pacific-malaysia-region.html?utm_campaign=inbound&utm_source=rss
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 133245aa07a73e637b7171469e4d5b65
+  last_post_guid: 99ca9cdb4a747e92a412be9536b5805a
   score_criteria:
     cats: 0
     description: 3

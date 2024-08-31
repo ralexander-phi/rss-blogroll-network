@@ -1,6 +1,6 @@
 ---
 title: Swords &amp; Stitchery - Old Time Sewing &amp; Table Top Rpg Blog
-date: "2024-07-22T16:32:20-07:00"
+date: "2024-08-30T03:21:13-07:00"
 description: A blog about sewing machine repairs,but mainly my hobbies which include
   old school role playing games, science fiction,films, horror, and general geekery.
   Sit down and stay a spell.
@@ -422,6 +422,7 @@ params:
   - ': Drugs'
   - ': Free Material'
   - ': HG Wells'
+  - ': Jeff Grubb'
   - ': OSR Campaign Commentary'
   - A 'Pay What You Want' title
   - A Book of Miscellaneous Spells Volume 2
@@ -1151,6 +1152,7 @@ params:
   - Cepheus Engine Powered 2d6 Rpg's
   - Cepheus Engine Rpg  Vehicle Design Guide
   - Cepheus Engine Rpg Vehicle Design Guide
+  - Cepheus Engine Rpg's
   - Cepheus Engine Universal
   - Cepheus Engine based Rpg's
   - Cepheus Engine rpg
@@ -1166,6 +1168,7 @@ params:
   - Cepheus Light rpg
   - Cepheus Modern
   - Cepheus Quantum rpg system
+  - Cepheus Univeral rpg
   - Cepheus Universal Rpg
   - 'Cepheus Universal: Player''s Book'
   - Cepheus lite
@@ -1556,6 +1559,7 @@ params:
   - David J. Ritchie
   - David Kickasola
   - David Lance Arneson
+  - David Martin (Author)
   - David Prata
   - David Trampier
   - David Woodrum
@@ -1631,6 +1635,7 @@ params:
   - 'Different Worlds issue #31'
   - Dinosaurs Cowboys Human Space Empires Worlds
   - Dio
+  - Dire Invasion
   - Direbane blog
   - Dirty Wars Corporate Armies
   - Disney
@@ -1673,6 +1678,7 @@ params:
   - Dragon Bat
   - 'Dragon Issue #62'
   - Dragon Magazine
+  - 'Dragon Magazine #112'
   - Dragon Magazine 138
   - Dragon Magazine 159
   - Dragon Magazine 182
@@ -1803,6 +1809,7 @@ params:
   - Edgar Allen Poe
   - Edgar Rice Borroughs
   - Edgar Rice Burroughs
+  - Edward G. Sollers
   - Edward Hamilton
   - Effing Cool Miniatures
   - Egg of Coot
@@ -1902,6 +1909,7 @@ params:
   - Fan Theories
   - Fangs of the Fatherland
   - Fantastic Adventures
+  - Fantastic Four Compendium (Marvel Super Heroes
   - Fantastic Heroes & Witchery Rpg
   - Fantastic Treasures
   - 'Fantastic Treasures: Hundreds of Enchanted Weapons and Items From Myth & Folklore'
@@ -1959,6 +1967,7 @@ params:
   - 'Foot Print Magazine issue #22'
   - Footprint Magazine
   - Footprints (Issue 24 - Jan 2019)
+  - For The Faster Then Light Nomade 2d6 Rpg
   - Forbidden Planet
   - 'Forbidden Worlds #2'
   - 'Ford''s Faeries: A Bestiary'
@@ -2485,6 +2494,7 @@ params:
   - Inzae
   - Io
   - Io9
+  - Iron Maide
   - Iron Maiden
   - Ishihara Gōjin
   - Islands In The Stream
@@ -2625,6 +2635,7 @@ params:
   - Journey through Malebolge Book Two
   - Jr
   - Jr.
+  - Judge's Book
   - Judge's Guild
   - Judge's Guild Products
   - Judge's Guild Products.
@@ -2682,6 +2693,7 @@ params:
   - Kiel Chenier
   - Kill Kittens
   - Killraven
+  - Kim Eastland
   - Kim Hartsfield
   - King
   - King In The Mountain
@@ -2823,6 +2835,7 @@ params:
   - Lovecraftian Campaign Settings
   - Lovecraftian Commentary
   - Lovecraftian Dream Monsters
+  - Lovecraftian Ecology
   - Lovecraftian Encounters
   - Lovecraftian Factions
   - Lovecraftian Monster Ecology
@@ -2855,18 +2868,21 @@ params:
   - M6 Werewolf by Night for the Marvel Super Heroes RPG
   - MA 10 The Unofficial Canon Project Marvel Super Hereos Reed Richard's Guide To
     The Universe
+  - MA1 Children of the Atom (Marvel Super Heroes RPG)
   - MA11  The Unofficial Marvel Super Heroes Rpg Marvel Vampires By The Unofficial
     Cannon Project
   - 'MA12 the Marvel Super Heroes RPG: The Unofficial Canon Project Monsters Unleashed
     Pdf'
   - MA15 The Unofficial Canon Project Marvel Super Heroes Rpg Heroes of The North
   - MA6 The Silver Age Sourcebook
+  - MH AC2 Avengers Assembled
   - 'MHL3: Imperious Rex! Realms of the Deep'
   - MHR6 Conan The Barbarian Box Set
   - ML Straus
   - MM#7 Dread Swamp of the Banshee
   - MUTT Powered Armor
   - MX1 Nightmares of Future Past
+  - Ma4)
   - Macbeth
   - Machin Level
   - Machinations of the Space Princess
@@ -2948,6 +2964,7 @@ params:
   - Marvel Star Wars Comics
   - Marvel Super Hero Role Playing
   - Marvel Super Heroes
+  - Marvel Super Heroes Advanced
   - 'Marvel Super Heroes RPG: The Unofficial Canon Project'
   - Marvel Super Heroes Rpg
   - Marvel Super Heroes The Golden Age
@@ -3243,6 +3260,7 @@ params:
   - North West Smith
   - North Wind Adventures
   - Northern Edge
+  - Nova Corps
   - Novanexus
   - Novellas
   - Novels
@@ -3453,10 +3471,12 @@ params:
   - Old school Horror Comics
   - Old school Horror gaming
   - Olivar Tripas
+  - Olivier Scherschel
   - Omar Golan-Joel
   - Omega 99
   - Omer Golan-Joel
   - Omer Joel
+  - On Anderson and Felix Ready Reckoner
   - 'On Axioms Compendium Volume 2: 9 - 16'
   - 'On Vice: Sandcove Under Fire'
   - One Day Digs
@@ -3680,6 +3700,7 @@ params:
   - Professor MAR Barker
   - Professor Moriarty
   - Prohibition
+  - Project Wideawake
   - Prometheus
   - Props
   - Proto dimension magazine.
@@ -3821,7 +3842,9 @@ params:
   - Retro Clone Rpgd
   - Retro Future
   - Retro Future Campaigns
+  - Retro OSR Review & Commentary
   - Retro Pulp Venus
+  - 'Retro Review On MA2: Avengers Coast-to-Coast'
   - Retro clone
   - Retro clone Magic Systems
   - Retro clone Monster Systems
@@ -3866,6 +3889,7 @@ params:
   - Review
   - Review & Commentary
   - Review & Commentary  of "Crime City Blues Part II Knuckles of Steel"
+  - 'Review & Commentary On FTL Supplement 2: Spacecraft Go!'
   - Review & Commentary On Manavores -- A Shadowdark Supplement
   - Review & OSR Commentary
   - Review and Commentary
@@ -4170,6 +4194,7 @@ params:
   - Something Stinks in Stilton
   - Something Wretched This Way Comes
   - Something Wretched This Way Comes 1.2
+  - Somewhere in Time Album
   - Sonic Energizer
   - Sonic Shot Gun Relic
   - Sonic Tube of Destruction Weapon
@@ -4332,6 +4357,7 @@ params:
   - Strange Aeons
   - Strange Stars
   - Strange Stars Session Report
+  - Strange Stars Setting
   - 'Strange Worlds Issue #3'
   - Stranger Things
   - Stripe NPC
@@ -4525,6 +4551,7 @@ params:
   - The Arduin Grimoire
   - The Arduin Grimoire series
   - The Arena of Thyatis (DDA1)
+  - The Ares Magazine Section
   - The Ares Section of Dragon Magazin
   - The Ares Section of Dragon Magazine
   - The Ascendant Rpg systemm
@@ -4581,6 +4608,7 @@ params:
   - The Clement Sector
   - The Clement Sector Campaign Setting
   - The Clement Sector Core Setting Book
+  - The Clement Sector Lightspeed rpg
   - The Cobra Crown
   - The Codex Slavorum
   - The Coeurl
@@ -4633,6 +4661,7 @@ params:
   - The Dungeon of Crows 2 - Avatar of Yog Sutekhis
   - The Dungeons & Dragons Cartoon
   - The EMA-1 Modular Gun System (MGS)
+  - The Earth & Clement Sector
   - The Earth Sector
   - The Ebony Lodges Of Mu
   - The Eerie West - X!
@@ -4771,6 +4800,8 @@ params:
   - The Manual of the Planes
   - The Marvel Super Hereoes Rpg
   - The Marvel Super Hereos rpg Golden Age of Heroes book
+  - The Marvel Super Heroes Advanced Rpg
+  - The Marvel Super Heroes Advanced Rpg system
   - The Marvel Super Heroes Rpg
   - The Master Mind Of Mars By Edgar Rice Burroughs
   - The Memorial
@@ -4830,6 +4861,7 @@ params:
   - The Peryton
   - The Piazza forums
   - The Planes of Existence
+  - The Player's Book
   - The Player's Companion
   - The Pleiades Light Freighter
   - The Pleiades-class Light Freighter
@@ -4925,6 +4957,7 @@ params:
   - The Stone Alignments of Kor Nak
   - The Stormbringer rpg
   - The Strategic Review Magazine
+  - The Street Knight Rpg
   - The Stygian Garden of Abelia Prem
   - The Swarm
   - The Sword & The Sorcerer
@@ -5124,6 +5157,7 @@ params:
   - Troll Lords Castle Keeper's Guide 3rd Printing
   - Troll Lords Games
   - Trolls
+  - Tsathoggua
   - Tumbleweed Tales Volume 1
   - Tunnels & Trolls
   - Twenty Rules
@@ -5400,6 +5434,7 @@ params:
   - Wretched Armageddon Vol.1 War
   - Wretched Bastards
   - Wretched Bastards Rpg
+  - Wretched Chanbara!
   - Wretched Conspiracies campaign Setting
   - Wretched Country second edition Rpg
   - Wretched Darkness
@@ -5627,26 +5662,21 @@ params:
   - western
   - “Ynys Bach”
   relme:
-    https://darkcornersofrpging.blogspot.com/: true
     https://swordsandstitchery.blogspot.com/: true
-    https://thomassewingmachines.blogspot.com/: true
-    https://www.blogger.com/profile/11243274667834930867: true
-  last_post_title: 'Enter The Psycho Warriors - Ascendant Rpg Session Report  - Capital
-    City Casefiles #2: Served Cold By Karl Gustav-'
-  last_post_description: The PC's have been called into a new mission as they've made
-    a cosmic entity report after encountering the High Evolutionary last session.
-    Now the PC's are to perform a raid on an illicit drug lab
-  last_post_date: "2024-07-21T16:30:28-07:00"
-  last_post_link: https://swordsandstitchery.blogspot.com/2024/07/enter-psycho-warriors-ascendant-rpg.html
+  last_post_title: Using More Old School Resources For Designing Martian Adventures
+    In The Warriors of the Red Planet Rpg
+  last_post_description: So I've been looking at some of Edgar Rice Burroughs Barsoom
+    literature especially the Amazon entry on the Master Mind of Mars which has a
+    great summery of the book; "In The Master Mind of Mars,
+  last_post_date: "2024-08-28T17:32:33-07:00"
+  last_post_link: https://swordsandstitchery.blogspot.com/2024/08/using-more-old-school-resources-for.html
   last_post_categories:
-  - Alexander Marcis
-  - Ascendant rpg system
-  - 'Capital City Casefiles #2: Served Cold'
-  - Karl Gustav
+  - Campaign Design
   - OSR Commentary
-  - Session Report
+  - The Dragon Magazine
+  - The Warriors of the Red Planet Rpg
   last_post_language: ""
-  last_post_guid: 2d40bdfcc5524e1aed5bdbe3bf05adfa
+  last_post_guid: a73c11eae5d09523b0ccb1f3c807a914
   score_criteria:
     cats: 5
     description: 3

@@ -17,15 +17,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Cubes & Clouds - Cloud Native Open Data Science for Earth Observation
-  last_post_description: In the rapidly evolving field of Earth Observation (EO),
-    the demand for resources to stay in touch with the latest technologies is tangible.
-    To address this, EOX supported the European Space Agency
-  last_post_date: "2024-04-23T00:00:00Z"
-  last_post_link: https://eox.at/2024/04/cubes-and-clouds/
+  last_post_title: Sentinel-2 Cloudless 2023
+  last_post_description: We are thrilled to announce the latest release of EOxCloudless
+    2023 imagery. Whether you are an existing customer or new to EOxCloudless, this
+    latest update offers clarity with beautiful sceneries
+  last_post_date: "2024-08-29T00:00:00Z"
+  last_post_link: https://eox.at/2024/08/sentinel-2-cloudless-2023/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 86de96002cc5767b8e8fba4bb4ae1b0d
+  last_post_guid: f458915877894935ff4dacf8cd562ade
   score_criteria:
     cats: 0
     description: 3

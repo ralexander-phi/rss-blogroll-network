@@ -1,6 +1,6 @@
 ---
 title: Log
-date: "2024-07-01T22:17:18Z"
+date: "2024-08-03T03:11:08Z"
 description: pabs
 params:
   feedlink: https://bonedaddy.net/pabs3/log/index.rss
@@ -18,29 +18,31 @@ params:
   categories:
   - debian
   relme: {}
-  last_post_title: FLOSS Activities June 2024
+  last_post_title: FLOSS Activities July 2024
   last_post_description: |-
     Focus
 
     This month I didn't have any particular focus.
     I just worked on issues in my info bubble.
 
-    Changes
+    Issues
 
 
-    gt:
-    fix
-    manual page
-    Debian wiki pages:
-    CopyrightReviewTools,
-    MassRebuilds,
-    PortsDocs/New
-  last_post_date: "2024-07-01T22:16:31Z"
-  last_post_link: http://bonedaddy.net/pabs3/log/2024/07/02/floss-activities/
+    Unnecessary deps in
+    zlint
+
+
+    Administration
+
+
+    Debian IRC:
+    add an entry message redirecting
+  last_post_date: "2024-08-03T03:10:04Z"
+  last_post_link: http://bonedaddy.net/pabs3/log/2024/08/03/floss-activities/
   last_post_categories:
   - debian
   last_post_language: ""
-  last_post_guid: 6c7dc9bd5e0cdfd89e86781308d073bc
+  last_post_guid: bffee02c7d407bdd474431faba8a3f80
   score_criteria:
     cats: 0
     description: 3

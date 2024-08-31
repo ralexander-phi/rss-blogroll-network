@@ -17,15 +17,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'Emacs OrgMode: Reports About Clocked Time'
+  last_post_title: TIL Emacs Orgmode org-link-set-parameters
   last_post_description: |-
-    The other day I discovered, by mistake or better said by mistyping, the OrgMode org-clock-display function which is bound to C-c C-x C-d.
-    What does org-clock-display do? It creates an overlay that
-  last_post_date: "2024-07-07T15:35:58+03:00"
-  last_post_link: https://alpo.gitlab.io/jots/posts/2024/07/emacs-org-mode-reports-about-clocked-time/
+    Jeremy Friesen in “Exporting Org Mode Elfeed Links”
+    I write up a use case around exporting elfeed links and then provide some code that implements that use-case, wrapping up with a quick overview
+  last_post_date: "2024-08-20T13:32:16+03:00"
+  last_post_link: https://alpo.gitlab.io/jots/links/2024/08/til-emacs-orgmode-org-link-set-parameters/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: f982856c126d0aa4a7a18729daab1236
+  last_post_guid: cbac2596f7e1ca6f4761a3bc4efdcecc
   score_criteria:
     cats: 0
     description: 3

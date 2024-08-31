@@ -17,39 +17,26 @@ params:
   recommender: []
   categories:
   - "9.0"
-  - Cloud
-  - Devel
-  - GenAI
-  - HeatWave
-  - MDS
-  - Machine Learning
+  - Component
   - MySQL
-  - OCI
-  - Python
-  - wordpress
+  - define
+  - include
   relme:
     https://lefred.be/: true
-  last_post_title: Use OCI GenAI, and MySQL HeatWave to interact with your WordPress
-    content
-  last_post_description: MySQL HeatWave 9.0 was released under the banner of artificial
-    intelligence. It includes a VECTOR datatype and can easily process and analyze
-    vast amounts of proprietary unstructured documents in
-  last_post_date: "2024-07-10T13:09:29Z"
-  last_post_link: https://lefred.be/content/use-oci-genai-and-mysql-heatwave-to-interact-with-your-wordpress-content/
+  last_post_title: 'MySQL Vector Datatype: create your operations (part 2)'
+  last_post_description: We saw in the previous post how we can deal with data stored
+    in the new VECTOR datatype that was released with MySQL 9.0. We implemented the
+    4 basic mathematical operations between two vectors. To do
+  last_post_date: "2024-07-26T09:30:15Z"
+  last_post_link: https://lefred.be/content/mysql-vector-datatype-create-your-operations-part-2/
   last_post_categories:
   - "9.0"
-  - Cloud
-  - Devel
-  - GenAI
-  - HeatWave
-  - MDS
-  - Machine Learning
+  - Component
   - MySQL
-  - OCI
-  - Python
-  - wordpress
+  - define
+  - include
   last_post_language: ""
-  last_post_guid: e00759fc6aecdc3b13fdea603fb98fac
+  last_post_guid: 7778f569b7dc05d634c705e2163fa2ba
   score_criteria:
     cats: 0
     description: 3

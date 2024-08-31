@@ -16,15 +16,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: The XMPP Newsletter June 2024
-  last_post_description: "XMPP Newsletter Banner\nWelcome to the XMPP Newsletter,
-    great to have you here again!\nThis issue covers the month of June 2024.\n\n    XMPP
-    and Google Summer of Code 2024\n    \n        \n    \nThe XSF has"
-  last_post_date: "2024-07-06T00:00:00Z"
-  last_post_link: https://xmpp.org/2024/07/the-xmpp-newsletter-june-2024/
+  last_post_title: The XSF signs Open Letter to the European Commission
+  last_post_description: |-
+    As currently many other organisations doing, the XMPP Standards Foundation (XSF) has decided to also sign the Open Letter to the European Commission.
+    Initially published by petites singularités.
+  last_post_date: "2024-08-08T00:00:00Z"
+  last_post_link: https://xmpp.org/2024/08/the-xsf-signs-open-letter-to-the-european-commission/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: d9550bd5ea9d3087695f7ef1671897a2
+  last_post_guid: 5650103ab65463eb4f312c3527b61b53
   score_criteria:
     cats: 0
     description: 3

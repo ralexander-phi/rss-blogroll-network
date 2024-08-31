@@ -19,40 +19,42 @@ params:
   recommender:
   - https://chrisburnell.com/feed.xml
   categories:
-  - adtech
-  - advertising
-  - behavioural
-  - browsers
-  - chrome
-  - contextual
-  - firefox
-  - google
-  - mozilla
-  - privacy
-  - surveillance
-  - tracking
+  - concert
+  - event
+  - friendship
+  - frostapalooza
+  - joy
+  - love
+  - mandolin
+  - music
+  - rock
+  - songs
   relme: {}
-  last_post_title: Ad tech
-  last_post_description: Back when South by Southwest wasn’t terrible, there used
-    to be an annual panel called Browser Wars populated with representatives from
-    the main browser vendors (except for Apple, obviously, who
-  last_post_date: "2024-07-16T14:57:05Z"
-  last_post_link: https://adactio.com/journal/21285
+  last_post_title: Frostapalooza
+  last_post_description: |-
+    So Frostapalooza happened on Saturday.
+
+    It was joyous!
+
+    It all started back in July of last year when I got an email from Brad:
+
+
+      Next summer I’m turning 40, and I’m going to use that milestone
+  last_post_date: "2024-08-20T21:30:23Z"
+  last_post_link: https://adactio.com/journal/21355
   last_post_categories:
-  - adtech
-  - advertising
-  - behavioural
-  - browsers
-  - chrome
-  - contextual
-  - firefox
-  - google
-  - mozilla
-  - privacy
-  - surveillance
-  - tracking
+  - concert
+  - event
+  - friendship
+  - frostapalooza
+  - joy
+  - love
+  - mandolin
+  - music
+  - rock
+  - songs
   last_post_language: ""
-  last_post_guid: 6f06152f8477f9c20aec55d3e16c598f
+  last_post_guid: fe622c6cac9dbb078e5c63efa06c4f86
   score_criteria:
     cats: 0
     description: 3

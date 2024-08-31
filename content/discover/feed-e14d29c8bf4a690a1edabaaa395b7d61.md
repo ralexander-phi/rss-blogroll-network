@@ -18,29 +18,33 @@ params:
   - https://colinwalker.blog/livefeed.xml
   categories:
   - Personal
-  - ascii
-  - code
-  - dancast
-  - geeky
+  - php
   - programming
-  - unicode
+  - published on gemini
+  - scam
+  - spam
+  - technology
+  - three rings
+  - volunteering
   relme: {}
-  last_post_title: '[Article] The Elegance of the ASCII Table'
-  last_post_description: ASCII, a standard whose legacy defines to this day how most
-    of the letters and numbers in your computer get encoded into ones and zeroes,
-    is elegant and beautiful. Via lessons in computer history,
-  last_post_date: "2024-07-21T08:59:10+01:00"
-  last_post_link: https://danq.me/2024/07/21/ascii/
+  last_post_title: '[Article] Roll Your Own Antispam'
+  last_post_description: The Web contact form of a nonprofit I founded started attracting
+    a huge volume of spam, and conventional tools weren't helping. But a little analysis
+    allowed us to block almost all of it without
+  last_post_date: "2024-08-29T09:50:43+01:00"
+  last_post_link: https://danq.me/2024/08/29/roll-your-own-antispam/
   last_post_categories:
   - Personal
-  - ascii
-  - code
-  - dancast
-  - geeky
+  - php
   - programming
-  - unicode
+  - published on gemini
+  - scam
+  - spam
+  - technology
+  - three rings
+  - volunteering
   last_post_language: ""
-  last_post_guid: 6bbc8c7e5129e2d6537d5234b2a853f8
+  last_post_guid: 616b53a67b906aa47d3a3ca5835d247f
   score_criteria:
     cats: 0
     description: 3

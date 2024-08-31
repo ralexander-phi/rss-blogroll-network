@@ -1,6 +1,6 @@
 ---
 title: ATOR
-date: "2024-07-03T22:28:36+02:00"
+date: "2024-08-28T20:46:31+02:00"
 description: "ATOR (Arc-Team Open Research). \nThe blog spreads tests, problems and
   results of Arc-Team research in archaeology, following the guidelines of the OpArc
   (Open Archaeology) project."

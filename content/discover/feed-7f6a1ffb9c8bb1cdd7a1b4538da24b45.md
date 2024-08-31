@@ -15,20 +15,20 @@ params:
   recommended: []
   recommender: []
   categories:
+  - Automattic
   - WordPress
-  - web3
   relme: {}
-  last_post_title: WordPress and web3
-  last_post_description: Blockchain. Cryptocurrency. Ethereum. NFTs. DAOs. Smart Contracts.
-    web3. It’s impossible to avoid the blockchain hype machine these days, but it’s
-    often just as difficult to decipher what it all
-  last_post_date: "2021-12-09T21:16:29Z"
-  last_post_link: https://pento.net/2021/12/10/wordpress-and-web3/
+  last_post_title: Four Thousand, Five Hundred and Forty-Eight Days
+  last_post_description: Nearly 15 years ago, I emailed the 20-something-year-old
+    founder of a little tech startup with a weird name. As I recall, there were maybe
+    20 or so people doing WordPress-y things there at the time.
+  last_post_date: "2024-08-20T05:50:54Z"
+  last_post_link: https://pento.net/2024/08/20/four-thousand-five-hundred-and-forty-eight-days/
   last_post_categories:
+  - Automattic
   - WordPress
-  - web3
   last_post_language: ""
-  last_post_guid: 11e9f71f0c57d6f8d58c17845f93b474
+  last_post_guid: 5a8f5282d3f58478a80987d3c57bf7bd
   score_criteria:
     cats: 0
     description: 3

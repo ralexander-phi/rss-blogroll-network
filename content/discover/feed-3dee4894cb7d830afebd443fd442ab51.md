@@ -18,15 +18,15 @@ params:
   categories: []
   relme:
     https://pesader.dev/tags/gnome/: true
-  last_post_title: GUADEC 2023
-  last_post_description: A few days back, I went for the first time to the GNOME Users
-    and Developers Everywhere Conference (GUADEC). Even though I’m just a Google Summer
-    of Code intern, the GNOME Foundation was kind
-  last_post_date: "2023-08-01T19:15:26-03:00"
-  last_post_link: https://pesader.dev/posts/guadec-2023/
+  last_post_title: Accessibility Hackathon
+  last_post_description: 'When you stop and think about it, user interfaces are almost
+    entirely designed around sight: they display graphical elements that are mostly
+    interacted with by pointing and clicking (or touching).'
+  last_post_date: "2024-07-23T11:00:38-03:00"
+  last_post_link: https://pesader.dev/posts/accessibility-hackathon/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 5adb1857ffe55ea8d93a3f7f1cd9157c
+  last_post_guid: 7edf015a6dcf7470a5772f9442ae0c29
   score_criteria:
     cats: 0
     description: 3

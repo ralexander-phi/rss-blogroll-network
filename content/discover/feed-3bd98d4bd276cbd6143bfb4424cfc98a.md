@@ -23,34 +23,33 @@ params:
   - https://jlelse.blog/.rss
   - https://jlelse.blog/index.xml
   - https://marisabel.nl/feeds/blog.php
+  - https://marisabel.nl/feeds/combined.php
   - https://marisabel.nl/feeds/tech-blog.php
   - https://marisabel.nl/rss.php
   categories:
-  - development
-  - work
+  - journaling
   relme: {}
-  last_post_title: Comfortable with the struggle
-  last_post_description: "Sometimes I get asked by newcomers how one can become a
-    developer like me - specifically, with a job and career like mine. \nI find this
-    sort of question impossible to answer. My personal situation is"
-  last_post_date: "2024-07-08T12:07:00Z"
-  last_post_link: https://rachsmith.com/comfortable-with-the-struggle/
+  last_post_title: It's okay to lower the bar
+  last_post_description: |-
+    I had a journal entry in my Hobonichi Techo Cousin for every day this year until July, where I have a string of blank pages.
+    I was doing so well, and I was really in to the swing of journaling every
+  last_post_date: "2024-08-13T20:08:00Z"
+  last_post_link: https://rachsmith.com/lower-the-bar/
   last_post_categories:
-  - development
-  - work
+  - journaling
   last_post_language: ""
-  last_post_guid: 2f98a48d48884b02c7360ba688a96f89
+  last_post_guid: 25fb976ee2068d886597c43efcd5f08e
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
-    postcats: 2
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 13
+  score: 12
   ispodcast: false
   isnoarchive: false
   innetwork: true

@@ -17,15 +17,15 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: Why Emacs will NEVER be popular
-  last_post_description: Emacs is my ride or die software, where I do all my computing.
-    If not for Emacs, I wouldn’t give a byte about computers. Moved to GNU/Linux just
-    for Emacs. But let’s face it, Emacs will forever
-  last_post_date: "2024-03-11T00:00:00+02:00"
-  last_post_link: https://thanosapollo.org/post/emacs-will-never-be-popular/
+  last_post_title: 'Rewriting Gnosis: 0.4.0 release'
+  last_post_description: |-
+    What’s the most important thing for storing knowledge?
+    I’d say proper organization of said knowledge, such as with decks for each subject and meaningful tags linking related concepts together
+  last_post_date: "2024-08-07T00:00:00Z"
+  last_post_link: https://thanosapollo.org/post/gnosis-0-4-0-release/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: b469b5cc0ff8eb2afe4c58d8c5a92156
+  last_post_guid: 04096bafaac9a7ce153deb28f3e9c7ec
   score_criteria:
     cats: 0
     description: 3

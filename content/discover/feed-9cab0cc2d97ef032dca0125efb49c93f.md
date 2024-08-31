@@ -20,33 +20,27 @@ params:
   recommended: []
   recommender: []
   categories:
-  - In evidenza
   - News
-  - Scuola
   relme: {}
-  last_post_title: AAA volontari cercasi per leggere “Ada&Zangemann”
-  last_post_description: BGLUG e FABLAB Bergamo stanno cercando volontari per promuovere
-    il progetto formativo proposto dalla Free Software Foundation Europe rivolto ai
-    bambini delle scuole primarie e intitolato “Sono
-  last_post_date: "2024-07-03T15:26:30Z"
-  last_post_link: https://bglug.it/2024/07/03/aaa-volontari-cercasi-per-leggere-adazangemann/
+  last_post_title: Chiusura estiva 2024 e altre novità
+  last_post_description: Chiusura estate 2024 e novità in arrivo sul sito del BGlug
+  last_post_date: "2024-07-27T09:12:57Z"
+  last_post_link: https://bglug.it/2024/07/27/chiusura-estiva-2024-e-altre-novita/
   last_post_categories:
-  - In evidenza
   - News
-  - Scuola
   last_post_language: ""
-  last_post_guid: 526609323d43a8e38d70ffd8ee55d57a
+  last_post_guid: 18c6ff31c390de5c931c02aaaa8f7373
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
-    postcats: 3
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 17
+  score: 15
   ispodcast: false
   isnoarchive: false
   innetwork: true

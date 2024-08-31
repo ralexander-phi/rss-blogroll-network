@@ -1,6 +1,6 @@
 ---
 title: Of Particular Significance
-date: "2024-07-22T20:57:54Z"
+date: "2024-08-20T13:46:51Z"
 description: Conversations About Science with Theoretical Physicist Matt Strassler
 params:
   feedlink: https://profmattstrassler.com/feed/atom/
@@ -15,33 +15,26 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Atomic Physics
-  - Particle Physics
-  - Quantum Field Theory
-  - atoms
-  - gluons
-  - proton
-  - quarks
-  - wavicles
+  - Housekeeping
+  - Waves In An Impossible Sea
+  - WavesInAnImpossibleSea
+  - astronomy
+  - relativity
   relme: {}
-  last_post_title: 'The Standard Model More Deeply: How the Proton is Greater than
-    the Sum of its Parts'
-  last_post_description: The mass of a single proton, often said to be made of three
-    quarks, is almost 1 GeV/c2. To be more precise, a proton’s mass is 0.938 GeV/c2,
-    while that of a neutron is 0.939 GeV/c2. But the masses
-  last_post_date: "2024-07-22T20:57:54Z"
-  last_post_link: https://profmattstrassler.com/2024/07/22/the-standard-model-more-deeply-how-the-proton-is-greater-than-the-sum-of-its-parts/
+  last_post_title: New Scientific Commentaries Added to Website
+  last_post_description: Though I’ve been busy with a number of physics and writing
+    tasks, I’ve been beefing up the “Reader Resources” section of this website, devoted
+    to extending the experience of readers of my
+  last_post_date: "2024-08-20T13:46:51Z"
+  last_post_link: https://profmattstrassler.com/2024/08/20/new-scientific-commentaries-added-to-website/
   last_post_categories:
-  - Atomic Physics
-  - Particle Physics
-  - Quantum Field Theory
-  - atoms
-  - gluons
-  - proton
-  - quarks
-  - wavicles
+  - Housekeeping
+  - Waves In An Impossible Sea
+  - WavesInAnImpossibleSea
+  - astronomy
+  - relativity
   last_post_language: ""
-  last_post_guid: 8a150fa028583671f6f3b0e28ca2b31a
+  last_post_guid: 541d4b84f5d67ea3ef854daee0dabebc
   score_criteria:
     cats: 0
     description: 3

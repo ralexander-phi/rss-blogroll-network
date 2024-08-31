@@ -35,6 +35,9 @@ params:
   - https://blog.jethro.dev/index.xml
   - https://blog.meain.io/feed.xml
   - https://blog.testdouble.com/index.xml
+  - https://brandur.org/articles.atom
+  - https://brandur.org/atoms.atom
+  - https://brandur.org/fragments.atom
   - https://burnafterrunningrpg.com/feed/
   - https://bxblackrazor.blogspot.com/feeds/posts/default/
   - https://campaignwiki.org/files/osr-discord.xml
@@ -145,34 +148,32 @@ params:
   - https://zverok.space/feed.xml
   recommender: []
   categories:
-  - personal
-  - reflections
+  - programming
   relme:
     https://dice.camp/@takeonrules: true
     https://github.com/jeremyf: true
     https://takeonrules.com/: true
-  last_post_title: Attachment and Release
-  last_post_description: "Summary: \nA reflection on stiff hands and the lake shore
-    calm.\n\n        Over the last month I’ve been spending my evenings moving or
-    unpacking…or both.\nMy hands feel tight, as though they are"
-  last_post_date: "2024-07-22T12:36:33-04:00"
-  last_post_link: https://takeonrules.com/2024/07/22/attachment-and-release/
+  last_post_title: Go Interfaces, Dependency Injection, and Test Coverage
+  last_post_description: "Summary: \nThis post I walk through writing up interfaces
+    to hide the implementation details of 3rd party packages.  And in doing so, introduce
+    creases for dependency injection while preserving a high"
+  last_post_date: "2024-08-29T07:49:10-04:00"
+  last_post_link: https://takeonrules.com/2024/08/29/go-interfaces-dependency-injection-and-test-coverage/
   last_post_categories:
-  - personal
-  - reflections
+  - programming
   last_post_language: ""
-  last_post_guid: dabd1370eed5bf922d5ed38ec7aec090
+  last_post_guid: 5f98b3d1ff2cfbbbc77c21a72a07dc23
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
-    postcats: 2
+    postcats: 1
     promoted: 0
     promotes: 10
     relme: 2
     title: 3
     website: 2
-  score: 23
+  score: 22
   ispodcast: false
   isnoarchive: false
   innetwork: true

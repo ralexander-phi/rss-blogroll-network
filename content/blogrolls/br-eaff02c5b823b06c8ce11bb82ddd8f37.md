@@ -6,6 +6,15 @@ params:
   link: https://jeroensangers.com/.well-known/recommendations.opml
   blogroll_id: eaff02c5b823b06c8ce11bb82ddd8f37
   recommends:
+  - title: rebeccatoh.co
+    description: ""
+    id: 9432d6124e479c831759d22a866635b8
+  - title: kottke.org
+    description: Jason Kottke’s weblog, home of fine hypertext products since 1998
+    id: 7626d2d6fa86e02e6ad59760e54e7c54
+  - title: CJ Chilvers
+    description: I help creators stay sane and productive one newsletter at a time.
+    id: 1071bce4eb6c7e439b1b2a5dad189043
   - title: Frank Meeuwsen
     description: ""
     id: 6303b18a5a4f0ad6ce4fbbad3da25c53
@@ -13,25 +22,12 @@ params:
     description: A digital garden filled with visual essays, research notes, and experiments
       at the intersection of design, development, and anthropology.
     id: 03858ee03b2c85599014eee556fc05ac
-  - title: rebeccatoh.co
-    description: ""
-    id: 9432d6124e479c831759d22a866635b8
   - title: Rhoneisms
     description: by Patrick Rhone
     id: ed691f489cc8ec8184eed839a11f8009
-  - title: kottke.org
-    description: Jason Kottke’s weblog, home of fine hypertext products since 1998
-    id: 7626d2d6fa86e02e6ad59760e54e7c54
-  - title: swissmiss
-    description: swissmiss is an online garden (aka design blog) run by Tina Roth
-      Eisenberg, a Swiss designer gone NYC.
-    id: 0c83f5dad685dc66f5a5b2ab185be365
   - title: Jason Fried
     description: ""
     id: efd90a8e2045827f0fa8cd3106c01474
-  - title: CJ Chilvers
-    description: I help creators stay sane and productive one newsletter at a time.
-    id: 1071bce4eb6c7e439b1b2a5dad189043
   - title: xkcd.com
     description: ""
     id: c3d7a8674e24b46357e31623bc7f2ab7
@@ -41,18 +37,21 @@ params:
   - title: Derek Sivers blog
     description: ""
     id: 6e3da53ecb685922657a934e426b3021
-  - title: Chase McCoy
-    description: Chase McCoy explores, builds, & writes about the web
-    id: ef6c257d2350cb6356fa4e316fc5fc5c
   - title: Raúl Hernández González | @rahego
     description: Ideas y reflexiones para una vida más sencilla, equilibrada y significativa
     id: cc85c57f2afd92899c655335cb9ae5af
-  - title: Harold Jarche
-    description: Work is learning. Learning is the work.
-    id: 7202435fc67d9c91ef5911d33e7bc975
+  - title: Cal Newport
+    description: Computer Scientist & Bestselling Author
+    id: cd20f0fec4cbe87d737ee49003b704f1
+  - title: Chase McCoy
+    description: Chase McCoy explores, builds, & writes about the web
+    id: 167ca9e2c8ffcbb6ebaa7a8a687fec4f
   - title: Barking Up The Wrong Tree
     description: How to be awesome at life.
     id: 4b8e53a073ada80ab670585ec053c188
+  - title: Harold Jarche
+    description: Work is learning. Learning is the work.
+    id: 7202435fc67d9c91ef5911d33e7bc975
   - title: Nintil
     description: ""
     id: ab1fb9d9d1c86d17ff0aa61f76b17f4e
@@ -65,10 +64,14 @@ params:
   - title: Hulry
     description: Be 1% better every day
     id: 14f666cfa223e304203c3f485f790f10
-  - title: Tim Harford
-    description: The Undercover Economist
-    id: 99e3299d5643ae139035e2e7b7893a89
   - title: Wait But Why
     description: ""
     id: fd6a523d6f12781672b1d238c8404c6b
+  - title: Tim Harford
+    description: The Undercover Economist
+    id: 99e3299d5643ae139035e2e7b7893a89
+  - title: swissmiss
+    description: swissmiss is an online garden (aka design blog) run by Tina Roth
+      Eisenberg, a Swiss designer gone NYC.
+    id: 0c83f5dad685dc66f5a5b2ab185be365
 ---

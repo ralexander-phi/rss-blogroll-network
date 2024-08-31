@@ -19,22 +19,23 @@ params:
   - https://johnjohnston.info/blog/comments/feed/
   - https://johnjohnston.info/blog/feed/
   categories:
-  - On Media
   - On Sharing
-  - attribution
+  - smallweb
+  - webserendipity
   relme: {}
-  last_post_title: The State of Finding Image Attribution
-  last_post_description: It’s more than tattered and a while since I blabbed about
-    the spurious nature of online practices of attribution. I was somewhat inspired
-    here by interesting analysis of Why I Attribute made by
-  last_post_date: "2024-07-24T03:48:17Z"
-  last_post_link: https://cogdogblog.com/2024/07/state-of-attribution/
+  last_post_title: Amazing Still Happens. The Incalculable Odds of Clicking My Way
+    Back to Phenix
+  last_post_description: Just when one might think the glorious, joyful, unlimited
+    potential of the internet has cratered to an ad-laden pool of machine generated
+    goop, amazingness happens again. The odds of what I will lay
+  last_post_date: "2024-08-11T05:53:16Z"
+  last_post_link: https://cogdogblog.com/2024/08/amazing-back-to-phenix/
   last_post_categories:
-  - On Media
   - On Sharing
-  - attribution
+  - smallweb
+  - webserendipity
   last_post_language: ""
-  last_post_guid: 0f1b37fd2c0b56b5bc0b074dd8463243
+  last_post_guid: e8952eb4553afaa07c894739ad84c6e2
   score_criteria:
     cats: 0
     description: 3

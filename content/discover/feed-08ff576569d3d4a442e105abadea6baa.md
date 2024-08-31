@@ -1,6 +1,6 @@
 ---
 title: Trey Hunner - Python
-date: "2024-07-11T08:54:02-07:00"
+date: "2024-08-20T14:11:16-07:00"
 description: ""
 params:
   feedlink: https://treyhunner.com/python.xml
@@ -16,13 +16,13 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: A beautiful Python monstrosity
+  last_post_title: 10-Week Hands-On Python Course
   last_post_description: ""
-  last_post_date: "2024-06-08T14:30:00-07:00"
-  last_post_link: https://treyhunner.com/2024/06/a-beautiful-python-monstrosity/
+  last_post_date: "2024-08-20T14:20:00-07:00"
+  last_post_link: https://treyhunner.com/2024/08/python-high-five/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 86bb81256a490dba4bc793331195ebc3
+  last_post_guid: 90dc655480ffb64cdbfb27b17f0b48ec
   score_criteria:
     cats: 0
     description: 0

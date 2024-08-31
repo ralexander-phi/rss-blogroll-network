@@ -18,17 +18,17 @@ params:
   categories: []
   relme:
     https://current.workingdirectory.net/tags/debian/: true
-  last_post_title: Users without passwords
+  last_post_title: Who ate my RAM?
   last_post_description: |-
-    About fifteen years ago, while debugging a database probem, I was horrified to
-    discover that we had two root users - one with the password I had been using
-    and one without a password. Nooo!
-    So, I
-  last_post_date: "2023-10-22T08:27:10-04:00"
-  last_post_link: https://current.workingdirectory.net/posts/2023/users-without-passwords/
+    One of our newest servers, with a hefty 256GB of RAM, recently began killing
+    processes via the oomkiller.
+    According to free, only half of the RAM was in use (125GB). About 4GB was
+    free, with the
+  last_post_date: "2024-08-07T08:27:10-04:00"
+  last_post_link: https://current.workingdirectory.net/posts/2024/who-ate-my-ram/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 39ad6db52997ddfd8ba502e546cbb960
+  last_post_guid: fc21b2d773f88372c5641d1c7a83f615
   score_criteria:
     cats: 0
     description: 3

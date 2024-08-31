@@ -1,6 +1,6 @@
 ---
 title: DSHR's Blog
-date: "2024-07-22T08:57:07-07:00"
+date: "2024-08-30T07:27:19-07:00"
 description: I'm David Rosenthal, and this is a place to discuss the work I'm doing
   in Digital Preservation.
 params:
@@ -134,25 +134,26 @@ params:
   - web archiving
   - web3
   relme: {}
-  last_post_title: Accelerated Computing
+  last_post_title: 2024 Optical Media Durability Update
   last_post_description: ""
-  last_post_date: "2024-07-16T08:00:00-07:00"
-  last_post_link: https://blog.dshr.org/2024/07/accelerated-computing.html
+  last_post_date: "2024-08-27T08:00:00-07:00"
+  last_post_link: https://blog.dshr.org/2024/08/2024-optical-media-durability-update.html
   last_post_categories:
-  - nvidia
+  - long-lived media
+  - storage media
   last_post_language: ""
-  last_post_guid: 4af060d1b873eed6aefa8723289e65a2
+  last_post_guid: 73217c3420ef83cfa8f33351af82a85b
   score_criteria:
     cats: 5
     description: 3
     feedlangs: 0
-    postcats: 1
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 0
-  score: 17
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true

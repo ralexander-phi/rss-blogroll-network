@@ -17,38 +17,32 @@ params:
   recommender:
   - https://chrisburnell.com/feed.xml
   categories:
-  - '#Blogging'
-  - '#IndieWeb'
-  - '#PersonalWebsites'
-  - '#smallweb'
-  - Miscellaneous
+  - '#Kids'
+  - Parenting
   relme:
     https://lars-christian.com/: true
     https://mastodon.social/@lars: true
-  last_post_title: 'Re: Do people IRL know you have a blog?'
-  last_post_description: In which I respond to bacardi55's question of whether people
-    in real life know about my blog.
-  last_post_date: "2024-07-22T12:28:46Z"
-  last_post_link: https://lars-christian.com/re-do-people-irl-know-you-have-a-blog/
+  last_post_title: My inspiration
+  last_post_description: How my six year old son inspires me to try to be a better
+    person.
+  last_post_date: "2024-08-20T21:10:16Z"
+  last_post_link: https://lars-christian.com/my-inspiration/
   last_post_categories:
-  - '#Blogging'
-  - '#IndieWeb'
-  - '#PersonalWebsites'
-  - '#smallweb'
-  - Miscellaneous
+  - '#Kids'
+  - Parenting
   last_post_language: ""
-  last_post_guid: 1036e6d985b1256a2edb7df94b060360
+  last_post_guid: c1aac7e3ff8ddab0808b650e20db9fe6
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
-    postcats: 3
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 19
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true

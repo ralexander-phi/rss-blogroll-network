@@ -17,24 +17,26 @@ params:
   recommender:
   - https://frankmeeuwsen.com/feed.xml
   categories:
-  - autonomie
-  - digitaal
+  - boeken
   - flow
+  - sciencefiction
+  - youngadult
   relme:
     https://deepthought.infullflow.net/@elmine: true
     https://infullflow.net/: true
-  last_post_title: De paraplu waar ik naar zocht
-  last_post_description: 'Sinds ik bij Public Spaces Conference was eerder deze maand
-    zijn er twee woorden die door mijn hoofd blijven spoken: digitale autonomie. Bert
-    Hubert gebruikte deze woorden als titel voor zijn praatje'
-  last_post_date: "2024-06-28T07:30:00Z"
-  last_post_link: https://infullflow.net/2024/06/de-paraplu-waar-ik-naar-zocht/
+  last_post_title: 'Gelezen: De Kruisdraagster – Lydia Schwartz'
+  last_post_description: Op zoek naar een lekker weglees boek tijdens de kampeerdagen
+    ergens in Frankrijk, kwam ik bij Lalagè de titel van De Kruisdraagster tegen.
+    Young adult science fiction met een vrouwelijk
+  last_post_date: "2024-08-29T09:57:07Z"
+  last_post_link: https://infullflow.net/2024/08/gelezen-de-kruisdraagster-lydia-schwartz/
   last_post_categories:
-  - autonomie
-  - digitaal
+  - boeken
   - flow
+  - sciencefiction
+  - youngadult
   last_post_language: ""
-  last_post_guid: a32e845cc9898c4b083b8cdfb832f357
+  last_post_guid: 5f4e86cf6a326056d418ed5049bed49a
   score_criteria:
     cats: 0
     description: 0

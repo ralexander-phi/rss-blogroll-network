@@ -19,16 +19,16 @@ params:
   - https://jeroensangers.com/podcast.xml
   categories: []
   relme: {}
-  last_post_title: Links (80)
+  last_post_title: Links (81)
   last_post_description: |-
-    AI companies need to make a lot of money for the current market state (NVIDIA going to the moon) to make sense. Right now it's far from that.
-    Interview with the current co-CEO of Netflix
-    Lambda
-  last_post_date: "2024-07-14T00:00:00Z"
-  last_post_link: https://nintil.com/links-80/
+    Jean Hebert, who proposes the stepwise replacement of brain tissue, has now joined ARPA-H
+    Why does Ozempic cure all disease
+    Scott Alexander on Nietzschean takes on morality, with an additional take
+  last_post_date: "2024-08-17T00:00:00Z"
+  last_post_link: https://nintil.com/links-81/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 8211ac7bad3a234e0dacc983926c84f0
+  last_post_guid: d250e6ae58b6d309e802de71512586b7
   score_criteria:
     cats: 0
     description: 0

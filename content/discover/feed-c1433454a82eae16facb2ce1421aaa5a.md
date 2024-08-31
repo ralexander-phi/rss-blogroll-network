@@ -17,31 +17,29 @@ params:
   recommender:
   - https://frankmeeuwsen.com/feed.xml
   categories:
-  - Boeken
-  - Filosofie
+  - Muziek
   relme: {}
-  last_post_title: Tim Fransen’s morele kompas voor een wankele wereld
+  last_post_title: 'Nick Cave & The Bad Seeds: Wild God'
   last_post_description: |-
-    In zijn nieuwste boek “In onze tijd: Leven in het Calamiteitperk” betoogt Tim Fransen dat we in een ‘Calamiteitsperk’ leven […]
-    Het bericht Tim Fransen’s morele kompas voor een wankele
-  last_post_date: "2024-07-19T18:55:12Z"
-  last_post_link: https://koneksa-mondo.nl/2024/07/19/tim-fransens-morele-kompas-voor-een-wankele-wereld/
+    Het nieuwe album voelt als een logische voortzetting van zijn eerdere werk, maar met een nieuwe dimensie. De muziek is […]
+    Het bericht Nick Cave & The Bad Seeds: Wild God verscheen eerst op Koneksa
+  last_post_date: "2024-08-30T11:17:33Z"
+  last_post_link: https://koneksa-mondo.nl/2024/08/30/wild-god/
   last_post_categories:
-  - Boeken
-  - Filosofie
+  - Muziek
   last_post_language: ""
-  last_post_guid: 9b3e9f6474f6d82664fc9a9174556fb0
+  last_post_guid: 533e1662acf325837a7e21cde9bf483b
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
-    postcats: 2
+    postcats: 1
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 16
+  score: 15
   ispodcast: false
   isnoarchive: false
   innetwork: true

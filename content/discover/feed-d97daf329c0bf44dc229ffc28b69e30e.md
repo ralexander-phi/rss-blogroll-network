@@ -8,6 +8,7 @@ params:
   feedid: d97daf329c0bf44dc229ffc28b69e30e
   websites:
     https://blogs.igalia.com/xavi: true
+    https://blogs.igalia.com/xavi/: false
   blogrolls: []
   in_blogrolls:
   - title: Planet Igalia

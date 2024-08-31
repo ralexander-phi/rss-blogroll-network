@@ -1,6 +1,6 @@
 ---
 title: lnl's weblog - weblog posts.
-date: "2024-05-19T19:45:00+02:00"
+date: "2024-07-27T20:30:00+02:00"
 description: ""
 params:
   feedlink: https://liberda.nl/weblog/atom.xml
@@ -18,13 +18,13 @@ params:
   - https://alexsci.com/blog/rss.xml
   categories: []
   relme: {}
-  last_post_title: Building Chromium at a distro? Here's your copium
+  last_post_title: Hatch, change, rewind. 5 years as myself
   last_post_description: ""
-  last_post_date: "2024-05-19T19:45:00+02:00"
-  last_post_link: https://liberda.nl/weblog/heres-your-copium/
+  last_post_date: "2024-07-27T20:30:00+02:00"
+  last_post_link: https://liberda.nl/weblog/long-live-selfisekai/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 89b25bc2721dfbc39d837433b3bf6a90
+  last_post_guid: 2d31fa42a408af7e84479443801c4e63
   score_criteria:
     cats: 0
     description: 0

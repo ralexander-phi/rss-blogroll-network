@@ -18,18 +18,18 @@ params:
   recommender:
   - https://visitmy.website/feed.xml
   categories:
-  - Uncategorized
+  - weeknotes
   relme: {}
-  last_post_title: Fortnote – 27th May
-  last_post_description: Hello there. Bloody hell, what a fortnight! And even then
-    I’m cheating by posting this on the Bank Holiday. The day job Lots of recruitment
-    going on at the moment. Thank you to everyone who applied
-  last_post_date: "2024-05-27T18:23:41Z"
-  last_post_link: https://www.leaningforward.com/blog/2024/05/fortnote-27th-may/?utm_source=rss&utm_medium=rss&utm_campaign=fortnote-27th-may
+  last_post_title: Weeknote – 25th August 2024 – Rewiring
+  last_post_description: So I’m writing this feeling very ‘between’. I start as a
+    permanent employee on Tuesday; my contracting life has finished for now. And while
+    the job’s technically the same, with the same
+  last_post_date: "2024-08-26T17:19:54Z"
+  last_post_link: https://www.leaningforward.com/blog/2024/08/weeknote-25th-august-2024-rewiring/?utm_source=rss&utm_medium=rss&utm_campaign=weeknote-25th-august-2024-rewiring
   last_post_categories:
-  - Uncategorized
+  - weeknotes
   last_post_language: ""
-  last_post_guid: 372222191d48dc333a5dcfe1fe17a358
+  last_post_guid: 28a4bc70d503dc5c12d61f5a3f32ffb5
   score_criteria:
     cats: 0
     description: 0

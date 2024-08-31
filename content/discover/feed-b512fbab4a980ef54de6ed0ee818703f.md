@@ -19,15 +19,15 @@ params:
   - https://jeroensangers.com/podcast.xml
   categories: []
   relme: {}
-  last_post_title: My long strange trip into home automation
-  last_post_description: Over the past few years I've written about things I've done
-    around my home, like putting in a five-acre wide WiFi network or tapping a NFC
-    tag to unlock the front door, and I think I've finally
-  last_post_date: "2024-07-17T19:47:15Z"
-  last_post_link: https://a.wholelottanothing.org/my-long-strange-trip-into-home-automation/
+  last_post_title: Richard Haughey (1944-2024)
+  last_post_description: My father passed away today. It was a shock to get the call
+    that he was rushed to an ER from his nursing home and the news that quickly followed
+    was a surprise. But it was also something that
+  last_post_date: "2024-08-29T23:31:07Z"
+  last_post_link: https://a.wholelottanothing.org/richard-haughey-1944-2024/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 2cdd24a09e6bfae42161d4dbe05ef77b
+  last_post_guid: c6be870aba6ff12e4ea3cb1259a539ce
   score_criteria:
     cats: 0
     description: 3

@@ -403,6 +403,7 @@ params:
   - 2021 closures
   - "2022"
   - "2023"
+  - 2024 closings
   - 203 E. 13th St.
   - 204 Avenue A
   - 204 E. 13th St.
@@ -566,6 +567,7 @@ params:
   - 308 E. Sixth St.
   - 309 E. 5th St.
   - 309 E. Eighth St.
+  - 309 E. Houston St.
   - 31 Third Ave.
   - 31-33 Second Avenue
   - 310 E
@@ -807,6 +809,7 @@ params:
   - 536 E. Fifth St.
   - 538 E. 14th St.
   - 53rd Street
+  - 54 Great Jones St.
   - 54 Second Ave.
   - 54-56 Third Ave.
   - 540 E. Sixth Street
@@ -1021,6 +1024,7 @@ params:
   - 9th Street Espresso
   - ': 13th Street'
   - ': 38-48 Second Ave.'
+  - ': Beauty Bar'
   - ': East River Park'
   - ': East Village history'
   - ': East Village streetscenes'
@@ -1661,6 +1665,7 @@ params:
   - Blind Barber
   - Blind Pig
   - Blink
+  - Blink Fitness
   - Blizzard 2015
   - Blizzard 2015 No. 2
   - Blizzard of the Feb. 8
@@ -1879,6 +1884,7 @@ params:
   - Buzzcocks
   - By Chloe
   - By Name
+  - Bánh Anh Em
   - C & B Cafe
   - C & B Convenience Store
   - C is for Charlie
@@ -2017,6 +2023,7 @@ params:
   - Casimir
   - Casse-Cou Chocolate
   - Cassette Store Day
+  - Castellano Electric Motors
   - Casual Grill
   - Caswell-Massey
   - Cat Power
@@ -2397,6 +2404,7 @@ params:
   - Curt Hoppe
   - Curtis Blow
   - Cutlets
+  - Cuts & Slices
   - CycleBar
   - Cáit O’Riordan
   - Côte
@@ -2460,6 +2468,7 @@ params:
   - Daniel Delaney
   - Daniel Root
   - Daniel's Bike Shop
+  - Danny Cortes
   - Danny Meyer
   - Danny Stiles
   - Danny's Cycles
@@ -2585,6 +2594,7 @@ params:
   - Disco-O-Rama
   - Discovery Wines
   - District attorney
+  - Disturbed Furniture
   - Dive bars
   - Divya's Kitchen
   - Dixon Place
@@ -2764,6 +2774,7 @@ params:
   - EV Grieve will burn in Hell
   - EV Grieve will post anything
   - EV Grieve's favorite baseball players
+  - EV Grive Etc.
   - EV Groeve Etc.
   - EV Heave
   - EV Lambo
@@ -3027,6 +3038,7 @@ params:
   - Eli Manning
   - Elim House of Worship
   - Eliot Spitzer
+  - Elisa's Love Bites
   - Eliza's Local
   - Elizabeth Lee
   - Elizabeth Street
@@ -3556,6 +3568,7 @@ params:
   - Grieve goes to the movies
   - Grillify-NYC
   - Grocer John's
+  - Groove Garden
   - Groupon
   - GrowNYC
   - Gruber MacDougal
@@ -3693,6 +3706,7 @@ params:
   - Hester Street Fair
   - Hetal Convenience Store
   - Heterosexuals
+  - Hettie Jones
   - Heyday
   - Hi Noona
   - Hi Society
@@ -3762,6 +3776,7 @@ params:
   - Hotel Reserve
   - Hotel Tortuga
   - Hotel Toshi
+  - Hottie Lash
   - Hou Yi Hot Pot
   - House
   - House of Fluff
@@ -3921,6 +3936,8 @@ params:
   - Isaac Hopper Home
   - Isabella
   - Ise Restaurant
+  - Ishq
+  - Isshiki Matcha
   - It's hot
   - Itzocan Café
   - Ivana Trump
@@ -4034,6 +4051,7 @@ params:
   - Jewel bake
   - Jewel of India
   - Jews
+  - Jhakaas
   - Jian Bing Man
   - Jiang Diner
   - Jiang Kitch
@@ -4124,6 +4142,7 @@ params:
   - Jones Beach
   - Jones Diner
   - Jones LES
+  - Jonis Realty
   - Jordan Neely
   - Jose Luis
   - Jose Reyes
@@ -4163,6 +4182,7 @@ params:
   - July 2020
   - July 2022
   - July 2023
+  - July 2024
   - July 4
   - Jum Mum
   - June 2019
@@ -4479,6 +4499,7 @@ params:
   - Liberty Street
   - Liberty Toye
   - Librae Bakery
+  - Lidl
   - Liev Schreiber
   - Life
   - Life - Kitchen and Bar
@@ -4557,6 +4578,7 @@ params:
   - London
   - Long Bay
   - Looker
+  - Loong Noodles
   - Lorc
   - Lorcan Otway
   - Lord Hamm's
@@ -5854,6 +5876,7 @@ params:
   - RS Strauss
   - RSS
   - RVs
+  - RYCO Capital
   - Rabbit
   - Rachel Amodeo
   - Raclette
@@ -5879,6 +5902,7 @@ params:
   - Ramy Isaac
   - Random Accessories
   - Ranger Rob
+  - Raphael Sadonte Ward Jr.
   - Raphael Toledano
   - Raphael Ward
   - Rapid Realty
@@ -6044,6 +6068,7 @@ params:
   - Ruby Lounge
   - Ruby's
   - Ruby's Cafe
+  - Ruby/Dakota
   - Rude New York
   - Rudolph references
   - Rudy Volcano
@@ -6170,10 +6195,12 @@ params:
   - Santo Mollica
   - Santos Variety Shop
   - Sao Mai
+  - Saperavi
   - Sapporo East
   - Sara Curry
   - Sara D. Roosevelt Park
   - Sara Kay Gallery
+  - Sarah Adelman
   - Sarah Jessica Parker
   - Saramsam
   - Sarge's
@@ -6356,6 +6383,7 @@ params:
   - Sleepy's
   - Slider's
   - Sliders
+  - Slopey Joe
   - Slowear
   - Slum Goddess
   - Sly Fox
@@ -6944,6 +6972,7 @@ params:
   - The Grayson
   - The Grey Art Museum
   - The Halal Guys
+  - The Hard Quartet
   - The Hard Swallow
   - The Hat
   - The High Line
@@ -7343,6 +7372,7 @@ params:
   - Uncle Buck
   - Uncle Floyd
   - Uncle Johnny
+  - Under St Marks Theater
   - Under St. Marks
   - Unemployed Olympics
   - Unemployment Olympics
@@ -8677,6 +8707,7 @@ params:
   - found photos
   - four more months until winter
   - franchises
+  - frat boys
   - frathole
   - frathouse
   - fratty heat spots
@@ -9516,6 +9547,7 @@ params:
   - people who go to Trader Joe's in their pajamas
   - pep talks
   - pepper spray
+  - performance
   - performances
   - personal lubricants
   - pests
@@ -10115,6 +10147,7 @@ params:
   - summer concerts
   - summer fridays
   - summer in the city
+  - summer of 2024
   - summer of bedbugs
   - summer rain
   - summer rentals
@@ -10523,6 +10556,7 @@ params:
   - trash bags
   - trash can fire
   - trash cans
+  - trash fires
   - travelers
   - treadmills
   - tree
@@ -10617,6 +10651,7 @@ params:
   - vintage New York City TV commercials
   - vintage TV
   - viral
+  - viral things
   - visit these sites
   - visitnyc.com
   - vodka
@@ -10782,28 +10817,29 @@ params:
   - zpizza
   - Íxta
   relme: {}
-  last_post_title: East Village mainstay Katinka is closing after 45 years on 9th
-    Street
-  last_post_description: The two opened their closet-sized shop in 1979 at 303 E.
-    Ninth St. just east of Second Avenue... offering hand-made pieces — including
-    shirts, vests, quilts and rugs — all made and imported from
-  last_post_date: "2024-07-22T09:27:00Z"
-  last_post_link: http://evgrieve.com/2024/07/east-village-mainstay-katinka-is.html
+  last_post_title: Gov. Hochul makes a splash with funding for new in-ground swimming
+    pool at Tompkins Square Park
+  last_post_description: Say so long to to Tompkins Square Park mini pool. (And yes,
+    Tompkins Square Park has a mini pool.) On Wednesday, Gov. Hochul announced nearly
+    $150 million in capital grants to fund 37 projects "as
+  last_post_date: "2024-08-30T12:30:00Z"
+  last_post_link: http://evgrieve.com/2024/08/gov-hochul-makes-splash-with-funding.html
   last_post_categories:
-  - Katinka
+  - Tompkins Square Park
+  - Tompkins Square Park mini pool
   last_post_language: ""
-  last_post_guid: 8a3a1376b9e5c4a1e61521a4712e3d61
+  last_post_guid: 2a7d3af938924777c130de212b26fa6b
   score_criteria:
     cats: 5
     description: 3
     feedlangs: 0
-    postcats: 1
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 19
+  score: 20
   ispodcast: false
   isnoarchive: false
   innetwork: true

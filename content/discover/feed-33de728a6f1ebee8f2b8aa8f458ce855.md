@@ -1,6 +1,6 @@
 ---
 title: David Wendt's GSoC Updates Blog
-date: "2024-04-18T10:05:23-07:00"
+date: "2024-08-29T10:35:03-07:00"
 description: ""
 params:
   feedlink: https://dwgsoc09blog.blogspot.com/feeds/posts/default/-/to-debian-gsoc

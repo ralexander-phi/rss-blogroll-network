@@ -18,32 +18,27 @@ params:
   recommended: []
   recommender: []
   categories:
-  - AAP
   - Ansible
-  - Ansible Automation Platform
-  - Automation Platform
-  - Inventory
-  - Inventory Source
-  - Proxmox
+  - Ansible Collection
+  - Ansible Molecule
+  - Planet
+  - osbn
   relme:
     https://www.my-it-brain.de/wordpress: true
-  last_post_title: Wie wird im Ansible Automation Controller eine neue Inventory Source
-    hinzugefügt?
-  last_post_description: In diesem Überblick beschreibe ich am Beispiel der Proxmox
-    inventory source, wie eine eigene Inventory Source im Ansible Automation Controller
-    hinzugefügt werden kann. Die folgenden Schritte wurden
-  last_post_date: "2024-07-22T05:00:00Z"
-  last_post_link: https://www.my-it-brain.de/wordpress/wie-wird-im-ansible-automation-controller-eine-neue-inventory-source-hinzugefuegt/
+  last_post_title: Meine zweite Ansible Collection
+  last_post_description: Dies ist ein Erfahrungsbericht zur Migration meiner Ansible-Rolle
+    „Nextcloud im Container“ in eine Ansible Collection. Er umfasst die Migration
+    der bestehenden Rolle und die Ergänzung der neuen
+  last_post_date: "2024-08-19T05:00:00Z"
+  last_post_link: https://www.my-it-brain.de/wordpress/meine-zweite-ansible-collection/
   last_post_categories:
-  - AAP
   - Ansible
-  - Ansible Automation Platform
-  - Automation Platform
-  - Inventory
-  - Inventory Source
-  - Proxmox
+  - Ansible Collection
+  - Ansible Molecule
+  - Planet
+  - osbn
   last_post_language: ""
-  last_post_guid: c7c1bddf5b2df60f0987e44585593dd2
+  last_post_guid: 3af63c12445e6d49686e5055ec436e8c
   score_criteria:
     cats: 0
     description: 3

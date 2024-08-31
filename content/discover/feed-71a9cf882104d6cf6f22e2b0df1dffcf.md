@@ -6,39 +6,35 @@ params:
   feedlink: https://amf.didiermary.fr/feed/
   feedtype: rss
   feedid: 71a9cf882104d6cf6f22e2b0df1dffcf
-  websites: {}
+  websites:
+    https://amf.didiermary.fr/: true
   blogrolls: []
   in_blogrolls:
   - title: Dan Q's Blogroll
     description: ""
-    id: 7e0e72d6fd1109a16363155b4cda88a8
-  - title: Dan Q's Blogroll
-    description: ""
     id: efa39f8903d9f955318300588291f9c0
-  - title: Dan Q's Blogroll
-    description: ""
-    id: 42e729b4ed4d139b08eaa2f55f3a9b49
   recommended: []
   recommender:
-  - https://danq.blog/comments/feed/
-  - https://danq.blog/feed/
   - https://danq.me/comments/feed/
   - https://danq.me/feed/
   - https://danq.me/kind/article/feed/
   - https://danq.me/kind/note/feed/
-  - https://danq.uk/comments/feed/
-  - https://danq.uk/feed/
   categories: []
-  relme: {}
-  last_post_title: Moonchild Sanelly – Sweet & Savage (COLORS)
+  relme:
+    https://amf.didiermary.fr/: true
+    https://github.com/cybeardjm: true
+    https://masto.ai/@cybeardjm: true
+    https://pixelfed.social/cybeardjm: true
+    https://www.didiermary.fr/: true
+  last_post_title: The Black Notes EP – Ibibio Sound Machine
   last_post_description: RSS Club is a secret to everyone!This post is certified "written
-    by human".Subscribe to this blog's RSS Feed here.More info on RSS Club.A special
-    rendition of her new single “Sweet & Savage,” a
-  last_post_date: "2024-07-20T19:03:06Z"
-  last_post_link: https://amf.didiermary.fr/rss-club/moonchild-sanelly-sweet-savage-colors/
+    by human".Subscribe to this blog's RSS Feed here.More info on RSS Club.After “Pull
+    the Rope”, there’s a new Ibibio Sound Machine
+  last_post_date: "2024-08-22T19:55:00Z"
+  last_post_link: https://amf.didiermary.fr/rss-club/black-notes-ep-ibibio-sound-machine/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 36a79ca2e8828e9f4827f0fe475eb072
+  last_post_guid: bbfa84d6ce095c37b2636cfcc57e4121
   score_criteria:
     cats: 0
     description: 3
@@ -46,10 +42,10 @@ params:
     postcats: 0
     promoted: 5
     promotes: 0
-    relme: 0
+    relme: 2
     title: 3
-    website: 0
-  score: 12
+    website: 2
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true

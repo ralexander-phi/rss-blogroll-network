@@ -1,6 +1,6 @@
 ---
 title: NOT ALL WHO WANDER ARE LOST
-date: "2024-07-23T00:27:58Z"
+date: "2024-08-30T15:01:02Z"
 description: 'Not All Who Wander Are Lost: Longform thoughts and shorter reflections
   as I journey along.'
 params:
@@ -17,17 +17,18 @@ params:
   recommended: []
   recommender:
   - https://marisabel.nl/feeds/blog.php
+  - https://marisabel.nl/feeds/combined.php
   - https://marisabel.nl/feeds/tech-blog.php
   - https://marisabel.nl/rss.php
   categories: []
   relme: {}
-  last_post_title: Sunday (er...Monday) Review (7-21-24)
-  last_post_description: A review of my past week.
-  last_post_date: "2024-07-22T23:25:31Z"
-  last_post_link: https://wand3r.net/sunday-ermonday-review-7-21-24/
+  last_post_title: on voting in modern USA
+  last_post_description: Some random thoughts on politics
+  last_post_date: "2024-08-28T02:01:20Z"
+  last_post_link: https://wand3r.net/on-voting-in-modern-usa/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: ceb2e95cb14a2f3cfcf982874381c615
+  last_post_guid: cc1f86f0e1dea74d8a9c9ccc85d6cc05
   score_criteria:
     cats: 0
     description: 3

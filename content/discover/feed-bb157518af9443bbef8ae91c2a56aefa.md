@@ -16,29 +16,44 @@ params:
   recommended: []
   recommender: []
   categories:
-  - Duyurular
+  - Bolu Abant İzzet Baysal Üniversitesi
+  - GNU/Linux
+  - Haberler
+  - LKD
+  - Linux Kullanıcıları Derneği
+  - Mustafa Akgül Özgür Yazılım Kampı
+  - açıkkaynak
+  - özgür yazılım
   relme: {}
-  last_post_title: Pardus 23.2 Sürümü Yayımlandı
-  last_post_description: TÜBİTAK ULAKBİM tarafından geliştirilmeye devam edilen Pardus’un
-    23.2 sürümü yayımlandı. Pardus 23.2; Pardus 23 ailesinin ikinci ara sürümüdür.
-    En yeni Pardus’ u hemen şimdi
-  last_post_date: "2024-07-16T14:06:17Z"
-  last_post_link: https://www.pardus.org.tr/duyurular/pardus-23-2-surumu-yayimlandi/
+  last_post_title: Mustafa Akgül Özgür Yazılım 2024 Yaz Kampı Katılımcı Başvuruları
+    Başladı!
+  last_post_description: Mustafa Akgül Özgür Yazılım 2024 Yaz Kampı, özgür yazılım
+    ve açık kaynak dünyasına ilgi duyan herkesi bu yıl da heyecanla bekliyor! 24 –
+    31 Ağustos 2024 tarihleri arasında
+  last_post_date: "2024-07-26T11:03:27Z"
+  last_post_link: https://www.pardus.org.tr/haberler/mustafa-akgul-ozgur-yazilim-2024-yaz-kampi-katilimci-basvurulari-basladi/
   last_post_categories:
-  - Duyurular
+  - Bolu Abant İzzet Baysal Üniversitesi
+  - GNU/Linux
+  - Haberler
+  - LKD
+  - Linux Kullanıcıları Derneği
+  - Mustafa Akgül Özgür Yazılım Kampı
+  - açıkkaynak
+  - özgür yazılım
   last_post_language: ""
-  last_post_guid: 0ce80b238772c6c478eeb0efaf11ebe2
+  last_post_guid: 03d7b3caf17a13330ceb13bf92d81c9d
   score_criteria:
     cats: 0
     description: 0
     feedlangs: 1
-    postcats: 1
+    postcats: 3
     promoted: 5
     promotes: 0
     relme: 0
     title: 3
     website: 2
-  score: 12
+  score: 14
   ispodcast: false
   isnoarchive: false
   innetwork: true

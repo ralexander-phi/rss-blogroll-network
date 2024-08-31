@@ -23,47 +23,33 @@ params:
   - http://scripting.com/rssNightly.xml
   - https://chrisburnell.com/feed.xml
   categories:
-  - Accessibility
-  - Applications
-  - Authoring
-  - Best practices
-  - Design
-  - Standards
-  - State of the Web
-  - apps
-  - architecture
+  - family
+  - glamorous
   relme:
     https://front-end.social/@zeldman: true
     https://zeldman.com/: true
-  last_post_title: What happened to the Share button in Zoom?
-  last_post_description: Zoom has always included a clickable button/badge at the
-    top left of its primary meeting interface window. Click the badge to copy the
-    URL of that meeting. You can then, with just one more click in
-  last_post_date: "2024-07-15T17:08:23Z"
-  last_post_link: https://zeldman.com/2024/07/15/what-happened-to-the-share-button-in-zoom/
+  last_post_title: Strange Beliefs of Childhood № 99
+  last_post_description: |-
+    My Glamorous Life: late to the pubescence party.
+    The post Strange Beliefs of Childhood № 99 appeared first on Zeldman on Web and Interaction Design.
+  last_post_date: "2024-08-21T11:24:37Z"
+  last_post_link: https://zeldman.com/2024/08/21/strange-beliefs-of-childhood-%e2%84%96-99/
   last_post_categories:
-  - Accessibility
-  - Applications
-  - Authoring
-  - Best practices
-  - Design
-  - Standards
-  - State of the Web
-  - apps
-  - architecture
+  - family
+  - glamorous
   last_post_language: ""
-  last_post_guid: e1174d659841d3a542bd1bc080583903
+  last_post_guid: 817fe81c7e09d37e17793d912bbeca13
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 1
-    postcats: 3
+    postcats: 2
     promoted: 5
     promotes: 0
     relme: 2
     title: 3
     website: 2
-  score: 19
+  score: 18
   ispodcast: false
   isnoarchive: false
   innetwork: true

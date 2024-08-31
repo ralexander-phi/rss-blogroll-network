@@ -173,7 +173,7 @@ params:
   - https://www.buttersafe.com/feed/atom/
   - https://colinwalker.blog/dailyfeed.xml
   - https://cosmicqbit.dev/blog/index.xml
-  - https://derekkedziora.com/feed/essays.xml
+  - https://degruchy.org/comments/feed/
   - https://distributed.blog/comments/feed/
   - https://distributed.blog/feed/
   - https://drikkes.com/?feed=comments-rss2
@@ -239,21 +239,20 @@ params:
   - https://www.nathalielawhead.com/candybox/comments/feed
   - https://www.optipess.com/comments/feed/
   - https://www.optipess.com/feed/
+  - https://polyamorousmisanthrope.com/wordpress/comments/feed/
   - https://www.schneier.com/comments/feed/
   - https://www.schneier.com/feed/
   - https://www.zylstra.org/blog/comments/feed/
   - https://xkcd.com/atom.xml
   - https://youdo.blog/comments/feed/
-  - https://www.zinzolin.fr/comments/feed/
   - https://www.zinzolin.fr/feed/
   recommender: []
   categories:
   - Personal
-  - art
-  - blogging
-  - php
-  - rss club
-  - wordpress
+  - debian
+  - dogs
+  - three rings
+  - volunteering
   relme:
     https://dan-q.github.io/: true
     https://danq.blog/: true
@@ -264,21 +263,20 @@ params:
     https://keybase.io/dq: true
     https://m.danq.me/@blog: true
     https://m.danq.me/@dan: true
-  last_post_title: '[Article] RSS Club: Draw Me A Comment! [RSS Exclusive!]'
-  last_post_description: 'I''ve been working on a truly bonkers idea: a WordPress
-    theme extension that allows selected posts to accept drawings, rather than text,
-    as comments.'
-  last_post_date: "2024-08-01T10:37:20+01:00"
-  last_post_link: https://danq.me/2024/08/01/rss-club-draw-me-a-comment/
+  last_post_title: '[Note]'
+  last_post_description: 'Me: “This weekend I need to update these buildout scripts
+    for Debian 12 and implement a new provider middleware.” Dog’s expression: “Or
+    we could just go for a walk?” Me: “Or we could just'
+  last_post_date: "2024-08-31T14:25:26+01:00"
+  last_post_link: https://danq.me/2024/08/31/o7-or-dog/
   last_post_categories:
   - Personal
-  - art
-  - blogging
-  - php
-  - rss club
-  - wordpress
+  - debian
+  - dogs
+  - three rings
+  - volunteering
   last_post_language: ""
-  last_post_guid: 0107ccb6c045e5b10548a958c8e084a0
+  last_post_guid: 6f2e6f43bb241cf8fc273e135ae9fb54
   score_criteria:
     cats: 0
     description: 3

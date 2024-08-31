@@ -1,6 +1,6 @@
 ---
 title: Eleventy Blog
-date: "2024-05-22T00:00:00Z"
+date: "2024-07-31T00:00:00Z"
 description: News and updates about the Eleventy static site generator project.
 params:
   feedlink: https://11ty.dev/blog/feed.xml
@@ -18,13 +18,13 @@ params:
   - https://chrisburnell.com/feed.xml
   categories: []
   relme: {}
-  last_post_title: Help 11ty become sustainable in 2024
+  last_post_title: Eleventy v3.0.0-beta.1 now available
   last_post_description: ""
-  last_post_date: "2024-05-22T00:00:00Z"
-  last_post_link: https://www.11ty.dev/blog/sustainability-fundraising/
+  last_post_date: "2024-07-31T00:00:00Z"
+  last_post_link: https://www.11ty.dev/blog/three-point-oh-beta-one/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 1a72614e0d6da13280869c7af33419ca
+  last_post_guid: 16be69bda732c00b1cee3d1658edb23e
   score_criteria:
     cats: 0
     description: 3

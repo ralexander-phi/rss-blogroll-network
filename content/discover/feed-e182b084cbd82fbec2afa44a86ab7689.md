@@ -20,14 +20,14 @@ params:
   - Programming
   - Raspberry Pi
   relme: {}
-  last_post_title: Building Quarter-Cab - Phase I
-  last_post_description: Lets build a simple virtual pinball controller to bring more
-    immersion to your game.
-  last_post_date: "2024-05-08T12:00:00Z"
-  last_post_link: https://www.engineersneedart.com/blog/quartercabphase1/quartercabphase1.html
+  last_post_title: Soft Dorothy Software — Shareware Projects
+  last_post_description: Wherein I attempt to recover and restore old shareware code
+    and program again like it's 1989.
+  last_post_date: "2024-08-29T12:00:00Z"
+  last_post_link: https://www.engineersneedart.com/blog/shareware/shareware.html
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 1109e55becd1e1436af9783335f7025a
+  last_post_guid: b83c48960187e6738b27cf2d31126d9f
   score_criteria:
     cats: 2
     description: 3

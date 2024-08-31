@@ -1,6 +1,6 @@
 ---
 title: Planet Bugzilla
-date: Mon, 22 Jul 2024 20:24:44 GMT
+date: Fri, 30 Aug 2024 14:24:46 GMT
 description: ""
 params:
   link: https://planet.bugzilla.org/opml.xml
@@ -12,13 +12,13 @@ params:
   - title: Bugzilla Tips
     description: Hints, tips and tricks to use Bugzilla more effectively
     id: f241427ef8310f102533e3a283f711ed
-  - title: Bugzilla – Justdave's Blog
-    description: Random Ramblings of a Sysadmin
-    id: a3cfe6d50158e7207bb8c7549ce39c79
   - title: Bugzilla – Hacking for Christ
     description: Gervase Markham
     id: 62cbde103b1f8d245a12ea9b3e799fdd
   - title: Le blog d'Emmanuel - Mot-clé - bugzilla
     description: ""
     id: 4bca43f9c1a07686ad0510c12d0b8107
+  - title: Bugzilla – Justdave's Blog
+    description: Random Ramblings of a Sysadmin
+    id: a3cfe6d50158e7207bb8c7549ce39c79
 ---

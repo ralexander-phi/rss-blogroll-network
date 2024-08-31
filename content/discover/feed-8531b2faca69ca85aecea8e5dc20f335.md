@@ -18,17 +18,16 @@ params:
   recommender: []
   categories: []
   relme: {}
-  last_post_title: 'WARC-GPT “on tour”: Talk transcript and slide decks'
+  last_post_title: Adding Fresher Caselaw To Open Casebooks
   last_post_description: |-
-    Over the past couple of months, my colleague Kristi Mukk and I had the opportunity to talk about WARC-GPT and the concept of Librarianship of AI to the greater GLAM community:
+    This post relates to H2O Open Casebook, our tool for law professors to make open, remixable casebooks, and the Caselaw Access Project, our project to digitize the law of the United States.
 
-
-      In March, at an
-  last_post_date: "2024-06-28T00:00:00Z"
-  last_post_link: https://lil.law.harvard.edu/blog/2024/06/28/warc-gpt-on-tour-talk-transcript-and-slide-decks/
+    H2O Open
+  last_post_date: "2024-08-27T00:00:00Z"
+  last_post_link: https://lil.law.harvard.edu/blog/2024/08/27/adding-fresher-caselaw-to-open-casebooks/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: a10e6cc278d6d1848a592a439cb1f243
+  last_post_guid: b916fede7867d099207b9ea843789a93
   score_criteria:
     cats: 0
     description: 3

@@ -1,6 +1,6 @@
 ---
 title: Releng of the Nerds
-date: "2024-03-05T08:11:08-08:00"
+date: "2024-08-29T22:43:24-07:00"
 description: Open Source Release Engineering
 params:
   feedlink: https://www.blogger.com/feeds/25023280/posts/default/-/eclipse

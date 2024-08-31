@@ -9,6 +9,7 @@ params:
   websites:
     https://chriskirknielsen.com/: false
     https://chriskirknielsen.com/designs: false
+    https://chriskirknielsen.com/designs/: false
     https://chriskirknielsen.com/webring/: false
   blogrolls: []
   in_blogrolls:
