@@ -18,6 +18,8 @@ params:
   - https://otavio.cc/feed.xml
   - https://www.manton.org/feed.xml
   - https://www.manton.org/podcast.xml
+  - https://otavio.cc/feed/
+  - https://otavio.cc/feed/?type=rss
   recommender: []
   categories:
   - Society & Culture
@@ -41,11 +43,11 @@ params:
     feedlangs: 1
     postcats: 0
     promoted: 0
-    promotes: 2
+    promotes: 3
     relme: 2
     title: 3
     website: 2
-  score: 14
+  score: 15
   ispodcast: true
   isnoarchive: false
   innetwork: true

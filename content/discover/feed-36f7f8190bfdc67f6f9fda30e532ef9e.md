@@ -17,6 +17,7 @@ params:
   recommended: []
   recommender:
   - https://chrisburnell.com/feed.xml
+  - https://repc.co/feed.xml
   categories: []
   relme:
     https://sallylait.com/blog/: true

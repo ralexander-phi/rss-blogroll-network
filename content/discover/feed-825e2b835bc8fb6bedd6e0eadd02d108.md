@@ -21,6 +21,7 @@ params:
   recommended: []
   recommender:
   - https://chrisburnell.com/feed.xml
+  - https://repc.co/feed.xml
   categories:
   - Web
   - Writing

@@ -1,6 +1,6 @@
 ---
 title: benji
-date: "2024-07-31T20:06:45Z"
+date: "2024-08-27T21:52:25Z"
 description: "\U0001F1EA\U0001F1E8 benji. not the dog."
 params:
   feedlink: https://benji.dog/all.xml
@@ -53,7 +53,6 @@ params:
   - https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/9dc914ae-df2a-4038-bbba-aff20107d1ab/30f0cdc5-cac4-4b33-ae56-aff20107d1cc/podcast.rss
   - https://david.shanske.com/comments/feed/
   - https://david.shanske.com/feed/
-  - https://gregorlove.com/articles.atom
   - https://jlelse.blog/.atom
   - https://lifeofpablo.com/podcast/page:podcast.xml
   - https://localghost.dev/articles.xml
@@ -78,29 +77,32 @@ params:
   - https://ellyloel.com/feed.rss
   - https://www.lkhrs.com/index.xml
   recommender: []
-  categories: []
+  categories:
+  - design
   relme:
     https://benji.dog/: true
     https://github.com/benjifs: true
     https://gitlab.com/benjifs: true
-  last_post_title: Liked "IndieWeb Movie Club"
-  last_post_description: Liked "IndieWeb Movie Club"
-  last_post_date: "2024-07-31T20:06:45Z"
-  last_post_link: https://benji.dog/likes/1722456405-indieweb-movie-club/
-  last_post_categories: []
+  last_post_title: Bookmarked "The Monospace Web"
+  last_post_description: My site used to be monospaced. I was always messing with
+    it as I wasn't happy so changed a few things. I do like how this looks so maybe...
+  last_post_date: "2024-08-27T21:52:25Z"
+  last_post_link: https://benji.dog/bookmarks/1724795545-the-monospace-web/
+  last_post_categories:
+  - design
   last_post_language: ""
-  last_post_guid: e39cea764799b1a914a3fa665b27eca6
+  last_post_guid: 24aac10190ce4210f256d50c0b523155
   score_criteria:
     cats: 0
     description: 3
     feedlangs: 0
-    postcats: 0
+    postcats: 1
     promoted: 0
     promotes: 10
     relme: 2
     title: 3
     website: 2
-  score: 20
+  score: 21
   ispodcast: false
   isnoarchive: false
   innetwork: true

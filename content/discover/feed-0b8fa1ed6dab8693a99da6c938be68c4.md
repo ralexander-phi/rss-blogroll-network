@@ -15,6 +15,7 @@ params:
   recommended: []
   recommender:
   - https://chrisburnell.com/feed.xml
+  - https://repc.co/feed.xml
   categories: []
   relme: {}
   last_post_title: 'Service design panel: How employee experience shapes customer

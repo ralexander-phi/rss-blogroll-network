@@ -22,6 +22,7 @@ params:
   recommended: []
   recommender:
   - https://chrisburnell.com/feed.xml
+  - https://repc.co/feed.xml
   categories: []
   relme: {}
   last_post_title: 'Changelog: 18 August 2024'

@@ -1,6 +1,6 @@
 ---
 title: benji
-date: "2024-07-06T00:00:00Z"
+date: "2024-08-26T00:00:00Z"
 description: "\U0001F1EA\U0001F1E8 benji. not the dog."
 params:
   feedlink: https://benji.dog/read.xml
@@ -53,7 +53,6 @@ params:
   - https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/9dc914ae-df2a-4038-bbba-aff20107d1ab/30f0cdc5-cac4-4b33-ae56-aff20107d1cc/podcast.rss
   - https://david.shanske.com/comments/feed/
   - https://david.shanske.com/feed/
-  - https://gregorlove.com/articles.atom
   - https://jlelse.blog/.atom
   - https://lifeofpablo.com/podcast/page:podcast.xml
   - https://localghost.dev/articles.xml
@@ -83,15 +82,14 @@ params:
     https://benji.dog/: true
     https://github.com/benjifs: true
     https://gitlab.com/benjifs: true
-  last_post_title: Finished Reading The Seven Husbands of Evelyn Hugo by Taylor Jenkins
-    Reid
-  last_post_description: Finished Reading The Seven Husbands of Evelyn Hugo by Taylor
-    Jenkins Reid
-  last_post_date: "2024-07-06T00:00:00Z"
-  last_post_link: https://benji.dog/read/1720330113-the-seven-husbands-of-evelyn-hugo-2017/
+  last_post_title: Finished Reading Remarkably Bright Creatures by Shelby Van Pelt
+  last_post_description: Finished Reading Remarkably Bright Creatures by Shelby Van
+    Pelt
+  last_post_date: "2024-08-26T00:00:00Z"
+  last_post_link: https://benji.dog/read/1724864952-remarkably-bright-creatures/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 85630536301b52f381d90a760e45b7b4
+  last_post_guid: 04e3a7ecb5ac7f459eed7ffd52b8ee14
   score_criteria:
     cats: 0
     description: 3

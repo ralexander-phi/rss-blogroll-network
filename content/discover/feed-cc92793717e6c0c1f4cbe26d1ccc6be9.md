@@ -1,6 +1,6 @@
 ---
 title: benji
-date: "2024-07-30T00:00:00Z"
+date: "2024-08-26T00:00:00Z"
 description: "\U0001F1EA\U0001F1E8 benji. not the dog."
 params:
   feedlink: https://benji.dog/watched.xml
@@ -53,7 +53,6 @@ params:
   - https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/9dc914ae-df2a-4038-bbba-aff20107d1ab/30f0cdc5-cac4-4b33-ae56-aff20107d1cc/podcast.rss
   - https://david.shanske.com/comments/feed/
   - https://david.shanske.com/feed/
-  - https://gregorlove.com/articles.atom
   - https://jlelse.blog/.atom
   - https://lifeofpablo.com/podcast/page:podcast.xml
   - https://localghost.dev/articles.xml
@@ -83,13 +82,13 @@ params:
     https://benji.dog/: true
     https://github.com/benjifs: true
     https://gitlab.com/benjifs: true
-  last_post_title: Watched Deadpool & Wolverine, 2024 - ★★★★½
-  last_post_description: Watched Deadpool & Wolverine, 2024 - ★★★★½
-  last_post_date: "2024-07-30T00:00:00Z"
-  last_post_link: https://benji.dog/watched/1722403344-deadpool--wolverine-2024/
+  last_post_title: Rewatched The Matrix, 1999 - ★★★★★
+  last_post_description: Rewatched The Matrix, 1999 - ★★★★★
+  last_post_date: "2024-08-26T00:00:00Z"
+  last_post_link: https://benji.dog/watched/1724730246-the-matrix-1999/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: c63d3e9f1a27dcfc7ee786b388e5aafc
+  last_post_guid: c4bd2a5ae9cdaea39fdf35eefb227c1f
   score_criteria:
     cats: 0
     description: 3

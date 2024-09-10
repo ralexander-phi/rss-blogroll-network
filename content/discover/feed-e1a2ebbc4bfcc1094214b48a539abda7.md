@@ -26,6 +26,7 @@ params:
   - https://chrisburnell.com/feed.xml
   - https://hacdias.com/feed.xml
   - https://kiko.io/rss.xml
+  - https://repc.co/feed.xml
   categories: []
   relme:
     https://front-end.social/@mxbck: true

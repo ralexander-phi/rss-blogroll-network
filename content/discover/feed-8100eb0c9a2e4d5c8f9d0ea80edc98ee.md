@@ -22,6 +22,7 @@ params:
   - http://scripting.com/rss.xml
   - http://scripting.com/rssNightly.xml
   - https://chrisburnell.com/feed.xml
+  - https://repc.co/feed.xml
   categories:
   - family
   - glamorous

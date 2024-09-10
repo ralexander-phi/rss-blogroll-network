@@ -19,7 +19,12 @@ params:
     id: d1e3cb8e6f775b5ce55cf0dfdc573e04
   recommended: []
   recommender:
+  - https://benji.dog/all.xml
+  - https://benji.dog/bookmarks.xml
   - https://benji.dog/feed.xml
+  - https://benji.dog/photos.xml
+  - https://benji.dog/read.xml
+  - https://benji.dog/watched.xml
   - https://www.benji.dog/all.xml
   - https://www.benji.dog/bookmarks.xml
   - https://www.benji.dog/feed.xml

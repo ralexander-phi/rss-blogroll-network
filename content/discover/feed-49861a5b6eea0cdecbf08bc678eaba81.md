@@ -1,6 +1,6 @@
 ---
 title: benji
-date: "2024-07-25T17:33:13Z"
+date: "2024-08-27T21:52:25Z"
 description: "\U0001F1EA\U0001F1E8 benji. not the dog."
 params:
   feedlink: https://benji.dog/bookmarks.xml
@@ -53,7 +53,6 @@ params:
   - https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/9dc914ae-df2a-4038-bbba-aff20107d1ab/30f0cdc5-cac4-4b33-ae56-aff20107d1cc/podcast.rss
   - https://david.shanske.com/comments/feed/
   - https://david.shanske.com/feed/
-  - https://gregorlove.com/articles.atom
   - https://jlelse.blog/.atom
   - https://lifeofpablo.com/podcast/page:podcast.xml
   - https://localghost.dev/articles.xml
@@ -79,22 +78,20 @@ params:
   - https://www.lkhrs.com/index.xml
   recommender: []
   categories:
-  - inspiration
+  - design
   relme:
     https://benji.dog/: true
     https://github.com/benjifs: true
     https://gitlab.com/benjifs: true
-  last_post_title: Bookmarked "My website is a shifting house next to a river of knowledge.
-    What could yours be?"
-  last_post_description: I don't quite know what my website is. Sometimes I think
-    of it like a shelf. I wish it was closer to a garden. Realistically, it's more
-    of an attic. I add things to it so that if I ever need them,
-  last_post_date: "2024-07-25T17:33:13Z"
-  last_post_link: https://benji.dog/bookmarks/1721928794-my-website-is-a-shifting-house-next-to-a-river-of-knowledge-what-could-yours-be/
+  last_post_title: Bookmarked "The Monospace Web"
+  last_post_description: My site used to be monospaced. I was always messing with
+    it as I wasn't happy so changed a few things. I do like how this looks so maybe...
+  last_post_date: "2024-08-27T21:52:25Z"
+  last_post_link: https://benji.dog/bookmarks/1724795545-the-monospace-web/
   last_post_categories:
-  - inspiration
+  - design
   last_post_language: ""
-  last_post_guid: 6a7e253ec624e0a5fb19b9033ea02880
+  last_post_guid: e7a0adfd68af988b0abf5946d83211dd
   score_criteria:
     cats: 0
     description: 3

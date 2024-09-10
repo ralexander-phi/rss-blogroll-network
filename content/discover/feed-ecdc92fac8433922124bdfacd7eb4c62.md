@@ -19,6 +19,7 @@ params:
   recommended: []
   recommender:
   - https://chrisburnell.com/feed.xml
+  - https://repc.co/feed.xml
   - https://rknight.me/subscribe/posts/rss.xml
   categories: []
   relme: {}
