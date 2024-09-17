@@ -15,15 +15,25 @@ params:
     id: e6f62030c0a74fdcd1c99a1b492f6d21
   - title: Dan Q's Blogroll
     description: ""
+    id: 7e0e72d6fd1109a16363155b4cda88a8
+  - title: Dan Q's Blogroll
+    description: ""
     id: efa39f8903d9f955318300588291f9c0
+  - title: Dan Q's Blogroll
+    description: ""
+    id: 42e729b4ed4d139b08eaa2f55f3a9b49
   recommended: []
   recommender:
   - https://colinwalker.blog/dailyfeed.xml
   - https://colinwalker.blog/livefeed.xml
+  - https://danq.blog/comments/feed/
+  - https://danq.blog/feed/
   - https://danq.me/comments/feed/
   - https://danq.me/feed/
   - https://danq.me/kind/article/feed/
   - https://danq.me/kind/note/feed/
+  - https://danq.uk/comments/feed/
+  - https://danq.uk/feed/
   categories: []
   relme:
     https://colly.com/: true
