@@ -8,7 +8,6 @@ params:
   feedid: fc4de06a5b1f1425d4c03c635fa6ea2e
   websites:
     https://blog.mozilla.org/labs: true
-    https://blog.mozilla.org/labs/: false
   blogrolls: []
   in_blogrolls:
   - title: Planet Mozilla Projects

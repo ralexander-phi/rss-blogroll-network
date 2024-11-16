@@ -8,7 +8,6 @@ params:
   feedid: a85beed7b83cbb90e25b6f5b9073fd58
   websites:
     https://blogs.gnome.org/jjardon: true
-    https://blogs.gnome.org/jjardon/: false
   blogrolls: []
   in_blogrolls:
   - title: Planet GNOME

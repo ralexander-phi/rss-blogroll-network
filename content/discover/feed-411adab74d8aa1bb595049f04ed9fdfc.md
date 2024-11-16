@@ -9,11 +9,8 @@ params:
   websites:
     https://frills.dev/: true
     https://frills.dev/blog: false
-    https://frills.dev/blog/: false
     https://frills.dev/bookmarks: false
-    https://frills.dev/bookmarks/: false
     https://frills.dev/changelog: false
-    https://frills.dev/changelog/: false
   blogrolls: []
   in_blogrolls:
   - title: Feeds for cssjoy webri.ng

@@ -21,7 +21,6 @@ params:
   categories:
   - emacs,kubernetes,lisp
   relme:
-    https://emacs.ch/@eshel: true
     https://eshelyaron.com/: true
   last_post_title: Kubed is now on GNU ELPA
   last_post_description: |-

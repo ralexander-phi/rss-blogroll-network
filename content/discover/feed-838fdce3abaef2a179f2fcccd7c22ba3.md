@@ -38,7 +38,6 @@ params:
   - https://kevq.uk/feed/
   - https://kevq.uk/home.rss
   - https://kevquirk.com/feed
-  - https://kevquirk.com/feed/
   - https://kevquirk.com/notes-feed
   - https://marisabel.nl/feeds/blog.php
   - https://marisabel.nl/feeds/combined.php

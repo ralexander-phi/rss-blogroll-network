@@ -72,7 +72,6 @@ params:
   - https://piperhaywood.com/comments/feed/
   - https://piperhaywood.com/feed/
   - https://tracydurnell.com/comments/feed/
-  - https://veronique.ink/feed/
   - https://ellyloel.com/feed.atom
   - https://ellyloel.com/feed.rss
   - https://www.lkhrs.com/index.xml

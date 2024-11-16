@@ -141,7 +141,6 @@ params:
   - https://werd.io/content/all?_t=rss
   - https://werd.io/content/bookmarkedpages?_t=rss
   - https://www.bjornfranke.nl/comments/feed/
-  - https://www.jeremycherfas.net/blog.rss
   - https://www.neondystopia.com/?feed=comments-rss2
   - https://www.neondystopia.com/?feed=rss2
   - https://www.pelicancrossing.net/netwars/index.xml

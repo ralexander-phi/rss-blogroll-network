@@ -8,7 +8,6 @@ params:
   feedid: db44aacd9c8d5e5e6530cde5f010e7c2
   websites:
     https://blogs.fsfe.org/agger: true
-    https://blogs.fsfe.org/agger/: false
   blogrolls: []
   in_blogrolls:
   - title: Thoughts of the FSFE Community (English)

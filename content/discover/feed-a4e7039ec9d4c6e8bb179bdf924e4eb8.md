@@ -7,7 +7,6 @@ params:
   feedtype: rss
   feedid: a4e7039ec9d4c6e8bb179bdf924e4eb8
   websites:
-    https://neteler.org/: false
     https://neteler.org/markus-neteler-consulting/: true
   blogrolls: []
   in_blogrolls:

@@ -8,7 +8,6 @@ params:
   feedid: fe838b379e064edcaf86f8c4fa9c60ca
   websites:
     https://blog.mozilla.org/axel: true
-    https://blog.mozilla.org/axel/: false
   blogrolls: []
   in_blogrolls:
   - title: Planet Mozilla

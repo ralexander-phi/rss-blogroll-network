@@ -9,7 +9,6 @@ params:
   websites:
     https://blog.mihobu.lol/webrings: false
     https://mihobu.lol/: true
-    https://mihobu.lol/webrings: false
   blogrolls: []
   in_blogrolls:
   - title: Feeds for cssjoy webri.ng

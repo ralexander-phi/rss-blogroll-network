@@ -8,7 +8,6 @@ params:
   feedid: 1ec1bc406eeeab9fe3ae5290403d8ced
   websites:
     https://tromey.com/blog: true
-    https://tromey.com/blog/: false
   blogrolls: []
   in_blogrolls:
   - title: Planet Classpath

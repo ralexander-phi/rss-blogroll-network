@@ -15,9 +15,6 @@ params:
   - title: Chris Burnell Blogroll
     description: ""
     id: 7becef5fc95d0b51be024a2830568f06
-  - title: ""
-    description: ""
-    id: d1e3cb8e6f775b5ce55cf0dfdc573e04
   recommended: []
   recommender:
   - https://benji.dog/all.xml
@@ -28,12 +25,6 @@ params:
   - https://benji.dog/watched.xml
   - https://chrisburnell.com/feed.xml
   - https://repc.co/feed.xml
-  - https://www.benji.dog/all.xml
-  - https://www.benji.dog/bookmarks.xml
-  - https://www.benji.dog/feed.xml
-  - https://www.benji.dog/photos.xml
-  - https://www.benji.dog/read.xml
-  - https://www.benji.dog/watched.xml
   categories: []
   relme: {}
   last_post_title: Weeknotes 18

@@ -8,7 +8,6 @@ params:
   feedid: afd52b604bdef659f32d9131d6d2dfd5
   websites:
     https://blogs.igalia.com/carlosgc: true
-    https://blogs.igalia.com/carlosgc/: false
   blogrolls: []
   in_blogrolls:
   - title: Planet GNOME

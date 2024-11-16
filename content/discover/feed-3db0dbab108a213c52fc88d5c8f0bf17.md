@@ -249,10 +249,12 @@ params:
   recommender: []
   categories:
   - Personal
-  - debian
-  - dogs
-  - three rings
-  - volunteering
+  - automattic
+  - cache log
+  - geocaching
+  - skiing
+  - teleworking
+  - work
   relme:
     https://dan-q.github.io/: true
     https://danq.blog/: true
@@ -263,20 +265,22 @@ params:
     https://keybase.io/dq: true
     https://m.danq.me/@blog: true
     https://m.danq.me/@dan: true
-  last_post_title: '[Note]'
-  last_post_description: 'Me: “This weekend I need to update these buildout scripts
-    for Debian 12 and implement a new provider middleware.” Dog’s expression: “Or
-    we could just go for a walk?” Me: “Or we could just'
-  last_post_date: "2024-08-31T14:25:26+01:00"
-  last_post_link: https://danq.me/2024/08/31/o7-or-dog/
+  last_post_title: '[Checkin] Dan Q found GC4MHJ0 Octo (MK Artwalks)'
+  last_post_description: This checkin to GC4MHJ0 Octo (MK Artwalks) reflects a geocaching.com
+    log entry. See more of Dan's cache logs. Today’s the last of three consecutive
+    days that I’ve spent working in Milton Keynes.
+  last_post_date: "2024-08-30T12:38:00+01:00"
+  last_post_link: https://danq.me/2024/08/30/dan-q-found-gc4mhj0-octo-mk-artwalks/
   last_post_categories:
   - Personal
-  - debian
-  - dogs
-  - three rings
-  - volunteering
+  - automattic
+  - cache log
+  - geocaching
+  - skiing
+  - teleworking
+  - work
   last_post_language: ""
-  last_post_guid: 6f2e6f43bb241cf8fc273e135ae9fb54
+  last_post_guid: 67035aaf3a094c8e0a77f5178384106c
   score_criteria:
     cats: 0
     description: 3

@@ -8,7 +8,6 @@ params:
   feedid: 78a8fcaf252d8f3b5cfa3fc9dc97a573
   websites:
     https://blogs.gnome.org/mcatanzaro: true
-    https://blogs.gnome.org/mcatanzaro/: false
   blogrolls: []
   in_blogrolls:
   - title: Planet GNOME

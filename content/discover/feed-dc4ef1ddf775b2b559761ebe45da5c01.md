@@ -8,7 +8,6 @@ params:
   feedid: dc4ef1ddf775b2b559761ebe45da5c01
   websites:
     https://blogs.gnome.org/cosimoc: true
-    https://blogs.gnome.org/cosimoc/: false
   blogrolls: []
   in_blogrolls:
   - title: Planet GNOME

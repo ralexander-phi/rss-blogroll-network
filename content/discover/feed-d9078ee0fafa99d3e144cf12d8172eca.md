@@ -19,9 +19,7 @@ params:
   recommended: []
   recommender:
   - https://roytang.net/all/feed/rss
-  - https://roytang.net/all/feed/rss/
   - https://roytang.net/blog/feed/rss
-  - https://roytang.net/blog/feed/rss/
   - https://roytang.net/index.xml
   - https://therealadam.com/feed.xml
   categories:
