@@ -1,6 +1,10 @@
 feed_urls:
   - file:///seeds.opml
 
+  # Large lists
+  - https://github.com/outcoldman/hackernews-personal-blogs/raw/master/list.opml
+  - https://github.com/outcoldman/hackernews-personal-blogs/raw/master/listx.opml
+
   #
   # Planets
   #
@@ -110,6 +114,8 @@ feed_urls:
   - https://codeberg.org/mclemens/Ham-Radio-RSS-Feeds/raw/branch/main/hamradio.opml
   - https://github.com/rayascott/fearless-rust-bloggers/raw/master/fearless-rust-bloggers.opml
   - https://opendev.org/openstack/openstack-planet/raw/branch/master/planet-openstack-org.opml
+  - https://raw.githubusercontent.com/ssnkhan/adversarial-threat-modelling/refs/heads/master/CTI-DFIR-Feeds.opml
+  - https://raw.githubusercontent.com/timqian/chinese-independent-blogs/refs/heads/master/feed.opml
 
   # theplanetarium
   - https://davorg.theplanetarium.org/opml.xml
@@ -120,6 +126,10 @@ feed_urls:
   - https://planet-commandline.org/+german/opml.xml
   - https://planet-commandline.org/+snippets/opml.xml
   - https://planet-commandline.org/opml.xml
+
+  # sghatpande.eu
+  - https://raw.githubusercontent.com/Deadlyelder/infosec_blogs/refs/heads/master/Blogs.opml
+  - https://raw.githubusercontent.com/Deadlyelder/infosec_blogs/refs/heads/master/Cryptography.opml
 
   # Watch here for more:
   # - https://github.com/ArchiveTeam/urls-sources
@@ -144,11 +154,6 @@ feed_urls:
   # https://github.com/voxpelli/webring-opml
   - https://webring-opml.voxpelli.com/cssjoy.opml
 
-  #
-  # Delay these
-  #
-  #- https://github.com/outcoldman/hackernews-personal-blogs/raw/master/list.opml
-  #- https://github.com/outcoldman/hackernews-personal-blogs/raw/master/listx.opml
 
   # BROKEN - Missing a <body>
   # Reached out over Mastodon
@@ -166,6 +171,11 @@ feed_urls:
   #- https://campaignwiki.org/rpg/osr.opml
   #- https://campaignwiki.org/rpg/other.opml
 
+  # Kagi Small Web (disabled)
+  # - https://kagi.com/smallweb/opml
+
+  # Others
+  # https://github.com/Martinviv/rss-sources (low stars)
 
 output_mode:
   - "SQL"

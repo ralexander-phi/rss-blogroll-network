@@ -123,6 +123,9 @@ params:
   - title: Coding Horror
     description: programming and human factors
     id: 64bbdf7a929cb2d49acdd84511875285
+  - title: CommitStrip
+    description: The blog relating the daily life of web agency developers
+    id: 6563b55e1c0ad9cb06775ddc27d4136a
   - title: Jan’s Blog
     description: On Web Development, WordPress, and More
     id: 65ab85477b63cb64d50ae68eecc3e4c4

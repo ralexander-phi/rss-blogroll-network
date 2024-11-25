@@ -1,0 +1,607 @@
+---
+title: Blaze's Security Blog
+date: "1970-01-01T00:00:00Z"
+description: Personal blog about internet & malware threats.
+params:
+  feedlink: https://bartblaze.blogspot.com/feeds/posts/default?alt=rss
+  feedtype: rss
+  feedid: a018ecb1acc2b60e2acb6d2936384df1
+  websites:
+    https://bartblaze.blogspot.com/: true
+  blogrolls: []
+  in_blogrolls:
+  - title: Subscriptions - RSS
+    description: ""
+    id: 7d1048b956eae1cfe0bce8f68656857b
+  recommended: []
+  recommender: []
+  categories:
+  - .MAFIA
+  - .apk
+  - .crypted
+  - .encry
+  - .encrypted.
+  - .net
+  - .net hunting
+  - .net malware
+  - "0963210438"
+  - 175.156.221.127
+  - 1EoWxYTt7xCskTxjm47E2XNxgkZv1anDP9
+  - 1VirusnmipsYSA5jMv8NKstL8FkVjNB9o
+  - "2016"
+  - 203.255.186.156
+  - 5SS5C Encoder
+  - 5ss5c
+  - 5ss5c ransomware
+  - 5ss5c@mail.ru
+  - 5ss5c_CRYPT
+  - 5ss5c_token
+  - ACH transfer
+  - ACUConfig
+  - ADP
+  - APT
+  - Absolute Computrace
+  - Absolute Persistence
+  - Acer
+  - Acer LOLBin
+  - Additional.mail@mail.com
+  - AftonBladet
+  - AftonBladet compromised
+  - AftonBladet hack
+  - AftonBladet malware
+  - Annabelle
+  - AutoIT ransomware
+  - Autorun worm
+  - BKransomware
+  - Bad Rabbit
+  - BadRabbit
+  - BadRabbit ransomware
+  - BillGates
+  - BillGates botnet
+  - Bladabindi‬
+  - CFM
+  - CS:GO Double Withdraw Helper
+  - CSGODouble Theme Changer
+  - CVE-2006-0003
+  - CVE-2010-0840
+  - CVE-2010-3333
+  - CVE-2012-0158
+  - CVE-2012-4681
+  - CVE-2017-5689
+  - Chrome Malware Removal Tool
+  - Chthonic
+  - Computrace
+  - Consolidate
+  - Cooperate
+  - Coordinate
+  - CrunchyRoll
+  - CrunchyRoll DNS hijack
+  - CrunchyRoll hack
+  - CrunchyRoll malware
+  - CrunchyViewer
+  - Cryptocurrency Mining Malware
+  - Crystal Attack
+  - Crystal Finance Millennium
+  - Csgodouble AutoGambling Bot
+  - Cybercrime Report Template
+  - DBGer ransomware
+  - DCCW
+  - DDoS
+  - DFIR
+  - DLL injection
+  - DMA locker
+  - Dinihu
+  - Display Color Calibration Wizard
+  - Display Color Calibration tool
+  - Dofoil
+  - Dorifel
+  - ELF
+  - EU cookie law
+  - EternalPetya
+  - ExPetr
+  - Excedow
+  - Facebook spam
+  - Fake Symantec security check
+  - Farajallah
+  - FedEx
+  - FedEx spam
+  - Hacked Hotmail accounts
+  - Hewlett-Packard ScanJet
+  - Hi bro you need it?
+  - Houdini
+  - IFEO
+  - ING
+  - INTEL-SA-00075
+  - IP and RP Hack Download
+  - Improved CSGODouble
+  - Intel
+  - Intel AMT
+  - Intel Active Management Technology
+  - Intel Local Management Service
+  - Iron
+  - Iron ransomware
+  - JIGSAW RANSOMNIX 2018
+  - Jenxcus
+  - Jigsaw
+  - Jigsaw Ransomnix
+  - Jinwoo
+  - Korean ransomware
+  - KovCoreG
+  - Kovter
+  - LOLBin
+  - League of Legends
+  - League of Legends RP generator
+  - League of Legends RP hack
+  - Linux/BillGates
+  - LoJack
+  - LoL
+  - LoL RP Hack
+  - MAFIA
+  - MSN
+  - Mafia ransomware
+  - Maktub
+  - Maktub Locker
+  - Maltego
+  - Marcher
+  - Marcher banking trojan
+  - MastersRecovery@cock.li
+  - MastersRecovery@protonmail.com
+  - Monero
+  - Monero download site and binaries compromised
+  - Monero hack
+  - Monero project compromised
+  - MultiHack
+  - NFT
+  - Nemucod JS
+  - Nemucod downloader
+  - NemucodJS
+  - NotPetya
+  - Nyetya
+  - O365 phishing
+  - OWA phishing
+  - PC Speed Maximizer
+  - PDF
+  - PSCrypt
+  - PUP
+  - Petna
+  - Quervar
+  - Question and Answer
+  - RP generator fake
+  - Ransomnix
+  - RedEye
+  - RedEye ransomware
+  - RemovalTool.exe
+  - Riot codes scam
+  - Riot points scam
+  - RunCmd
+  - RunCmd_x64.exe
+  - SDA
+  - ST_V22
+  - Satan
+  - Satan ransomware
+  - Sem Solução
+  - Sharik
+  - Smoke
+  - SmokeLoader
+  - Spartacus
+  - Spartacus ransomware
+  - Stimilik
+  - StorageCrypt
+  - Taiga
+  - UAC
+  - UAC bypass
+  - UPS
+  - UPS spam
+  - Ukraine
+  - United Parcel Service
+  - VBS worm
+  - VBScript
+  - Vietnamese ransomware
+  - WSOshell
+  - WanaCry
+  - WanaCrypt
+  - WanaDecrypt0r
+  - WannaCry
+  - WannaCrypt
+  - WannaCryptor
+  - WinMHR
+  - Windows Antibreaking System
+  - Windows Script Host
+  - XDocCrypt
+  - Xdata
+  - ad fraud
+  - ad networks
+  - adblock plus
+  - adobe
+  - adobe exploit
+  - adware
+  - affiliate
+  - aftonbladet hacked
+  - all your data are belong to us
+  - ammyy
+  - androguard
+  - android
+  - android SDK
+  - android analysis
+  - android analysis tools
+  - android apk decompiler
+  - android malware
+  - android-apktool
+  - andromeda
+  - andrototal
+  - antimalware
+  - antivirus
+  - apk analyzer
+  - apkinspector
+  - apkscan
+  - asprox
+  - attacker TTPs
+  - attacker methods
+  - attacker tools
+  - autoit worm
+  - autorun virus
+  - autorun.inf malware
+  - avc undroid
+  - bancos
+  - banking malware
+  - banking trojan
+  - basic malware cleaning
+  - battle.net
+  - bill.lock
+  - bill.lod
+  - blackhole exploit kit
+  - blame game
+  - blog update
+  - blue team
+  - blue team puzzle
+  - blueteam
+  - botnet
+  - botnet wars
+  - brazil
+  - brazilian banking trojan
+  - brazilian ransomware
+  - browlock
+  - browlock ransomware
+  - c100
+  - c99
+  - c99shell
+  - calling from Windows
+  - caphaw
+  - change facebook color
+  - chrome extension
+  - chuingam
+  - click fraud
+  - click networks
+  - click-fraud
+  - click-jacking
+  - clickfraud
+  - clickjacking
+  - coin miner
+  - coinminer
+  - cold call
+  - cold calling
+  - computrace malware
+  - computrace virus
+  - conduit
+  - cosmicduke
+  - cosmu
+  - cracked hotmail
+  - credit card blocked
+  - cridex
+  - crimeware kit
+  - crossword
+  - crunchyroll hacked
+  - crunchyroll trojan
+  - crypter@cyberservices.com
+  - crypto
+  - crypto miner
+  - crypto ransomware
+  - cryptolocker
+  - cryptominer
+  - cryptoware
+  - cryptoware preventie
+  - cryptowire
+  - cs:go
+  - ctb-locker
+  - cybercrime
+  - cybercrime report form
+  - d3
+  - dailyyara
+  - dataviz
+  - dccwUACBypass
+  - ddos.xor
+  - delete computrace
+  - dex2jar
+  - diablo
+  - diablo III
+  - diablo phishing
+  - disable Intel AMT
+  - dorkbot
+  - doublepulsar
+  - dridex
+  - dyre
+  - dyreza
+  - elf malware
+  - encrypting ransomware
+  - encryption
+  - end of july
+  - eternalblue
+  - evrial
+  - exploit
+  - exploit kit
+  - exprez
+  - facebook
+  - facebook dislike button
+  - facebook event
+  - facebook scam
+  - facebook virus
+  - facebook.com
+  - facepalm
+  - fake divx plugin
+  - fakeAV
+  - fara
+  - fareit
+  - fast update
+  - fb.com
+  - first post
+  - flv media player
+  - foistware
+  - free RP generator
+  - free riot code scam
+  - free riot codes
+  - free riot points
+  - free riot points scam
+  - fun
+  - gamarue
+  - gates.lock
+  - gates.lod
+  - generic ransomware
+  - getmonero compromised
+  - getmonero hack
+  - gina lisa
+  - github
+  - google earth
+  - google image poisoning
+  - google images
+  - hacked hotmail
+  - hacked website
+  - hakin9
+  - hee thai
+  - help32xme@usa.com
+  - hopeless ransomware
+  - hotfile
+  - hotmail
+  - iCoreX
+  - illegal games
+  - incident handling
+  - infected website
+  - infostealer
+  - java
+  - java exploit
+  - javascript
+  - johnmen.24@aol.com
+  - kaspersky
+  - kimsuky
+  - kuluoz
+  - lame old malware
+  - linkedIN
+  - linux
+  - linux malware
+  - linux/xor.ddos
+  - logmein
+  - low detection
+  - macro
+  - malvertising
+  - malware
+  - malware analysis
+  - malware analysis lab
+  - malware cleaning
+  - malware lab
+  - malware puzzle
+  - malware tools
+  - medfos
+  - messenger
+  - meterpreter
+  - microsoft word
+  - mimikatz
+  - miniduke
+  - mso
+  - namequery
+  - nemucod
+  - nemucod ransomware
+  - neosploit exploit kit
+  - office
+  - office 365
+  - office 365 phishing
+  - office malware
+  - offline ransomware
+  - ole
+  - oledump
+  - oletools
+  - olevba
+  - paypal
+  - paypal spammail
+  - pcspeedplus
+  - phishing
+  - phone scam
+  - phone scammers
+  - phone scamming
+  - photo svg facebook
+  - php
+  - php backdoor
+  - php.net
+  - php.net compromise
+  - php.net hacked
+  - php/c99shell
+  - poker games
+  - poshcoder
+  - poshkoder
+  - posta certificata
+  - postacert
+  - potentially unwanted program
+  - power worm
+  - powershell
+  - powershell malware
+  - powershell ransomware
+  - pricegong
+  - purple team
+  - purpose of ransomware
+  - pushdo
+  - pworm
+  - r57 shell
+  - rabobank
+  - ransomware
+  - ransomware outbreak
+  - ransomware preventie
+  - ransomware prevention
+  - ransomware purpose
+  - ransomware. GlobeImposter
+  - 'ransomware: q&a'
+  - rapidshare
+  - rcpnetp.exe
+  - red team
+  - red teaming
+  - redkit exploit kit
+  - redline
+  - rem-vbsworm
+  - remove computrace
+  - remove vbs malware
+  - responsibility with malware infections
+  - reverse engineering
+  - reversing
+  - reveton
+  - rick and morty
+  - roguevertising
+  - rogueware
+  - rootkit
+  - rp generator
+  - rtf exploit
+  - sage
+  - sage 2.2
+  - sage ransom
+  - sagecrypt
+  - sambacry
+  - sandbox evasion
+  - sandboxes
+  - sandboxing
+  - sasfis
+  - satan_pro@mail.ru
+  - scam
+  - scareware
+  - search.namequery.com
+  - security
+  - security predictions
+  - security.nl
+  - signed spam
+  - skype
+  - skype diet offer
+  - skype scam
+  - skype worm
+  - social engineering
+  - spam
+  - spamattachment
+  - spear phishing
+  - spim
+  - sshpsychos
+  - st_v2
+  - steam
+  - steam desktop authenticator
+  - steam inventory
+  - steam item stolen
+  - steam items stolen
+  - steam malware
+  - steam phishing
+  - steam scr malware
+  - steam scr virus
+  - steam stealer
+  - steam virus
+  - steamstealer
+  - survey scam
+  - svg facebook
+  - svg file facebook virus
+  - svg virus
+  - systems32x@gmail.com
+  - systems32x@tutanota.com
+  - systems32x@yahoo.com
+  - targeted ransomware
+  - team cymru
+  - teamviewer
+  - tech support scam
+  - technoviking
+  - tepfer
+  - test
+  - threat actor
+  - threat intelligence
+  - tobfy
+  - torrents are bad
+  - tritax
+  - trojan
+  - twitter
+  - twitter account suspended
+  - twitter suspension
+  - uploadshell
+  - urausy
+  - vbs malware
+  - verizon spam
+  - video
+  - viettel
+  - vipasana ransomware
+  - vipasana4@aol.com
+  - virus
+  - vmware
+  - webshell
+  - website ransomware
+  - weight loss scam
+  - wellsfargo
+  - whitesmoke
+  - wibkilmskir4rlxz
+  - windows live
+  - wiper
+  - wlojul@secmail.pro
+  - word exploit
+  - worm
+  - wscript
+  - xor.ddos
+  - xorddos
+  - xwin
+  - yara
+  - yara rules
+  - yontoo
+  - youtube
+  - youtube comment spam
+  - youtube spam
+  - youtube top comments
+  - zeus
+  - zeus malware
+  relme:
+    https://bartblaze.blogspot.com/: true
+    https://www.blogger.com/profile/18326761248866196755: true
+  last_post_title: Microsoft Word and Sandboxes
+  last_post_description: Today's post is a brief one on some Microsoft Word and sandbox
+    detection / discovery / fun.Collect user name from Microsoft OfficeMost sandboxes
+    will trigger somehow or something if a tool or malware
+  last_post_date: "2024-08-14T17:35:00Z"
+  last_post_link: https://bartblaze.blogspot.com/2024/08/microsoft-word-and-sandboxes.html
+  last_post_categories:
+  - microsoft word
+  - sandbox evasion
+  - sandboxes
+  - sandboxing
+  last_post_language: ""
+  last_post_guid: 69f0ffe7aa0d54aea4480fd34c4570e2
+  score_criteria:
+    cats: 5
+    description: 3
+    feedlangs: 0
+    postcats: 3
+    promoted: 5
+    promotes: 0
+    relme: 2
+    title: 3
+    website: 2
+  score: 23
+  ispodcast: false
+  isnoarchive: false
+  innetwork: true
+  language: ""
+---

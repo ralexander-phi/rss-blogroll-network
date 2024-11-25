@@ -46,6 +46,8 @@ params:
   - https://email-is-good.com/feed/
   - https://jlelse.blog/.atom
   - https://jlelse.blog/.rss
+  - https://lorenblog.me/feed/
+  - https://lorenblog.me/feed/?type=rss
   - https://manuelmoreale.com/feed/instagram
   - https://rknight.me/subscribe/posts/atom.xml
   - https://rknight.me/subscribe/posts/rss.xml

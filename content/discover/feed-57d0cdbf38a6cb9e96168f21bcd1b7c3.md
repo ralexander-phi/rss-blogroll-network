@@ -35,8 +35,8 @@ params:
     https://derekkedziora.com/: true
     https://mstdn.social/@derekkedziora: true
   last_post_title: AIdolatry
-  last_post_description: 'Navneet Alangâ€™s No god in the machine: the pitfalls of
-    AI worship is the sort of long, meandering read that I enjoy.'
+  last_post_description: 'Navneet Alang’s No god in the machine: the pitfalls of AI
+    worship is the sort of long, meandering read that I enjoy.'
   last_post_date: "2024-08-15T14:35:00+02:00"
   last_post_link: https://derekkedziora.com/notes/2024-08-15-aidolatry
   last_post_categories:

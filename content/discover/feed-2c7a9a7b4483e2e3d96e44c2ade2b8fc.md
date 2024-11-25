@@ -13,6 +13,9 @@ params:
   - title: Planet Musings
     description: ""
     id: 60dad1127fe33ef684b95ffe5b6f1978
+  - title: Subscriptions - RSS
+    description: ""
+    id: 7d1048b956eae1cfe0bce8f68656857b
   recommended: []
   recommender: []
   categories:

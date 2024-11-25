@@ -30,14 +30,15 @@ params:
   - https://danq.uk/feed/
   categories: []
   relme: {}
-  last_post_title: Stealing cash using NFC relay – Week in Security with Tony Anscombe
-  last_post_description: The discovery of the NGate malware by ESET Research is another
-    example of how sophisticated Android threats have become
-  last_post_date: "2024-08-28T14:01:52Z"
-  last_post_link: https://www.welivesecurity.com/en/videos/stealing-cash-using-nfc-relay-week-in-security-with-tony-anscombe/
+  last_post_title: 'Kathryn Thornton: Correcting Hubble''s vision | Starmus Highlights'
+  last_post_description: The veteran of four space missions discusses challenges faced
+    by the Hubble Space Telescope and how human ingenuity and teamwork made Hubble’s
+    success possible
+  last_post_date: "2024-11-20T10:00:00Z"
+  last_post_link: https://www.welivesecurity.com/en/we-live-science/kathryn-thornton-correcting-hubbles-vision-starmus-highlights/
   last_post_categories: []
   last_post_language: ""
-  last_post_guid: 072fa79f9be1e404f2d475a76edd4abb
+  last_post_guid: 5d28ed0c12dd4649ad642a46d468ef4d
   score_criteria:
     cats: 0
     description: 3

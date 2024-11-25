@@ -13,6 +13,9 @@ params:
   - title: Planet Debian
     description: ""
     id: 4b58bf166d81bd8f38b7c8dca18c6834
+  - title: Subscriptions - RSS
+    description: ""
+    id: 7d1048b956eae1cfe0bce8f68656857b
   recommended: []
   recommender: []
   categories:

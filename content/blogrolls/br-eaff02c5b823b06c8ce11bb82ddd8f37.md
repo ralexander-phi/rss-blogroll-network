@@ -62,6 +62,9 @@ params:
   - title: Raúl Hernández González | @rahego
     description: Ideas y reflexiones para una vida más sencilla, equilibrada y significativa
     id: cc85c57f2afd92899c655335cb9ae5af
+  - title: Cal Newport
+    description: Computer Scientist & Bestselling Author
+    id: cd20f0fec4cbe87d737ee49003b704f1
   - title: Rhoneisms
     description: by Patrick Rhone
     id: ed691f489cc8ec8184eed839a11f8009

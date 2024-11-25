@@ -54,6 +54,7 @@ params:
   - https://david.shanske.com/comments/feed/
   - https://david.shanske.com/feed/
   - https://jlelse.blog/.atom
+  - https://kandr3s.co/.atom
   - https://lifeofpablo.com/podcast/page:podcast.xml
   - https://localghost.dev/articles.xml
   - https://localghost.dev/books.xml

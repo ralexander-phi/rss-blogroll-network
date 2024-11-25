@@ -137,6 +137,7 @@ params:
   - https://thehistoryoftheweb.com/comments/feed/
   - https://tomcritchlow.com/feed.xml
   - https://tracydurnell.com/comments/feed/
+  - https://weblog.anniegreens.lol/atom.xml
   - https://granary.io/url?hub=https%3A//bridgy-fed.superfeedr.com/&input=html&output=atom&url=https%3A//werd.io/content/all/
   - https://werd.io/content/all?_t=rss
   - https://werd.io/content/bookmarkedpages?_t=rss
