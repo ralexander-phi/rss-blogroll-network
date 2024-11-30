@@ -18,10 +18,7 @@ params:
   categories:
   - réseau
   relme:
-    https://mamot.fr/@p4bl0: true
     https://p4bl0.net/: true
-    https://pablo.plus/: true
-    https://pablockchain.fr/: true
   last_post_title: Telegram n'est pas une messagerie sécurisée
   last_post_description: Depuis l'arrestation du PDG de Telegram ce samedi 24 août,
     les médias qui en parlent qualifient systématiquement Telegram de “messagerie

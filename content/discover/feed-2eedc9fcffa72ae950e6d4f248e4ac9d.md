@@ -54,9 +54,7 @@ params:
   - wasm
   - web
   relme:
-    https://polityblog.blogspot.com/: true
     https://qtandeverything.blogspot.com/: true
-    https://www.blogger.com/profile/08211459741197454860: true
   last_post_title: 'Qt6 Webassembly: QtMultimedia or, How to play a video in a web
     browser using Qt'
   last_post_description: ""

@@ -8,7 +8,6 @@ params:
   feedid: 9cab0cc2d97ef032dca0125efb49c93f
   websites:
     https://bglug.it/: true
-    https://www.bglug.it/: false
   blogrolls: []
   in_blogrolls:
   - title: ""

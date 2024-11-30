@@ -65,12 +65,13 @@ params:
   - https://www.softlandings.world/feed.rss
   - https://www.zylstra.org/blog/category/metablogging/feed/
   - https://yiming.dev/rss.xml
-  - https://alexandrawolfe.ca/feed/?type=rss
   - https://dominikhofer.me/newsletter.xml
   - https://iwebthings.joejenett.com/feed.xml
   - https://iwebthings.joejenett.com/iwd.atom
   - https://jamesg.blog/feeds/posts.xml
   - https://manuelmoreale.com/feed/instagram
+  - https://michal.sapka.me/bsd/rss.xml
+  - https://michal.sapka.me/emacs/rss.xml
   - https://mxb.dev/feed.xml
   - https://notes.ashsmash.com/rss.xml
   - https://rachsmith.com/rss/

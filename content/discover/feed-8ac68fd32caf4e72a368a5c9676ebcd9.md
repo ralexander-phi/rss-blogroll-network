@@ -8,7 +8,6 @@ params:
   feedid: 8ac68fd32caf4e72a368a5c9676ebcd9
   websites:
     https://www.agwa.name/blog: true
-    https://www.agwa.name/blog/: false
   blogrolls: []
   in_blogrolls:
   - title: Subscriptions - RSS

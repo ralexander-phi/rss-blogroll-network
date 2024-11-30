@@ -112,7 +112,6 @@ params:
   - wine
   relme:
     https://alp-notes.blogspot.com/: true
-    https://www.blogger.com/profile/05703436685982405026: true
   last_post_title: Creating a simple foreign data wrapper for PostgreSQL
   last_post_description: ""
   last_post_date: "2023-01-06T02:52:00-08:00"

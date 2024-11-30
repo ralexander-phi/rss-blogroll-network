@@ -8,7 +8,6 @@ params:
   feedid: 3fcb8c402cc0876d20ecd3c0aacc7c73
   websites:
     https://blog.mozilla.org/warner: true
-    https://blog.mozilla.org/warner/: false
   blogrolls: []
   in_blogrolls:
   - title: Subscriptions - RSS

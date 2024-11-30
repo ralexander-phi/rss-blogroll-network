@@ -7,7 +7,7 @@ params:
   feedtype: rss
   feedid: d86d6f961ca502bdb3e5eb86edf88ee7
   websites:
-    https://www.security.com/: false
+    https://symantec-blogs.broadcom.com/blogs/: true
   blogrolls: []
   in_blogrolls:
   - title: Subscriptions-iCloud.opml
@@ -35,8 +35,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 1
-  score: 13
+    website: 2
+  score: 14
   ispodcast: false
   isnoarchive: false
   innetwork: true

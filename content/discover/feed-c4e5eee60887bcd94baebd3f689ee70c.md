@@ -29,7 +29,6 @@ params:
   - wikipedia
   relme:
     https://cateee.blogspot.com/: true
-    https://www.blogger.com/profile/15700217782948121553: true
   last_post_title: 'Re: "C and multithreading"'
   last_post_description: ""
   last_post_date: "2007-11-09T12:29:08+01:00"

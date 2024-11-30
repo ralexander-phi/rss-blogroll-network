@@ -7,7 +7,7 @@ params:
   feedtype: rss
   feedid: 62e1a2131af3b43e0de98bef8def30dc
   websites:
-    https://nicrosoft.net/blog/: false
+    https://nicrosoft.net/blog: true
   blogrolls: []
   in_blogrolls:
   - title: 中文独立博客列表
@@ -35,8 +35,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 1
-  score: 14
+    website: 2
+  score: 15
   ispodcast: false
   isnoarchive: false
   innetwork: true

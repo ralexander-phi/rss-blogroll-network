@@ -54,7 +54,6 @@ params:
   - v9os
   relme:
     https://alexeremin.blogspot.com/: true
-    https://www.blogger.com/profile/04819890114311693093: true
   last_post_title: How to determine PXE mac address when booting illumos via PXELinux/iPXE
   last_post_description: ""
   last_post_date: "2020-08-02T07:31:47-07:00"

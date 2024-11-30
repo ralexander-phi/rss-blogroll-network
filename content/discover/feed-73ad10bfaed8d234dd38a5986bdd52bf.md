@@ -18,7 +18,6 @@ params:
   categories: []
   relme:
     https://borassisagemath.blogspot.com/: true
-    https://www.blogger.com/profile/18314533837023556703: true
   last_post_title: Conclusion of the Main Part of the Project
   last_post_description: ""
   last_post_date: "2015-08-16T06:59:35-07:00"

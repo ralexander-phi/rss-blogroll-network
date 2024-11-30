@@ -28,7 +28,6 @@ params:
   - https://johnjohnston.info/blog/comments/feed/
   - https://johnjohnston.info/blog/feed/
   - https://roytang.net/all/feed/rss
-  - https://roytang.net/blog/feed/rss
   - https://roytang.net/index.xml
   categories: []
   relme:

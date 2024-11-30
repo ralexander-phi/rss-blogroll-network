@@ -20,13 +20,7 @@ params:
   categories:
   - Technology
   relme:
-    https://fosstodon.org/@mkennedy: true
-    https://fosstodon.org/@talkpython: true
-    https://github.com/mikeckennedy: true
-    https://mkennedy.codes/: true
-    https://mkennedy.codes/search: true
     https://talkpython.fm/: true
-    https://training.talkpython.fm/: true
   last_post_title: '#475: Python Language Summit 2024'
   last_post_description: |-
     Seth on Mastodon: @sethmlarson@fosstodon.org

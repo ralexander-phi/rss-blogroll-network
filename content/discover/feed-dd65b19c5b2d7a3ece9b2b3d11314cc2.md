@@ -13,18 +13,12 @@ params:
   - title: Miniflux
     description: ""
     id: fda84502db7085febafcd07db448a7b5
-  - title: Take on Rules Public Blogroll
-    description: ""
-    id: 661f7c3d693616149785e81936cf96e2
   - title: webring.opml
     description: ""
     id: 277e7be4ba23abbd3a52a19ec654fb63
   recommended: []
   recommender:
   - https://hacdias.com/feed.xml
-  - https://takeonrules.com/index.xml
-  - https://takeonrules.com/site-map/updates/index.xml
-  - https://takeonrules.com/tags/emacs/index.xml
   categories: []
   relme: {}
   last_post_title: Moving Across the Ocean

@@ -7,7 +7,7 @@ params:
   feedtype: rss
   feedid: c5a782bfe599d4bba0bace57cf1bb2ea
   websites:
-    https://www.hexacorn.com/blog/: false
+    https://www.hexacorn.com/blog: true
   blogrolls: []
   in_blogrolls:
   - title: Subscriptions-iCloud.opml
@@ -39,8 +39,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 1
-  score: 15
+    website: 2
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true

@@ -24,7 +24,6 @@ params:
   - zfs
   relme:
     https://kebesays.blogspot.com/: true
-    https://www.blogger.com/profile/02293330539766533891: true
   last_post_title: Goodbye blogspot
   last_post_description: ""
   last_post_date: "2020-08-21T13:43:58-04:00"

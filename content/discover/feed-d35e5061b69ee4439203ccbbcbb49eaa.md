@@ -7,8 +7,8 @@ params:
   feedtype: rss
   feedid: d35e5061b69ee4439203ccbbcbb49eaa
   websites:
-    https://detect.fyi/?gi=5edbdc8dd0b2&source=rss----d5fd8f494f6a---4: false
-    https://detect.fyi/?gi=ce5840881b8a&source=rss----d5fd8f494f6a---4%2F: false
+    https://detect.fyi/?source=rss----d5fd8f494f6a---4: true
+    https://detect.fyi/?source=rss----d5fd8f494f6a---4/: false
   blogrolls: []
   in_blogrolls:
   - title: Subscriptions-iCloud.opml
@@ -42,8 +42,8 @@ params:
     promotes: 0
     relme: 0
     title: 3
-    website: 1
-  score: 15
+    website: 2
+  score: 16
   ispodcast: false
   isnoarchive: false
   innetwork: true
