@@ -10,6 +10,7 @@ params:
     https://weblog.anniegreens.lol/: true
     https://weblog.anniegreens.lol/2023/06/a-styleguide-if-you-can-keep-it: false
     https://weblog.anniegreens.lol/2023/07/on-micro-blog-and-how-i-want-to-use-it: false
+    https://weblog.anniegreens.lol/2023/09/works-in-progress: false
     https://weblog.anniegreens.lol/2023/11/my-switchboard: false
     https://weblog.anniegreens.lol/2023/12/an-organized-head: false
     https://weblog.anniegreens.lol/2024/03/creating-3x5-pics: false
@@ -100,6 +101,7 @@ params:
     https://weblog.anniegreens.lol/: true
     https://weblog.anniegreens.lol/2023/06/a-styleguide-if-you-can-keep-it: true
     https://weblog.anniegreens.lol/2023/07/on-micro-blog-and-how-i-want-to-use-it: true
+    https://weblog.anniegreens.lol/2023/09/works-in-progress: true
     https://weblog.anniegreens.lol/2023/11/my-switchboard: true
     https://weblog.anniegreens.lol/2023/12/an-organized-head: true
     https://weblog.anniegreens.lol/2024/03/creating-3x5-pics: true

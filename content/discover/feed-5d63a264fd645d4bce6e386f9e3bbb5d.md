@@ -65,6 +65,7 @@ params:
   - https://www.softlandings.world/feed.rss
   - https://www.zylstra.org/blog/category/metablogging/feed/
   - https://yiming.dev/rss.xml
+  - https://alexandrawolfe.ca/feed/?type=rss
   - https://dominikhofer.me/newsletter.xml
   - https://iwebthings.joejenett.com/feed.xml
   - https://iwebthings.joejenett.com/iwd.atom
@@ -76,6 +77,7 @@ params:
   - https://notes.ashsmash.com/rss.xml
   - https://rachsmith.com/rss/
   - https://rebeccatoh.co/comments/feed/
+  - https://wand3r.net/feed/?type=rss
   - https://winnielim.org/feed/?cat=2%2C4%2C8
   - https://www.zylstra.org/blog/comments/feed/
   - https://www.zylstra.org/blog/feed/
